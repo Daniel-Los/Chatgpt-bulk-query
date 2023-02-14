@@ -24,7 +24,7 @@ import pdf2image
 class text_miner():
     def __init__(self):
 
-        self.key = "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"
+        self.key =
         openai.api_key = self.key
 
         self.root = r"C:\Users\d.los\OneDrive - Berenschot\Documenten\testdocs"
