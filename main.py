@@ -1,11 +1,14 @@
 import os
 
+from chatgpt_interaction import OpenAIGPT as interact
+
 from tika import parser  # for reading pdf
 import docx
 import openai
 import time
 import logging
 import json
+import re
 # Use your own API key
 
 from tkinter import *
@@ -24,11 +27,16 @@ import pdf2image
 class text_miner():
     def __init__(self):
 
-        self.key =
+        apikey_location = r"C:\Users\d.los\OneDrive - Berenschot\Bureaublad\chatgpt openai key.txt"
+        with open(apikey_location) as f:
+            self.key = f.readline()
         openai.api_key = self.key
 
-        self.root = r"C:\Users\d.los\OneDrive - Berenschot\Documenten\testdocs"
+        # self.root = r"C:\Users\d.los\OneDrive - Berenschot\Documenten\testdocs"
+        self.root = r"C:\Users\d.los\OneDrive - Berenschot\Bureaublad\test ai"
+
         # the base of the folder that you want to siff through
+
         self.supported_languages = pytesseract.get_languages()
         self.target_language = 'nld'
         self.langs = {'nld': 'dutch', 'eng': 'english'}
@@ -46,7 +54,7 @@ class text_miner():
         self.file_name = str("Output " + str(time.strftime("%m %d %H%M%S ")) + ".json")
 
         self.process_speed = 50  # docs per minute
-        self.max_query_length = 4000
+        self.max_query_length = 3000
 
         self.summaries = {}
         self.estimated_tokencount = False
@@ -112,7 +120,7 @@ class text_miner():
                 fullText.append(para.text)
             return '\n'.join(fullText)
 
-                                                  # TODO: instead of character split, tokenize the words and feed that.
+            # TODO: instead of character split, tokenize the words and feed that.
         # def tokenize(text):
         #     list(tokenize(text))
         #       pass
@@ -189,9 +197,20 @@ class text_miner():
         self.estimated_tokencount = tokencount
 
     # Functions and Objects
+    def agree(self):
+        if self.estimated_tokencount:
+            print(f"do you agree with the estimated costs of: {self.estim_costs}")
+            userinput = input("yes or no")
+            if userinput.lower() == "yes":
+                print("Input was yes, continuing the process")
+                self.accord = True
+            else:
+                print("Input was not yes \n Terminating process...")
+        else:
+            print("No cost estimate has been done, please run self.estimate_costs()")
     def num_tokens(self, prompt):
+        ''' I copied a solution presented on the openai forum to calculate tokens '''
         done = True
-        # I copied a solution presented on the openai forum to calculate tokens
         while True:
             url = "https://zero-workspace-server.uc.r.appspot.com/tokenizer"
 
@@ -244,106 +263,12 @@ class text_miner():
                 return count
 
 
-    def split_text(self):
-        for name, text in self.stringdict.items():
-            # sets the name for the dict
-            self.summaries.setdefault(name, [])
-
-            # split the text into queries for max 4000 characters:
-            n = self.max_query_length
-                                                                # TODO: split the text at the end of the sentence only
-            # save the split text on the name of the document
-            # the list for the document is several list entries of < 4000 characters
-            self.splittext = {name: [text[0][i:i + n] for i in range(0, len(text[0]), n)]}
-
-            summary = []
-
-    def agree(self):
-        if self.estimated_tokencount:
-            print(f"do you agree with the estimated costs of: {self.estim_costs}")
-            userinput = input("yes or no")
-            if userinput.lower() == "yes":
-                print("Input was yes, continuing the process")
-                self.accord = True
-            else:
-                print("Input was not yes \n Terminating process...")
-        else:
-            print("No cost estimate has been done, please run self.estimate_costs()")
-
-
-
-
     def AI_interact(self):
-        # The document you want to summarize
-        # The prompt for the summary
-        # prompt = input('tell me what to do: ')\
-        self.split_text()
+        for docname, text in self.stringdict.items():
+            docname
+            prompt = self.mode + text
+            interact.generate_text_with_prompt()
 
-        self.summaries = {}
-        doccount = 0
-        for docname, text in self.splittext.items():
-            doccount += 1
-            querycount = 0
-            for query in text:
-                starttime = time.time()
-
-                self.prompt = (f"{self.mode} deze tekst in het {self.langs[self.target_language]}: {query}")
-
-                # Generate a summary
-
-                done = False
-                # this whileloop forces a way in every 10 seconds if the computation fails
-                summary = []
-                while done == False:
-                    try:
-                        #TODO: uncomment this if you wnat to interact with chatGPT
-
-                        # See: https://beta.openai.com/docs/models/gpt-3
-                        # self.output = openai.Completion.create(engine="text-davinci-003", prompt=self.prompt,
-                        #                                        temperature=0.4, max_tokens=100, )
-                        # self.output = openai.Completion.create(engine="text-embedding-ada-002", prompt=self.prompt,
-                        #                                        temperature=0.4, max_tokens=100, )
-                        # summary.append(self.output.choices[0].text)
-
-                        # Right now this is a dummy to because I ran out of money on my api key
-                        self.output = query
-                        summary.append(query)
-
-                        querycount += 1  # len(completions)
-                        print(querycount, '/', len(text), 'docs:', doccount, '/', len(self.splittext))
-                        # text = self.scrubstring(self.output.choices[0].text)
-
-                        # this thing limits the amount of requests that this programme makes, there is a max of 60/min
-                        endtime = time.time()
-                        if endtime - starttime < 1:
-                            time.sleep(endtime - starttime + 1)
-                        if querycount > 20:
-                            sec = 10
-                            print(f"sleeping {sec} seconds...")
-                            time.sleep(sec)
-                            querycount = 0
-                        done = True
-                        # Print the summary
-                    except:
-                        # In case a server error is thrown because the requests are too fast this sections slows the
-                        # requests that are asked by the server by an amount of seconds
-                        logging.exception("An exception was thrown!")
-                        sec = 10
-                        print(f"waiting {sec} seconds...")
-                        time.sleep(sec)
-
-                    # flatten the list
-                    summarytext = str()
-                    for item in summary:
-                        summarytext += item
-
-                    # add the doc name to the dict
-                    self.summaries.setdefault(docname, [])
-                    # add the list to the summary dictionary
-                    self.summaries[docname].append(summarytext)
-
-            # alert the user
-            print("Doc: ", docname, " is ready")
 
     def write_to_file(self): # TODO: for some reason this is not consistent
         ''' This writes the queries that were done by openai to a document '''
