@@ -10,70 +10,74 @@ class OpenAIGPT:
             self.key = f.readline()
         openai.api_key = self.key
 
+        self.max_tokens = 2000
         # Initialize variables to track rate limiting
         self.last_call_time = None
         self.min_time_between_calls = 1.0 / 59  # 59 requests per minute
+        self.output = str()
 
-    def generate_text_with_prompt(self, prompt, max_tokens, mode, n):
+    def generate_text_with_prompt(self, prompt, mode):
         """ Generate text with a prompt and split into tokens of max length n. """
+
         # Ensure that max_tokens is not greater than 2000
-        if len(prompt) < max_tokens:
+        if len(prompt) > self.max_tokens:
+            prompt_list = self.tokenize(prompt)
+        else:
+            prompt_list = [prompt]
 
-        #Calculate the time elapsed since the last API call
+        # Calculate the time elapsed since the last API call
         current_time = time.monotonic()
-        time_since_last_call = current_time - self.last_call_time if self.last_call_time is not None else self.min_time_between_calls
-
-        # Wait for the appropriate amount of time to ensure that we don't exceed the rate limit
-        if time_since_last_call < self.min_time_between_calls:
-            time.sleep(self.min_time_between_calls - time_since_last_call)
-
-        # Generate text with the OpenAI API
-        response = openai.Completion.create(
-            engine="davinci",
-            prompt=prompt,
-            max_tokens=max_tokens,
-            n=1,
-            stop=None,
-            temperature=0.5,
-        )
-
-        # Update the last API call time
-        self.last_call_time = time.monotonic()
-
-        # Get the generated text from the OpenAI API response
-        generated_text = response.choices[0].text
-
-        # Split the generated text into tokens of max length n
-        tokens = self.tokenize(generated_text, n)
-
-        # Print the progress counter
-        progress = f"{len(tokens)}/{response.total_generated_tokens // n}"
-        print(f"Processed {progress} pieces of text.")
-
-        return tokens
-
-    def tokenize(self, text, n):
-        """Split text into tokens of max length n."""
-        tokens = []
-        words = text.split()
-        current_token = words[0]
-        for word in words[1:]:
-            if len(current_token) + len(word) + 1 <= n:
-                current_token += " " + word
+        progress = 0
+        query = 0
+        generated_text = str()
+        for chunck in prompt_list:
+            if not query:
+                query = mode + chunck
             else:
-                tokens.append(current_token)
-                current_token = word
+                mode + "en vul aan" + generated_text
 
-        tokens.append(current_token)
-        return tokens
+            # Generate text with the OpenAI API
+            response = openai.Completion.create(
+                engine="davinci",
+                prompt=query,
+                max_tokens=self.max_tokens,
+                n=1,
+                stop=None,
+                temperature=0.2,
+            )
 
+            # Update the last API call time
+            self.last_call_time = time.monotonic()
 
-        # Initialize variables to track rate limiting
-        self.last_call_time = None
-        self.min_time_between_calls = 1.0 / 59  # 59 requests per minute
+            # Get the generated text from the OpenAI API response
+            generated_text += response.choices[0].text
+
+            # Split the generated text into tokens of max length n
+            tokens = self.tokenize(generated_text)
+
+            # Print the progress counter
+            progress += 1
+            print(f"Processed {progress} pieces of text out of {len(prompt_list)}")
+
+            # This section times that calls, so we don't exceed 60 calls per minute
+
+            time.sleep(self.min_time_between_calls)
+
+        self.output += generated_text
+        return generated_text
+
+    def tokenize(self, string):
+        """Split string into list of strings where each string has max length of n tokens."""
+        n = self.max_tokens
+        tokens = string.split()
+        num_tokens = len(tokens)
+        num_chunks = (num_tokens + n - 1) // n
+        chunks = [tokens[i * n:(i + 1) * n] for i in range(num_chunks)]
+        return [' '.join(chunk) for chunk in chunks]
 
 if __name__ == "__main__":
-    pass
+    # pass
     # x = OpenAIGPT()
-
-    # x.generate_text_with_prompt(f'summarize: {text}')
+    text = 'blub'
+    x.generate_text_with_prompt(text, mode = 'repeat this word 1 time after: ')
+    print()

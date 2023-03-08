@@ -1,6 +1,6 @@
 import os
 
-from chatgpt_interaction import OpenAIGPT as interact
+from chatgpt_interaction import OpenAIGPT
 
 from tika import parser  # for reading pdf
 import docx
@@ -41,7 +41,8 @@ class text_miner():
         self.target_language = 'nld'
         self.langs = {'nld': 'dutch', 'eng': 'english'}
         self.prompt = str()
-        self.mode = 'maak een samenvatting'                      # TODO: specify modes that this thing can operate with
+        self.mode = 'Vat dit samen voor management consultants: '
+        # TODO: specify modes that this thing can operate with
 
         # the list of documents for every file in the root
         self.doclist = {}
@@ -50,13 +51,14 @@ class text_miner():
         # list of all strings in all docments per dict.
         self.stringdict = {}
 
+
         # make an unique filename
         self.file_name = str("Output " + str(time.strftime("%m %d %H%M%S ")) + ".json")
 
         self.process_speed = 50  # docs per minute
         self.max_query_length = 3000
 
-        self.summaries = {}
+        self.output = {}
         self.estimated_tokencount = False
         self.estim_costs = {'davinci': False, 'ada': False }
         self.accord = False
@@ -264,16 +266,21 @@ class text_miner():
 
 
     def AI_interact(self):
+        x = OpenAIGPT
         for docname, text in self.stringdict.items():
-            docname
-            prompt = self.mode + text
-            interact.generate_text_with_prompt()
+            # generate_text_with_prompt splits the prompt into multiple sections if too long
+            # then it gets new data from the chatGPT
+
+            output = x.generate_text_with_prompt(self=x, prompt=text, mode=self.mode)
+
+            self.outputdict.setdefault(docname, [])
+            self.output[docname] = output
 
 
     def write_to_file(self): # TODO: for some reason this is not consistent
         ''' This writes the queries that were done by openai to a document '''
 
-        exDict = {'exDict': self.summaries}
+        exDict = {'exDict': self.output}
 
         with open(self.file_name, 'w') as file:
             file.write(json.dumps(exDict))  # use `json.loads` to do the reverse
@@ -291,11 +298,16 @@ if __name__ == "__main__":
     print(x.doclist.keys())
     x.read_files()
     x.estimate_costs()
-    x.agree()
-    if x.accord == True:
-        x.AI_interact()
-        print(x.summaries)
-        x.write_to_file()
+
+    x.AI_interact()
+    print(x.summaries)
+    x.write_to_file()
+
+    # x.agree()
+    # if x.accord == True:
+    #     x.AI_interact()
+    #     print(x.summaries)
+    #     x.write_to_file()
 
 
     print('done')
