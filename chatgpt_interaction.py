@@ -9,21 +9,22 @@ class OpenAIGPT:
         with open(apikey_location) as f:
             self.key = f.readline()
         openai.api_key = self.key
+        self.chunklist = []
 
-        self.max_tokens = 2000
+
         # Initialize variables to track rate limiting
         self.last_call_time = None
         self.min_time_between_calls = 1.0 / 59  # 59 requests per minute
         self.output = str()
 
+        self.tokens = 2000
+
     def generate_text_with_prompt(self, prompt, mode):
         """ Generate text with a prompt and split into tokens of max length n. """
 
         # Ensure that max_tokens is not greater than 2000
-        if len(prompt) > self.max_tokens:
-            prompt_list = self.tokenize(prompt)
-        else:
-            prompt_list = [prompt]
+
+        prompt_list = self.AI.tokenize(self = self.AI, string = prompt)
 
         # Calculate the time elapsed since the last API call
         current_time = time.monotonic()
@@ -34,13 +35,14 @@ class OpenAIGPT:
             if not query:
                 query = mode + chunck
             else:
-                mode + "en vul aan" + generated_text
+                query = mode + "en vul aan" + generated_text
 
+            print(query)
             # Generate text with the OpenAI API
             response = openai.Completion.create(
                 engine="davinci",
                 prompt=query,
-                max_tokens=self.max_tokens,
+                max_tokens=self.AI.tokens,
                 n=1,
                 stop=None,
                 temperature=0.2,
@@ -53,7 +55,7 @@ class OpenAIGPT:
             generated_text += response.choices[0].text
 
             # Split the generated text into tokens of max length n
-            tokens = self.tokenize(generated_text)
+            tokens = self.AI.tokenize(generated_text)
 
             # Print the progress counter
             progress += 1
@@ -61,18 +63,20 @@ class OpenAIGPT:
 
             # This section times that calls, so we don't exceed 60 calls per minute
 
-            time.sleep(self.min_time_between_calls)
+            time.sleep(self.AI.min_time_between_calls)
 
-        self.output += generated_text
+        self.AI.output += generated_text
         return generated_text
 
     def tokenize(self, string):
         """Split string into list of strings where each string has max length of n tokens."""
-        n = self.max_tokens
+        n = 30
+        string = string[0]
         tokens = string.split()
         num_tokens = len(tokens)
         num_chunks = (num_tokens + n - 1) // n
         chunks = [tokens[i * n:(i + 1) * n] for i in range(num_chunks)]
+        self.chunklist = [' '.join(chunk) for chunk in chunks]
         return [' '.join(chunk) for chunk in chunks]
 
 if __name__ == "__main__":

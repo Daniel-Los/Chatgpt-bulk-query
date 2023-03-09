@@ -56,12 +56,14 @@ class text_miner():
         self.file_name = str("Output " + str(time.strftime("%m %d %H%M%S ")) + ".json")
 
         self.process_speed = 50  # docs per minute
-        self.max_query_length = 3000
+        self.max_query_length = 1000
 
         self.output = {}
         self.estimated_tokencount = False
         self.estim_costs = {'davinci': False, 'ada': False }
         self.accord = False
+        self.AI = OpenAIGPT
+        self.AI.__init__(self.AI)
 
     def get_languages(self, **kwargs):
         # this function checks if the target language is possible to work with.
@@ -266,12 +268,12 @@ class text_miner():
 
 
     def AI_interact(self):
-        x = OpenAIGPT
+        # x = OpenAIGPT
         for docname, text in self.stringdict.items():
             # generate_text_with_prompt splits the prompt into multiple sections if too long
             # then it gets new data from the chatGPT
 
-            output = x.generate_text_with_prompt(self=x, prompt=text, mode=self.mode)
+            output = self.AI.generate_text_with_prompt(self=x, prompt=text, mode=self.mode)
 
             self.outputdict.setdefault(docname, [])
             self.output[docname] = output
