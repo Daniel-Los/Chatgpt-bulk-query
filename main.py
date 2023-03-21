@@ -10,8 +10,8 @@ if __name__ == "__main__":
     x.estimate_costs()
 
     # x.AI_interact()
-    print(x.summaries)
-    x.write_to_file()
+    # print(x.summaries)
+    # x.write_to_file()
 
     # x.agree()
     # if x.accord == True:

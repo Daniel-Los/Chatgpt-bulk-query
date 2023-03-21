@@ -61,7 +61,7 @@ class Text_Miner():
 
         self.output = {}
         self.estimated_tokencount = False
-        self.estim_costs = {'davinci': False, 'ada': False }
+        self.estim_costs = {'davinci': False, 'ada': False, 'GPT4-8k' : False} # values are false for now, updated later
         self.accord = False
         self.AI = OpenAIGPT
         self.AI.__init__(self.AI)
@@ -171,6 +171,12 @@ class Text_Miner():
             # print(self.stringdict)
 
     def estimate_costs(self):
+        '''
+        This function creates an estimate of the costs by examining the text loaded in.
+        It counts the amount of text by breaking it up into chuncks of length 1000 tokens (self.max_query_length)
+        Then it multiplies this length with the costs per 1000 tokens as of 02-2023
+        TODO: limitation is that gpt4 has different costs for the 32.000 token model and 8.000 token model
+        '''
         length = 0
         for key, value in self.stringdict.items():
             length += len(value)
@@ -182,22 +188,24 @@ class Text_Miner():
         print(f'Iterations needed: {length}')
         # print(f'Estimated time needed for free version is {seconds}')
 
-        prompt_inspect = ""
+        prompt_to_inspect = str()
         tokencount = 0
         doccount = 0
         for string in self.stringdict.values():
             # print(string[0])
-            prompt_inspect = string[0]
+            prompt_to_inspect = string[0]
             doccount +=1
             print(doccount)
-            tokencount += len(NLTK_Tokenizer(prompt_inspect, self.max_query_length))
+            tokencount += len(NLTK_Tokenizer(prompt_to_inspect, 1000))
 
         # update the user on costs
-        print(f"\nThe number of tokens is {tokencount}")
+        print(f"\nThe amount of chuncks are {tokencount}")
         print(f'Associated costs are:')
+        self.estim_costs['GPT4-8k'] = round(tokencount * 0.06, 2)
+        print(f'GPT4-8K = {self.estim_costs["GPT4-8k"]} EUR')
         self.estim_costs['davinci'] = round(tokencount * 0.02,2)
         print(f'davinci = {self.estim_costs["davinci"]} EUR')
-        self.estim_costs['adacosts'] = round(tokencount * 0.0004, 2)
+        self.estim_costs['ada'] = round(tokencount * 0.0004, 2)
         print(f'ada = {self.estim_costs["ada"]} EUR')
         self.estimated_tokencount = tokencount
 
@@ -214,7 +222,11 @@ class Text_Miner():
         else:
             print("No cost estimate has been done, please run self.estimate_costs()")
     def num_tokens(self, prompt):
-        ''' I copied a solution presented on the openai forum to calculate tokens '''
+        '''
+        OBSOLETE (THANK GOD)
+        I copied a solution presented on the openai forum to calculate tokens
+        This piece has been replaced by NLTK_Tokenizer and is obsolete
+        '''
         done = True
         while True:
             url = "https://zero-workspace-server.uc.r.appspot.com/tokenizer"
@@ -269,12 +281,15 @@ class Text_Miner():
 
 
     def AI_interact(self):
-        x = OpenAIGPT
+        '''
+        This section actually loads the text into openai
+        :return:
+        '''
         for docname, text in self.stringdict.items():
             # generate_text_with_prompt splits the prompt into multiple sections if too long
             # then it gets new data from the chatGPT
 
-            output = self.AI.generate_text_with_prompt(self=x, prompt=text, mode=self.mode)
+            output = self.AI.generate_text_with_prompt(self=OpenAIGPT, prompt=text, mode=self.mode)
 
             self.outputdict.setdefault(docname, [])
             self.output[docname] = output
