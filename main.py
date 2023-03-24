@@ -9,8 +9,8 @@ if __name__ == "__main__":
     x.read_files()
     x.estimate_costs()
 
-    # x.AI_interact()
-    # print(x.summaries)
+    x.AI_interact()
+    print(x.summaries)
     # x.write_to_file()
 
     # x.agree()

@@ -1,6 +1,6 @@
 import os
 
-from chatgpt_interaction import OpenAIGPT
+from OpenAIGPT import OpenAIGPT
 from NLTK_tokenizer import NLTK_Tokenizer
 
 from tika import parser  # for reading pdf
