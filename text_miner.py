@@ -257,14 +257,15 @@ class Text_Miner():
 
         # Create a dataframe from the list of lists with column names
         self.df = pd.DataFrame(rows, columns=['Document Name', 'Element'])
-
+        name = input('Verzin een naam voor de data: ')
+        self.df.to_excel(name+'.xlsx')
         # View the dataframe
-        print(df)
+        # print(df)
 
-        exDict = {'exDict': self.outputdict}
-
-        with open(self.file_name, 'w') as file:
-            file.write(json.dumps(exDict))  # use `json.loads` to do the reverse
+        # exDict = {'exDict': self.outputdict}
+        #
+        # with open(self.file_name, 'w') as file:
+        #     file.write(json.dumps(exDict))  # use `json.loads` to do the reverse
 
     def open_file(self):
         ''' Open Json files '''
