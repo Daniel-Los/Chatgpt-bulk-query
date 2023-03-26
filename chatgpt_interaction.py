@@ -39,8 +39,10 @@ class OpenAIGPT:
             print('chunck = ', type(chunck))
             if not query:
                 query = str(mode +'"' +  chunck + '."')
+            # else:
+            #     query = str(mode + "en vul deze tekst aan :" + generated_text + '. ' + chunck + '.')
             else:
-                query = str(mode + "en vul deze tekst aan :" + generated_text + '. ' + chunck + '.')
+                query = str(mode +'"' +  chunck + '."')
 
             print(query)
             # Generate text with the OpenAI API
@@ -68,7 +70,7 @@ class OpenAIGPT:
 
             time.sleep(self.min_time_between_calls)
 
-            self.output += '||' + generated_text
+            self.output += '\n' + generated_text
         return self.output
 
     def tokenize(self, string):
@@ -90,6 +92,6 @@ if __name__ == "__main__":
         text = f.read()
     text = text[0:5000-64]
 
-    x.generate_text_with_prompt(text, mode = 'List all relevant methods to improve air quality in bullets: \n')
+    x.generate_text_with_prompt(text, mode = 'List all relevant methods to improve air quality in bullets, and make an estimate how far this has progressed by rating it from 1 to 5 : \n')
     answer = x.output
     print(answer)

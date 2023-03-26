@@ -3,6 +3,8 @@ import os
 from chatgpt_interaction import OpenAIGPT
 from NLTK_tokenizer import NLTK_Tokenizer
 
+import pandas as pd
+
 from tika import parser  # for reading pdf
 import docx
 import openai
@@ -43,7 +45,15 @@ class Text_Miner():
         self.target_language = 'nld'
         self.langs = {'nld': 'dutch', 'eng': 'english'}
         self.prompt = str() # the actual prompt that will be sent to the ai
-        self.mode = 'Noem alle maatregelen uit de volgende tekst om luchtkwaliteit te verbeteren in csv format: \n' # defines the question to ai
+        self.mode = str('Noem alle maatregelen uit de volgende tekst die te maken hebben met verbeteren van de luchtkwaliteit op commagescheiden manier' +
+                    # 'en een schatting per maatregel of deze in de fase: "voornemen", "beginfase", "uitvoering" of "geimplementeerd" is' +
+                        " als er geen maatregelen zijn genoemd, antwoord dan - . " +
+                        " scheid de volgende twee aanvullingen met een |, ze moeten later naar een kolom worden verwerkt "
+                        " Maak per bullet zelf een inschatting met welk overkoepelend thema het te maken heeft en "
+                        "als er iets vermeld staat over voortgang meld dat dan ook " +
+
+                        ""
+                        )
         # TODO: specify modes that this thing can operate with
 
         # the list of documents for every file in the root
@@ -54,6 +64,7 @@ class Text_Miner():
         self.stringdict = {}
         self.outputdict = {}
 
+        self.df = pd.DataFrame()
 
         # make an unique filename
         self.file_name = str("Output " + str(time.strftime("%m %d %H%M%S ")) + ".json")
@@ -237,7 +248,20 @@ class Text_Miner():
     def write_to_file(self): # TODO: for some reason this is not consistent
         ''' This writes the queries that were done by openai to a document '''
 
-        exDict = {'exDict': self.output}
+        rows = []
+        for document_name, string in self.outputdict.items():
+            elements = string[0].split('\n')
+            for element in elements:
+                row = [document_name, element]
+                rows.append(row)
+
+        # Create a dataframe from the list of lists with column names
+        self.df = pd.DataFrame(rows, columns=['Document Name', 'Element'])
+
+        # View the dataframe
+        print(df)
+
+        exDict = {'exDict': self.outputdict}
 
         with open(self.file_name, 'w') as file:
             file.write(json.dumps(exDict))  # use `json.loads` to do the reverse
