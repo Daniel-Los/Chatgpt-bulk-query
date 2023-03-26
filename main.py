@@ -8,16 +8,14 @@ if __name__ == "__main__":
     print(x.doclist.keys())
     x.read_files()
     x.estimate_costs()
-    x.AI_interact()
+    # x.AI_interact()
 
-    # print(x.summaries)
-    x.write_to_file()
+    # x.write_to_file()
 
-    # x.agree()
-    # if x.accord == True:
-    #     x.AI_interact()
-    #     print(x.summaries)
-    #     x.write_to_file()
+    x.agree()
+    if x.accord == True:
+        x.AI_interact()
+
 
 
     print(x.outputdict)

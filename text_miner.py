@@ -35,7 +35,7 @@ class Text_Miner():
 
         # self.root = r"C:\Users\d.los\OneDrive - Berenschot\Documenten\testdocs"
         # self.root = r"C:\Users\d.los\OneDrive - Berenschot\Bureaublad\test ai"
-        self.root = "SLA filter"
+        self.root = "test documenten"
 
         # the base of the folder that you want to siff through
 
@@ -43,7 +43,7 @@ class Text_Miner():
         self.target_language = 'nld'
         self.langs = {'nld': 'dutch', 'eng': 'english'}
         self.prompt = str() # the actual prompt that will be sent to the ai
-        self.mode = 'Explain what is happening in this text: \n' # defines the question to ai
+        self.mode = 'Noem alle maatregelen uit de volgende tekst om luchtkwaliteit te verbeteren in csv format: \n' # defines the question to ai
         # TODO: specify modes that this thing can operate with
 
         # the list of documents for every file in the root
