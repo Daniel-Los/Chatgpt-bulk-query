@@ -5,7 +5,8 @@ import time
 class OpenAIGPT:
     def __init__(self):
         # Retrieve OpenAI API credentials
-        apikey_location = r"C:\Users\d.los\OneDrive - Berenschot\Bureaublad\chatgpt openai key.txt"
+        # apikey_location = r"C:\Users\d.los\OneDrive - Berenschot\Bureaublad\chatgpt openai key.txt"
+        apikey_location = r"C:\Users\danie\OneDrive\Bureaublad\Coding\api keys\openai key.txt"
         with open(apikey_location) as f:
             self.key = f.readline()
         openai.api_key = self.key
@@ -24,7 +25,7 @@ class OpenAIGPT:
 
         # Ensure that max_tokens is not greater than 2000
 
-        prompt_list = self.AI.tokenize(self = self.AI, string = prompt)
+        prompt_list = self.tokenize(string = prompt)
 
         # Calculate the time elapsed since the last API call
         current_time = time.monotonic()
@@ -42,7 +43,7 @@ class OpenAIGPT:
             response = openai.Completion.create(
                 engine="davinci",
                 prompt=query,
-                max_tokens=self.AI.tokens,
+                # max_tokens=self.tokens,
                 n=1,
                 stop=None,
                 temperature=0.2,
@@ -55,7 +56,7 @@ class OpenAIGPT:
             generated_text += response.choices[0].text
 
             # Split the generated text into tokens of max length n
-            tokens = self.AI.tokenize(generated_text)
+            tokens = self.tokenize(generated_text)
 
             # Print the progress counter
             progress += 1
@@ -63,14 +64,14 @@ class OpenAIGPT:
 
             # This section times that calls, so we don't exceed 60 calls per minute
 
-            time.sleep(self.AI.min_time_between_calls)
+            time.sleep(self.min_time_between_calls)
 
-        self.AI.output += generated_text
+        self.output += generated_text
         return generated_text
 
     def tokenize(self, string):
         """Split string into list of strings where each string has max length of n tokens."""
-        n = 30
+        n = 100
         string = string[0]
         tokens = string.split()
         num_tokens = len(tokens)
@@ -81,7 +82,7 @@ class OpenAIGPT:
 
 if __name__ == "__main__":
     # pass
-    # x = OpenAIGPT()
-    text = 'blub'
-    x.generate_text_with_prompt(text, mode = 'repeat this word 1 time after: ')
-    print()
+    x = OpenAIGPT()
+    text = ['blub']
+    x.generate_text_with_prompt(text, mode = 'Can you repeat this word 1 time after me? ')
+    print(x.output)

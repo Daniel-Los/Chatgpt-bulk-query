@@ -17,7 +17,6 @@ from tkinter import ttk
 import requests, math
 from requests.structures import CaseInsensitiveDict
 
-from gensim.utils import tokenize
 
 # use this to read unreadable pdfs
 from PIL import Image
@@ -28,13 +27,15 @@ import pdf2image
 class Text_Miner():
     def __init__(self):
 
-        apikey_location = r"C:\Users\d.los\OneDrive - Berenschot\Bureaublad\chatgpt openai key.txt"
-        with open(apikey_location) as f:
-            self.key = f.readline()
-        openai.api_key = self.key
+        # apikey_location = r"C:\Users\d.los\OneDrive - Berenschot\Bureaublad\chatgpt openai key.txt"
+        # apikey_location = r"C:\Users\danie\OneDrive\Bureaublad\Coding\api keys\openai key.txt"
+        # with open(apikey_location) as f:
+        #     self.key = f.readline()
+        # openai.api_key = self.key
 
         # self.root = r"C:\Users\d.los\OneDrive - Berenschot\Documenten\testdocs"
-        self.root = r"C:\Users\d.los\OneDrive - Berenschot\Bureaublad\test ai"
+        # self.root = r"C:\Users\d.los\OneDrive - Berenschot\Bureaublad\test ai"
+        self.root = "SLA filter"
 
         # the base of the folder that you want to siff through
 
