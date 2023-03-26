@@ -18,49 +18,53 @@ class OpenAIGPT:
         self.min_time_between_calls = 1.0 / 59  # 59 requests per minute
         self.output = str()
 
-        self.tokens = 2000
+        self.prompt_list = []
+
+        self.max_tokens = 1500
 
     def generate_text_with_prompt(self, prompt, mode):
         """ Generate text with a prompt and split into tokens of max length n. """
 
         # Ensure that max_tokens is not greater than 2000
 
-        prompt_list = self.tokenize(string = prompt)
+        self.prompt_list = self.tokenize(string = prompt)
 
         # Calculate the time elapsed since the last API call
         current_time = time.monotonic()
         progress = 0
         query = 0
         generated_text = str()
-        for chunck in prompt_list:
+        print('prompt list = ', type(self.prompt_list))
+        for chunck in self.prompt_list:
+            print('chunck = ', type(chunck))
             if not query:
-                query = mode + chunck
+                query = str(mode + chunck)
             else:
-                query = mode + "en vul aan" + generated_text
+                query = str(mode + "en vul aan" + generated_text)
 
             print(query)
             # Generate text with the OpenAI API
-            response = openai.Completion.create(
-                engine="davinci",
-                prompt=query,
-                # max_tokens=self.tokens,
-                n=1,
-                stop=None,
-                temperature=0.2,
+            response = openai.ChatCompletion.create(
+                model="gpt-3.5-turbo",
+                messages=[
+                    {"role": "system", "content": "You are a helpful assistant."},
+                    {"role": "user", "content": prompt},
+                ]
             )
 
             # Update the last API call time
             self.last_call_time = time.monotonic()
 
+            print(response.choices[0])
             # Get the generated text from the OpenAI API response
-            generated_text += response.choices[0].text
+            generated_text += response.choices[0].message.content
 
             # Split the generated text into tokens of max length n
             tokens = self.tokenize(generated_text)
 
             # Print the progress counter
             progress += 1
-            print(f"Processed {progress} pieces of text out of {len(prompt_list)}")
+            print(f"Processed {progress} pieces of text out of {len(self.prompt_list)}")
 
             # This section times that calls, so we don't exceed 60 calls per minute
 
@@ -71,8 +75,8 @@ class OpenAIGPT:
 
     def tokenize(self, string):
         """Split string into list of strings where each string has max length of n tokens."""
-        n = 100
-        string = string[0]
+        n = self.max_tokens
+        # string = string[0]
         tokens = string.split()
         num_tokens = len(tokens)
         num_chunks = (num_tokens + n - 1) // n
@@ -83,6 +87,6 @@ class OpenAIGPT:
 if __name__ == "__main__":
     # pass
     x = OpenAIGPT()
-    text = ['blub']
-    x.generate_text_with_prompt(text, mode = 'Can you repeat this word 1 time after me? ')
+    text = ''
+    x.generate_text_with_prompt(text, mode = 'Can you repeat this word 1 time after me? blub')
     print(x.output)

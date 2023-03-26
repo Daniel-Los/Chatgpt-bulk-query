@@ -20,4 +20,4 @@ if __name__ == "__main__":
     #     x.write_to_file()
 
 
-    print('done')
+    print(x.outputdict)

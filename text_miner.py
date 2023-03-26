@@ -43,7 +43,7 @@ class Text_Miner():
         self.target_language = 'nld'
         self.langs = {'nld': 'dutch', 'eng': 'english'}
         self.prompt = str() # the actual prompt that will be sent to the ai
-        self.mode = 'Vat dit samen voor management consultants: \n' # defines the question to ai
+        self.mode = 'Explain what is happening in this text: \n' # defines the question to ai
         # TODO: specify modes that this thing can operate with
 
         # the list of documents for every file in the root
@@ -52,6 +52,7 @@ class Text_Miner():
 
         # list of all strings in all docments per dict.
         self.stringdict = {}
+        self.outputdict = {}
 
 
         # make an unique filename
@@ -64,8 +65,7 @@ class Text_Miner():
         self.estimated_tokencount = False
         self.estim_costs = {'davinci': False, 'ada': False, 'GPT4-8k' : False} # values are false for now, updated later
         self.accord = False
-        self.AI = OpenAIGPT
-        self.AI.__init__(self.AI)
+        self.AI = OpenAIGPT()
 
     def get_languages(self, **kwargs):
         # this function checks if the target language is possible to work with.
@@ -125,11 +125,6 @@ class Text_Miner():
             for para in doc.paragraphs:
                 fullText.append(para.text)
             return '\n'.join(fullText)
-
-            # TODO: instead of character split, tokenize the words and feed that.
-        # def tokenize(text):
-        #     list(tokenize(text))
-        #       pass
 
         doccount = 0
         charcount = 0
@@ -222,63 +217,6 @@ class Text_Miner():
                 print("Input was not yes \n Terminating process...")
         else:
             print("No cost estimate has been done, please run self.estimate_costs()")
-    def num_tokens(self, prompt):
-        '''
-        OBSOLETE (THANK GOD)
-        I copied a solution presented on the openai forum to calculate tokens
-        This piece has been replaced by NLTK_Tokenizer and is obsolete
-        '''
-        done = True
-        while True:
-            url = "https://zero-workspace-server.uc.r.appspot.com/tokenizer"
-
-            headers = CaseInsensitiveDict()
-            headers["authority"] = "zero-workspace-server.uc.r.appspot.com"
-            headers["sec-ch-ua"] = '"Chromium";v="94", "Google Chrome";v="94", ";Not A Brand";v="99"'
-            headers["accept"] = "application/json, text/javascript, */*; q=0.01"
-            headers["content-type"] = "application/json"
-            headers["sec-ch-ua-mobile"] = "?0"
-            headers[
-                "user-agent"] = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36"
-            headers["sec-ch-ua-platform"] = "Windows"
-            headers["origin"] = "https://gpttools.com"
-            headers["sec-fetch-site"] = "cross-site"
-            headers["sec-fetch-mode"] = "cors"
-            headers["sec-fetch-dest"] = "empty"
-            headers["referer"] = "https://gpttools.com/"
-            headers["accept-language"] = "en-US,en;q=0.9"
-
-            data = '{"text":"' + prompt + '"}'
-
-            # udata = data.decode("utf-8")
-            data = data.encode("utf-8", "replace")
-            # data = str('hello')
-
-
-            resp = requests.post(url, headers=headers, data=data)
-
-            print("resp code is: ", resp.status_code)
-            if resp.status_code == 200:
-                print('resp code is ok')
-                tokenized_info = json.loads(resp.content.decode())
-                # print(
-                #     f"Text Input: {json.loads(data)['text']}\nNumber of Tokens: {tokenized_info['num_tokens']}\nTokens: {tokenized_info['tokens']}")
-                print("The number of tokens is", tokenized_info["num_tokens"])
-                return tokenized_info["num_tokens"]
-            else:
-                print("This response didn't work, making an estimate for this one based on whitespaces")
-                # print(str(data))
-                # counter
-                count = 0
-                # loop for search each index
-                for i in range(0, len(data)):
-
-                    # Check each char
-                    # is blank or not
-                    if str(data)[i] == " ":
-                        count += 1
-                print(count)
-                return count
 
 
     def AI_interact(self):
@@ -290,10 +228,10 @@ class Text_Miner():
             # generate_text_with_prompt splits the prompt into multiple sections if too long
             # then it gets new data from the chatGPT
 
-            output = self.AI.generate_text_with_prompt(self=OpenAIGPT, prompt=text, mode=self.mode)
+            output = self.AI.generate_text_with_prompt(prompt=text, mode=self.mode)
 
             self.outputdict.setdefault(docname, [])
-            self.output[docname] = output
+            self.outputdict[docname].append(output)
 
 
     def write_to_file(self): # TODO: for some reason this is not consistent
