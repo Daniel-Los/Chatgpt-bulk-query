@@ -5,8 +5,8 @@ import time
 class OpenAIGPT:
     def __init__(self):
         # Retrieve OpenAI API credentials
-        # apikey_location = r"C:\Users\d.los\OneDrive - Berenschot\Bureaublad\chatgpt openai key.txt"
-        apikey_location = r"C:\Users\danie\OneDrive\Bureaublad\Coding\api keys\openai key.txt"
+        apikey_location = r"C:\Users\d.los\OneDrive - Berenschot\Bureaublad\chatgpt openai key.txt"
+        # apikey_location = r"C:\Users\danie\OneDrive\Bureaublad\Coding\api keys\openai key.txt"
         with open(apikey_location) as f:
             self.key = f.readline()
         openai.api_key = self.key
