@@ -27,7 +27,7 @@ import pdf2image
 
 
 class Text_Miner():
-    def __init__(self):
+    def __init__(self, root, mode):
 
         # apikey_location = r"C:\Users\d.los\OneDrive - Berenschot\Bureaublad\chatgpt openai key.txt"
         # apikey_location = r"C:\Users\danie\OneDrive\Bureaublad\Coding\api keys\openai key.txt"
@@ -37,7 +37,8 @@ class Text_Miner():
 
         # self.root = r"C:\Users\d.los\OneDrive - Berenschot\Documenten\testdocs"
         # self.root = r"C:\Users\d.los\OneDrive - Berenschot\Bureaublad\test ai"
-        self.root = "test documenten"
+        # self.root = "test documenten"
+        self.root = root
 
         # the base of the folder that you want to siff through
 
@@ -45,15 +46,19 @@ class Text_Miner():
         self.target_language = 'nld'
         self.langs = {'nld': 'dutch', 'eng': 'english'}
         self.prompt = str() # the actual prompt that will be sent to the ai
-        self.mode = str('Noem alle maatregelen uit de volgende tekst die te maken hebben met verbeteren van de luchtkwaliteit op commagescheiden manier' +
-                    # 'en een schatting per maatregel of deze in de fase: "voornemen", "beginfase", "uitvoering" of "geimplementeerd" is' +
-                        " als er geen maatregelen zijn genoemd, antwoord dan - . " +
-                        " scheid de volgende twee aanvullingen met een |, ze moeten later naar een kolom worden verwerkt "
-                        " Maak per bullet zelf een inschatting met welk overkoepelend thema het te maken heeft en "
-                        "als er iets vermeld staat over voortgang meld dat dan ook " +
+        # self.mode = str('Noem alle maatregelen uit de volgende tekst die te maken hebben met verbeteren van de luchtkwaliteit op commagescheiden manier' +
+        #             # 'en een schatting per maatregel of deze in de fase: "voornemen", "beginfase", "uitvoering" of "geimplementeerd" is' +
+        #                 " als er geen maatregelen zijn genoemd, antwoord dan - . " +
+        #                 " scheid de volgende twee aanvullingen met een |, ze moeten later naar een kolom worden verwerkt "
+        #                 " Maak per bullet zelf een inschatting met welk overkoepelend thema het te maken heeft en "
+        #                 "als er iets vermeld staat over voortgang meld dat dan ook " +
+        #
+        #                 ""
+        #                 )
 
-                        ""
-                        )
+        self.mode = mode
+
+
         # TODO: specify modes that this thing can operate with
 
         # the list of documents for every file in the root
@@ -74,7 +79,7 @@ class Text_Miner():
 
         self.output = {}
         self.estimated_tokencount = False
-        self.estim_costs = {'davinci': False, 'ada': False, 'GPT4-8k' : False} # values are false for now, updated later
+        self.estim_costs = {'GPT3.5 Turbo' : False, }#'davinci': False, 'ada': False, 'GPT4-8k' : False} # values are false for now, updated later
         self.accord = False
         self.AI = OpenAIGPT()
 
@@ -100,8 +105,7 @@ class Text_Miner():
                 if extension not in self.doclist.keys():
                     self.doclist[extension] = []
                     self.doclist_short[extension] = []
-                else:
-                    pass
+
                 # add document file location to the dict
                 self.doclist[extension].append(root + '\\' + document)
                 # add document name to the sort dict
@@ -195,7 +199,6 @@ class Text_Miner():
         print(f'Iterations needed: {length}')
         # print(f'Estimated time needed for free version is {seconds}')
 
-        prompt_to_inspect = str()
         tokencount = 0
         doccount = 0
         for string in self.stringdict.values():
@@ -207,14 +210,20 @@ class Text_Miner():
 
         # update the user on costs
         print(f"\nThe amount of chuncks are {tokencount}")
-        print(f'Associated costs are:')
-        self.estim_costs['GPT4-8k'] = round(tokencount * 0.06, 2)
-        print(f'GPT4-8K = {self.estim_costs["GPT4-8k"]} EUR')
-        self.estim_costs['davinci'] = round(tokencount * 0.02,2)
-        print(f'davinci = {self.estim_costs["davinci"]} EUR')
-        self.estim_costs['ada'] = round(tokencount * 0.0004, 2)
-        print(f'ada = {self.estim_costs["ada"]} EUR')
+
+        # self.estim_costs['GPT4-8k'] = str(round(tokencount * 0.06, 2)) + ' EUR'
+
+        # self.estim_costs['davinci'] = str(round(tokencount * 0.02,2)) +  ' EUR'
+
+        # self.estim_costs['ada'] = str(round(tokencount * 0.0004, 2)) + ' EUR'
+
+        self.estim_costs['GPT3.5 Turbo'] = str(round(tokencount * 0.0002, 2)) + ' EUR'
+
+
+
         self.estimated_tokencount = tokencount
+
+        return self.estim_costs
 
     # Functions and Objects
     def agree(self):
@@ -239,7 +248,7 @@ class Text_Miner():
             # generate_text_with_prompt splits the prompt into multiple sections if too long
             # then it gets new data from the chatGPT
 
-            output = self.AI.generate_text_with_prompt(prompt=text, mode=self.mode)
+            output = self.AI.generate_text_with_prompt(prompt=text, mode=str(self.mode))
 
             self.outputdict.setdefault(docname, [])
             self.outputdict[docname].append(output)
@@ -261,11 +270,6 @@ class Text_Miner():
         self.df.to_excel(name+'.xlsx')
         # View the dataframe
         # print(df)
-
-        # exDict = {'exDict': self.outputdict}
-        #
-        # with open(self.file_name, 'w') as file:
-        #     file.write(json.dumps(exDict))  # use `json.loads` to do the reverse
 
     def open_file(self):
         ''' Open Json files '''

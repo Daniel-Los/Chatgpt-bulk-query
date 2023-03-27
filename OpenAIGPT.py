@@ -5,8 +5,8 @@ import time
 class OpenAIGPT:
     def __init__(self):
         # Retrieve OpenAI API credentials
-        apikey_location = r"C:\Users\d.los\OneDrive - Berenschot\Bureaublad\chatgpt openai key.txt"
-        # apikey_location = r"C:\Users\danie\OneDrive\Bureaublad\Coding\api keys\openai key.txt"
+        # apikey_location = r"C:\Users\d.los\OneDrive - Berenschot\Bureaublad\chatgpt openai key.txt"
+        apikey_location = r"C:\Users\danie\OneDrive\Bureaublad\Coding\api keys\openai key.txt"
         with open(apikey_location) as f:
             self.key = f.readline()
         openai.api_key = self.key
@@ -24,6 +24,7 @@ class OpenAIGPT:
 
     def generate_text_with_prompt(self, prompt, mode):
         """ Generate text with a prompt and split into tokens of max length n. """
+        mode = mode
 
         # Ensure that max_tokens is not greater than 2000
 
@@ -35,24 +36,22 @@ class OpenAIGPT:
         query = 0
         generated_text = str()
         print('prompt list = ', type(self.prompt_list))
-        for chunck in self.prompt_list:
-            print('chunck = ', type(chunck))
-            if not query:
-                query = str(mode +'"' +  chunck + '."')
-            # else:
-            #     query = str(mode + "en vul deze tekst aan :" + generated_text + '. ' + chunck + '.')
-            else:
-                query = str(mode +'"' +  chunck + '."')
+        print(len(self.prompt_list))
 
-            print(query)
+        for chunck in self.prompt_list:
+
+            query = str(mode + '"' +  chunck + '."')
+
             # Generate text with the OpenAI API
             response = openai.ChatCompletion.create(
                 model="gpt-3.5-turbo",
+
                 messages=[
                     {"role": "system", "content": "You are ChatGPT, a large language model trained by OpenAI. Answer as concisely as possible. Answer in dutch"},
                     {"role": "user", "content": query + '.'},
                     # {"role": "user", "content": chunck + '.'}
                 ]
+
             )
 
             # Update the last API call time
