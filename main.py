@@ -18,6 +18,11 @@ if __name__ == "__main__":
     #     x.AI_interact()
     #     print(x.summaries)
     #     x.write_to_file()
+    x.agree()
+    if x.accord == True:
+        x.AI_interact()
+    x.write_to_file()
 
 
-    print('done')
+
+    print(x.outputdict)
