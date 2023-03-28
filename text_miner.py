@@ -13,6 +13,9 @@ import logging
 import json
 import re
 # Use your own API key
+from api_import import api_import
+api_import()
+
 
 from tkinter import *
 from tkinter import ttk
