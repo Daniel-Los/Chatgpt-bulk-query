@@ -18,7 +18,7 @@ class OpenAIGPT:
 
         self.prompt_list = []
 
-        self.max_tokens = 1500
+        self.max_tokens = 1000
 
     def generate_text_with_prompt(self, prompt, mode):
         """ Generate text with a prompt and split into tokens of max length n. """
@@ -27,7 +27,7 @@ class OpenAIGPT:
         # Ensure that max_tokens is not greater than 2000
 
         self.prompt_list = self.tokenize(string = prompt)
-
+        self.output = str()
         # Calculate the time elapsed since the last API call
         current_time = time.monotonic()
         progress = 0
@@ -39,16 +39,22 @@ class OpenAIGPT:
         for chunck in self.prompt_list:
 
             query = str(mode + '"' +  chunck + '."')
-
+            print(query)
             # Generate text with the OpenAI API
             response = openai.ChatCompletion.create(
                 model="gpt-3.5-turbo",
 
                 messages=[
-                    {"role": "system", "content": "You are ChatGPT, a large language model trained by OpenAI. Answer as concisely as possible. Answer in dutch"},
+                    {"role": "system", "content": "You are a text processesor. Answer as concisely as possible and in dutch"},
                     {"role": "user", "content": query + '.'},
                     # {"role": "user", "content": chunck + '.'}
-                ]
+                ],
+
+                temperature = 0,  # higher more random
+                # max_tokens = 2000,  # The maximum number of tokens to generate in the completion.
+                top_p = 0.9,  # So 0.1 means only the tokens comprising the top 10% probability mass are considered.
+                frequency_penalty = 0,  # decreasing the model's likelihood to repeat the same line verbatim.
+                presence_penalty = 0  # likelihood to talk about new topics
 
             )
 
@@ -57,7 +63,7 @@ class OpenAIGPT:
 
             print(response.choices[0])
             # Get the generated text from the OpenAI API response
-            generated_text += response.choices[0].message.content
+            generated_text = response.choices[0].message.content
 
             # Print the progress counter
             progress += 1
@@ -81,6 +87,13 @@ class OpenAIGPT:
         chunks = [tokens[i * n:(i + 1) * n] for i in range(num_chunks)]
         self.chunklist = [' '.join(chunk) for chunk in chunks]
         return [' '.join(chunk) for chunk in chunks]
+
+    def summarize(self, output):
+
+        categorize_mode = "Plaats elke maatregel in een van de volgende categorieen: Mobiliteit (verkeer), Mobiele werktuigen, Industrie, Houtstook van particuliere huishoudens, Binnenvaart en havens, Landbouw, Participatie van burgers en bedrijven, Monitoring, Hoogblootgestelde locaties en gevoelige groepen, Internationaal luchtbeleid of Geen van allen. Geef het terug in JSON format met kolommen maatregel en categorie.\n"
+        self.categorized = self.generate_text_with_prompt(prompt = str(output), mode = categorize_mode)
+
+
 
 if __name__ == "__main__":
     # pass

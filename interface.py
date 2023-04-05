@@ -21,9 +21,6 @@ class ProgramGUI:
         # Prompt entry
         self.prompt_entry = tk.Entry(self.master)
 
-        self.program = Text_Miner(root = self.folder_path, mode = self.prompt_entry)
-
-
         # Kosten label
         self.cost_label = None #tk.Label(self.master, text="")
 
@@ -38,15 +35,21 @@ class ProgramGUI:
 
     def browse_folder(self):
         self.folder_path = filedialog.askdirectory()
-        self.prompt_for_program()
+
+
+        if self.folder_path:
+            self.prompt_for_program()
+
 
     def prompt_for_program(self):
         # Prompt voor het programma
         self.prompt_label.config(text="Geef het programma op")
         self.prompt_label.pack()
-        root = self.prompt_label
+        # root = self.folder_path
+        mode = self.prompt_entry.pack()
 
-        self.prompt_entry.pack()
+        self.program = Text_Miner(root=self.folder_path, mode=mode)
+
 
         self.cost_label = True
 
@@ -58,8 +61,8 @@ class ProgramGUI:
             self.program.get_structure()
             self.program.read_files()
             costs = self.program.estimate_costs()
-            self.cost_label = tk.Label(self.master, text= costs)
-            self.cost_label.config(text= costs)
+            self.cost_label = tk.Label(self.master, text = costs)
+            self.cost_label.config(text = costs)
             self.cost_label.pack()
 
             self.confirm_button.pack(pady=10)

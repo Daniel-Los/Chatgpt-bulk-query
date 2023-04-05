@@ -16,6 +16,12 @@ import re
 from api_import import api_import
 api_import()
 
+import io
+from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
+from pdfminer.converter import TextConverter
+from pdfminer.layout import LAParams
+from pdfminer.pdfpage import PDFPage
+
 
 from tkinter import *
 from tkinter import ttk
@@ -60,7 +66,7 @@ class Text_Miner():
         #                 )
 
         self.mode = mode
-
+        self.name = str()
 
         # TODO: specify modes that this thing can operate with
 
@@ -75,7 +81,7 @@ class Text_Miner():
         self.df = pd.DataFrame()
 
         # make an unique filename
-        self.file_name = str("Output " + str(time.strftime("%m %d %H%M%S ")) + ".json")
+        # self.file_name = str("Output " + str(time.strftime("%m %d %H%M%S ")) + ".json")
 
         self.process_speed = 50  # docs per minute
         self.max_query_length = 1000
@@ -104,7 +110,7 @@ class Text_Miner():
             for document in documents:
                 print(document)
                 # add extension name into dict
-                name, extension = document.split('.', 1)
+                name, extension = document.split(".", 1)
                 if extension not in self.doclist.keys():
                     self.doclist[extension] = []
                     self.doclist_short[extension] = []
@@ -136,6 +142,7 @@ class Text_Miner():
     def read_files(self):
         # this is supposed to read all files that have a sensible extension (currently: doc, (selectable) pdf)
 
+
         def gettext(filename):
             # gets text from a docx file
             doc = docx.Document(filename)
@@ -144,22 +151,31 @@ class Text_Miner():
                 fullText.append(para.text)
             return '\n'.join(fullText)
 
+        def convert_pdf_to_txt(path):
+            resource_manager = PDFResourceManager()
+            out_file = io.StringIO()
+            # codec = 'utf-8'
+            laparams = LAParams()
+            device = TextConverter(resource_manager, out_file, laparams=laparams)
+            fp = open(path, 'rb')
+            interpreter = PDFPageInterpreter(resource_manager, device)
+            for page in PDFPage.get_pages(fp, check_extractable=True):
+                interpreter.process_page(page)
+            fp.close()
+            device.close()
+            text = out_file.getvalue()
+            out_file.close()
+            return text
+
         doccount = 0
         charcount = 0
         for extension in self.doclist.keys():
 
             if extension == 'pdf':
-                for pdf in self.doclist[extension]:
-                    doccount += 1
-                    print(doccount)
-                    name = pdf.split('\\', -1)[-1]
-                    # extracts data
-                    raw = parser.from_file(pdf)
-                    # stores the string in the stringdict
-                    text = raw['content']
-                    text = self.scrubstring(text)
+                for item in self.doclist[extension]:
+                    name = item.split('\\', -1)[-1]
+                    text = convert_pdf_to_txt(item)
                     self.stringdict.setdefault(name, [])
-
                     self.stringdict[name].append(text)
 
             if extension == 'docx':
@@ -262,15 +278,15 @@ class Text_Miner():
 
         rows = []
         for document_name, string in self.outputdict.items():
-            elements = string[0].split('\n')
+            elements = string[0].split('- ')
             for element in elements:
                 row = [document_name, element]
                 rows.append(row)
 
         # Create a dataframe from the list of lists with column names
         self.df = pd.DataFrame(rows, columns=['Document Name', 'Element'])
-        name = input('Verzin een naam voor de data: ')
-        self.df.to_excel(name+'.xlsx')
+        self.name = input('Verzin een naam voor de data: ')
+        self.df.to_excel('output/' + self.name + '.xlsx')
         # View the dataframe
         # print(df)
 
