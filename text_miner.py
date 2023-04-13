@@ -48,6 +48,7 @@ class Text_Miner():
         # self.root = r"C:\Users\d.los\OneDrive - Berenschot\Bureaublad\test ai"
         # self.root = "test documenten"
         self.root = root
+        self.name = input('Verzin een naam voor de data: ')
 
         # the base of the folder that you want to siff through
 
@@ -122,13 +123,7 @@ class Text_Miner():
                 # create a dictionary per document name so the text can be put in there
                 # self.stringlist[name] = []
 
-    def scrubstring(self, text):
-        text = bytes(text, 'utf-8').decode('utf-8', "replace")
-        text = text.replace("\n", " ")
-        text = text.replace("\t", " ")
-        text = ' '.join(text.split())
 
-        return text
 
     def add_ocr(self):
         # TODO: add a thing that adds ocr with pytesseract to the pdfs so images and unselectable pdf can be loaded in
@@ -167,6 +162,14 @@ class Text_Miner():
             out_file.close()
             return text
 
+        def scrubstring(text):
+            text = bytes(text, 'utf-8').decode('utf-8', "replace")
+            text = text.replace("\n", " ")
+            text = text.replace("\t", " ")
+            text = ' '.join(text.split())
+
+            return text
+
         doccount = 0
         charcount = 0
         for extension in self.doclist.keys():
@@ -175,6 +178,8 @@ class Text_Miner():
                 for item in self.doclist[extension]:
                     name = item.split('\\', -1)[-1]
                     text = convert_pdf_to_txt(item)
+                    text = scrubstring(text)
+
                     self.stringdict.setdefault(name, [])
                     self.stringdict[name].append(text)
 
@@ -188,7 +193,7 @@ class Text_Miner():
                     # extracts data
                     text = gettext(item)
                     # stores the string in the stringdict
-                    text = self.scrubstring(text)
+                    text = scrubstring(text)
 
                     self.stringdict.setdefault(name, [])
                     self.stringdict[name].append(text)
@@ -197,6 +202,7 @@ class Text_Miner():
                 print('xlsx files are not (yet) supported')
 
             else:
+                print('There are files with un-integrated extensions, please check the folder.')
                 doccount += 1
             # print(self.stringdict)
 
@@ -238,8 +244,6 @@ class Text_Miner():
 
         self.estim_costs['GPT3.5 Turbo'] = str(round(tokencount * 0.0002, 2)) + ' EUR'
 
-
-
         self.estimated_tokencount = tokencount
 
         return self.estim_costs
@@ -273,22 +277,40 @@ class Text_Miner():
             self.outputdict[docname].append(output)
 
 
-    def write_to_file(self): # TODO: for some reason this is not consistent
+    def write_to_doc(self): # TODO: for some reason this is not consistent
         ''' This writes the queries that were done by openai to a document '''
 
-        rows = []
-        for document_name, string in self.outputdict.items():
-            elements = string[0].split('- ')
-            for element in elements:
-                row = [document_name, element]
-                rows.append(row)
+        if 'bulletpoints' in self.mode or 'bullet points' in self.mode:
+            # This loop splits the sections of the text for bulletpoints
+            rows = []
+            for document_name, string in self.outputdict.items():
+                elements = string[0].split('\n- ')
+                for element in elements:
+                    row = [document_name, element]
+                    rows.append(row)
 
+
+        doc = docx.Document()
+
+        for document_name, string in self.outputdict.items():
+
+            doc.add_paragraph(document_name)
+            doc.add_paragraph(string)
+
+        doc.save('output/' + self.name + '.docx')
+
+
+    def write_to_xl(self, string):
         # Create a dataframe from the list of lists with column names
+
+        bullets = self.AI.to_bullets(string)
+        rows = bullets.split('\n- ')
+
         self.df = pd.DataFrame(rows, columns=['Document Name', 'Element'])
-        self.name = input('Verzin een naam voor de data: ')
+
         self.df.to_excel('output/' + self.name + '.xlsx')
         # View the dataframe
-        # print(df)
+        print(self.df)
 
     def open_file(self):
         ''' Open Json files '''

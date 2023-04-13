@@ -24,7 +24,7 @@ class OpenAIGPT:
         """ Generate text with a prompt and split into tokens of max length n. """
         mode = mode
 
-        # Ensure that max_tokens is not greater than 2000
+        # Ensure that max_tokens is not greater than max_tokens
 
         self.prompt_list = self.tokenize(string = prompt)
         self.output = str()
@@ -51,7 +51,7 @@ class OpenAIGPT:
                 ],
 
                 temperature = 0,  # higher more random
-                # max_tokens = 2000,  # The maximum number of tokens to generate in the completion.
+                max_tokens = 200,  # The maximum number of tokens to generate in the completion.
                 top_p = 0.9,  # So 0.1 means only the tokens comprising the top 10% probability mass are considered.
                 frequency_penalty = 0,  # decreasing the model's likelihood to repeat the same line verbatim.
                 presence_penalty = 0  # likelihood to talk about new topics
@@ -79,10 +79,11 @@ class OpenAIGPT:
     def tokenize(self, string):
         """Split string into list of strings where each string has max length of n tokens."""
         n = self.max_tokens
-        if isinstance(string, list):
-            string = string[0]
+        if not isinstance(string, str):
+            string = str(string)
         tokens = string.split()
         num_tokens = len(tokens)
+        print(num_tokens)
         num_chunks = (num_tokens + n - 1) // n
         chunks = [tokens[i * n:(i + 1) * n] for i in range(num_chunks)]
         self.chunklist = [' '.join(chunk) for chunk in chunks]
@@ -90,8 +91,17 @@ class OpenAIGPT:
 
     def summarize(self, output):
 
-        categorize_mode = "Plaats elke maatregel in een van de volgende categorieen: Mobiliteit (verkeer), Mobiele werktuigen, Industrie, Houtstook van particuliere huishoudens, Binnenvaart en havens, Landbouw, Participatie van burgers en bedrijven, Monitoring, Hoogblootgestelde locaties en gevoelige groepen, Internationaal luchtbeleid of Geen van allen. Geef het terug in JSON format met kolommen maatregel en categorie.\n"
-        self.categorized = self.generate_text_with_prompt(prompt = str(output), mode = categorize_mode)
+        summarize_mode = "Vat deze tekst samen: "
+        self.categorized = self.generate_text_with_prompt(prompt = str(output), mode = summarize_mode)
+
+    def to_bullets(self, string):
+        if not isinstance(string, str):
+            string = str(string)
+        mode = "Vat de volgende tekst samen in bullets: "
+        prompt = string
+        output = self.generate_text_with_prompt(self, prompt, mode)
+        return output
+
 
 
 
