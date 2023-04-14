@@ -42,13 +42,17 @@ if __name__ == "__main__":
 
         # x.agree()
         x.accord = True
+        x = x
         if x.accord == True:
             x.AI_interact()
 
             # x.AI.summarize(x.outputdict)
-
-            x.AI.generate_text_with_prompt(mode= 'vat deze tekst samen', prompt=x.outputdict)
-
+            newdict = {}
+            for key, item in x.outputdict.items():
+                summ_output = x.AI.generate_text_with_prompt(mode= 'vat deze tekst samen', prompt=item)
+                newdict.setdefault(key, [])
+                newdict[key].append(summ_output)
+            x.outputdict = newdict
             x.write_to_doc()
             # f = pd.read_json('[' + str(x.AI.categorized) + ']')
             # f.to_excel('output/' + x.name + '_categorized.xlsx')
