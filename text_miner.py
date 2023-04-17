@@ -331,6 +331,7 @@ class Text_Miner():
         This section actually loads the text into openai
         :return:
         '''
+        docprogress = 0
         for docname, text in self.stringdict.items():
             # generate_text_with_prompt splits the prompt into multiple sections if too long
             # then it gets new data from the chatGPT
@@ -339,29 +340,31 @@ class Text_Miner():
 
             self.outputdict.setdefault(docname, [])
             self.outputdict[docname].append(output)
+            docprogress += 1
+            print(f"Finished {docname}. {docprogress} out of {len(self.stringdict)}")
 
 
-    def write_to_file(self): # TODO: for some reason this is not consistent
+    def write_to_file(self, dictionary): # TODO: for some reason this is not consistent
         ''' This writes the queries that were done by openai to a document '''
 
-        if 'bulletpoints' in self.mode or 'bullet points' in self.mode:
-            # This loop splits the sections of the text for bulletpoints
-            rows = []
-            for document_name, string in self.outputdict.items():
-                elements = string[0].split('\n- ')
-                for element in elements:
-                    row = [document_name, element]
-                    rows.append(row)
+        # if 'bulletpoints' in self.mode or 'bullet points' in self.mode:
+        #     # This loop splits the sections of the text for bulletpoints
+        #     rows = []
+        #     for document_name, string in dictionary.items():
+        #         elements = string[0].split('\n- ')
+        #         for element in elements:
+        #             row = [document_name, element]
+        #             rows.append(row)
 
 
         doc = docx.Document()
 
-        for document_name, string in self.outputdict.items():
+        for document_name, string in dictionary.items():
 
             doc.add_paragraph(document_name)
             doc.add_paragraph(string)
 
-        doc.save('output/' + self.name + 'doc100.docx')
+        doc.save('output/' + self.name + '.docx')
 
 
     def write_to_xl(self, string):

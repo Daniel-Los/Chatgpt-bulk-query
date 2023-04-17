@@ -40,7 +40,7 @@ class OpenAIGPT:
         for chunck in self.prompt_list:
 
             query = str(mode + '"' +  chunck + '."')
-            print(query.replace("\n", " "))
+            # print(query.replace("\n", " "))
             # Generate text with the OpenAI API
             done = False
             while done is not True:
@@ -54,7 +54,7 @@ class OpenAIGPT:
                             # {"role": "user", "content": chunck + '.'}
                         ],
 
-                temperature = 0,  # higher more random
+                temperature = 0.4,  # higher more random
                 # max_tokens = 2000,  # The maximum number of tokens to generate in the completion.
                 top_p = 0.9,  # So 0.1 means only the tokens comprising the top 10% probability mass are considered.
                 frequency_penalty = 0,  # decreasing the model's likelihood to repeat the same line verbatim.
@@ -65,7 +65,7 @@ class OpenAIGPT:
                     # Update the last API call time
                     self.last_call_time = time.monotonic()
 
-                    print(response.choices[0])
+                    # print(response.choices[0])
                     # Get the generated text from the OpenAI API response
                     generated_text = response.choices[0].message.content
 
@@ -79,8 +79,10 @@ class OpenAIGPT:
 
                     self.output += '\n' + generated_text
                     done = True
-                except:
-                    print('An error occured: Tryng again...')
+                except Exception as e:
+                    print('An error occured: ')
+                    print(e)
+                    print('Trying again...')
                     time.sleep(self.min_time_between_calls)
 
         return self.output
@@ -100,10 +102,18 @@ class OpenAIGPT:
         self.chunklist = [''.join(chunk) for chunk in chunks]
         return [''.join(chunk) for chunk in chunks]
 
-    def summarize(self, output):
+    def summarize(self, outputdict):
+        summarized_dict = {}
+        categorize_mode = "Zet de volgende tekst om in bullets en voorkom herhalingen. Plaats vervolgens alle bullets in de volgende categorieen: 'Mobiliteit (verkeer), Mobiele werktuigen, " \
+           "Industrie, Houtstook van particuliere huishoudens, Binnenvaart en havens, Landbouw, Participatie van burgers " \
+           "en bedrijven, Monitoring, Hoogblootgestelde locaties en gevoelige groepen, Internationaal luchtbeleid of geen"
 
-        categorize_mode = "Zet de volgende tekst om in bullets en voorkom herhalingen: "
-        self.categorized = self.generate_text_with_prompt(prompt = str(output), mode = categorize_mode)
+        for docname, output in outputdict.items():
+            summarized = self.generate_text_with_prompt(prompt = str(output), mode = categorize_mode)
+            summarized_dict.setdefault(docname, [])
+            summarized_dict[docname].append(summarized)
+
+        return summarized_dict
 
 
 
