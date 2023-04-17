@@ -2,6 +2,7 @@ import os
 
 from OpenAIGPT import OpenAIGPT
 from NLTK_tokenizer import NLTK_Tokenizer
+import tiktoken
 
 import pandas as pd
 
@@ -48,11 +49,10 @@ class Text_Miner():
         # self.root = r"C:\Users\d.los\OneDrive - Berenschot\Bureaublad\test ai"
         # self.root = "test documenten"
         self.root = root
-        self.name = input('Verzin een naam voor de data: ')
 
         # the base of the folder that you want to siff through
 
-        self.supported_languages = pytesseract.get_languages()
+        self.supported_languages = ['nld', 'eng']#pytesseract.get_languages()
         self.target_language = 'nld'
         self.langs = {'nld': 'dutch', 'eng': 'english'}
         self.prompt = str() # the actual prompt that will be sent to the ai
@@ -67,7 +67,7 @@ class Text_Miner():
         #                 )
 
         self.mode = mode
-        # self.name = str()
+        self.name = input('set a name for the doc')
 
         # TODO: specify modes that this thing can operate with
 
@@ -95,6 +95,9 @@ class Text_Miner():
 
     def get_languages(self, **kwargs):
         # this function checks if the target language is possible to work with.
+
+        return
+
         print("languages that we can work with: ", (self.supported_languages))
         try:
             if self.target_language in self.supported_languages:
@@ -109,6 +112,8 @@ class Text_Miner():
         for root, place, documents in os.walk(self.root):
 
             for document in documents:
+                #if document != "Beleidsnota Ruimte voor Ruimte gemeente Zundert _ Lokale wet- en regelgeving.pdf":
+                    #continue
                 print(document)
                 # add extension name into dict
                 name, extension = document.split(".", 1)
@@ -123,7 +128,13 @@ class Text_Miner():
                 # create a dictionary per document name so the text can be put in there
                 # self.stringlist[name] = []
 
+    def scrubstring(self, text):
+        text = bytes(text, 'utf-8').decode('utf-8', "replace")
+        text = text.replace("\n", " ")
+        text = text.replace("\t", " ")
+        text = ' '.join(text.split())
 
+        return text
 
     def add_ocr(self):
         # TODO: add a thing that adds ocr with pytesseract to the pdfs so images and unselectable pdf can be loaded in
@@ -147,6 +158,21 @@ class Text_Miner():
             return '\n'.join(fullText)
 
         def convert_pdf_to_txt(path):
+            print("Importing file: {}".format(path))
+            processed_file = ['processed']
+            path_list = path.split("\\")
+            processed_file.append(path_list[-2])
+            processed_file.append(path_list[-1].split('.')[0] + '.txt')
+            processed_file = "\\".join(processed_file)
+
+            try:
+                with open(processed_file, 'r', encoding="utf-8") as f:
+                    text = f.read()
+                    print("Using pre-processed file.")
+                    return text
+            except:
+                print("No pre-processed file found.")
+
             resource_manager = PDFResourceManager()
             out_file = io.StringIO()
             # codec = 'utf-8'
@@ -154,19 +180,21 @@ class Text_Miner():
             device = TextConverter(resource_manager, out_file, laparams=laparams)
             fp = open(path, 'rb')
             interpreter = PDFPageInterpreter(resource_manager, device)
+            pdf_size = sum(1 for _ in PDFPage.get_pages(fp, check_extractable=True))
+            print("", sep='\n', end='')
+            count_pages = 0
             for page in PDFPage.get_pages(fp, check_extractable=True):
                 interpreter.process_page(page)
+                count_pages += 1
+                print("\rProgress: {} out of {} pages.\t".format(count_pages, pdf_size), sep='', end='')
+            print("", sep='', end='\n')
             fp.close()
             device.close()
             text = out_file.getvalue()
             out_file.close()
-            return text
 
-        def scrubstring(text):
-            text = bytes(text, 'utf-8').decode('utf-8', "replace")
-            text = text.replace("\n", " ")
-            text = text.replace("\t", " ")
-            text = ' '.join(text.split())
+            with open(processed_file, 'w', encoding="utf-8") as f:
+                f.write(text)
 
             return text
 
@@ -178,8 +206,6 @@ class Text_Miner():
                 for item in self.doclist[extension]:
                     name = item.split('\\', -1)[-1]
                     text = convert_pdf_to_txt(item)
-                    text = scrubstring(text)
-
                     self.stringdict.setdefault(name, [])
                     self.stringdict[name].append(text)
 
@@ -193,7 +219,7 @@ class Text_Miner():
                     # extracts data
                     text = gettext(item)
                     # stores the string in the stringdict
-                    text = scrubstring(text)
+                    text = self.scrubstring(text)
 
                     self.stringdict.setdefault(name, [])
                     self.stringdict[name].append(text)
@@ -202,9 +228,40 @@ class Text_Miner():
                 print('xlsx files are not (yet) supported')
 
             else:
-                print('There are files with un-integrated extensions, please check the folder.')
                 doccount += 1
             # print(self.stringdict)
+
+    def num_tokens_from_messages(self, messages, model="gpt-3.5-turbo-0301"):
+        """Returns the number of tokens used by a list of messages."""
+        try:
+            encoding = tiktoken.encoding_for_model(model)
+        except KeyError:
+            print("Warning: model not found. Using cl100k_base encoding.")
+            encoding = tiktoken.get_encoding("cl100k_base")
+        if model == "gpt-3.5-turbo":
+            print("Warning: gpt-3.5-turbo may change over time. Returning num tokens assuming gpt-3.5-turbo-0301.")
+            return self.num_tokens_from_messages(messages, model="gpt-3.5-turbo-0301")
+        elif model == "gpt-4":
+            print("Warning: gpt-4 may change over time. Returning num tokens assuming gpt-4-0314.")
+            return self.num_tokens_from_messages(messages, model="gpt-4-0314")
+        elif model == "gpt-3.5-turbo-0301":
+            tokens_per_message = 4  # every message follows <|start|>{role/name}\n{content}<|end|>\n
+            tokens_per_name = -1  # if there's a name, the role is omitted
+        elif model == "gpt-4-0314":
+            tokens_per_message = 3
+            tokens_per_name = 1
+        else:
+            raise NotImplementedError(
+                f"""num_tokens_from_messages() is not implemented for model {model}. See https://github.com/openai/openai-python/blob/main/chatml.md for information on how messages are converted to tokens.""")
+        num_tokens = 0
+        for message in messages:
+            num_tokens += tokens_per_message
+            for key, value in message.items():
+                num_tokens += len(encoding.encode(value))
+                if key == "name":
+                    num_tokens += tokens_per_name
+        num_tokens += 3  # every reply is primed with <|start|>assistant<|message|>
+        return num_tokens
 
     def estimate_costs(self):
         '''
@@ -226,12 +283,16 @@ class Text_Miner():
 
         tokencount = 0
         doccount = 0
+        encoding = tiktoken.encoding_for_model("gpt-3.5-turbo-0301")
         for string in self.stringdict.values():
             # print(string[0])
             prompt_to_inspect = string[0]
             doccount +=1
             print(doccount)
-            tokencount += len(NLTK_Tokenizer(prompt_to_inspect, 1000))
+            #tokencount += len(NLTK_Tokenizer(prompt_to_inspect, 1000))
+            tokencount += len(encoding.encode(prompt_to_inspect))
+
+
 
         # update the user on costs
         print(f"\nThe amount of chuncks are {tokencount}")
@@ -242,7 +303,9 @@ class Text_Miner():
 
         # self.estim_costs['ada'] = str(round(tokencount * 0.0004, 2)) + ' EUR'
 
-        self.estim_costs['GPT3.5 Turbo'] = str(round(tokencount * 0.0002, 2)) + ' EUR'
+        self.estim_costs['GPT3.5 Turbo'] = str(round(tokencount * 0.002 / 1000, 2)) + ' EUR'
+
+
 
         self.estimated_tokencount = tokencount
 
@@ -277,7 +340,7 @@ class Text_Miner():
             self.outputdict[docname].append(output)
 
 
-    def write_to_doc(self): # TODO: for some reason this is not consistent
+    def write_to_file(self): # TODO: for some reason this is not consistent
         ''' This writes the queries that were done by openai to a document '''
 
         if 'bulletpoints' in self.mode or 'bullet points' in self.mode:

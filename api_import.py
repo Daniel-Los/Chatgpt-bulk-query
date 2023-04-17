@@ -10,6 +10,8 @@ def api_import():
         api_key_file = r"C:\Users\d.los\OneDrive - Berenschot\Bureaublad\chatgpt openai key.txt"
     elif hostname == 'computer2':
         api_key_file = r"C:\Users\danie\OneDrive\Bureaublad\Coding\api keys\openai key.txt"
+    elif hostname == 'BT11557':
+        api_key_file = r"C:\Users\r.looijenga\OneDrive - Berenschot\Bureaublad\OpenAI_API_key.txt"
     else:
         # handle the case where the script is running on an unrecognized computer
         raise ValueError('Unrecognized computer: {}'.format(hostname))
