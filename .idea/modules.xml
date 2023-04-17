@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Chatgpt-bulk-query.iml" filepath="$PROJECT_DIR$/.idea/Chatgpt-bulk-query.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/documentsearch.iml" filepath="$PROJECT_DIR$/.idea/documentsearch.iml" />
     </modules>
   </component>
 </project>

@@ -102,7 +102,7 @@ class OpenAIGPT:
 
     def summarize(self, output):
 
-        categorize_mode = "Plaats elke maatregel in een van de volgende categorieen: Mobiliteit (verkeer), Mobiele werktuigen, Industrie, Houtstook van particuliere huishoudens, Binnenvaart en havens, Landbouw, Participatie van burgers en bedrijven, Monitoring, Hoogblootgestelde locaties en gevoelige groepen, Internationaal luchtbeleid of Geen van allen. Geef het terug in JSON format met kolommen maatregel en categorie.\n"
+        categorize_mode = "Zet de volgende tekst om in bullets en voorkom herhalingen: "
         self.categorized = self.generate_text_with_prompt(prompt = str(output), mode = categorize_mode)
 
 

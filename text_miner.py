@@ -23,6 +23,7 @@ from pdfminer.converter import TextConverter
 from pdfminer.layout import LAParams
 from pdfminer.pdfpage import PDFPage
 
+import docx
 
 from tkinter import *
 from tkinter import ttk
