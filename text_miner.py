@@ -15,7 +15,6 @@ import json
 import re
 # Use your own API key
 from api_import import api_import
-api_import()
 
 import io
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
@@ -24,6 +23,7 @@ from pdfminer.layout import LAParams
 from pdfminer.pdfpage import PDFPage
 
 import docx
+from docx.enum.text import WD_BREAK
 
 from tkinter import *
 from tkinter import ttk
@@ -40,11 +40,7 @@ import pdf2image
 class Text_Miner():
     def __init__(self, root, mode):
 
-        # apikey_location = r"C:\Users\d.los\OneDrive - Berenschot\Bureaublad\chatgpt openai key.txt"
-        # apikey_location = r"C:\Users\danie\OneDrive\Bureaublad\Coding\api keys\openai key.txt"
-        # with open(apikey_location) as f:
-        #     self.key = f.readline()
-        # openai.api_key = self.key
+        self.key = api_import()
 
         # self.root = r"C:\Users\d.los\OneDrive - Berenschot\Documenten\testdocs"
         # self.root = r"C:\Users\d.los\OneDrive - Berenschot\Bureaublad\test ai"
@@ -104,7 +100,7 @@ class Text_Miner():
             if self.target_language in self.supported_languages:
                 print("The target language ", self.target_language, " is in the supported languages")
         except:
-            print('please use a string and check the shorthand version')
+            print('Please use a string and check the shorthand version')
 
     def get_structure(self):
         # this fucntion reads in all the filenames, as well as order them per extension into a dict.
@@ -275,11 +271,11 @@ class Text_Miner():
         for key, value in self.stringdict.items():
             length += len(value)
 
-        queries = length // 4000
+        queries = length // self.AI.max_tokens
 
         seconds = queries * self.process_speed / 60
         seconds = round(seconds, 2)
-        print(f'Iterations needed: {length}')
+
         # print(f'Estimated time needed for free version is {seconds}')
 
         tokencount = 0
@@ -293,20 +289,17 @@ class Text_Miner():
             #tokencount += len(NLTK_Tokenizer(prompt_to_inspect, 1000))
             tokencount += len(encoding.encode(prompt_to_inspect))
 
-
-
-        # update the user on costs
-        print(f"\nThe amount of chuncks are {tokencount}")
+        # update the user on costs and time
+        iterations = tokencount//self.AI.max_tokens
+        estimated_time = iterations * self.AI.min_time_between_calls
+        minutes, seconds = divmod(estimated_time, 60)
+        print(f'Iterations needed: {iterations} [Min estimated time (~1s/it): {int(minutes)}:{int(seconds)}')
 
         # self.estim_costs['GPT4-8k'] = str(round(tokencount * 0.06, 2)) + ' EUR'
-
         # self.estim_costs['davinci'] = str(round(tokencount * 0.02,2)) +  ' EUR'
-
         # self.estim_costs['ada'] = str(round(tokencount * 0.0004, 2)) + ' EUR'
-
         self.estim_costs['GPT3.5 Turbo'] = str(round(tokencount * 0.002 / 1000, 2)) + ' EUR'
-
-
+        print(f'Estimated costs are {self.estim_costs}')
 
         self.estimated_tokencount = tokencount
 
@@ -315,8 +308,8 @@ class Text_Miner():
     # Functions and Objects
     def agree(self):
         if self.estimated_tokencount:
-            print(f"do you agree with the estimated costs of: {self.estim_costs}")
-            userinput = input("yes or no")
+            print(f"Do you agree with the estimated costs: {self.estim_costs} for analysing the documents.")
+            userinput = input("Return yes or no")
             if userinput.lower() == "yes":
                 print("Input was yes, continuing the process")
                 self.accord = True
@@ -331,8 +324,9 @@ class Text_Miner():
         This section actually loads the text into openai
         :return:
         '''
-        docprogress = 0
+        docprogress = 1
         for docname, text in self.stringdict.items():
+            print(f"'{docname}' \n[{docprogress} out of {len(self.stringdict)} documents]")
             # generate_text_with_prompt splits the prompt into multiple sections if too long
             # then it gets new data from the chatGPT
 
@@ -341,7 +335,7 @@ class Text_Miner():
             self.outputdict.setdefault(docname, [])
             self.outputdict[docname].append(output)
             docprogress += 1
-            print(f"Finished {docname}. {docprogress} out of {len(self.stringdict)}")
+            print('\n')
 
 
     def write_to_file(self, dictionary): # TODO: for some reason this is not consistent
@@ -361,8 +355,11 @@ class Text_Miner():
 
         for document_name, string in dictionary.items():
 
-            doc.add_paragraph(document_name)
-            doc.add_paragraph(string)
+            doc.add_paragraph(document_name) # start with the header of a document name
+            lines = string[0].split('\n')
+            for line in lines: # Break each \n into a new line
+                doc.add_paragraph(line)
+                # doc.add_break(WD_BREAK.LINE)
 
         doc.save('output/' + self.name + '.docx')
 

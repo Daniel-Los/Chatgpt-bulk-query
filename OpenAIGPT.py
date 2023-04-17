@@ -14,12 +14,22 @@ class OpenAIGPT:
 
         # Initialize variables to track rate limiting
         self.last_call_time = None
-        self.min_time_between_calls = 1.0 / 59  # 59 requests per minute
+        self.min_time_between_calls = 1.0 / 59 * 60  # seconds (Max 59 requests per minute)
         self.output = str()
 
         self.prompt_list = []
 
         self.max_tokens = 3000
+
+    def progress_bar(self, current, total, bar_length=20):
+        fraction = current / total
+
+        arrow = int(fraction * bar_length - 1) * '-' + '>'
+        padding = int(bar_length - len(arrow)) * ' '
+
+        ending = '\n' if current == total else '\r'
+
+        print(f'Progress: [{arrow}{padding}] {int(fraction * 100)}%', end=ending)
 
     def generate_text_with_prompt(self, prompt, mode):
         """ Generate text with a prompt and split into tokens of max length n. """
@@ -34,8 +44,6 @@ class OpenAIGPT:
         progress = 0
         query = 0
         generated_text = str()
-        print('prompt list = ', type(self.prompt_list))
-        print(len(self.prompt_list))
 
         for chunck in self.prompt_list:
 
@@ -44,6 +52,7 @@ class OpenAIGPT:
             # Generate text with the OpenAI API
             done = False
             while done is not True:
+                start_time = time.time()
                 try:
                     response = openai.ChatCompletion.create(
                         model="gpt-3.5-turbo",
@@ -54,11 +63,11 @@ class OpenAIGPT:
                             # {"role": "user", "content": chunck + '.'}
                         ],
 
-                temperature = 0.4,  # higher more random
-                # max_tokens = 2000,  # The maximum number of tokens to generate in the completion.
-                top_p = 0.9,  # So 0.1 means only the tokens comprising the top 10% probability mass are considered.
-                frequency_penalty = 0,  # decreasing the model's likelihood to repeat the same line verbatim.
-                presence_penalty = 0  # likelihood to talk about new topics
+                        temperature = 0.5,  # higher more random
+                        # max_tokens = 2000,  # The maximum number of tokens to generate in the completion.
+                        top_p = 0.8,  # So 0.1 means only the tokens comprising the top 10% probability mass are considered.
+                        frequency_penalty = 0,  # decreasing the model's likelihood to repeat the same line verbatim.
+                        presence_penalty = 0,  # likelihood to talk about new topics
 
                     )
 
@@ -71,11 +80,15 @@ class OpenAIGPT:
 
                     # Print the progress counter
                     progress += 1
-                    print(f"Processed {progress} pieces of text out of {len(self.prompt_list)}")
+
+                    # self.progress_bar(progress, len(self.prompt_list))
+                    print(f"\rProcessed {progress} pieces of text out of {len(self.prompt_list)}", sep='', end='')
 
                     # This section times that calls, so we don't exceed 60 calls per minute
-
-                    time.sleep(self.min_time_between_calls)
+                    end_time = time.time()
+                    time_taken = end_time - start_time
+                    if time_taken < self.min_time_between_calls:
+                        time.sleep(self.min_time_between_calls - time_taken)
 
                     self.output += '\n' + generated_text
                     done = True
@@ -103,10 +116,13 @@ class OpenAIGPT:
         return [''.join(chunk) for chunk in chunks]
 
     def summarize(self, outputdict):
+        print('Categoriseren...')
         summarized_dict = {}
-        categorize_mode = "Zet de volgende tekst om in bullets en voorkom herhalingen. Plaats vervolgens alle bullets in de volgende categorieen: 'Mobiliteit (verkeer), Mobiele werktuigen, " \
-           "Industrie, Houtstook van particuliere huishoudens, Binnenvaart en havens, Landbouw, Participatie van burgers " \
-           "en bedrijven, Monitoring, Hoogblootgestelde locaties en gevoelige groepen, Internationaal luchtbeleid of geen"
+        categorize_mode = str("Categoriseer de volgende bulletpoints in de volgende thema's: "
+                            "'Mobiliteit', 'Mobiele werktuigen', "
+                            "'Industrie', 'Houtstook van particuliere huishoudens', 'Binnenvaart en havens', "
+                            "'Landbouw', 'Participatie van burgers en bedrijven', 'Monitoring' en 'geen'."
+                            "Hier zijn de zinnen:\n")
 
         for docname, output in outputdict.items():
             summarized = self.generate_text_with_prompt(prompt = str(output), mode = categorize_mode)
@@ -114,6 +130,7 @@ class OpenAIGPT:
             summarized_dict[docname].append(summarized)
 
         return summarized_dict
+    # why = summarize(x.AI, x.outputdict)
 
 
 

@@ -7,9 +7,9 @@ def api_import():
 
     # check which computer you're working on
     if hostname == 'BT11833':
-        api_key_file = r"C:\Users\d.los\OneDrive - Berenschot\Bureaublad\chatgpt openai key.txt"
+        api_key_file = r"C:\Users\d.los\OneDrive\Bureaublad\Coding\api keys\openai key berenschot.txt"
     elif hostname == 'computer2':
-        api_key_file = r"C:\Users\danie\OneDrive\Bureaublad\Coding\api keys\openai key.txt"
+        api_key_file = r"C:\Users\danie\OneDrive\Bureaublad\Coding\api keys\chatgpt openai key.txt"
     elif hostname == 'BT11557':
         api_key_file = r"C:\Users\r.looijenga\OneDrive - Berenschot\Bureaublad\OpenAI_API_key.txt"
     else:
