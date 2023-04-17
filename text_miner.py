@@ -67,7 +67,7 @@ class Text_Miner():
         #                 )
 
         self.mode = mode
-        self.name = str()
+        # self.name = str()
 
         # TODO: specify modes that this thing can operate with
 
@@ -297,7 +297,7 @@ class Text_Miner():
             doc.add_paragraph(document_name)
             doc.add_paragraph(string)
 
-        doc.save('output/' + self.name + '.docx')
+        doc.save('output/' + self.name + 'doc100.docx')
 
 
     def write_to_xl(self, string):

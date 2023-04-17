@@ -61,9 +61,9 @@ if __name__ == "__main__":
         # if x.accord == True:
         #     x.AI_interact()
         # x.write_to_file()
-
+            return x
     # p = cProfile.run(main())
-    main()
+    x = main()
 
 
 
