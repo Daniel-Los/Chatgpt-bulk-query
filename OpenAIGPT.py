@@ -41,39 +41,47 @@ class OpenAIGPT:
             query = str(mode + '"' +  chunck + '."')
             print(query)
             # Generate text with the OpenAI API
-            response = openai.ChatCompletion.create(
-                model="gpt-3.5-turbo",
+            done = False
+            while done is not True:
+                try:
+                    response = openai.ChatCompletion.create(
+                        model="gpt-3.5-turbo",
 
-                messages=[
-                    {"role": "system", "content": "You are a text processesor. Answer as concisely as possible and in dutch"},
-                    {"role": "user", "content": query + '.'},
-                    # {"role": "user", "content": chunck + '.'}
-                ],
+                        messages=[
+                            {"role": "system", "content": "You are a text processesor. Answer as concisely as possible and in dutch"},
+                            {"role": "user", "content": query + '.'},
+                            # {"role": "user", "content": chunck + '.'}
+                        ],
 
-                temperature = 0,  # higher more random
-                max_tokens = 200,  # The maximum number of tokens to generate in the completion.
-                top_p = 0.9,  # So 0.1 means only the tokens comprising the top 10% probability mass are considered.
-                frequency_penalty = 0,  # decreasing the model's likelihood to repeat the same line verbatim.
-                presence_penalty = 0  # likelihood to talk about new topics
+                        temperature = 0,  # higher more random
+                        max_tokens = 200,  # The maximum number of tokens to generate in the completion.
+                        top_p = 0.9,  # So 0.1 means only the tokens comprising the top 10% probability mass are considered.
+                        frequency_penalty = 0,  # decreasing the model's likelihood to repeat the same line verbatim.
+                        presence_penalty = 0  # likelihood to talk about new topics
 
-            )
+                    )
 
-            # Update the last API call time
-            self.last_call_time = time.monotonic()
+                    # Update the last API call time
+                    self.last_call_time = time.monotonic()
 
-            print(response.choices[0])
-            # Get the generated text from the OpenAI API response
-            generated_text = response.choices[0].message.content
+                    print(response.choices[0])
+                    # Get the generated text from the OpenAI API response
+                    generated_text = response.choices[0].message.content
 
-            # Print the progress counter
-            progress += 1
-            print(f"Processed {progress} pieces of text out of {len(self.prompt_list)}")
+                    # Print the progress counter
+                    progress += 1
+                    print(f"Processed {progress} pieces of text out of {len(self.prompt_list)}")
 
-            # This section times that calls, so we don't exceed 60 calls per minute
+                    # This section times that calls, so we don't exceed 60 calls per minute
 
-            time.sleep(self.min_time_between_calls)
+                    time.sleep(self.min_time_between_calls)
 
-            self.output += '\n' + generated_text
+                    self.output += '\n' + generated_text
+                    done = True
+                except:
+                    print('An error occured: Tryng again...')
+                    time.sleep(self.min_time_between_calls)
+
         return self.output
 
     def tokenize(self, string):
