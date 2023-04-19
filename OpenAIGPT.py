@@ -97,7 +97,7 @@ class OpenAIGPT:
                     print(e)
                     print('Trying again...')
                     time.sleep(self.min_time_between_calls)
-
+                    
         return self.output
 
     def tokenize(self, string):
@@ -118,19 +118,22 @@ class OpenAIGPT:
     def summarize(self, outputdict):
         print('Categoriseren...')
         summarized_dict = {}
-        categorize_mode = str("Categoriseer de volgende bulletpoints in de volgende thema's: "
-                            "'Mobiliteit', 'Mobiele werktuigen', "
-                            "'Industrie', 'Houtstook van particuliere huishoudens', 'Binnenvaart en havens', "
-                            "'Landbouw', 'Participatie van burgers en bedrijven', 'Monitoring' en 'geen'."
-                            "Hier zijn de zinnen:\n")
+        # categorize_mode = str("Categoriseer de volgende bulletpoints in de volgende thema's: "
+        #                     "'Mobiliteit', 'Mobiele werktuigen', "
+        #                     "'Industrie', 'Houtstook van particuliere huishoudens', 'Binnenvaart en havens', "
+        #                     "'Landbouw', 'Participatie van burgers en bedrijven', 'Monitoring' en 'geen'."
+        #                     "Hier zijn de zinnen:\n")
+        categorize_mode = str("Voeg deze teksten samen. Zorg er voor dat je geen informatie verliest. ")
 
+        # This loops through every 'stitched' output from each document.
+        #
         for docname, output in outputdict.items():
             summarized = self.generate_text_with_prompt(prompt = str(output), mode = categorize_mode)
             summarized_dict.setdefault(docname, [])
             summarized_dict[docname].append(summarized)
 
         return summarized_dict
-    # why = summarize(x.AI, x.outputdict)
+
 
 
 

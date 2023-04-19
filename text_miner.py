@@ -15,6 +15,7 @@ import json
 import re
 # Use your own API key
 from api_import import api_import
+from uniquename import uniquename
 
 import io
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
@@ -64,7 +65,8 @@ class Text_Miner():
         #                 )
 
         self.mode = mode
-        self.name = input('set a name for the doc')
+        # self.name = input('set a name for the doc')
+        self.name = str(os.path.basename(root))
 
         # TODO: specify modes that this thing can operate with
 
@@ -107,13 +109,15 @@ class Text_Miner():
         self.doclist = {}
         self.doclist_short = {}
         for root, place, documents in os.walk(self.root):
-
+            print(f'Documents found: {str(documents)}')
             for document in documents:
                 #if document != "Beleidsnota Ruimte voor Ruimte gemeente Zundert _ Lokale wet- en regelgeving.pdf":
                     #continue
-                print(document)
+
                 # add extension name into dict
-                name, extension = document.split(".", 1)
+                # name, extension = document.split(".", 1)
+                name, extension = os.path.splitext(document)
+
                 if extension not in self.doclist.keys():
                     self.doclist[extension] = []
                     self.doclist_short[extension] = []
@@ -199,14 +203,14 @@ class Text_Miner():
         charcount = 0
         for extension in self.doclist.keys():
 
-            if extension == 'pdf':
+            if  extension == '.pdf':
                 for item in self.doclist[extension]:
-                    name = item.split('\\', -1)[-1]
+                    name = item.split('\\', -1)[-1] # os.path.base(item) optional
                     text = convert_pdf_to_txt(item)
                     self.stringdict.setdefault(name, [])
                     self.stringdict[name].append(text)
 
-            if extension == 'docx':
+            if  extension == '.docx':
                 for item in self.doclist[extension]:
                     # counts how many files are processed
                     doccount += 1
@@ -360,8 +364,9 @@ class Text_Miner():
             for line in lines: # Break each \n into a new line
                 doc.add_paragraph(line)
                 # doc.add_break(WD_BREAK.LINE)
-
-        doc.save('output/' + self.name + '.docx')
+            doc.add_paragraph('')
+        name = uniquename('output/'+ self.name + '_gpt.docx')
+        doc.save(name)
 
 
     def write_to_xl(self, string):
@@ -372,7 +377,8 @@ class Text_Miner():
 
         self.df = pd.DataFrame(rows, columns=['Document Name', 'Element'])
 
-        self.df.to_excel('output/' + self.name + '.xlsx')
+        name = uniquename('output/'+ self.name + '_gpt.xlsx')
+        self.df.to_excel(name)
         # View the dataframe
         print(self.df)
 

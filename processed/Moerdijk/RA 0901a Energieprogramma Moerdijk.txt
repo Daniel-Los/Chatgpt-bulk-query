@@ -1,0 +1,1424 @@
+ENERGIEPROGRAMMA
+MOERDIJK 0.9
+
+2
+
+Colofon
+
+Ontwerp/opmaak: JohnGaasbeek.nl
+
+Fotografie: Mediabank Gemeente Moerdijk, Adobe Stock
+
+Uitgave: april 2021
+
+Alle rechten voorbehouden. Niets uit deze uitgave mag worden verveelvoudigd en/of openbaar gemaakt door 
+middel van druk, fotokopie, microfilm of op welke andere wijze dan ook en evenmin in een geautomatiseerd 
+gegevensbestand worden opgeslagen zonder voorafgaande schriftelijke toestemming van Gemeente Moerdijk.
+
+Gemeente Moerdijk   Energieprogramma 0.93
+
+Inhoud
+
+Voorwoord 
+Inleiding 
+Leidende principes 
+
+Waar staat Moerdijk nu? 
+  Elektriciteit 
+  Gebouwde omgeving 
+ 
+  Landbouw en landgebruik 
+  Mobiliteit 
+  Wat leren we van de beschikbare data? 
+
+Industrie 
+
+De Moerdijkse opgave 
+  Elektriciteit 
+  Gebouwde omgeving 
+ 
+  Landbouw en landgebruik 
+  Mobiliteit 
+  Opgaven per sector: de uitvoeringsagenda 
+
+Industrie 
+
+De volgende stap: Moerdijkse Energiedeals 
+
+4
+5
+8
+
+9
+10
+11
+12
+13
+14
+15
+
+16
+16
+20
+23
+24
+25
+27
+
+30
+
+Gemeente Moerdijk   Energieprogramma 0.94
+
+Voorwoord
+
+Een duurzame, vitale en economisch sterke gemeente; dat wil Moerdijk zijn. Het 
+één kan niet los worden gezien van het ander. Als gemeente heb je een rol en 
+verantwoordelijkheid in het tegengaan van klimaatverandering. Wij zetten daarom in op 
+schone en duurzame energiebronnen zoals zon en wind, aardgasvrije wijken en schoon 
+vervoer. Zo dragen we bij aan de klimaatdoelen uit het nationale Klimaatakkoord. Een 
+Energieprogramma helpt daarbij. Het geeft onze visie weer op duurzame energie én 
+schetst hoe we de energietransitie met anderen laten slagen. 
+
+Op naar een duurzaam Moerdijk!
+
+Gemeente Moerdijk   Energieprogramma 0.95
+
+Inleiding
+
+Het klimaat verandert. Dat merken we steeds meer. Wateroverlast, hitte, droogte, bodemdaling en zeespiegelstijging 
+beïnvloeden de leefbaarheid op korte en op lange termijn. Ook in Moerdijk. De stijgende CO2-uitstoot is verreweg de 
+belangrijkste oorzaak van de klimaatverandering. En die CO2-uitstoot is een direct gevolg van ons energiesysteem 
+dat grotendeels is gebaseerd op fossiele brandstoffen. In het Klimaatakkoord van Parijs (2015) en in het nationale 
+Klimaatakkoord (2019) zijn er daarom stevige afspraken gemaakt om verdere klimaatverandering tegen te gaan. Als 
+gemeente willen en moeten we een bijdrage leveren aan deze energietransitie.
+
+Het nationale doel is om de uitstoot van broeikasgassen in Nederland in 2030 met ten minste 49% te verminderen 
+ten opzichte van 1990. In 2050 zelfs met 95%. Ook willen we in 2050 een volledig CO2-neutrale elektriciteitsproductie 
+hebben. Dat betekent dat het gebruik van fossiele brandstoffen steeds meer verandert in volledig duurzame 
+energiebronnen. Moerdijk neemt hierin zijn verantwoordelijkheid en wil ten minste een evenredige bijdrage aan de 
+mondiale en landelijke doelstellingen leveren. We zetten in op schone en duurzame energiebronnen zoals zon en 
+wind, duurzaam verwarmde wijken en schoon vervoer.
+
+Het gaat daarbij niet alleen over een transformatie van het energiesysteem. Het gaat ook over leefstijlveranderingen 
+van mensen. En over een transformatie van de economie, waarin lokale energieproductie ook bijdraagt aan lokale 
+welvaart. In feite gaat het om de ontwikkeling van een fundamentele nieuwe waardenset van waaruit we als 
+mensheid in staat zijn om werkelijk duurzaam te leven. Dat vraagt om een verandering van bestaande systemen, we 
+moeten ingesleten patronen loslaten. De energietransitie is een fundamentele transitie van de hele maatschappij.
+
+Doel Energieprogramma Moerdijk
+
+De energietransitie is van ons allemaal en alleen samen bereiken we het einddoel waarbij we zoveel mogelijk zijn 
+overgestapt op duurzame energie. Met dit Energieprogramma leggen we onze visie en ambities vast voor deze 
+transitie. We schetsen het pad naar een CO2-neutrale toekomst in Moerdijk. We onderscheiden hierin de vijf sectoren 
+die ook in het Klimaatakkoord staan: Elektriciteit, Gebouwde omgeving, Industrie, Landbouw en landgebruik en 
+Mobiliteit. Elke sector heeft immers z’n eigen doelen. 
+
+We noemen dit het Energieprogramma Moerdijk 0.9. Het is nog geen definitief eindproduct. Het moet flexibel zijn, 
+want veel is nog onzeker in de energietransitie. We gaan uit van wat we nu weten en verwachten, maar moeten zeker 
+onderweg de plannen bijstellen.  Een transitie als deze gaat gepaard met vallen en opstaan. Het Energieprogramma 
+zal daarom regelmatig herijkt worden. 
+
+Na vaststelling van dit Energieprogramma gaan we op sectorniveau afspraken maken, we noemen dat Moerdijkse 
+Energiedeals. Dit leidt tot een concrete uitvoeringsvoeringsagenda  in samenwerking met (lokale) partners. Zo 
+vertalen we de doelen uit het Klimaatakkoord naar acties in Moerdijk.
+
+Gemeente Moerdijk   Energieprogramma 0.96
+
+Van het Klimaatakkoord van Parijs naar lokale acties in Moerdijk
+
+Gemeente Moerdijk   Energieprogramma 0.97
+
+Ambitie 
+
+In 2050 hebben we een volledig CO2-neutraal energiesysteem in Nederland. In Moerdijk leveren we daar een 
+evenredige bijdrage aan. Dat is de stip op de horizon die we in de lokale energietransitie nastreven. We doen dat onder 
+het motto Krachtig Ondernemend Partnerschap, dat ook centraal staat in het coalitieprogramma. De komende tijd 
+werken we met onze partners uit wat deze evenredige bijdrage concreet inhoudt. 
+
+We beseffen dat we het systeem niet alleen kunnen veranderen en zoeken daarom de juiste coalities om samen onze 
+klimaatdoelen te bereiken. De energietransitie is van ons allemaal, en alleen samen bereiken we het einddoel.
+
+We streven er naar dat iedereen mee kan doen aan de energietransitie. Onze inzet op sociale randvoorwaarden (en 
+lokaal voordeel) bij windenergieprojecten was daar al op gericht en dat blijven we doen. Ook biedt de energietransitie 
+veel kansen voor nieuwe bedrijvigheid, innovatie en extra werkgelegenheid. Bijvoorbeeld in combinatie met circulaire 
+economie, dat belangrijk is voor het Haven- en industrieterrein Moerdijk. 
+
+Vanwege datzelfde haven- en industrieterrein streven we niet naar een energieneutrale gemeente.  Dit terrein is 
+namelijk niet alleen een grote bovenregionale banenmotor, maar er wordt ook bijzonder veel energie verbruikt én 
+opgewekt. Het is daarom voorlopig niet realistisch om te gaan voor een energieneutraal Moerdijk. En dat hoeft ook 
+niet, want we streven naar een CO2-neutraal energiesysteem in heel Nederland. Zo dragen de vele windparken op zee 
+ook bij aan die doelstelling en kan de restwarmte van onze industrie ook worden ingezet buiten de gemeentegrenzen.
+
+Hoe dan ook zetten we ons in voor de maximaal haalbare energiebesparing, zodat lokale duurzame energieproductie 
+zo min mogelijk ruimte in beslag neemt. Onnodig energieverbruik kennen we in 2050 niet meer.
+
+Transitiedenken
+
+Het is belangrijk om te beseffen dat ingrijpende systeemveranderingen, zoals de 
+energietransitie, gepaard gaan met (een grote mate van) onzekerheid. Soms is 
+het zelfs chaotisch. We bouwen aan een nieuw systeem, terwijl het oude systeem 
+gelijktijdig stukje bij beetje wordt afgebroken. Daar moeten we ons bewust van 
+zijn, ermee leren omgaan en samen standvastig en vastberaden doorzetten . 
+Het zal niet altijd even duidelijk zijn of ons handelen het beoogde effect heeft. 
+Maar we kunnen gelukkig veel doen. Transities gaan gepaard met vallen en 
+opstaan, nieuwe wegen inslaan, oude paden afsluiten, soms weer omkeren en 
+een andere weg verkennen. We doen dit alles echter vanuit het besef dat de 
+systeemverandering noodzakelijk is om een duurzame samenleving te bereiken, 
+waarin we gezond en welvarend kunnen leven. De Moerdijkse gemeenschap is net 
+als Nederland sterk genoeg om deze transitie voor elkaar te krijgen. 
+
+Gemeente Moerdijk   Energieprogramma 0.98
+
+Leidende principes
+
+In onze lokale bijdrage aan de energietransitie willen we richting houden en een consequente beleidslijn volgen. 
+Daarvoor zijn leidende principes nodig. Wij hebben er vijf. Hieraan toetsen we alle initiatieven in de Moerdijkse 
+energietransitie.
+
+1. We zetten in op een haalbare en betaalbare energietransitie
+  Alleen dan kan de energietransitie in Moerdijk slagen. In de 
+
+energietransitie spelen veel belangen. De duurzame alternatieven 
+moeten dus maatschappelijk geaccepteerd zijn en alle betrokken partijen 
+zullen actief moeten samenwerken en naar vermogen moeten bijdragen. 
+Energiearmoede - het verschijnsel dat de energielasten steeds zwaarder 
+drukken op het besteedbaar inkomen - moet worden voorkomen.
+
+2. We werken aan de energietransitie vanuit lokaal draagvlak en initiatief,  
+    zonder daarbij de noodzaak van klimaatactie uit het oog te verliezen
+  We stimuleren en faciliteren gemeenschap(pen)/inwoners om zelf actief 
+
+Energiearmoede voorkomen
+
+Eén van de concrete risico's is 
+dat mensen die (financieel of 
+technisch) niet mee kunnen in de 
+energietransitie, achterblijven met 
+een koud huis of een torenhoge 
+energierekening. Onze inzet is er 
+op gericht om dat te voorkomen.
+
+met de energietransitie aan de slag te gaan. Dat betekent dat we vaak zullen vertrekken vanuit een smal en diep 
+draagvlak, met de inzet om het draagvlak steeds breder te maken. Soms zullen er echter ook besluiten noodzakelijk 
+zijn, die niet ontstaan uit lokaal initiatief. Hierbij gaan we wel steeds op zoek naar de (lokale) maatschappelijke 
+meerwaarde in samenwerking met de lokale gemeenschap. 
+
+3. We zetten in op bewezen technologieën en bieden ruimte voor innovaties
+  Om op korte termijn de energietransitie te versnellen zet Moerdijk in op het toepassen en opschalen van bewezen 
+technologie. Om de lange termijn doelstelling te realiseren stimuleren we nieuwe ontwikkelingen en innovaties die 
+hier een bijdrage aan kunnen leveren. We staan steeds open voor nieuwe en betere technieken.
+
+4. We benaderen de energietransitie als onderdeel van een maatschappelijke transitie
+  De energietransitie is meer dan een technische opgave. Het is een onderdeel van een bredere maatschappelijke 
+
+transitie. We leggen uitdrukkelijk de koppeling met andere maatschappelijke doelen, omdat we willen dat de 
+energietransitie lokale gemeenschappen versterkt en bijdraagt aan de leefbaarheid en vitaliteit van onze kernen en 
+het buitengebied. De energietransitie kan alleen slagen als we ook een systeemverandering doorgaan. Integraal 
+duurzaam denken en doen is een belangrijke sleutel tot een duurzame samenleving.
+
+5. We doen het samen en geven zelf het goede voorbeeld
+  De energietransitie is groot en ingewikkeld. Een bundeling van daadkracht, investeringen, kennis en kunde is hierbij 
+
+nodig. Dus werkt de gemeente samen met inwoners, bedrijven en organisaties voor het maken van plannen en 
+uitvoeren van projecten. Het goede voorbeeld geven is hierbij een belangrijk uitgangspunt voor de gemeente. Want 
+alleen als het voorbeeld gezien wordt, kun je er anderen mee inspireren, overtuigen of uitdagen.
+
+Gemeente Moerdijk   Energieprogramma 0.99
+
+Waar staat Moerdijk nu?
+
+De opgave waar we voor staan is niet nieuw. In eerdere 
+gemeentelijke beleidskaders was ook al aandacht voor de 
+energietransitie. Zo zijn in de Strategische visie Moerdijk 2030, 
+de Paraplunota Leefomgeving en de Nota Windenergie al diverse 
+doelen gesteld. Deze doelen hadden echter vooral betrekking 
+op een beperkt deel van het energiesysteem, hoofdzakelijk de 
+bijdrage aan duurzame energieproductie en het reduceren van 
+energieverbruik in de gebouwde omgeving. De afspraken in 
+het Klimaatakkoord richten zich vooral op de reductie van de 
+CO2-uitstoot en bevatten ook doelen voor de energietransitie 
+in sectoren als mobiliteit, industrie en landbouw.  Daar hebben 
+wij tot op heden beleidsmatig nog weinig aandacht voor 
+gehad. Deze sectoren zijn in  onze gemeente echter wel stevig 
+vertegenwoordigd. Onze doelstellingen uit het verleden sluiten 
+daarom onvoldoende aan op de actualiteit. De opgave is 
+inmiddels een stuk groter dan we in enkele jaren geleden hadden 
+kunnen voorzien. Bovendien blijkt dat de eerder gestelde doelen 
+zeer beperkt meetbaar zijn (zie voorbeeld in kader).
+
+Wat vinden de bewoners? 
+
+Ook voor onze inwoners is de energietransitie 
+niet nieuw. In een bewonerspeiling in 2019 
+gaf 89% van de respondenten aan (enigszins) 
+bekend te zijn met de warmtetransitie. 
+77% van het inwonerspanel geeft aan de 
+energietransitie (zeer) belangrijk te vinden. Zij 
+willen dat zowel inwoners als de gemeente 
+zich actiefinzetten voor energiebesparing 
+en duurzame energie. Dit herkennen we in 
+gesprekken die we lokaal voeren over de RES, 
+het Energieprogramma en de Transitievisie 
+Warmte. 
+
+Lastig meetbaar
+
+Onze doelstelling uit de Paraplunota 
+Leefomgeving 2012-2030 om jaarlijks 
+2% energie te besparen in de gebouwde 
+omgeving, blijkt niet meetbaar. Zo wordt 
+bijvoorbeeld het energieverbruik van 
+elektrische auto’s meegeteld in het verbruik 
+van woningen, terwijl het verbruik van 
+de benzine- of dieselauto die door de 
+elektrische auto is vervangen, eerder onder 
+mobiliteit werd meegerekend. 
+
+Om te bepalen in hoeverre onze acties bijdragen aan de 
+vermindering van energieverbruik en CO2-uitstoot, is het goed 
+om te weten waar we in de gemeente Moerdijk nu staan qua 
+opwek, verbruik en uitstoot. We gebruiken hiervoor de data 
+die worden gepresenteerd in de nationale Klimaatmonitor van 
+het Rijk. Het biedt voor nu de meest actuele en complete data. 
+Helaas is de beschikbare data niet in alle gevallen volledig of 
+actueel. Zo wordt het verbruik van (industriële) grootverbruikers 
+veelal afgeschermd, omdat dit bedrijfsgevoelige informatie is. 
+Ook zien we dat het niet of nauwelijks mogelijk is om op lokale 
+schaal terug te kijken naar de situatie in het jaar 1990, het jaar 
+waaraan de landelijke doelstellingen zijn gerelateerd. Toch is het 
+zeker zinvol om inzicht te hebben in de data die wel beschikbaar 
+is. Voor zover de openbare data betrouwbaar is, presenteren we 
+die hieronder. We kunnen weliswaar slechts beperkt bijhouden 
+in hoeverre we bijdragen aan de landelijke doelstellingen, maar 
+naar de toekomst toe wel tot op zekere hoogte monitoren of we 
+op de goede weg zijn.  
+
+Gemeente Moerdijk   Energieprogramma 0.910
+
+Elektriciteit
+
+Binnen de sector Elektriciteit ligt de focus op het opwekken van duurzame/hernieuwbare elektriciteit, waarvan 
+er in Moerdijk momenteel 2.172 TJ wordt opgewekt per jaar. Naast zon en wind zien we in de brongegevens van 
+de Klimaatmonitor ook nog een fors aandeel hernieuwbare energie uit ‘Overige bronnen’. Deze energie wordt 
+opgewekt uit de verbranding van afval, biomassa en stortgas, en wordt in de Klimaatmonitor nog gekwalificeerd als 
+hernieuwbare energie. In hoeverre deze bronnen ook in de toekomst als hernieuwbaar gekwalificeerd blijven, moet 
+nog blijken.  De productie van elektriciteit uit deze bronnen geeft immers ook CO2-emissies. Hoe veel CO2-emissie 
+er gepaard gaat met de productie van elektriciteit uit hernieuwbare bronnen is op dit moment echter niet uit de ons 
+beschikbare data op te maken.
+
+Eenheden van energie
+
+Om de energetische waarde van de verschillende energiebronnen en 
+-verbruikers met elkaar te kunnen vergelijken, drukken we die uit in 
+TerraJoules (TJ). Op die manier kunnen we de energetische waarde van 
+elektriciteit vergelijken met de energetische aarde van aardgas, of andere 
+energiebronnen.  Zo kunnen we op langere termijn, als energiebronnen 
+onderling worden vervangen, toch zien in hoeverre er sprake is van een 
+toe- of afname van het totale energieverbruik. Immers, wanneer we geen 
+aardgas meer verbranden om woningen te verwarmen zullen we daarvoor 
+wel elektriciteit verbruiken. Dat geldt ook voor de elektrificatie van vervoer. 
+Het is dan ook zeker te verwachten dat het elektriciteitsverbruik zal gaan 
+toenemen, terwijl toch de CO2-uitstoot daalt. Om die reden geven we waar 
+mogelijk ook inzicht in de CO2-uitstoot per sector.  
+
+Duurzame opwek elektriciteit in Moerdijk (in TJ)
+
+  Zonnepanelen (2019)
+  Windmolens (2019)
+  Overige bronnen (2018)
+
+176
+
+389
+
+1607
+
+Bron: Klimaatmonitor.databank.nl
+
+Gemeente Moerdijk   Energieprogramma 0.911
+
+Gebouwde omgeving
+
+De ‘gebouwde omgeving’ bestaat uit woningen en gebouwen voor maatschappelijke en commerciële dienstverlening. 
+We bekijken hiervan het totale energieverbruik. Het is belangrijk om te beseffen dat hier ook het elektriciteitsverbruik 
+van elektrische voertuigen en werktuigen wordt meegerekend. Energieverbruik in de industrie en de agrarische sector 
+blijft hier buiten beschouwing. 
+
+In 2018 was het energieverbruik in de gebouwde omgeving van Moerdijk 1905 TJ. Daarmee is 157.983 ton CO2 
+uitgestoten. Als we door de jaren heen kijken, blijkt dat in woningen steeds minder energie wordt verbruikt. De CO2-
+uitstoot daalt daarin mee. Echter, in de commerciële dienstverlening is vooralsnog een toename van energieverbruik 
+en CO2-uitstoot zichtbaar.  Opvallend in deze gegevens is dat de CO2-uitstoot per verbruikte TJ in woningen lager 
+is dan de CO2-uitstoot per gebruikte TJ in de commerciële dienstverlening.  Dit is te verklaren door verschillen in de 
+gebruikte energiemix. In de commerciële dienstverlening (bedrijven) wordt verhoudingsgewijs meer elektriciteit dan 
+gas gebruikt. Omdat de totale hoeveelheid gebruikte elektriciteit in Nederland nog maar voor een klein deel duurzaam 
+wordt opgewekt, is de CO2-uitstoot van dat elektriciteitsverbruik op dit moment nog hoger. Naarmate de elektriciteit in 
+Nederland steeds meer duurzaam wordt opgewekt, zal de CO2-uitstoot daarvan af gaan nemen.
+
+Energieverbruik Gebouwde Omgeving Moerdijk (2018) 
+in TJ
+
+  Woningen
+  Publieke dienstverlening
+  Commerciële dienstverlening
+
+916
+
+839
+
+150
+
+CO2-uitstoot Gebouwde Omgeving Moerdijk (2018) 
+in ton
+
+  Woningen
+  Publieke dienstverlening
+  Commerciële dienstverlening
+
+82.240
+
+62.941
+
+12.802
+
+Bron: Klimaatmonitor.databank.nl
+
+Bron: Klimaatmonitor.databank.nl
+
+Gemeente Moerdijk   Energieprogramma 0.912
+
+Industrie
+
+In de sector Industrie ligt de focus op energiebesparing en verduurzaming van het energieverbruik in de industriële 
+processen. De data hiervan zijn echter slechts beperkt openbaar, vanwege de bedrijfsgevoelige aard ervan (de 
+data is mogelijk herleidbaar naar individuele bedrijven). En wat openbaar beschikbaar is, is zeer onvolledig. Deze 
+publieke data zijn daarom vooralsnog ongeschikt voor het monitoren van de energietransitie van de industrie in 
+de gemeente Moerdijk. Wel beseffen we dat ons haven- en industrieterrein een grote verbruiker is. Het is in theorie 
+mogelijk om meer inzicht te verkrijgen in de exacte data van de lokale industrie, maar dat vraagt om specialistisch 
+onderzoek en het opzetten van een goed monitoringssysteem. Echter, landelijk werken alle grote industrieclusters 
+momenteel aan inzicht in hun energieverbruik en de te verwachten wijzigingen daarin gedurende de energietransitie 
+in de zogenaamde CES (Cluster Energie Strategie). En lokaal organiseert het Havenbedrijf al een Industrietafel 
+Energietransitie. Daarmee ontstaat de komende jaren steeds meer inzicht in de lokale situatie in het industriecluster 
+Moerdijk. Om die reden achten wij het niet zinvol om op dit moment een eigen onderzoek en monitoringssysteem op 
+te zetten, maar maken we de keuze om de resultaten van deze andere trajecten af te wachten.
+
+Gemeente Moerdijk   Energieprogramma 0.913
+
+Landbouw en landgebruik
+
+In de sector Landbouw en landgebruik verbruiken de gebouwen veel energie, in 2019 was dat in totaal 679 TJ. 
+Daarmee is 43.097 ton CO2 uitgestoten. Met name het gasverbruik is hoog. Dat komt vooral door de glastuinbouw die 
+met de verbranding van aardgas in Warmte-krachtkoppeling-installaties (WKK) warmte en elektriciteit opwekt, plus 
+CO2 als voeding voor de planten. Door energiebesparende maatregelen (zoals kouder telen en dubbele schermen) 
+is het aardgasverbruik de laatste jaren wel duidelijk afgenomen. Ook is er recentelijk bij één bedrijf een geothermie-
+project in gebruik genomen.
+
+Energieverbruik Landbouw in Moerdijk (2019) in TJ
+
+  Aardgas
+  Elektriciteit
+
+106
+
+570
+
+CO2-uitstoot Landbouw in Moerdijk (2019) in ton
+
+  Aardgas
+  Elektriciteit
+
+10.864
+
+32.233
+
+Bron: Klimaatmonitor.databank.nl
+
+Bron: Klimaatmonitor.databank.nl
+
+Gemeente Moerdijk   Energieprogramma 0.914
+
+Mobiliteit
+
+Voor de sector Mobiliteit wordt op dit moment alleen het energieverbruik uit fossiele brandstoffen gemonitord. Het 
+energieverbruik van elektrische voertuigen, dus ook elektrisch railverkeer, wordt gerekend tot de gebouwde omgeving. 
+Het energieverbruik uit fossiele brandstoffen wordt bovendien berekend op basis van landelijke totalen, die via een 
+verdeelmodel worden toegerekend aan de gemeenten. Het werkelijke energieverbruik uit fossiele brandstoffen kan 
+daarom enigszins afwijken van deze data.  In 2018 werd er op basis van deze benadering 4.440 TJ energie verbruikt 
+in de mobiliteit in Moerdijk. Daarmee werd 322.631 ton CO2 uitgestoten.
+
+Energieverbruik Mobiliteit in Moerdijk (2018) in TJ
+
+950
+
+178
+
+9
+
+3.303
+
+  Wegverkeer
+  Mobiele werktuigen
+  Binnen- en recreatievaart
+  Railverkeer (alleen diesel)
+
+CO2-uitstoot Mobiliteit in Moerdijk (2018) in ton
+
+635
+
+68.949
+
+12.906
+
+240.141
+
+  Wegverkeer
+  Mobiele werktuigen
+  Binnen- en recreatievaart
+  Railverkeer (alleen diesel)
+
+Bron: Klimaatmonitor.databank.nl
+
+Bron: Klimaatmonitor.databank.nl
+
+Gemeente Moerdijk   Energieprogramma 0.915
+
+Wat leren we van de beschikbare data?
+
+We constateren dat de monitoringsgegevens van de verschillende sectoren niet geheel synchroon lopen in de tijd. 
+Soms zijn de data tot 2018 bijgewerkt, soms zijn ze recenter. Bovendien is niet altijd duidelijk hoe compleet de data 
+zijn. Of het is juist duidelijk dat de data verre van compleet zijn, zoals voor de sector Industrie. Daarnaast zien we 
+door de jaren heen een verschuiving van verbruik van de ene sector naar de andere (bijvoorbeeld van Mobiliteit naar 
+Gebouwde omgeving, bij elektrificatie). En ten slotte constateren we dat de verbruiksdata van de sector Mobiliteit 
+wordt toegerekend aan onze gemeente, op basis van de landelijke cijfers en het aantal kilometers wegen, spoor en 
+vaarwegen in de gemeente. Hierdoor is het erg lastig om op basis van deze gegevens goed te monitoren wat de 
+lokale effecten zijn van ons gevoerde beleid. 
+
+Toch zijn er wel wat grove conclusies te trekken. Qua energieproductie scoren we erg hoog, zowel wat betreft echt 
+duurzame energiebronnen zoals wind en zon, als wat betreft hernieuwbare bronnen die wel een CO2-uitstoot kennen. 
+Laten we het verbruik van de industrie buiten beschouwing, dan wekken we op dit moment al bijna 30% van al onze 
+verbruikte energie op uit hernieuwbare bronnen. En als we alleen kijken naar energie uit wind en zon, wekken we bijna 
+30% op van wat er in de gehele gebouwde omgeving in Moerdijk wordt verbruikt. De komende jaren zal het aandeel 
+duurzame energie uit wind en zon nog fors gaan toenemen, vanwege de windparken die al in aanbouw zijn en de 
+grote daken die gevuld zullen worden met zonnepanelen.
+
+Het energieverbruik in woningen, de publieke dienstverlening en de agrarische sector vertoont al enkele jaren 
+een dalende lijn, net als de CO2-uitstoot. In de commerciële dienstverlening en mobiliteit zien we echter een 
+tegenovergestelde beweging. Daar nemen energieverbruik en CO2-uitstoot nog steeds toe. 
+
+De totale productie van duurzame energie en het energieverbruik in de sectoren 
+Gebouwde omgeving, Landbouw en landgebruik en Mobiliteit in Moerdijk
+
+Energieproductie
+
+(2019) [TJ]
+
+Energieverbruik
+
+(2019) [TJ]
+
+7.000
+
+6.000
+
+5.000
+
+4.000
+
+3.000
+
+2.000
+
+1.000
+
+0
+
+  Wind
+  Zon
+  Overig
+
+  Gebouwde omgeving
+  Landbouw en Landgebruik
+  Mobiliteit
+
+Gemeente Moerdijk   Energieprogramma 0.916
+
+De Moerdijkse opgave
+
+Aan de hand van het nationale Klimaatakkoord (2019) en 
+de beschikbare data hebben we met interne en externe 
+deskundigen gesproken over de Moerdijkse opgave. Zo hebben 
+we de landelijke opgave per thema uit het Klimaatakkoord 
+gespecificeerd voor de gemeente Moerdijk. Dit vertaalt zich
+in lokale acties en koppelkansen waarmee concrete stappen 
+vooruitgezet kunnen worden en mogelijkheden worden verkend. 
+Na vaststelling van dit Energieprogramma werken we dit samen 
+met de betrokkenen in de diverse sectoren uit in Moerdijkse 
+Energiedeals.
+
+Elektriciteit 
+
+Energie A16: molens met lokaal 
+voordeel
+
+Langs de A16 zijn 28 windmolens gepland. 
+Binnen de gemeente Moerdijk zijn dat er 
+7. Het rendement van een kwart van ieder 
+windpark investeren we in lokale, sociale 
+energieprojecten die gaan over twee 
+onderwerpen: energie besparen en energie 
+schoon opwekken. Het is de bedoeling 
+dat iedereen in Moerdijk kan meedoen. Zo 
+helpen deze windmolens inwoners om te 
+verduurzamen.
+
+Productie
+In het nationale Klimaatakkoord staat een forse ambitie met 
+betrekking tot de lokale opwekking van elektriciteit. In de Regionale Energie Strategie West-Brabant (RES) zijn met alle 
+omliggende gemeentes afspraken gemaakt over ieders bijdrage daarin. Voor Moerdijk betekent dit dat:
+
+•  De lopende windprojecten op het Industrieterrein Moerdijk en langs de A16 worden gerealiseerd. We zien toe op 
+de uitvoering en faciliteren de gemeenschap bij het inzetten van de revenuen uit de windfondsen. Hierbij werkt de 
+gemeente samen met Stichting Energietransitie Moerdijk (STEM)1 én de lokale gemeenschappen. 
+
+•  De repowering2 van de windparken Volkeraksluizen en Sabinadijk, zoals door de gemeenteraad al vastgelegd in 
+
+de Nota Windenergie 2013, wordt uitgevoerd. De twee bestaande windparken worden vervangen door één nieuw 
+windpark. Het zoekgebied voor 
+de nieuwe windmolens is globaal 
+vastgelegd in de RES. Dit ligt grofweg 
+ingeklemd tussen de snelweg A4, 
+het Hollands Diep en bedrijventerrein 
+Dintelmond. De komende jaren 
+onderzoeken we hoe hier invulling 
+aan gegeven kan worden. De 
+vergunningverlening vindt uiterlijk in 
+2025 plaats.
+
+Een groep inwoners uit Fijnaart heeft het initiatief genomen voor een 
+collectief zonnepark in het dorp. Dit doen ze samen met Stichting 
+Energietransitie Moerdijk (STEM). De initiatiefnemers willen dat zoveel 
+mogelijk inwoners van Fijnaart meedoen met dit zonnepark. 
+
+Lokale initiatieven: energie van en voor de gemeenschap
+
+•  Er veel meer zonnepanelen op daken 
+geplaatst gaan worden. Voordat we 
+ruimte bieden aan grondgebonden 
+zonneparken in het landelijk gebied, 
+
+Ook in Klundert ontwikkelt Stichting Energietransitie Moerdijk (STEM) 
+samen met de gemeente Moerdijk en energieprovider Vattenfall een 
+zonnepark. Dit komt voort uit de sociale randvoorwaarden die zijn 
+afgesproken bij de bouw van de windmolens op het industrieterrein.  
+Inwoners profiteren zo mee van de opbrengsten.
+
+1 STEM is als zelfstandige organisatie ontstaan uit een samenwerking tussen gemeente en Energiek Moerdijk en geeft invulling aan de afspraken 
+over lokale sociale en financiële participatie bij grote energieprojecten.
+2 Repowering is een Engelse term voor het vergroten van de efficiëntie van installaties die energie produceren. Bij repowering van windmolens 
+gaat het doorgaans over de vervanging van kleinere windmolens door grotere, waardoor er met minder windmolens meer energie opgewekt kan 
+worden. 
+
+Gemeente Moerdijk   Energieprogramma 0.917
+
+willen we namelijk eerst de enorme potentie van zonnepanelen op daken benutten. Want die is er zeker, met veel 
+grote gebouwen met geschikte daken in Moerdijk. Niet alleen op de bedrijven- en industrieterreinen, maar ook 
+in de agrarische sector zijn er daken beschikbaar die benut kunnen worden voor energieopwek. Vanuit de RES 
+wordt hiervoor een regionaal versnellingsteam Zon op bedrijfsdaken ingesteld. Bovendien zijn er binnen bestaand 
+bebouwd gebied diverse grondgebonden locaties die commercieel niet uitgeefbaar zijn (zoals restruimtes binnen 
+het Haven- en industrieterrein) of die de komende jaren naar verwachting niet worden gebruikt voor andere 
+ruimtelijke ontwikkelingen zoals woningbouw (braakliggende gronden). We benutten bij voorkeur eerst deze ruimtes 
+voor de opwek van zonne-energie, omdat we zorgvuldig ruimtegebruik belangrijk vinden.  
+
+•  Kansen voor het combineren van zonnepanelen en windmolens op dezelfde netaansluiting worden verkend. 
+Windmolens en zonnepanelen produceren zelden gelijktijdig op hun piekvermogen, terwijl de netaansluiting 
+daar wel op is ontworpen. De netaansluiting van bestaande of nieuw te realiseren windmolens kunnen daarom 
+in principe mede gebruikt worden voor de aansluiting van grote hoeveelheden zonnepanelen. Zo wordt het 
+bestaande netwerk optimaal gebruikt om méér energie op te wekken. Dit wordt ook wel cablepooling genoemd. 
+Om hier zorgvuldig op in te spelen is een beleidskader wenselijk. Onderzocht moet worden welke sturingsmiddelen 
+de gemeente hier in heeft, welke kansen er bij de verschillende windparken zijn en in hoeverre de ruimtelijke 
+consequenties acceptabel zijn.
+
+•  Het niet vanzelfsprekend is dat iedere vergunning voor onbeperkte tijd wordt afgegeven. Windmolens en 
+
+zonnepanelen zijn nu hard nodig om de doelstellingen te behalen, maar als er over 15 jaar betere technologieën zijn 
+ontwikkeld, is het niet vanzelfsprekend dat de huidige windmolens nog een keer vervangen kunnen worden door 
+nieuwe.
+
+Gemeente Moerdijk   Energieprogramma 0.918
+
+Betrouwbare energievoorziening 
+Door een verschuiving van centrale naar lokale opwekking van elektriciteit is een forse uitbreiding van de beschikbare 
+netcapaciteit nodig, evenals een flexibel energiesysteem dat ervoor zorgt dat vraag en aanbod matchen. Voor 
+Moerdijk zien we de volgende ontwikkelingen: 
+ 
+•  Er zal de komende jaren steeds vaker sprake zijn van transportschaarste op het elektriciteitsnet. Dat betekent dat 
+
+er onvoldoende transportcapaciteit is om nieuwe grote (duurzame) energieproducerende installaties aan te sluiten. 
+Voldoende netcapaciteit is een voorwaarde voor een succesvolle energietransitie. Wij stemmen hierover regionaal 
+af in een Programmeringsoverleg met andere overheden en de netbeheerders, om de inzet van de capaciteit van 
+het bestaande netwerk te optimaliseren.
+
+•  Door toepassing van cablepooling (zon en wind op één 
+
+aansluiting), peak-shaving (aansluitwaarde lager dan 
+piekvermogen productie-installatie) en tijdelijke opslag 
+(elektriciteit opslaan tot er voldoende netcapaciteit is om te 
+leveren) kunnen we meer duurzame energie opwekken binnen 
+de bestaande netwerkcapaciteit. Hiermee optimaliseren 
+we het netwerk en het beperken we bovendien de 
+maatschappelijke kosten van de energietransitie. 
+
+•  Ook de elektriciteitsvraag zal in onze gemeente nog fors gaan 
+
+toenemen. Onder andere doordat de verduurzaming van de 
+industrie gepaard gaat met elektrificatie en het elektrisch 
+vervoer zal groeien. De energie-infrastructuur zal naast 
+optimalisatie daarom ook moeten worden uitgebreid. Naar 
+verwachting ontstaat er op termijn behoefte aan één of meer 
+extra hoogspanningsstations. De gemeentelijke invloed op dit 
+proces is beperkt. 
+
+Waterstof
+
+We worden regelmatig gevraagd 
+waarom we niet veel meer inzetten op 
+productie van waterstof. Waterstof is een 
+energiedrager, geen energiebron zoals 
+wind of zon. Waterstof is dus een mogelijk 
+opslagmedium voor (tijdelijk) overtollige 
+duurzame elektriciteit. Bij het omzetten van 
+elektriciteit naar waterstof (en eventueel 
+weer terug naar elektriciteit) gaat echter nog 
+veel van de energetische waarde verloren. 
+Met de huidige stand der techniek en het 
+beperkte aandeel duurzaam opgewekte 
+energie is het opslaan van overtollige 
+elektriciteit in waterstof daarom op dit 
+moment nog niet erg voor de hand liggend. 
+
+•  Op ons industrieterrein zijn reeds diverse 
+
+elektriciteitproducerende installaties aanwezig in de vorm van 
+gascentrales en afvalverwerkers. De verwachting is dat deze nog langere tijd een belangrijke rol blijven spelen in 
+de productie van elektriciteit, omdat er nationaal nog onvoldoende duurzame energie beschikbaar is. De centrales 
+vormen bovendien een belangrijke back-up voor het elektriciteitssysteem. Het is in dit kader belangrijk om te 
+beseffen dat daardoor de lokale CO2-uitstoot mogelijk minder snel zal afnemen dan de landelijke trendlijn. 
+
+•  Door de aanwezigheid van grote energieverbruikers (en potentiële warmteleveranciers) in ons Haven- en 
+
+Industriegebied Moerdijk en de Amercentrale in Geertruidenberg is er potentie voor  het realiseren van een 
+zogenaamde (boven)regionale energiehub. In diverse regionale samenwerkingsverbanden wordt daar op ingezet, 
+zoals in de Samenwerkingsagenda Regio West-Brabant & Provincie Noord-Brabant en in de RES. Hierdoor is het 
+gebied eveneens aantrekkelijk om op termijn meer grootschalige energieproductie toe te voegen. Ons uitgangspunt 
+daarbij is dat uitbreiding van grootschalige lokale energieproductie altijd in balans moet zijn met leefbaarheid en 
+lokale en sociale participatie een vereiste is.  
+
+Gemeente Moerdijk   Energieprogramma 0.919
+
+Participatie 
+Wij maken al enkele jaren afspraken met projectontwikkelaars over lokale participatie bij windmolenprojecten. Niet 
+alleen in de planvorming, maar ook in financiële zin. Voor Moerdijk zien we de volgende opgaven: 
+ 
+•  We streven naar lokaal draagvlak of acceptatie. Veel nieuwe ontwikkelingen starten vanuit een smal en diep 
+
+draagvlak. Om ook breder draagvlak te creëren, betrekken we zowel de lokale gemeenschap als professionele 
+stakeholders bij het maken van beleidskeuzes en 
+locatiestudies voor nieuwe grootschalige energieprojecten. 
+Dit doen we zonder daarbij de noodzaak van ons handelen uit 
+het oog te verliezen. Voor sommige noodzakelijke ingrepen zal 
+draagvlak immers niet haalbaar zijn. In die gevallen streven we 
+naar een zo hoog mogelijke mate van acceptatie (zie ook de 
+leidende principes). 
+
+Burenregeling windpark Oud Dintel
+
+De gemeente Moerdijk heeft een 
+subsidieregeling opengesteld voor de 
+eigenaren van 14 woningen nabij windpark 
+Oud Dintel. Daar is het geluidsniveau 42 
+decibel of hoger. Met de subsidie kunnen de 
+huiseigenaren maatregelen treffen voor extra 
+wooncomfort, een lagere energierekening en 
+minder CO2-uitstoot.
+
+•  We streven naar minimaal 50% lokale financiële participatie 
+
+in grote energieprojecten (conform Klimaatakkoord). Dat 
+wil zeggen dat de lokale gemeenschap in de gelegenheid 
+wordt gesteld om financieel deel te nemen aan grote 
+energieprojecten in de gemeente. Wanneer meer dan 50% 
+lokale financiële participatie haalbaar is, is dat prima. Maar 
+omdat financiële participatie ook gemoeid gaat met financiële risico’s en professionele ontwikkelaars bovendien 
+professionaliteit verwachten van participanten, zal 100% lokaal eigendom vaak niet haalbaar zijn. Per project 
+maken we hierover passende afspraken met de betrokken initiatiefnemers. Tevens verkennen we in RES-verband de 
+mogelijkheden om de benodigde professionaliteit te borgen en financiële risico’s te minimaliseren.
+
+•  De ingezette lijn uit de Notitie Windenergie 2013 zetten we daarmee voort en breiden die uit naar andersoortige 
+
+energieprojecten (anders dan alleen windmolens). Zo blijft een deel van de winst ook in het gebied waar deze 
+gemaakt wordt. Naast een winstuitkering aan de lokale financiële participanten, streven we er naar om een deel van 
+de winst ook in een energietransitiefonds te laten vloeien. Vanuit dit fonds kunnen vervolgens investeringen gedaan 
+worden in lokale collectieve energietransitieversnellende projecten. Dit noemen we sociale participatie. 
+
+•  We stimuleren en creëren ruimte voor eigen energieproductie door de gemeenschap. De nationale Subsidieregeling 
+
+Coöperatieve Energieopwekking (beter bekend als de Postcoderoos regeling)3 is hiervoor uitermate geschikt. Met 
+deze subsidieregeling worden energiecoöperaties en VvE's gestimuleerd om in coöperatief verband in de eigen 
+
+Lokaal eigendom
+
+Lokaal eigendom is een belangrijk middel om draagvlak voor de energietransitie te versterken, want hiermee blijven de 
+baten van een project in de regio en profiteert de omgeving ervan. Een ander voordeel van een lokale partij als (mede)
+ontwikkelaar is dat deze de omgeving en de mensen rondom het project kent, en andersom. Met de lokale omgeving 
+als mede-eigenaar en dus mede-ontwikkelaar, worden de beste voorwaarden geschapen voor een gelijkwaardige, 
+open en transparante samenwerking met andere partijen. Wij streven er naar dat partijen gelijkwaardig samenwerken 
+in de ontwikkeling, bouw en exploitatie van grootschalige energieprojecten, bijvoorbeeld door een evenwichtige 
+eigendomsverdeling. In Moerdijk krijgt dit bijvoorbeeld al vorm bij de bouw van windmolens. Een deel van de windmolens 
+is lokaal eigendom. De opbrengst wordt geïnvesteerd in lokale energieprojecten. Op die manier wordt ondernemend 
+partnerschap gestimuleerd in de gemeenschap en versnellen de windmolens de lokale energietransitie.
+
+3 De Postcoderoos regeling (fiscale benaming is de Regeling Verlaagd Tarief) was tot 1 april 2021 een financieringsmogelijkheid om gezamenlijk 
+zonne-energie op te wekken, zonder dat de zonnepanelen op het eigen dak hoeven te liggen. Deze is per 1 april 2021 vervangen door de 
+Subsidieregeling Coöperatieve Energieopwekking (SCE)
+
+Gemeente Moerdijk   Energieprogramma 0.920
+
+leefomgeving (afgebakend door een postcoderoos) hernieuwbare elektriciteit door zonne-energie, windenergie of 
+waterkracht op te wekken. Naast dat we ruimte bieden aan lokale gemeenschapsprojecten die volledig zelfstandig 
+zijn, is het onze ambitie om ook een deel van de productiecapaciteit van grote energieprojecten beschikbaar te 
+stellen aan de lokale gemeenschap voor eigen energieproductie. Dat kan bijvoorbeeld door een deel van een grotere 
+commerciële ontwikkeling administratief te scheiden van het commerciële project en ter beschikking te stellen aan 
+de gemeenschap. Ook hiervoor verkennen we in RES-verband de mogelijkheden om de benodigde professionaliteit 
+te borgen en financiële risico’s te minimaliseren.
+
+•  We continueren en professionaliseren de samenwerking met Stichting Energietransitie Moerdijk (STEM). 
+
+STEM organiseert en waarborgt de financiële participatie in energieprojecten (waaronder de voorfinanciering 
+en het professionele partnerschap in de projecten). Bovendien geeft ze uitvoering aan het beheer van de 
+energietransitiefondsen die uit de deelname ontstaan. Dit omvat ook het opstellen van Lokale Energie Agenda’s met 
+de lokale gemeenschappen). Zo geeft ze ook invulling aan de sociale participatie. Dit is een belangrijke stap in een 
+systeemverandering, waarbij we economische activiteit van lokale grootschalige elektriciteitsproductie duurzaam 
+verbinden met de lokale gemeenschap. Zo wordt hier niet alleen geld verdiend aan energieproductie, maar plukt de 
+lokale gemeenschap daar ook optimaal de vruchten van. Het is onze ambitie dat STEM zelfstandig uitvoering kan 
+geven aan de afspraken die de gemeente met ontwikkelaars van energieprojecten maakt.  
+
+Gebouwde omgeving 
+
+Doelgroepbenadering 
+In de gebouwde omgeving kennen we verschillende doelgroepen, die ieder hun eigen uitdagingen en behoeftes 
+hebben in de energietransitie. Binnen de woningbouw is er onderscheid tussen huur- en koopwoningen. Naast 
+de woningbouw maakt ook de utiliteitsbouw deel uit van de opgaven van de gebouwde omgeving. Onder de 
+utiliteitsbouw verstaan we alle gebouwen in de gebouwde omgeving, die geen woning zijn. Dit zijn dus alle winkels en 
+bedrijfspanden, kantoren en maatschappelijke dienstverlening. Het is van belang dat alle doelgroepen mee kunnen in 
+de energietransitie: 
+
+•  Binnen de huursector zijn woningcorporaties een belangrijke partner bij het opstellen van de Transitievisie Warmte. 
+Dit is de visie voor de duurzame verwarming van gebouwen. Zij hebben vanwege de omvang van hun bezit al vele 
+jaren ervaring met het systematisch verbeteren en verduurzamen van woningen. De gemeente en corporaties 
+werken daarom nauw samen bij verduurzamingsopgave in de gebouwde omgeving. Daar waar we collectief 
+kunnen handelen, is veel voordeel te behalen. Verduurzaming is een vast onderdeel van de Prestatieafspraken die 
+de gemeente maakt het de corporaties en huurdersorganisaties. 
+
+•  Veel woningeigenaren zijn best bereid om te investeren in verduurzaming van hun woning en verhoging van het 
+
+woongenot.  Maar ze weten niet precies waar te beginnen en welke maatregelen het best passen bij hun situatie. 
+We willen hen een duidelijke planning en objectieve informatievoorziening bieden.
+
+•  Er is voor een deel van de utiliteitsbouw een wettelijk kader dat dwingt tot het nemen van minimale maatregelen. 
+
+Wij willen deze doelgroep verder bewust maken van de eigen opgave en verantwoordelijkheid en ze concrete 
+handvatten bieden om zelf aan de slag te gaan. 
+
+Gemeente Moerdijk   Energieprogramma 0.921
+
+Stap voor stap verduurzamen 
+De eerste stap in het verduurzamen van het energiesysteem is het zo veel mogelijk verminderen van ons 
+energieverbruik. Energie die niet verbruikt wordt, hoeft immers ook niet duurzaam te worden opgewekt. En dat 
+heeft weer effect op de hoeveelheid windmolens, zonnepanelen en andere energieproducerende installaties in de 
+omgeving. Om energiebesparing te realiseren werken we in Moerdijk aan de volgende onderwerpen: 
+ 
+•  Informeren: een objectieve en zorgvuldige informatievoorziening maakt bewoners, verenigingen, ondernemers en 
+maatschappelijke organisaties bewust van de eigen opgave en het eigen handelingsperspectief. Het helpt  om grip 
+te krijgen op de eigen opgave. Dat doen we op verschillende manieren:  
+-  Gemeenschapscoöperatie Energiek Moerdijk is al jarenlang dé lokale onafhankelijke en betrouwbare 
+
+samenwerkingspartner die onze inwoners, verenigingen en MKB-bedrijven adviseert, prikkelt en stimuleert om 
+zelf aan de slag te gaan met de eigen energietransitie. Ze staan midden in de gemeenschap en kunnen daarom 
+werken vanuit vertrouwen. Een dergelijke partner is onmisbaar in de energietransitie. We continueren daarom 
+de samenwerking met Energiek Moerdijk en 
+stimuleren hen om zich verder te ontwikkelen.
+
+-  Via de website www.moerdijk.nl/klimaat 
+
+informeren we over wat er in en door de gemeente 
+wordt gedaan op het gebied van klimaat. De 
+energietransitie is daar een belangrijk onderdeel 
+van. 
+
+-  In het Klimaatakkoord is afgesproken dat 
+
+iedere gemeente een digitaal Energieloket gaat 
+aanbieden aan haar inwoners. Uiterlijk in 2022 
+willen we een online energieloket hebben als 
+extra informatiekanaal. Dit energieloket geeft 
+antwoorden op vragen over verduurzaming van je 
+woning en subsidiemogelijkheden.
+
+De gemeente Moerdijk organiseert al verschillende 
+acties die huiseigenaren en bedrijven helpen om hun 
+woning of bedrijfspand energiezuiniger te maken:
+
+•  Collectieve inkoopactie
+•  Stimuleringslening
+•  Voucheractie
+•  Onafhankelijk energieadvies
+•  Gratis startabonnement Milieubarometer voor 
+
+bedrijven
+
+Meer weten? Ga naar www.moerdijk.nl/klimaat 
+
+•  Ontzorgen: door te ontzorgen stimuleren we de mensen die wel willen verduurzamen, maar dat uit eigen beweging 
+
+nog niet gaan doen. Daarvoor maken we nu en in de komende jaren gebruik van:
+-  Rijksregelingen zoals de Regeling Reductie Energiegebruik Woningen (RREW)4 waarmee we een 
+
+energiebesparingsprogramma kunnen aanbieden voor woningeigenaren én huurders.
+
+-  Collectieve inkoopacties voor zonnepanelen en energiebesparende maatregelen waarbij bij voorkeur wordt 
+
+gewerkt met lokale ondernemers. 
+
+-  De Milieubarometer waarmee het MKB de CO2-uitstoot van de eigen organisatie kan berekenen en inzicht krijgt in 
+
+mogelijke verbeteringen.
+
+•  Hulp bij financiering: verduurzaming levert altijd meerwaarde, maar vraagt ook investeringen. We streven er 
+
+naar om de energietransitie betaalbaar te houden voor iedereen. De rijksoverheid kondigt een breed pallet aan 
+financieringsmogelijkheden aan, zodat iedereen in de gelegenheid wordt gesteld om mee te doen. Wij volgen deze 
+ontwikkeling op de voet en zullen inwoners en organisaties hierover informeren. Als gemeente bieden we bovendien 
+de Stimuleringslening aan voor woningeigenaren en voor (sport)verenigingen. Met de stakeholders verkennen we 
+welke instrumenten verder nodig zijn om energiearmoede (het verschijnsel dat de energielasten steeds zwaarder 
+drukken op het besteedbaar inkomen) te voorkomen.
+
+4 Helaas is onze aanvraag voor de RREW 2021 afgewezen, omdat het budget voortijdig was uitgeput.
+
+Gemeente Moerdijk   Energieprogramma 0.922
+
+•  Zelf het goede voorbeeld geven. Ook wij verduurzamen onze 
+
+bedrijfsvoering. Dit doen wij door:
+-  Al onze besluiten te gaan toetsen aan hun bijdrage aan de 
+
+verduurzaming. 
+
+-  Het eigen maatschappelijk vastgoed te verduurzamen. Hiervoor stelt 
+
+de gemeente in 2021 een routekaart vast die bestaat uit een korte-, 
+middellange- en langetermijnvisie. In de korte termijnvisie gaat de 
+gemeente uit van een slimme gebouwselectie die de komende vijf 
+jaar verduurzaamd worden op basis van een duurzaamheidsscan, 
+een energiemaatwerkadvies en uitvoeringsplan. De routekaart wordt 
+elke coalitieperiode herijkt, gelijktijdig met het actualiseren van de 
+meerjaren onderhoudsplannen. 
+
+-  Onze ervaring en expertise met de verduurzaming van ons vastgoed te 
+
+delen met ondernemers, sportverenigingen en onderwijs
+
+-  Een intern kennisteam duurzaamheid op te richten. Hierin zijn 
+
+alle domeinen vertegenwoordigd en wordt informatie en ervaring 
+uitgewisseld. Zo wordt duurzaamheid iets van de hele organisatie.
+
+De gemeente gebruikt 
+zelf natuurlijk ook energie. 
+Bijvoorbeeld in het gemeentehuis 
+en op de gemeentewerf, maar 
+ook voor het vervoer van onze 
+medewerkers. We isoleren 
+onze gebouwen beter en de 
+energie die we gebruiken wordt 
+vaker duurzaam opgewekt. 
+Ook met duurzaam inkopen 
+verlagen we onze CO2-uitstoot. 
+Onze toezichthouders rijden al 
+elektrisch en het materieel van 
+de buitendienst is voor zover 
+mogelijk geëlektrificeerd.
+
+Wijkgerichte aanpak
+In Moerdijk moeten ruim 16.000 woningen5 en 
+honderden andere gebouwen aardgasvrij verwarmd 
+gaan worden. Dit doen we voortvarend en met oog 
+voor betaalbare en haalbare oplossingen voor alle 
+inwoners en gebruikers. Dat doen we door:
+
+•  Het opstellen van een Transitievisie Warmte (TVW). 
+
+Die is eind 2021 klaar en geeft globaal aan welke 
+gebieden in welke volgorde aan de beurt komen om 
+van het aardgas af te gaan en welke alternatieve 
+warmtebronnen waar beschikbaar zijn. 
+
+•  In vervolg op de TVW gaan we aan de slag 
+
+Kunnen we aardgas niet vervangen door ander 
+gas?
+
+Regelmatig krijgen we de vraag waarom we het huidige 
+aardgasnetwerk niet gaan gebruiken voor waterstof of 
+biogas. Die opties worden op dit moment nog niet uitge-
+sloten. De verwachting is echter dat er in Nederland on-
+voldoende duurzame waterstof en biogas beschikbaar 
+zal komen om het volledige aardgasverbruik van de 
+industrie én de gebouwde omgeving te kunnen vervan-
+gen. Omdat deze gas vervangers het beste rendement 
+hebben in de hoge temperatuurprocessen in de indus-
+trie, is de verwachting dat hier niet veel beschikbaar van 
+zal komen voor de gebouwde omgeving, die een veel 
+lagere warmtevraag kent.
+
+met concrete wijkaanpakken, in zogenaamde 
+Wijkuitvoeringsplannen. Zo’n plan wordt opgesteld 
+voor ieder gebied dat van het aardgas af gaat. 
+Die aanpak is integraal: we kijken naar energie 
+besparen, isoleren, duurzame energie opwekken 
+en het vervangen van aardgas tegen acceptabele kosten en met een optimaal rendement. In de uitvoering van de 
+werkzaamheden houden we oog voor koppelkansen met bijvoorbeeld klimaatadaptatie en het verbeteren van de 
+kwaliteit van woningen en gebouwen.
+
+•  We stellen samen met de lokale gemeenschap Lokale Energie Agenda’s op per kern. Hierin onderzoeken we welke 
+
+lokale collectieve of gemeenschappelijke projecten kunnen bijdragen aan de eigen energietransitie en gaan we 
+daadwerkelijk aan de slag met het verduurzamen. We zoeken hierin de aansluiting bij bestaande structuren zoals 
+de gebiedstafels.
+
+5 Bron: PBL data Startanalyse
+
+Gemeente Moerdijk   Energieprogramma 0.923
+
+Industrie
+
+Slimme, schone en nieuwe industrie
+Moerdijk behoort tot een van de vijf Nederlandse regio’s met energie-intensieve bedrijvigheid. De energietransitie biedt 
+in ons Haven- en industrieterrein veel kansen voor nieuwe bedrijvigheid, innovatie en extra werkgelegenheid. Ook zijn 
+hier belangrijke raakvlakken met de circulaire economie, dat als thema hoog op de agenda staat voor het Haven- en 
+industrieterrein Moerdijk (HiM). De industrie heeft dan ook het hoogste energieverbruik van alle sectoren in Moerdijk 
+en daarmee ook de grootste opgave in de lokale energietransitie. De sector is samen met het rijk en de provincie zelf 
+verantwoordelijk voor het behalen van hun klimaatdoelen. In het Klimaatakkoord heeft de sector zichzelf dan ook tot 
+doel gesteld om in 2050 circulair te zijn en vrijwel geen broeikasgassen meer uit te stoten. De fabrieken draaien dan 
+op duurzame elektriciteit uit zon en wind of energie uit aardwarmte, waterstof en biogas. De grondstoffen komen 
+uit biomassa, reststromen en -gassen. De restwarmte gebruikt de industrie zelf of levert die aan de tuinbouw of 
+gebouwen en woningen. De industrie is dan naast gebruiker van energie ook producent en buffer van energie. 
+
+Aan de lokale Industrietafel Energietransitie (van Het Havenbedrijf Port of Moerdijk) komt de Moerdijkse industrie 
+samen om kennis en ervaring uit te wisselen en nieuwe oplossingen te vinden. In het industriële cluster Rotterdam-
+Moerdijk wordt een Cluster Energiestrategie (CES) opgesteld. Hierin wordt beschreven hoe de verduurzaming tot 
+2050 vorm krijgt en welke energie-infrastructuur daarvoor nodig is. Onderwerpen als elektrificatie en CO2-opslag 
+komen hierin aan bod. De gemeente volgt deze ontwikkelingen en ondersteunt en faciliteert waar mogelijk.
+
+De restwarmte van de industrie biedt kansen voor de verwarming van de 
+gebouwde omgeving en glastuinbouwcomplexen (waarbij tevens levering 
+van afgevangen CO2 mogelijk is) in Moerdijk en de verdere regio. Op 
+lokale schaal is dat niet haalbaar, maar wanneer warmteaanbod en -vraag 
+voldoende groot zijn, ontstaan schaalvoordelen. We onderzoeken daarom 
+in regioverband de mogelijkheden voor een (boven)regionaal warmtenet 
+(RES-deal ‘Regionale warmte-infrastructuur’). Het bestaande warmtenet, 
+dat vanaf de Amercentrale naar Breda en Tilburg vertakt, vormt hiervoor de 
+basis. Op termijn is ook een koppeling met het warmtenet in Roosendaal 
+denkbaar, zodat een groot regionaal warmtenet ontstaat.
+
+Om stappen te kunnen zetten in de verduurzaming van processen, zijn 
+nog veel innovatieve oplossingen nodig. Innovatieve oplossingen zullen 
+niet altijd in het bestaande kader van wet- en regelgeving passen. Wet- 
+en regelgeving is immers ontworpen op processen die we al kennen. De 
+gemeente speelt een rol om ruimte te bieden aan innovatie en proeftuinen. 
+Die ruimte zullen we samen met de provincie en Havenbedrijf Port of 
+Moerdijk opzoeken, waarbij we streven naar een zo hoog mogelijke 
+kwaliteit van de leefomgeving.  
+
+Windpark Haven- en 
+Industrieterrein Moerdijk
+
+Op het Haven- en Industrieterrein 
+Moerdijk (HIM) heeft Vattenfall 
+onlangs 7 windmolens gebouwd. 
+Die zorgen voor stroom voor 
+ruim 20.000 huishoudens. 
+Voor de gemeente is het 
+belangrijk dat onze inwoners 
+ook voordeel hebben van de 
+windmolens. Daarom zijn met 
+Vattenfall afspraken gemaakt 
+over een Windfonds. Ook 
+kunnen inwoners van Klundert 
+profiteren van een te ontwikkelen 
+zonnepark in de vorm van een 
+postcoderoosproject.
+
+Gemeente Moerdijk   Energieprogramma 0.924
+
+Landbouw & landgebruik
+
+Duurzame glastuinbouw
+Binnen de sector Landbouw & Landgebruik is de glastuinbouw de grootste verbruiker van fossiele energie. In 
+de gemeente Moerdijk zijn meerdere glastuinbouwcomplexen.  Ze nemen al verschillende energiebesparende 
+maatregelen. Eén glastuinbouwbedrijf is bovendien recent al overgeschakeld van aardgas naar geothermie als 
+warmtebron voor de kas. De effecten daarvan op het fossiele energieverbruik zullen in de komende jaren meetbaar 
+worden. Andere warmtebronnen zijn mogelijk industriële restwarmte of thermische warmte uit zonne-energie, 
+oppervlaktewater of riolering.  Bij het vervangen van aardgas als warmtebron, zal de CO2-behoefte van de gewassen 
+in de kassen op een andere manier moeten worden ingevuld. Ook hiervoor zijn reststromen CO2 van de industrie 
+mogelijk inzetbaar. Hier is een directe link met het eerder genoemde onderzoek naar de inzetbaarheid van restwarmte 
+in een (boven)regionaal warmtenet.
+
+Duurzame landbouw
+In de landbouwsector wordt een aanzienlijke hoeveelheid elektriciteit verbruikt, bijvoorbeeld voor koelingen, 
+luchtverversing en verlichting. In de verdere verdieping van de opgaven willen we met de stakeholders verkennen 
+wat er mogelijk en nodig is om dit energieverbruik zo veel mogelijk te reduceren en hoe de gemeente daaraan kan 
+bijdragen. De elektrificatie van het materieel zal bijdragen aan het reduceren van broeikasgasemissies, maar legt – 
+net als bij de elektrificatie van de industrie – een groter beslag op het huidige elektriciteitsnetwerk. We willen inzicht 
+krijgen in de vraag of het elektriciteitsnetwerk voldoet om de elektrificatie in de landbouw bij te kunnen houden.
+
+Duurzaam landgebruik 
+De regionale ambitie is om in 2030 1 miljoen ton per jaar aan regionale biomassa te gebruiken voor grondstoffen, 
+warmte of elektriciteit. Vraag en aanbod zullen optimaal op elkaar afgestemd moeten worden. Met dubbel ruimtegebruik 
+kan de sector ook een bijdrage leveren aan de opwek van duurzame energie. Vanuit de RES wordt hiervoor een regionaal 
+versnellingsteam Zon op bedrijfsdaken ingesteld. Ook de inzet van semi-transparante zonnepanelen boven kwetsbare 
+teelten of boven uitloopweides van kleinvee is een ontwikkeling die kansen biedt op de lange termijn.
+
+De landbouwsector heeft veel raakvlakken met (onderdelen van) de opgave van de andere beschreven sectoren. Het ligt 
+voor de hand om in de verdere uitwerking van de Moerdijkse Energiedeals ook goed sector overstijgend te kijken naar 
+dwarsverbanden en koppelkansen.
+
+Gemeente Moerdijk   Energieprogramma 0.925
+
+Mobiliteit
+
+Sterke samenhang met mobiliteitsbeleid
+
+Duurzame energiedragers
+De prioriteit ligt bij elektrificatie van mobiliteit. Voor 
+personenvervoer en korte afstandstransport is dat wat 
+eenvoudiger dan voor zwaar en/of lange afstandstransport. Toch 
+zien we ook daar positieve ontwikkelingen. Zo is het plan om 
+binnenkort elektrische binnenvaartschepen te laten varen vanuit 
+de haven van Moerdijk. Dergelijke initiatieven komen vooral uit 
+de markt zelf. Desondanks zal het zwaardere transport ook nog 
+lang afhankelijk zijn van hernieuwbare brandstoffen om tijdig hun 
+CO2-uitstoot te verminderen. De waterstof- en biobrandstofmarkt 
+moet daarom de ruimte krijgen om zich te ontwikkelen. De 
+gemeente heeft hierin slechts een beperkte rol. Wij kunnen als 
+facilitator met name bijdragen aan de distributie en beschikbare 
+afgiftepunten van waterstof en biobrandstoffen. Vanuit het 
+Meerjarenprogramma Infrastructuur, Ruimte en Transport (MIRT) van het Rijk wordt onder andere ingezet op het project 
+Clean Energy Hubs, bedoeld om een landelijk dekkend netwerk van afgiftepunten van duurzame transitiebrandstoffen te 
+creëren. Als gemeente verbinden we kansrijke locaties en initiatieven aan dit project.
+
+In dit Energieprogramma ligt de focus 
+op de opgaven voor een succesvolle 
+energietransitie in de sector mobiliteit. De 
+meest voor de hand liggende verduurzaming 
+is natuurlijk het terugdringen van 
+gemotoriseerde verkeersbewegingen. 
+Dat is onderdeel van ons bredere 
+mobiliteitsbeleid en wordt hier om die reden 
+verder buiten beschouwing gelaten. Maar 
+het is vanzelfsprekend dat er een sterke 
+samenhang is tussen beide beleidsvelden.
+
+Elektrisch vervoer
+Met de toenemende elektrificatie van vervoer, moet de publieke 
+laadinfrastructuur worden uitgebreid. Om de groei van het aantal 
+(snel)laadpunten in de pas te laten lopen met de toenemende 
+elektrificatie, is de Nationale Agenda Laadinfrastructuur 
+opgesteld. Gemeenten moeten de afspraken die daarin gemaakt 
+zijn vertalen in een (regionaal) mobiliteitsplan.  
+ 
+In 2020 is een eerste verkenning naar de kansen van (elektrisch) 
+autodelen in de gemeente Moerdijk afgerond. De resultaten hier-
+van bieden aanknopingspunten voor de ontwikkeling van beleid.
+
+Verduurzaming logistiek
+In de 40 grote steden in Nederland wordt gestreefd naar stadslogistiek zonder CO2-uitstoot door zogenaamde zero-
+emissie zones aan te wijzen. Daar is vanaf 2025 uitsluitend nog uitstootvrij goederenvervoer toegestaan. Hoewel 
+dergelijke stadscentra niet in onze gemeente liggen, ligt Moerdijk wel tussen drie van deze steden in: Breda, Roosendaal 
+en Dordrecht. In combinatie met een sterke en groeiende logistieke sector in Moerdijk is het interessant om te 
+verkennen welke kansen dit biedt voor de verduurzaming van de logistiek in Moerdijk. 
+In de bouwsector wordt ingezet op zero-emissie bouwverkeer en mobiele werktuigen met de Green Deal Het Nieuwe 
+Draaien en de Green Deal Bouwlogistiek. Als gemeente kunnen we in onze eigen inkoopprocessen sturen op inzet 
+hiervan bij eigen projecten. 
+Door ketenoptimalisatie in de logistiek kan het energieverbruik en de CO2-uitstoot dalen. Op het Haven- en 
+industrieterrein Moerdijk liggen op dit vlak goede kansen, door de aanwezigheid van bijna alle transportvormen (weg, 
+spoor, water én buis) én de aanwezigheid van overslagmogelijkheden tussen de modaliteiten.  
+
+Gemeente Moerdijk   Energieprogramma 0.926
+
+Verduurzaming personenvervoer
+Door COVID-19 zal thuiswerken ook na de crisis een gewoonte blijven. Dat scheelt veel wegkilometers in het 
+personenvervoer. Ook op het gebied van personeelsbeleid en deelmobiliteit liggen er goede kansen om het 
+werkgerelateerde wegverkeer verder te verduurzamen. In Moerdijk wordt hier op ingezet met ridesharing concepten op 
+het Haven- en industrieterrein. De gemeente Moerdijk zal zich als werkgever actief inzetten om de CO2-uitstoot door 
+werkgerelateerd vervoer terug te dringen. 
+
+In regionaal verband gaan we een programma voor slimme en duurzame mobiliteit opzetten voor de omslag naar een 
+duurzaam en klimaatbestendig mobiliteitssysteem. Concrete onderwerpen zijn ruimte voor de fiets (zoals door realisatie 
+van een fietssnelweg tussen Breda en Moerdijk), multimodale vervoershubs (kansen rondom stationsgebied Lage 
+Zwaluwe) en Mobility as a Service (een deur-tot-deur reisservice met een breed aanbod van vervoermiddelen).
+
+Gemeente Moerdijk   Energieprogramma 0.927
+
+Opgaven per sector: de aanzet tot een uitvoeringsagenda 
+
+Samenvattend staat hieronder een overzicht van de huidige opgaven per sector, zoals die in dit hoofdstuk zijn 
+beschreven. Per sector is benoemd met welke concrete activiteiten de gemeente, vaak in samenwerking met andere 
+partijen, wil bijdragen aan de energietransitie. Per activiteit is aangegeven of deze al in uitvoering is, snel door de 
+gemeente kan worden uitgevoerd of onderdeel wordt van nog op te stellen energiedeals. Ook combinaties zijn 
+mogelijk. Zo zijn er voor bestaande windparken al afspraken gemaakt over financiële participatie (in uitvoering), maar 
+zullen we die bij toekomstige projecten ook maken (Moerdijkse energiedeal).
+
+Afspraken die uit nieuwe Moerdijkse Energiedeals volgen, krijgen vanzelfsprekend ook een plekje in de 
+uitvoeringsagenda. Zo ontstaat een dynamische document: afgeronde activiteiten verdwijnen van de lijst en nieuwe 
+concrete afspraken krijgen een plek. De uitvoeringsagenda zal dan ook een plek krijgen als zelfstandig document 
+naast het Energieprogramma Moerdijk. Het onderstaande overzicht is daarvoor het vertrekpunt.
+
+Elektriciteit
+Productie
+
+Betrouwbare energie-
+voorziening
+
+Participatie
+
+Realisatie lopende windprojecten (industrieterrein Moerdijk en A16). 
+Repowering windparken Volkeraksluizen en Sabinadijk. 
+Potentie van zonnepanelen op daken beter benutten.
+Opstellen beleidskader voor cablepooling (zon en wind op één aanslui-
+ting). 
+Werken met tijdelijke vergunningen voor windmolens en zonneparken.
+Optimalisatie energie-infrastructuur.
+Uitbreiding energie-infrastructuur.
+Eventuele toename van grootschalige lokale energieproductie moet 
+altijd in balans zijn met leefbaarheid.
+Beleidskeuzes en locatiestudies in samenspraak met de lokale gemeen-
+schap en professionele stakeholders.
+Minimaal 50% financiële participatie in grote energieprojecten (streven).
+
+Een deel van de productiecapaciteit van grote energieprojecten 
+beschikbaar stellen aan de lokale gemeenschap voor eigen 
+energieproductie (ambitie).
+Samenwerking STEM continueren en professionaliseren.
+
+In uitvoering
+Energiedeal 
+Energiedeal
+Energiedeal
+
+Snel uitvoeren 
+Energiedeal
+Energiedeal
+Energiedeal
+
+Energiedeal
+
+In uitvoering / 
+Energiedeal
+Energiedeal
+
+In uitvoering
+
+Gemeente Moerdijk   Energieprogramma 0.928
+
+Gebouwde omgeving
+Doelgroepen-
+benadering
+
+Stap voor stap 
+verduurzamen
+
+Wijkgerichte aanpak
+
+Industrie
+Slimme, schone en 
+nieuwe industrie
+
+Verduurzaming als vast onderdeel van de Prestatieafspraken die de 
+gemeente maakt met de woningcorporaties en huurdersorganisaties 
+(waaronder samenwerkingsafspraken m.b.t. de warmtetransitie).
+Woningeigenaren een duidelijke planning en objectieve informatie 
+bieden, plus  en mogelijkheden om te verduurzamen.
+Gebruikers utiliteitsbouw bewust maken van de eigen opgave en 
+verantwoordelijkheid en ze concrete handvatten bieden om zelf te gaan 
+handelen.
+Bewoners, ondernemers en maatschappelijke organisaties informeren 
+over en activeren in de opgave d.m.v. een klimaatwebsite, een 
+Energieloket en Energiek Moerdijk.
+Bewoners, ondernemers en maatschappelijke organisaties ontzorgen 
+d.m.v. rijksregelingen, collectieve inkoopacties, de milieubarometer en 
+financieringsinstrumenten.
+Als gemeente zelf het goede voorbeeld geven door onze bedrijfsvoering 
+te verduurzamen.
+Opstellen van een Transitievisie Warmte (TVW).
+Opstellen Wijkuitvoeringsplannen.
+Opstellen Lokale Energie Agenda’s per kern.
+
+In uitvoering
+
+Energiedeal /  
+Snel uitvoeren
+Energiedeal
+
+In uitvoering / 
+Energiedeal
+
+In uitvoering / 
+Energiedeal
+
+Snel uitvoeren
+
+In uitvoering
+Energiedeal
+In uitvoering
+
+Kennis en ervaring uitwisselen aan de lokale Industrietafel 
+Energietransitie.
+Opstellen Cluster Energiestrategie (CES).
+Onderzoeken mogelijkheden voor een (boven)regionaal warmtenet met 
+restwarmte uit de industrie.
+Ruimte zoeken en bieden voor innovatie en proeftuinen.
+
+Energiedeal /  
+Snel uitvoeren
+In uitvoering
+In uitvoering / 
+Energiedeal
+Energiedeal
+
+Landbouw & landgebruik
+Duurzame 
+glastuinbouw
+Duurzame landbouw Verdere verkenning om energieverbruik te reduceren.
+
+Onderzoeken mogelijkheden voor een (boven)regionaal warmtenet met 
+restwarmte uit de industrie (zie opgave Industrie).
+
+Inzicht krijgen in het beslag van de elektrificatie in de landbouw op het 
+elektriciteitsnetwerk.
+
+Duurzaam  land  gebruik Regionaal versnellingsteam Zon op bedrijfsdaken.
+
+Verdere inzet van dubbel ruimtegebruik.
+
+Energiedeal
+
+Energiedeal
+Energiedeal / 
+Snel uitvoeren
+In uitvoering
+Energiedeal
+
+Gemeente Moerdijk   Energieprogramma 0.929
+
+Mobiliteit
+Duurzame 
+energiedragers
+
+Elektrisch vervoer
+
+Verduurzaming logis-
+tiek
+
+Faciliteren van distributie en beschikbare afgiftepunten van waterstof 
+en biobrandstoffen.
+Kansrijke locaties en initiatieven verbinden aan het project Clean Energy 
+Hubs.
+De Nationale Agenda Laadinfrastructuur vertalen in een (regionaal) 
+mobiliteitsplan.
+Beleid ontwikkelen voor (elektrisch) autodelen in Moerdijk.
+In relatie tot de zero-emissie stadslogistiek in steden verkennen welke 
+kansen dit biedt voor de verduurzaming van de logistiek in Moerdijk.
+In bouwprojecten sturen op inzet zero-emissie bouwverkeer en mobiele 
+werktuigen.
+Ketenoptimalisatie op het Haven- en industrieterrein Moerdijk.
+
+Verduurzaming 
+personenmobiliteit
+
+Als werkgever de CO2-uitstoot van werkgerelateerd verkeer 
+terugdringen.
+Opzetten van een regionaal programma voor slimme en duurzame 
+mobiliteit.
+
+Snel uitvoeren
+
+Snel uitvoeren
+
+Energiedeal
+
+Energiedeal
+Energiedeal
+
+Energiedeal
+
+In uitvoering / 
+Energiedeal
+In uitvoering / 
+Snel uitvoeren
+In uitvoering / 
+Energiedeal
+
+Gemeente Moerdijk   Energieprogramma 0.930
+
+De volgende stap:  
+Moerdijkse Energiedeals
+
+Dit Energieprogramma beschrijft hoe wij als gemeente kunnen en willen bijdragen aan de energietransitie en het berei-
+ken van de nationale klimaatdoelen. Zowel wereldwijd,  landelijk áls lokaal is goede samenwerking noodzakelijk voor 
+effectieve klimaatactie. Om de CO2-uitstoot in Moerdijk te laten dalen in lijn met het nationale Klimaatakkoord willen we 
+daarom als volgende stap concrete afspraken maken met andere partijen over hoe we dat gaan bereiken. Zoals landelijk 
+in het Klimaatakkoord concrete uitvoeringsafspraken zijn gemaakt, willen we dat ook doen op gemeenteniveau.
+
+Daarvoor sluiten we met inwoners en lokale stakeholders zogenaamde Moerdijkse Energiedeals. Hierin staat wat de 
+gemeente, inwoners, bedrijven, maatschappelijke organisaties en andere overheden samen gaan doen om de CO2-uit-
+stoot te verminderen. Waar mogelijk maken we ook afspraken over hoe we de energietransitie als vliegwiel benutten 
+om de leefbaarheid, lokale economie en de kwaliteit van het landschap te verbeteren. Dit leidt, samen met de activitei-
+ten die wij als gemeente en onze netwerkpartners zelf al uitvoeren, tot een gezamenlijke uitvoeringsagenda. Het richt 
+zich op waar lokale samenwerking het verschil kan maken en vormt zo een waardevolle aanvulling op de nationale en 
+regionale afspraken.
+
+We hanteren vooralsnog de overzichtelijke indeling van de klimaattafels uit het Klimaatakkoord als leidraad: elektri-
+citeit, gebouwde omgeving, mobiliteit, landbouw en landgebruik, en industrie. Per sector willen we afspraken maken 
+over een groot aantal onderwerpen. Bijvoorbeeld over investeringen in duurzame energie en energiebesparing, het 
+opschalen van lopende energieprojecten, ondersteuning aan inwoners en bedrijven, experimenten en innovatie, en 
+kennisopbouw. Maar we kijken ook zeker naar waar de verschillende sectoren raakvlakken en koppelkansen hebben. 
+Verschillende concrete onderwerpen zijn immers sectoroverstijgend. Soms heeft de ene sector de oplossing voor een 
+verduurzamingsopgave in de andere sector.
+
+Om deze Moerdijkse Energiedeals te sluiten is het nodig om partijen bij elkaar te brengen. Zowel lokale voorlopers als 
+partijen die willen bijdragen aan een duurzaam energiesysteem en onderzoeken hoe ze dit kunnen doen. De gemeen-
+te wil een regisserende rol spelen in dit proces. Binnen de energietransitie kan de gemeente bouwen op een netwerk 
+dat ze de afgelopen jaren heeft opgebouwd met inwoners(groepen), bedrijven en maatschappelijke organisaties. Het 
+vereist echter tijd en inzet om de juiste partijen bij elkaar te brengen en de energiedeals op te stellen.
+
+Hoe sneller we hiermee starten, des te groter onze bijdrage aan de lokale energietransitie is. Bovendien sluit een 
+uitvoeringsagenda aan op de groeiende behoefte bij stakeholders om via lokale afspraken de CO2-reductie sneller te 
+verlagen. En ook inwoners vragen de gemeente om duidelijkheid te bieden. 
+
+Proces
+
+Na vaststelling van dit Energieprogramma 0.9 door de raad gaan we concreet aan de slag om met de stakeholders in 
+alle sectoren te komen tot Moerdijkse Energiedeals. En daarmee ontstaat ook een groeiende uitvoeringsagenda. De 
+inzet is om binnen iedere sector de eerste Moerdijkse Energiedeals medio juni 2022 te presenteren. Dat staat natuurlijk 
+niet in de weg dat tussentijds verschillende afspraken uit de uitvoeringsagenda al door de samenwerkingspartners zul-
+len worden uitgevoerd. Daarnaast zullen bestaande samenwerkingsafspraken en lopende projecten gewoon doorgaan. 
+
+De afgelopen jaren hebben diverse gemeenten in Nederland vergelijkbare uitvoeringsagenda’s gemaakt. We zullen 
+nadrukkelijk deze kennis en ervaring benutten in onze aanpak. Zo werken we van Nationaal klimaatakkoord via lokale 
+acties aan een duurzaam Moerdijk en een duurzaam Nederland!
+
+Gemeente Moerdijk   Energieprogramma 0.9Postbus 4
+4760 AA Zevenbergen
+
+www.moerdijk.nl
+
+
