@@ -30,13 +30,15 @@ if __name__ == "__main__":
         # Hoogblootgestelde locaties en gevoelige groepen, Internationaal luchtbeleid of Geen van allen."
 
         mode = str("Geef een samenvatting van deze tekst voor iemand die geinteresserd is in luchtkwaliteit. "
-                   "Geef een duidelijke uitleg voor relevante maatregelen waarom deze te maken heeft met luchtkwaliteit. Gebruik "
-                   "duidelijke en taal, specifieke termen en voorbeelden waar nodig om te helpen begrijpen waar je naar "
-                   "verwijst. Geef voldoende context zodat de lezer de maatregel kan begrijpen. Test je prompt en verfijn het indien nodig "
-                   "totdat je de gewenste resultaten krijgt. Vertaal het antwoord in het Nederlands. Categoriseer elk citaat in een "
-                   "van de volgende categorieën: Mobiliteit (verkeer), Mobiele machines, Industrie, Houtverbranding in particuliere "
-                   "huishoudens, Binnenvaart en havens, Landbouw, Participatie van burgers en bedrijven, Monitoring, "
-                   "Locaties met hoge blootstelling en kwetsbare groepen, Internationaal luchtbeleid, of Geen.\n")
+                   "Noem alle relevante maatregelen die in de tekst staan zijn en waarom deze te "
+                   "maken hebben met luchtkwaliteit. Gebruik duidelijke en taal, specifieke termen en beleidsprogramma's"
+                   "Geef voldoende context zodat er een overzicht gemaakt kan worden. Test je prompt en verfijn het "
+                   "indien nodig totdat je de gewenste resultaten krijgt. Geef het antwoord in het Nederlands. "
+                   )
+                   # "Categoriseer elk citaat in een "
+                   # "van de volgende categorieën: Mobiliteit (verkeer), Mobiele machines, Industrie, Houtverbranding in particuliere "
+                   # "huishoudens, Binnenvaart en havens, Landbouw, Participatie van burgers en bedrijven, Monitoring, "
+                   # "Locaties met hoge blootstelling en kwetsbare groepen, Internationaal luchtbeleid, of Geen.\n")
 
         # mode =str("Citeer of quote alle acties die relevant zijn voor de luchtkwaliteit in de tekst na deze prompt. "
         # "Geef een duidelijke uitleg voor alle maatregelen waarom deze te maken heeft met luchtkwaliteit. Gebruik "
@@ -75,7 +77,7 @@ if __name__ == "__main__":
             #     newdict[key].append(summ_output)
             # x.outputdict = newdict
 
-            x.write_to_file(summarized_output)
+            x.write_to_file(summarized_output, extra='_samengevoegd')
             # f = pd.read_json('[' + str(x.AI.categorized) + ']')
             # f.to_excel('output/' + x.name + '_categorized.xlsx')
             print('\nDone')
@@ -91,16 +93,17 @@ if __name__ == "__main__":
     folder = r'C:\Users\d.los\Berenschot\Provincie Noord-Brabant - 69559 - Provinciale SLA samenwerking - EvRe\2. Documenten en data\Analysedocumenten'
     sub_folders = [name for name in os.listdir(folder) if os.path.isdir(os.path.join(folder, name))]
 
-    for name in [sub_folders[1]]:
-        print(f'Processing: {name}')
+    for name in sub_folders:
+        if 'Deurne - Deelnemer' in name:
 
-        try:
-            main(root = str(fr"{rootroot}\{name}"))
-        except Exception as e:
-            print(f'An error occured with {name}')
-            print(e)
-            continue
+            print(f'Processing: {name}')
+            try:
+                main(root = str(fr"{rootroot}\{name}"))
+            except Exception as e:
+                print(f'An error occured with {name}')
+                print(e)
+                continue
 
-
+    print('done')
 
 

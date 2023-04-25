@@ -342,7 +342,7 @@ class Text_Miner():
             print('\n')
 
 
-    def write_to_file(self, dictionary): # TODO: for some reason this is not consistent
+    def write_to_file(self, dictionary, extra = ''):
         ''' This writes the queries that were done by openai to a document '''
 
         # if 'bulletpoints' in self.mode or 'bullet points' in self.mode:
@@ -365,8 +365,9 @@ class Text_Miner():
                 doc.add_paragraph(line)
                 # doc.add_break(WD_BREAK.LINE)
             doc.add_paragraph('')
-        name = uniquename('output/'+ self.name + '_gpt.docx')
+        name = uniquename('output/'+ self.name + extra + '_gpt.docx')
         doc.save(name)
+        print(f'Saved as {name}')
 
 
     def write_to_xl(self, string):

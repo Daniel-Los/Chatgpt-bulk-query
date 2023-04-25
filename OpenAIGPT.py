@@ -123,7 +123,9 @@ class OpenAIGPT:
         #                     "'Industrie', 'Houtstook van particuliere huishoudens', 'Binnenvaart en havens', "
         #                     "'Landbouw', 'Participatie van burgers en bedrijven', 'Monitoring' en 'geen'."
         #                     "Hier zijn de zinnen:\n")
-        categorize_mode = str("Voeg deze teksten samen. Zorg er voor dat je geen informatie verliest. ")
+        categorize_mode = str("Voeg deze teksten samen zodat ze een lopende tekst vormen. De teksten geeft een "
+                              "overzicht van een documentstudie dat in delen is gedaan. Zorg er voor dat je geen "
+                              "informatie verliest.")
 
         # This loops through every 'stitched' output from each document.
         #
