@@ -32,8 +32,8 @@ if __name__ == "__main__":
         mode = str("Geef een samenvatting van deze tekst voor iemand die geinteresserd is in luchtkwaliteit. "
                    "Noem alle relevante maatregelen die in de tekst staan zijn en waarom deze te "
                    "maken hebben met luchtkwaliteit. Gebruik duidelijke en taal, specifieke termen en beleidsprogramma's"
-                   "Geef voldoende context zodat er een overzicht gemaakt kan worden. Test je prompt en verfijn het "
-                   "indien nodig totdat je de gewenste resultaten krijgt. Geef het antwoord in het Nederlands. "
+                   "Geef voldoende context en zorg dat er zo min mogelijk informatie verloren gaat."
+                   " Geef het antwoord in het Nederlands. "
                    )
                    # "Categoriseer elk citaat in een "
                    # "van de volgende categorieën: Mobiliteit (verkeer), Mobiele machines, Industrie, Houtverbranding in particuliere "
@@ -92,18 +92,20 @@ if __name__ == "__main__":
 
     folder = r'C:\Users\d.los\Berenschot\Provincie Noord-Brabant - 69559 - Provinciale SLA samenwerking - EvRe\2. Documenten en data\Analysedocumenten'
     sub_folders = [name for name in os.listdir(folder) if os.path.isdir(os.path.join(folder, name))]
-
-    for name in sub_folders:
-        if 'Deurne - Deelnemer' in name:
-
-            print(f'Processing: {name}')
-            try:
-                main(root = str(fr"{rootroot}\{name}"))
-            except Exception as e:
-                print(f'An error occured with {name}')
-                print(e)
-                continue
-
-    print('done')
+    to_do = ['Waalre', 'Woensdrecht', 'Loon op Zand', 'Drimmelen', 'Asten', 'Gilze-Rijen', 'Geldrop-Mierlo', 'Zundert']
+    maps_and_files = [i for i in os.walk(folder)]
+    # for name in sub_folders:
+    #     if name in to_do:
+    #
+    #         print(f'Processing: {name}')
+    #         try:
+    #
+    #             main(root = str(fr"{rootroot}\{name}"))
+    #         except Exception as e:
+    #             print(f'An error occured with {name}')
+    #             print(e)
+    #             continue
+    #
+    # print('done')
 
 

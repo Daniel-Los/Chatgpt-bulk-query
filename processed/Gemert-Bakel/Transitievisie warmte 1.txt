@@ -1,0 +1,4132 @@
+ 
+
+ 
+
+Transitievisie Warmte 
+1.0 
+Definitieve versie  
+
+ 
+
+De WarmteTransitieMakers. – Atoomweg 50, 3542 AB Utrecht – info@dwtm.nl 
+
+KVK 71166645 - BTW NL85606227B01 - NL60TRIO0338946349 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Transitievisie Warmte 1.0 
+Definitieve versie 
+
+Opdrachtgever:  
+Projectnummer:  
+Auteurs:  
+
+Datum:  
+
+ 
+
+Gemeente Gemert-Bakel 
+DWTM21072-GGB -update TVW 
+ Augusta  Goedhart,  Daniel  Peyron,  Niek 
+Brinkhof van de WarmteTransitieMakers 
+1 april 2022 
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+De WarmteTransitieMakers. – Atoomweg 50, 3542 AB Utrecht – info@dwtm.nl 
+
+KVK 71166645 - BTW NL85606227B01 - NL60TRIO0338946349 
+
+2 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Inhoud 
+Samenvatting .................................................................................................................................................. 4 
+
+Inleiding .......................................................................................................................................................... 8 
+
+Waarom een Transitievisie Warmte? ........................................................................................................................ 8 
+Doel van dit plan ............................................................................................................................................................... 8 
+Wie zijn er betrokken? .................................................................................................................................................... 8 
+Samenhang met andere trajecten ............................................................................................................................. 9 
+Hoe gaat het hierna verder? ......................................................................................................................................... 9 
+
+Wat is de impact? .......................................................................................................................... 10 
+
+Wat zijn alternatieven voor koken op een gaspit? .......................................................................................... 10 
+Mogelijkheden voor verwarming en warm water ............................................................................................ 10 
+
+Hoe maken we keuzes? ................................................................................................................. 12 
+
+2.1 Algemene uitgangspunten ............................................................................................................................................. 13 
+
+Warmtevraag en warmtebronnen .............................................................................................. 14 
+
+3.1 Warmtevraag......................................................................................................................................................................... 14 
+
+ 
+1. 
+
+ 
+2. 
+
+3. 
+
+3.2 Beschikbare warmtebronnen.......................................................................................................................................... 20 
+
+4. 
+
+Kansrijke warmtevoorziening per buurt in 2050 ...................................................................... 23 
+
+4.1 Warmtevisie in beeld ......................................................................................................................................................... 23 
+
+4.2 Bedrijven en kantoren ....................................................................................................................................................... 25 
+
+5. 
+
+Stap voor stap aan de slag met aardgasvrij............................................................................... 26 
+
+5.1  Gemeentebreed inzetten op isoleren en energie besparen ........................................................................ 27 
+
+5.2  Communicatie en participatie ................................................................................................................................... 31 
+
+5.3  Onderzoek naar de inzet van biogas ..................................................................................................................... 31 
+
+5.4 
+
+Tijdspad tot aan 2050 ................................................................................................................................................... 32 
+
+Bijlage A Overzicht betrokkenen en hun rollen ....................................................................................... 38 
+
+Bijlage B Selectiecriteria aardgasvrij ......................................................................................................... 40 
+
+Bijlage C Analyses, kaarten & kentallen ................................................................................................... 43 
+
+Bijlage D Niet of beperkt aanwezige warmtebronnen ........................................................................... 47 
+
+Bijlage E Toelichting Startanalyse Leidraad ............................................................................................. 49 
+
+Bijlage F informatie over financieringsmogelijkheden ........................................................................... 52 
+
+Bijlage G aanpak verkenningsgebieden (vanaf 2026) ............................................................................ 53 
+
+ 
+
+ 
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+3 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Samenvatting 
+
+ 
+ 
+
+In Nederland gaan we stoppen met het gebruik 
+van aardgas in de gebouwde omgeving. 
+Waarom? Verbranding van aardgas veroorzaakt 
+CO2-uitstoot  en  dat  heeft  negatieve  gevolgen 
+voor het klimaat wereldwijd en voor Nederland. 
+Wat  gaan  we  doen?  Tussen  nu  en  2050 
+vervangen  we  het  aardgas  door  duurzame 
+warmte,  buurt  voor  buurt.  We  beginnen  nu  al 
+met energie besparen.  
+Met  wie  en  vóor  wie?  Samen  met  inwoners, 
+bedrijven  en  maatschappelijke  partners  zoeken 
+we  de  beste  oplossingen  voor  een  duurzame 
+gebouwde  omgeving  in  Gemert-Bakel,  waar 
+onze  én  volgende  generaties  een  prettige  en 
+leefbare 
+de 
+totstandkoming  van  deze  visie  heeft  de 
+gemeente 
+samengewerkt  met 
+woningcorporatie  Goed  Wonen,  Duurzaam 
+Gemert,  Bedrijven  Kontakt  Gemert-Bakel  en 
+netbeheerder Enexis. Inwoners en ondernemers 
+zijn  betrokken  tijdens  twee  bewonersavonden 
+en  hebben  een  enquête  en  nieuwsbrief 
+toegestuurd gekregen.  
+ 
+
+toekomst 
+
+daarom 
+
+hebben. 
+
+Bij 
+
+Figuur 1 Impact nu en in de toekomst van te hoge CO2-
+uitstoot in Nederland. 
+
+In  deze  Transitievisie Warmte  stippelen  we  het  pad  uit  naar  een  duurzame  en  toekomstbestendige 
+warmtevoorziening.  We  verwachten  de  Transitievisie  Warmte  eind  dit  jaar  vast  te  stellen  in  de 
+gemeenteraad. Dit is een wettelijke verplichting vanuit de landelijke overheid.  
+ 
+Wat vinden we belangrijk? 
+Wij,  gemeente  Gemert-Bakel,  vinden  het  erg  belangrijk  dat  de  toekomstige  energievoorziening 
+betrouwbaar & veilig, betaalbaar en duurzaam is. Alleen als we dat samen voor elkaar krijgen, wordt het 
+ook  mogelijk  voor  iedereen  om  de  overstap  te  maken.  We  maken  geen  overhaaste  beslissingen:    we 
+houden rekening met nieuwe technieken en kijken naar logische momenten om de overstap te maken. 
+ 
+We zijn gestart met het bekijken van de opgave in onze gemeente tot aan 2050.  We hebben daarvoor 
+gekeken welke huizen en bedrijfspanden er in de gemeente zijn en welke warmtevraag deze gebouwen 
+in de toekomst hebben.  
+ 
+Warmtevisie op basis van warmtevraag en beschikbare warmtebronnen 
+De  warmtevraag  die  we  verwachten,  is  niet  voor  alle  gebouwen  hetzelfde.  Er  zijn  (met  name)  oude 
+gebouwen  waarvoor  een  hoge  temperatuur  warmte  nodig  zal  blijven.  De  gecombineerde  warmtevraag 
+voor de gebouwde omgeving (bedrijven en woningen) in Gemert-Bakel zal tussen de 650 en 700 TJ/jaar 
+zijn  in  20501.  Dit  is  dan  ook  de  warmtevraag  waarvoor  we  passende  warmtebronnen  (met  passende 
+temperatuurniveaus) hebben gezocht. Op basis van de beschikbare warmtebronnen, de temperatuur die 
+huizen nodig hebben voor verwarming en de dichtheid van de warmtevraag (de mate waarin huizen dicht 
+
+ 
+
+1 Huidige warmtevraag op basis van het aardgasverbruik in de Klimaatmonitor. Verwachte besparingen op basis van 
+
+kentallen  van  Greenvis.  We  benoemen  hier  de  totale  toekomstige  warmtevraag  van  de  gebouwde  omgeving.  De 
+
+afspraak om voor 2050 aardgasvrij te zijn, geldt niet voor landbouw en industrie. Zie hoofdstuk 3.1 en bijlage C voor 
+
+meer informatie.  
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+4 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+bij  elkaar  staan),  hebben  we  een  visie  bepaald.  In  de  kaart  hieronder  zie  je  deze  visie  (welke  vorm  van 
+duurzame warmte past waar) met een aantal bijpassende bronnen in de gemeente weer gegeven.  
+
+ 
+
+ 
+
+Figuur 2 Visie warmtevoorziening met bijpassende bronnen.  
+ 
+In het grootste deel van de gemeente past een individuele oplossing het best. Dit geldt voor de lichtgrijze 
+gebieden in Figuur 2. De gebieden waar de inzet van groen gas interessant is, zijn grijs-groen gearceerd. 
+Groen gas is beperkt beschikbaar, dus in deze gebieden zal wellicht ook een individuele oplossing worden 
+gekozen.  In dorpskern Gemert liggen enkele gebieden waar een warmtenet het beste past (oranje op de 
+kaart). Er zijn warmtebronnen in de buurt nodig om het warmtenet te voeden. Er zijn enkele locaties waar 
+restwarmte  beschikbaar  is.  Dit  zijn  supermarkten,  een  locatie  van  Cor  Segers  B.V.  en  daarnaast  is 
+aquathermie een mogelijke warmtebron: uit water kan warmte worden gehaald en via een warmtenet naar 
+huizen  worden  vervoerd.  Ook  is  het  mogelijk  een  veld  aan  de  rand  van  het  dorp  met  zonthermische 
+panelen in te richten.  
+ 
+Naast  de  ingetekende  bronnen,  is  er  in  potentie  lokaal2  veel  energie  te  halen  uit  de  bodem  (WKO  en 
+geothermie) en uit het vergisten van groen/mestafval tot biogas. In een uitgebreide verkenning per buurt 
+zal verder worden uitgezocht hoeveel duurzame energie precies beschikbaar is. De verwachting is, dat er 
+ruim voldoende duurzame energie kan worden opgewekt in gemeente Gemert-Bakel.  
+
+2 Er wordt gewerkt aan een omgevingsverordening van de provincie, deze is nu nog in concept. Hier uit blijkt dat op 
+
+sommige locaties WKO systemen niet dieper dan 50 m kunnen worden aangelegd om de kleilaag niet te perforeren, 
+
+ter bescherming van het grondwater.  
+
+ 
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Stap 1: aan de slag met energie besparen en isoleren 
+De eerste belangrijke stap richting aardgasvrij, is om energie te besparen en om aan de slag te gaan met 
+het  isoleren  van  woningen.  Hierdoor  vermindert  de  vraag  naar  warmte,  en  vermindert  de  CO2-uitstoot 
+direct. Ook maakt isolatie de woning geschikt voor diverse duurzame manieren van verwarmen en zorgt 
+het voor een comfortabel binnenklimaat.  
+ 
+In de gemeente Gemert-Bakel staan huizen uit verschillende bouwperiodes. Hoe goed een huis geïsoleerd 
+is, verschilt per bouwperiode.  In de tabel hieronder is een overzicht te zien van de isolatiemaatregelen die 
+nodig zijn per bouwperiode3. 
+ 
+
+<1940 
+
+ 
+1941-1964 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1965-1982 
+
+1983-2005 
+
+>2005 
+
+Slecht geïsoleerde 
+
+Woningen met gemiddeld isolatieniveau 
+
+huizen 
+
+Goed geïsoleerde 
+
+huizen 
+
+Energielabel G/F 
+• Gebouwd zonder 
+
+Energielabel E/F 
+• Gebouwd zonder 
+
+Energielabel C/D/E 
+• Gebouwd met dak- 
+
+Energielabel B/C/D 
+• Gebouwd met 
+
+Energielabel B/A 
+• Gebouwd met goede 
+
+isolatie, geen 
+spouwmuur 
+
+• Historisch uiterlijk 
+• Beperkte isolatie 
+
+mogelijk 
+
+goede isolatie, 
+vaak wel met 
+spouwmuur 
+
+• Nieuwe 
+
+uitstraling soms 
+wenselijk 
+
+• Rendabel te 
+
+isoleren 
+
+en soms 
+gevelisolatie 
+• Rendabel te 
+
+isoleren 
+
+redelijke isolatie 
+
+isolatie 
+
+• Jaren ’80 isolatie vaak 
+
+• Lage temperatuur 
+
+kostbaar 
+
+• Jaren’90 gebouwd 
+met dubbel glas en 
+redelijke isolatie 
+
+verwarming vaak al 
+mogelijk 
+
+Maatregelen 
+
+Maatregelen 
+
+Maatregelen 
+
+Maatregelen 
+
+Maatregelen 
+
+• Isolatie van binnenuit 
+
+• Spouwmuur 
+
+(dak, gevel, vloer) 
+
+• Maatwerk bij 
+monumenten 
+
+• HR++ of triple glas, 
+monumentenglas of 
+voorzetramen 
+
+ 
+
+isolatie of 
+vervanging gevel 
+
+• Op natuurlijke 
+
+onderhoudsmom
+enten dakisolatie 
+
+• HR++ of triple 
+
+glas 
+
+• Spouwmuur isolatie 
+of vervanging gevel 
+
+• Op natuurlijke 
+
+onderhoudsmomen
+ten dakisolatie 
+
+• HR++ of triple glas 
+
+• Op natuurlijke 
+
+• Extra isolatie meestal 
+
+moment is isolatie 
+(dak, gevel, vloer) 
+goed mogelijk  
+
+niet zinvol 
+
+• Focus op duurzame 
+
+installaties 
+
+• Bij voldoende isolatie 
+
+focus op duurzame 
+installaties 
+
+Hoge temperatuur meer dan 70  ͦC        Midden temperatuur  tussen 50  ͦC en 70  ͦC                         Temperatuur lager dan 50  ͦC  
+
+Benodigde temperatuur van de warmte 
+
+Passende aardgasvrije 
+
+Passende aardgasvrije technieken 
+
+Passende aardgasvrije 
+
+technieken 
+
+Biomassa, groen gas, 
+hoge temperatuur 
+warmtenet 
+
+Warmtenetten  op  midden  temperatuur  of    op  lage  temperatuur  en 
+
+aangevuld met booster warmtepomp per huis 
+
+ 
+
+technieken 
+
+Na aanpassing van de 
+radiatoren vrijwel elke 
+
+techniek geschikt 
+
+ 
+
+ 
+Tabel 1 Huizen in verschillende bouwperiodes en bijbehorende rendabele isolatiemaatregelen. Sommige 
+huizen zullen altijd een hoge temperatuur warmte nodig hebben, dat is het warmteprofiel van deze huizen. 
+Hoe nieuwer een gebouw, hoe lager de benodigde temperatuur om het gebouw comfortabel te 
+verwarmen. Voor de drie warmteprofielen zijn passende aardgasvrije technieken benoemt.  
+
+ 
+
+3 Dit is een globaal overzicht. Er zijn woningen waar dit afwijkt. Bijvoorbeeld omdat inwoners van een monumentaal 
+
+pand  zelf  geïnvesteerd  hebben  in  uitgebreide  isolatie  of  omdat  bij  de  bouw  van  de  woning  al  meer  isolatie  is 
+
+aangebracht dan volgens de op dat moment geldende normen noodzakelijk was.  
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+6 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Gemeente breed zetten we er op in om zo snel mogelijk al onze gebouwen te isoleren4. Welke stappen 
+gezet moeten worden, verschilt per woning en per gebruiker. We hebben al een goede inschatting van 
+het  eindbeeld  in  onze  gemeente  (Figuur  2).  De  komende  jaren  gaan  we  inwoners  zo  gericht  mogelijk 
+informeren over de stappen die ze kunnen zetten om uiteindelijk de woning voorbereid te hebben op een 
+alternatief. We gaan hierover via meerdere kanalen informatie delen. Ook voor koplopers, die al snel hun 
+huis van het aardgas af willen halen, maken we informatie beschikbaar.  
+ 
+We  willen  daarnaast  inzetten  op  bewust  omgaan  met  energie.  Door  de  verwarming  lager  te  zetten,  of 
+korter te douchen, gebruiken we minder energie en dragen we dus ook bij aan reductie van CO2 uitstoot. 
+Ook de aanschaf van een hybride warmtepomp kan een interessante stap zijn.  
+ 
+Stap 2: aan de slag met aardgasvrij 
+Het omschakelen van verwarming met aardgas naar verwarming met een alternatieve bron is complex. 
+Het  heeft  impact  op  mensen  en  gebouwen.  De  oplossingen  die  er  zijn  in  plaats  van  aardgas,  zijn  in  te 
+delen in drie groepen: 
+ 
+
+• 
+
+Individuele oplossing: een oplossing per woning, gebouw of woonblok. Voorbeelden zijn een 
+warmtepomp, infraroodpanelen of incidenteel inzet van een biopropaantank5 of pelletkachel. 
+
+•  Warmtenet:  dit  is  een  collectieve  oplossing  voor  de  hele  buurt.  Warm  water  stroomt  door 
+
+leidingen onder de grond naar de huizen. 
+
+•  Duurzaam gas: we stappen over op een ander type gas, zoals biogas of waterstof en gebruiken 
+
+hiervoor de bestaande gasleidingen.  
+
+ 
+De  komende  jaren  gaan  we  nog  niet  aan  de  slag  met  het  aardgasvrij  maken  van  gebieden  in  onze 
+gemeente. Uit reacties van inwoners bleek dat dit nog een té grote stap is om te zetten. We gaan al wel 
+in gesprek met de regio om duidelijk te krijgen hoe we omgaan met de biogaspotentie in onze gemeente.  
+ 
+Er  is  een  hoge  potentie  voor  de  productie  van  biogas  in  Gemert-Bakel.  Dit  biogas  kan  worden 
+‘opgewaardeerd’  naar  groen  gas.  Groen  gas  heeft  dezelfde  eigenschappen  als  aardgas  en  kan  via  het 
+bestaande  gasnet  naar  huizen  worden  getransporteerd.    We  willen  onderzoeken  of  groen  gas  in  de 
+gemeente kan worden ingezet en geproduceerd en waar dit mogelijk is6.   
+ 
+
+ 
+
+4 De meest belangrijke gebouwen van onze gemeente worden nog vóor 2030 verregaand geïsoleerd. Dit ligt vast in 
+
+gemeentelijk beleid vastgoed. 
+5 Op dit moment wordt op één plek in Nederland biopropaan gemaakt als bijproduct van biodiesel en er is ook nog 
+
+maar  één  leverancier.  Het  is  dus  beperkt  beschikbaar.  Biopropaan  kan  zonder  aanpassingen  worden  ingezet  in 
+
+bestaande propaantanks.   
+6 Groen gas is landelijk beperkt beschikbaar. Er zal de komende jaren worden uitgezocht waar dit het best passend kan 
+
+worden ingezet. 
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+7 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Inleiding 
+ 
+In Nederland gaan we stoppen met het gebruik van aardgas. Tussen nu en 2050 vervangen we het 
+aardgas in de gebouwde omgeving door duurzame warmte, buurt voor buurt. Samen met inwoners, 
+bedrijven  en  maatschappelijke  partners  zoeken  we  de  beste  oplossingen  voor  een  duurzaam 
+Gemert-Bakel,  waar  onze  én  volgende  generaties  een  prettige  en  leefbare  toekomst  hebben.  In 
+deze Transitievisie Warmte  stippelen  we  het  pad  uit  naar  een  duurzame  en  toekomstbestendige 
+warmtevoorziening. 
+
+Waarom een Transitievisie Warmte? 
+Het klimaat verandert door toename van CO2. De negatieve gevolgen daarvan worden steeds zichtbaarder. 
+Het is noodzakelijk de CO2-uitstoot terug te dringen. De Transitievisie Warmte beschrijft op hoofdlijnen 
+hoe  we  de  overstap  kunnen  maken  van  aardgas  naar  duurzame  warmte  om  de  CO2-uitstoot  voor 
+woonhuizen en bedrijfspanden zo veel mogelijk te beperken. 
+ 
+In 2019 ondertekenden meer dan 100 partijen het landelijke klimaatakkoord. In het klimaatakkoord zijn 
+tientallen maatregelen vastgelegd om klimaatverandering tegen te gaan. De Nederlandse overheid wil de 
+uitstoot van broeikasgassen in Nederland in 2030 met 49% terugdringen ten opzichte van 1990. In 2050 
+moet de CO2-uitstoot met 95% verminderd zijn. Dit vraagt ingrijpende veranderingen in allerlei sectoren: 
+industrie, landbouw, mobiliteit, de productie van elektriciteit en de wijze waarop we gebouwen verwarmen. 
+Om de klimaatdoelen te behalen moeten we uiterlijk in 2050 afscheid nemen van fossiele brandstoffen en 
+dus ook van het gebruik van aardgas voor koken, verwarming en warm water. In het klimaatakkoord is 
+bepaald dat elke gemeente uiterlijk in 2021 een plan maakt voor  de gebouwde omgeving. Hoe maken 
+woningen  en  bedrijfspanden  de  overstap  van  aardgas  op  andere,  duurzame  warmtebronnen?  Dat  plan 
+presenteren we in deze Transitievisie Warmte. Voor de uitvoering van de transitie hebben we tot 2050 de 
+tijd.  
+ 
+Gemeente  Gemert-Bakel  maakt  in  deze  Transitievisie  Warmte  een  eerste  stap  richting  een  aardgasvrij 
+verwarmde  gebouwde  omgeving.  De  gemeente  wil  geen  koploper  zijn7.  Om  de  overstap  naar  een 
+alternatief voor aardgas mogelijk te maken, wordt op dit moment in Nederland veel kennis ontwikkeld. 
+Door  niet  voorop  te  lopen  kunnen  we  leren  van  de  ervaringen  die  nu  worden  opgedaan.  We  willen 
+inwoners  van  onze  gemeente  de  tijd  geven  om  de  best  passende  (individuele)  keuzes  te  maken. 
+Vermindering van het energiegebruik  door gebouwen  te isoleren, is daarbij een speerpunt. Er wordt al 
+hard  gewerkt  aan  het  isoleren  van  huizen.  De  reductie  in  energiegebruik  (en  de  daling  van  de 
+energierekening die dit oplevert) en het meer comfortabele binnenklimaat zijn redenen dat veel inwoners 
+hier al mee bezig zijn8. We sluiten hier graag op aan.   
+
+Doel van dit plan 
+Deze transitievisie geeft een doorkijk naar wat er in de gemeente gaat gebeuren de komende dertig jaar 
+om de gebouwde omgeving aardgasvrij te verwarmen. We geven aan hoe we de komende jaren aan de 
+slag gaan met energie besparen en isoleren. Er zijn nog geen definitieve besluiten genomen, maar er is 
+wel  inzicht  in  interessante  alternatieven  voor  aardgas  per  buurt.  Dit  geeft  houvast  voor  het  maken  van 
+keuzes. We schetsen in welke periode welke buurt van het aardgas af zal kunnen gaan.  
+
+Wie zijn er betrokken? 
+Deze Transitievisie Warmte is opgesteld door de gemeente samen met woningcorporatie Goed wonen, 
+bewonerscollectief  Duurzaam  Gemert,  Bedrijven  Kontakt  Gemert-Bakel  en  netbeheerder  Enexis.  In  een 
+
+ 
+
+7 Uit de enquête onder inwoners, uitgevoerd in zomer 2020 blijkt dat van de 100 respondenten de helft geen koploper 
+
+wil zijn.   
+8 Uit de enquête onder inwoners, uitgevoerd in zomer 2020 blijkt dat van de 100 respondenten al meer dan 70% het 
+
+huis geïsoleerd heeft en dubbel glas heeft aangebracht.  
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+8 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+aantal  werksessies  hebben  ze  samen  deze  Transitievisie  Warmte  vorm  gegeven.  Woningeigenaren, 
+huurders  en  ondernemers  zijn  ook  betrokken.  Er  is  een  enquête  verspreid,  inwoners  uit  de 
+verkenningsgebieden hebben een brief gekregen en konden meedenken in een klankbordgroep en er zijn 
+twee bewonersavonden georganiseerd. Zo hebben de verschillende betrokkenen de Transitievisie Warmte 
+mede vorm gegeven (zie meer informatie in bijlage A). Wij streven ernaar om de warmtetransitie zoveel 
+mogelijk samen met inwoners en bedrijven uit te voeren. De initiatieven die vanuit de samenleving gestart 
+worden, faciliteren we graag.  
+
+ 
+
+Samenhang met andere trajecten 
+De  definitieve  transitievisie  zal  na  vaststelling  in  de  gemeenteraad  onderdeel  worden  van  de 
+Omgevingsvisie.  Verdere  uitwerkingen  op  buurtniveau  zullen  vervolgens  een  plek  krijgen  in  het 
+Omgevingsplan  en  de  buurtuitvoeringsplannen.  We  kijken  verder  dan  de  gemeentegrenzen.  De  puzzel 
+van  warmte-opwek,  -opslag  en  -gebruik  maken  we  samen  met  andere  gemeenten  en  met  de 
+netbeheerder  in  de  regio.  We  werken  toe  naar  de  Regionale  Structuur  Warmte,  als  onderdeel  van  de 
+Regionale  Energiestrategie  van  de  Metropool  Regio  Eindhoven.  De  RES  kan  dus  als  startpunt  gebruikt 
+worden voor de TVW en de TVW levert input voor de RES.  
+
+Hoe gaat het hierna verder? 
+Deze transitievisie geeft een beeld van wat er in de gemeente gaat gebeuren de komende dertig jaar. De 
+transitievisie vormt de start van een proces om de gemeente Gemert-Bakel buurt voor buurt aardgasvrij 
+te  maken.  Over  vijf  jaar  wordt  deze  Transitievisie  Warmte  aangepast  aan  de  dan  geldende  situatie.  We 
+starten nu met de eerste stap: energie besparen. We selecteren in de volgende Transitievisie Warmte 2.0 
+een  aantal  ‘verkenningsbuurten’,  die  kansrijk  zijn  om  als  eerste  van  het  aardgas  af  te  gaan.  Voor  deze 
+buurten  worden  vervolgens  ‘buurtuitvoeringsplannen’  gemaakt  (zie  Figuur  3).  Deze  uitvoeringsplannen 
+maken  we  in  samenwerking  met  bewoners  en  andere  betrokkenen  –  hiervoor  volgt  per  buurt  een 
+participatietraject.  
+ 
+Het  besluit  om  daadwerkelijk  over  te  stappen  naar  een  duurzame  warmtevoorziening  wordt  pas 
+gezamenlijk met betrokkenen genomen als bekend is wat de consequenties zijn voor de woonlasten van 
+bewoners en ondernemers in deze wijken en als er een gedegen haalbaarheidsstudie is afgerond. Als het 
+aardgas in een buurt wordt afgesloten, krijgen bewoners dat ruim van tevoren (circa 8 jaar) te horen9. Ook 
+hecht de gemeente aan breed draagvlak. Het spreekt dan ook voor zich dat bewoners goed geïnformeerd- 
+en nauw betrokken worden bij de buurtuitvoeringsplannen.  
+ 
+
+Figuur 3: Tijdspad warmtetransitie. De Transitievisie Warmte wordt iedere 5 jaar geüpdatet.  
+ 
+
+ 
+
+9 De termijn van 8 jaar is voorlopig in het klimaatakkoord opgenomen en zal uiterlijk 2022 worden geëvalueerd. Dan 
+
+wordt definitief vastgesteld wat een goede termijn is. 
+
+ 
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+9 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1. Wat is de impact?  
+
+ 
+Het  omschakelen  van  verwarming  met  aardgas  naar  verwarming  met  een  alternatieve  bron  is 
+complex. Het heeft impact op mensen en gebouwen. In dit hoofdstuk omschrijven we in het kort 
+de impact die we verwachten. 
+ 
+Bijna alle huizen in de gemeente gebruiken aardgas10. Het wordt gebruikt om het huis te verwarmen (via 
+cv  en  radiatoren),  om  te  koken,  en  voor  warm  water  uit  de  kraan.  Ook  de  meeste  bedrijven  gebruiken 
+aardgas. Soms alleen voor verwarming, soms ook in het bedrijfsproces. De belangrijkste aanpassingen die 
+in  woningen  en  andere  gebouwen  nodig  zijn  om  over  te  stappen  op  een  duurzame  warmtebron,  zijn 
+hieronder kort toegelicht. 
+
+Wat zijn alternatieven voor koken op een gaspit? 
+Koken  kan  met  een  inductieplaat,  elektrische  kookplaat  of  keramische  kookplaat.  De  meeste  mensen 
+kiezen voor inductie. Dat verbruikt minder stroom dan andere elektrische kookplaten, en het lijkt op koken 
+op gas: je kunt de temperatuur snel regelen.  
+
+Mogelijkheden voor verwarming en warm water 
+De oplossingen die er zijn in plaats van aardgas, zijn in te delen in drie groepen: 
+ 
+
+• 
+
+Individuele  oplossing:  een  oplossing  per  woning,  gebouw  of  woonblok.  Bijvoorbeeld  een 
+warmtepomp of infraroodpanelen of incidenteel een biopropaantank11 of pelletkachel. 
+
+•  Warmtenet:  dit  is  een  collectieve  oplossing  voor  de  hele  buurt.  Warm  water  stroomt  door 
+
+leidingen onder de grond naar de huizen. 
+
+•  Duurzaam gas: we stappen over op een ander type gas, zoals biogas of waterstof en gebruiken 
+
+het bestaande gasnet om dit naar de huizen te transporteren.  
+
+ 
+Het  hangt  onder  andere  van  het  type  woning  en  type  buurt  af,  welke  oplossing  het  meest  geschikt  is. 
+Welke  aanpassingen  nodig  zijn  in  de  woning  verschilt  per  oplossing.  In  Figuur  4  is  dit  op  hoofdlijnen 
+weergegeven. In hoofdstuk 4 en 5 komt aan bod welke oplossing  in de toekomst het beste past bij de 
+verschillende buurten in onze gemeente.  
+ 
+Isolatie en andere aanpassingen aan de woning zijn vaak noodzakelijk om de woning met het alternatief 
+voor aardgas comfortabel te verwarmen.  Detail informatie over de aanpassingen die nodig zijn in huizen 
+komen  niet  aan  bod  in  deze  transitievisie.  Dit  is  sterk  afhankelijk  van  het  bouwjaar  en  gebruik  van 
+woningen. Wanneer tijdens de uitvoeringsplannen vast komt te staan welke techniek gekozen wordt, kan 
+een goede inschatting worden gemaakt van de benodigde aanpassingen en kosten. 
+ 
+
+ 
+
+10  Woningen  waarvan  de  bouwvergunning  ná  juli  2018  is  afgegeven,  worden  al  aardgasvrij  gebouwd.  Voor  deze 
+
+woningen is overstappen dus niet nodig.  
+11 Op dit moment wordt op één plek in Nederland biopropaan gemaakt als bijproduct van biodiesel en er is ook nog 
+
+maar één leverancier. Het is dus beperkt inzetbaar. Biopropaan kan zonder aanpassingen worden ingezet in bestaande 
+
+propaantanks en is dus een mogelijke oplossing voor het buitengebied in Gemert-Bakel.   
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+10 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figuur 4 Globaal overzicht van de  alternatieve warmtebronnen en benodigde aanpassingen in huizen. 
+Afhankelijk van de gekozen warmtebron zijn er andere aanpassingen aan huizen en bedrijfspanden nodig.  
+
+ 
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+11 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2. Hoe maken we keuzes? 
+
+ 
+We hebben ons in Nederland tot doel gesteld om in 2050 een betaalbare, betrouwbare en duurzame 
+warmtevoorziening te hebben zonder aardgas. Dit betekent dat we keuzes moeten maken. Waar 
+gaan  we  starten  en  waarom?  Voor  welke  alternatieve  warmteoplossing  kiezen  we?  Om  deze 
+beslissingen  weloverwogen te maken, benoemen we in deze  transitievisie  een aantal belangrijke 
+uitgangspunten.  
+ 
+Gemeente  Gemert-Bakel  is  regisseur  van  de  warmtetransitie.  In  Figuur  5  is  te  zien  dat  de  Transitievisie 
+Warmte  in  2021  wordt  vastgesteld  door  de  gemeenteraad.  In  de  Transitievisie  Warmte  2.0  van  2026 
+worden een aantal verkenningsbuurten benoemd. Vanaf 2027 toetst de gemeente de haalbaarheid voor 
+deze  verkenningsbuurten.  Blijkt  daaruit  dat  het  haalbaar  is  om  een  aardgasvrije  warmtevoorziening  te 
+realiseren,  dan  wordt  het  besluit  genomen  de  buurt  definitief  als  startbuurt  aan  te  wijzen.  We  nemen 
+tijdens het opstellen van de Transitievisie Warmte en de uitvoeringsplannen  zorgvuldig en gezamenlijk 
+besluiten, en zijn open over de afwegingen die we maken. Daarom zijn er uitgangspunten geformuleerd 
+om deze keuzes in de warmtetransitie op te baseren. Er zijn drie soorten uitgangspunten: 
+ 
+1.  Algemene uitgangspunten voor de warmtetransitie, die het hele proces leidend zijn; 
+2.  Uitgangspunten voor het bepalen van de startbuurten; 
+3.  Uitgangspunten voor het kiezen van aardgasvrije technieken.  
+
+ 
+
+ 
+
+ 
+
+Figuur 5 In de Transitievisie Warmte presenteert de gemeente haar visie op een aardgasvrije gemeente. 
+Later volgt per buurt een uitvoeringsplan. De uitgangspunten die we in de transitievisie bepalen, zijn 
+steeds de basis waarop we besluiten baseren. 
+ 
+De  uitgangspunten  zijn  besproken  met  woningcorporatie  Goed  wonen,  bewonerscollectief  Duurzaam 
+Gemert, Bedrijven Kontakt Gemert-Bakel en netbeheerder Enexis. De algemene uitgangspunten zijn ook 
+getoetst bij inwoners. Deze worden hieronder kort besproken. In bijlage A zijn de ander uitgangspunten 
+terug te vinden.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+12 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+2.1 Algemene uitgangspunten 
+Elke  buurt  is  anders,  met  een  andere  samenstelling  van  bewoners,  gebouwen,  omgeving  en 
+warmtebronnen.  De  benadering  per  buurt  zal  dus  op  maat  zijn.  Toch  streven  we  in  de  hele  gemeente 
+hetzelfde doel na. We willen een betaalbare, betrouwbare, veilige en duurzame energievoorziening. En we 
+willen  overal  zorgvuldig  omgaan  met  de  belangen  van  bewoners,  ondernemers  en  maatschappelijke 
+organisaties.  We  hebben  daarom  een  aantal  uitgangspunten  benoemd  die  gedurende  het  hele  proces 
+centraal zullen staan: 
+ 
+
+Iedereen moet mee kunnen in de warmtetransitie. 
+
+• 
+•  We streven naar de laagste totale kosten voor de warmteoplossing12 en daarmee ook de laagste 
+
+kosten voor bewoners en bedrijven13. 
+
+•  We  spelen 
+
+in  op 
+
+logische  momenten 
+
+in  buurten  die  kostenverlagend  werken,  zoals 
+vervangingsmomenten  van  de  aardgasleidingen,  onderhoudsplannen  aan  gebouwen,  of 
+grootschalige werkzaamheden in de openbare ruimte. 
+Energiebesparing is belangrijk om de vraag naar (primaire) energie in 2050 te beperken en de CO2-
+uitstoot te minimaliseren. 
+
+• 
+
+•  We hechten veel belang aan een zorgvuldig proces dat inclusief en transparant is (met duidelijke, 
+eerlijke  en  begrijpelijke  informatie).  We  zien  dit  als  randvoorwaarde  om  wederzijds  begrip  en 
+helderheid te scheppen en de belangen van bewoners en bedrijven in gemeente Gemert-Bakel goed 
+te dienen. Uit de enquête en de klankbordgroep voor inwoners, blijkt ook dit belang voor goede 
+informatievoorziening.    Het  kennisniveau  onder  inwoners  is  heel  wisselend  en  op  al  die  niveaus 
+willen we mensen kunnen bereiken. 
+
+•  Naast  energie  en  klimaat  is  er  ook  aandacht  voor  bredere  milieu-impact  en  de  volksgezondheid 
+
+(zoals een gezond binnenklimaat) en milieuvriendelijke oplossingen. 
+
+•  We staan open voor de komst van nieuwe technologieën. 
+•  We  zorgen  er  voor  dat  procedures  vereenvoudigd  worden  zodat  dit  geen  belemmering  is  voor 
+
+uitvoering van de energietransitie  
+
+ 
+Toekomstig beleid en de toekomstige plannen voor de warmtetransitie zullen we steeds toetsen aan deze 
+uitgangspunten. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+12  Om  precies  te  zijn  streven  we  de  laagste  “nationale  kosten”  na.  Nationale  kosten  zijn  de  totale  kosten  van  alle 
+
+maatregelen die nodig zijn voor een warmteoplossing, ongeacht wie die kosten betaalt. Het is inclusief de kosten en 
+
+baten van energiebesparing en alle kosten en investeringen voor de opwek en distributie van stroom en warmte, maar 
+
+exclusief belastingen, heffingen en subsidies. 
+13 Uit een enquête onder inwoners (104 reacties) blijkt dat de helft van hen alleen wil overstappen op een alternatief 
+
+voor aardgas als de kosten gelijk blijven. Bijna een kwart wil eventueel wel kosten maken, als het in de toekomst weer 
+
+voordeliger wordt.  
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+13 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3. Warmtevraag en warmtebronnen  
+
+ 
+In  dit  hoofdstuk  beschrijven  we  de  warmtevraag  van  de  gebouwde  omgeving,  bestaande  uit 
+woningen en bedrijfspanden. Daarbij kijken we naar de hoeveelheid warmte die in een gebied nodig 
+is en  de temperatuur  van de warmte die wordt gevraagd. Ook  geven  we een  inschatting van  de 
+toekomstige  warmtevraag.  Daarna  kijken  we  naar  het  potentiële  aanbod  van  duurzame 
+warmtebronnen in Gemert-Bakel14.  
+ 
+In dit hoofdstuk beschrijven we eerst   de gebouwen in de gemeente, hun huidige warmtevraag en het 
+gasverbruik  daarbij.  Daarna  kijken  we  hoe  ver  we  de  energievraag  kunnen  verlagen  door  rendabel  te 
+isoleren.  Door  de  warmtevraag  op  een  kaart  van  de  gemeente  in  beeld  te  brengen,  zien  we  welke 
+temperatuur  warmte  in  welke  buurt  nodig  is.  In  het  2e  deel  van  dit  hoofdstuk  beschrijven  we  de 
+warmtebronnen die we gevonden hebben in de gemeente.  
+ 
+
+3.1 Warmtevraag 
+ 
+Huidig gasverbruik woningen en bedrijven  
+De meest recente complete cijfers over het aardgasverbruik komen uit 2018. In dat jaar stonden er op 1 
+januari  in  totaal  12.683  woningen  en  waren  er  2895  bedrijven  gevestigd  in  Gemert-Bakel.15 
+Woningbouwcorporatie Goed wonen heeft een aanzienlijk deel (21%) van de woningen in de gemeente 
+in  bezit16.  Het  totale  aardgasverbruik  in  Gemert-Bakel  in  2018  was  1.077  TJ17.  Circa  75  procent  van  het 
+gasgebruik (798 TJ) werd gebruikt in de gebouwde omgeving: de ruim 12.000 woningen in Gemert-Bakel 
+en dienstverlenende bedrijven. De rest (280 TJ) ging naar landbouw en industrie.  
+ 
+Het overgrote deel van de woningen en de bedrijven is aangesloten op het aardgasnet. Verhoudingsgewijs 
+wordt er aanzienlijk meer energie uit aardgas gebruikt dan uit elektriciteit (zie Figuur 6). Het stoppen met 
+aardgas is daarom cruciaal in de energietransitie.  
+ 
+In  woningen  wordt  het  aardgas  hoofdzakelijk  gebruikt  voor  verwarming  (75%),  een  kleiner  deel  wordt 
+gebruikt voor warm water (20%) en 5% van het gas wordt gebruikt om te koken.  
+ 
+
+ 
+
+14  Gegevens over de gebouwde omgeving zijn grotendeels afkomstig uit openbare data en deels uit kengetallen van 
+
+De WarmteTransitieMakers. De Startanalyse van het Planbureau voor de Leefomgeving is gebruikt om inzicht te krijgen 
+
+in de nationale kosten voor verschillende technieken voor de buurten van Gemert-Bakel. 
+15 Bron: CBS Statline – Totale woningvoorraad & Allecijfers.nl - Bedrijven 
+16 Bron: CBS, 2019 
+17 Bron: Klimaatmonitor, 2018 Voor 2018 geeft de klimaatmonitor een totale warmtevraag van 1173 TJ (waarvan 
+
+95TJ hernieuwbaar en 1078 aardgas). Deze warmtevraag is voor gebouwde omgeving, landbouw en industrie. In dit 
+document focussen we op de gebouwde omgeving. 
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+14 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figuur  6  Totaal  energieverbruik  in  Gemert-Bakel  onderverdeeld  in  aardgasverbruik  en 
+elektriciteitsverbruik18. 
+ 
+Bij bedrijven hangt het aardgasverbruik sterk af van het type bedrijf. In sommige bedrijven wordt aardgas 
+niet  alleen  gebruikt  voor  verwarmen,  maar  ook  in  het  bedrijfsproces.  Daarnaast  wordt  aardgas  in  de 
+glastuinbouw gebruikt voor zowel de productie van warmte als de productie van elektriciteit. Dit gebeurt 
+dan  met  een  Warmte-Kracht  Koppeling  (WKK)  installatie.  In  Figuur  6  valt  de  glastuinbouw  onder  de 
+categorie met Landbouw.  
+ 
+Alles  wat  valt  onder  industrie,  energie,  afval  en  water,  is  buiten  de  scope  van  de  Transitievisie 
+Warmte. Dit geldt ook voor alles dat valt onder landbouw, bosbouw en visserij. In het klimaatakkoord 
+zijn aparte afspraken gemaakt voor de sector industrie. Met name de maakindustrie, waar aardgas gebruikt 
+wordt  voor  bedrijfsprocessen,  vraagt  om  individueel  maatwerk.  Eventuele  restwarmte  van  de  industrie 
+wordt wel meegenomen in de warmtebronnen analyse.  
+ 
+Verlagen energiegebruik per bouwperiode 
+Het merendeel van de woningen in gemeente Gemert-Bakel is gebouwd in de periode 1941-1974. Zo zijn 
+grote delen van dorpskern Gemert en het noorden van Bakel gebouwd in deze periode. Ook zijn er, met 
+name in dorpscentra, nog vooroorlogse panden. In Figuur 7 zijn de bouwjaren van de woningen en de 
+utiliteitsobjecten (inclusief industrie) in gemeente Gemert-Bakel weergegeven. In bijlage C is  een kaart te 
+vinden met de bouwjaren van alle panden in de gemeente. 
+
+Figuur 7 Links: het aantal utiliteitspanden in de gemeente, onderverdeeld naar bouwperiode. Midden: 
+dezelfde onderverdeling voor woningen19. Rechts: energielabels van de woningen in Gemert-Bakel.   
+
+ 
+
+18 Klimaatmonitor 
+19 De bouwjaren en energielabel analyse is gebaseerd op BAG data uit juni 2020. Alle woningen met een woonfunctie 
+
+zijn meegerekend als woning. De overige verblijfsobjecten zijn geteld als utiliteit. Er zijn verblijfsobjecten die zowel een 
+
+ 
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+15 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Sinds 2015 heeft vrijwel elk pand in Nederland een energielabel. Het energielabel zegt iets over de isolatie 
+en de warmtevraag van het pand. Label A staat voor een goed geïsoleerde woning, label G is voor slecht 
+geïsoleerde woningen. In Figuur 7 rechts is de verdeling van energielabels van de woningen in gemeente 
+Gemert-Bakel te zien.20  Over het algemeen geldt: hoe ouder de woning, hoe slechter het energielabel. 
+Dus een huis gebouwd vóor 1940 heeft, als het niet is na-geïsoleerd meestal een label F of G.  
+ 
+De verwachting is dat in de komende periode woningeigenaren met isolatiemaatregelen (zie Tabel 2) aan 
+de  slag  gaan  waardoor  de  energielabels  verbeteren  en  de  warmtevraag  lager  wordt.  Isoleren  levert 
+namelijk  een  verlaging  van  de  energiekosten  op  en  zorgt  voor  een  comfortabel  binnenklimaat.  Voor 
+woningcorporaties  en  kantoorpandeigenaren  gelden  strenge  isolatie-eisen:  deze  panden  zullen,  waar 
+nodig, in de komende jaren grondig aangepakt worden om aan hieraan te kunnen voldoen.  
+ 
+
+<1940 
+
+ 
+1941-1964 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1965-1982 
+
+1983-2005 
+
+>2005 
+
+Slecht geïsoleerde 
+
+Woningen met gemiddeld isolatieniveau 
+
+huizen 
+
+Goed geïsoleerde 
+
+huizen 
+
+Energielabel G/F 
+
+Energielabel E/F 
+
+Energielabel C/D/E 
+
+Energielabel B/C/D 
+
+Energielabel B/A 
+
+• Gebouwd zonder 
+
+• Gebouwd zonder 
+
+• Gebouwd met dak- 
+
+• Gebouwd met 
+
+• Gebouwd met goede 
+
+isolatie, geen 
+spouwmuur 
+
+• Historisch uiterlijk 
+• Beperkte isolatie 
+
+mogelijk 
+
+goede isolatie, 
+vaak wel met 
+spouwmuur 
+
+• Nieuwe 
+
+uitstraling soms 
+wenselijk 
+
+• Rendabel te 
+
+isoleren 
+
+en soms 
+gevelisolatie 
+• Rendabel te 
+
+isoleren 
+
+redelijke isolatie 
+
+isolatie 
+
+• Jaren ’80 isolatie vaak 
+
+• Lage temperatuur 
+
+kostbaar 
+
+• Jaren’90 gebouwd 
+met dubbel glas en 
+redelijke isolatie 
+
+verwarming vaak al 
+mogelijk 
+
+Maatregelen 
+
+Maatregelen 
+
+Maatregelen 
+
+Maatregelen 
+
+Maatregelen 
+
+• Isolatie van binnenuit 
+
+• Spouwmuur 
+
+(dak, gevel, vloer) 
+
+• Maatwerk bij 
+monumenten 
+
+• HR++ of triple glas, 
+monumentenglas of 
+voorzetramen 
+
+ 
+
+isolatie of 
+vervanging gevel 
+
+• Op natuurlijke 
+
+onderhoudsmom
+enten dakisolatie 
+
+• HR++ of triple 
+
+glas 
+
+• Spouwmuur isolatie 
+of vervanging gevel 
+
+• Op natuurlijke 
+
+onderhoudsmomen
+ten dakisolatie 
+
+• HR++ of triple glas 
+
+• Op natuurlijke 
+
+• Extra isolatie meestal 
+
+moment is isolatie 
+(dak, gevel, vloer) 
+goed mogelijk  
+
+niet zinvol 
+
+• Focus op duurzame 
+
+installaties 
+
+• Bij voldoende isolatie 
+
+focus op duurzame 
+installaties 
+
+Benodigde temperatuur van de warmte 
+
+Hoge temperatuur meer dan 70  ͦC        Midden temperatuur  tussen 50  ͦC en 70  ͦC                         Temperatuur lager dan 50  ͦC  
+
+Passende aardgasvrije 
+
+technieken 
+
+Biomassa, groen gas, 
+hoge temperatuur 
+warmtenet 
+
+ 
+
+Passende aardgasvrije technieken 
+
+Passende aardgasvrije 
+
+Warmtenetten  op  midden  temperatuur  of    op  lage  temperatuur  en 
+
+aangevuld met booster warmtepomp per huis 
+
+ 
+
+technieken 
+
+Na aanpassing van de 
+radiatoren vrijwel elke 
+
+techniek geschikt 
+
+Tabel 2 Huizen in verschillende bouwperiodes en de benodigde isolatiemaatregelen om deze huizen klaar 
+te maken voor een alternatief voor aardgas. Voor de drie warmteprofielen (hoog, midden en laag) zijn 
+passende aardgasvrije technieken benoemt.  
+
+ 
+
+bedrijfsvestiging zijn als een woning, waardoor de getallen afwijken van het aantal woningen en aantal bedrijven zoals 
+
+door het CBS geregistreerd. 
+20 Bron: RVO 
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+16 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Voor Gemert-Bakel is een analyse gemaakt gebaseerd op de bekende bouwjaren en energielabels van de 
+panden en de rendabele maatregelen zoals omschreven in Tabel 2. Deze analyse, zie bijlage C, laat zien 
+dat er een totale besparingspotentie van circa 21% is van de warmtevraag in bestaande  woningen. Het 
+besparingspotentieel van bedrijven is geschat op circa 30% (het landelijk gemiddelde). Omdat bedrijven 
+veel  diverser  zijn  dan  huizen  (een  kledingwinkel  en  opslagloods  zijn  heel  anders  qua  comforteisen  en 
+bouwstijl), is het besparingspotentieel hiervan niet exact te bepalen.  
+ 
+De gecombineerde warmtevraag voor warmte voor bestaande (industriële) bedrijven en woningen 
+in  Gemert-Bakel  zal  tussen  de  850  en  900  TJ/jaar  zijn  in  205021.  Dit  is  dan  ook  de  warmtevraag 
+waarvoor passende warmtebronnen moeten worden gevonden. Van de totale warmtevraag is circa 
+675 TJ afkomstig van de gebouwde omgeving en daarvoor zoeken we dus vóor 2050 alternatieven. 
+ 
+Temperatuurniveau 
+Naast de vraag hoevéel warmte er nodig is per buurt of woning, is ook van belang op welke temperatuur 
+deze warmte beschikbaar moet zijn. Dit noemen we het warmteprofiel. De temperatuur waarop de warmte 
+in de woning verspreid wordt via de radiatoren of vloerverwarming (de zogeheten afgifte-temperatuur) 
+moet passen bij de isolatiegraad van de woningen en het type radiator (en andere installaties). Hoe beter 
+de  woning  geïsoleerd  is,  hoe  lager  de  afgifte-temperatuur  kan  zijn.  In  Tabel  2  is  te  zien  hoe  de 
+warmteprofielen meestal gedefinieerd worden door het bouwjaar.  
+ 
+Bij bedrijfspanden hangt de warmtevraag sterk af van de functie van een gebouw. Zo is het vaak niet nodig 
+om een opslagloods tot 20°C te verwarmen. Daarom is het lastig op basis van de energielabels te werken. 
+Voor bedrijfspanden moet meer op individueel niveau gekeken worden welke warmtevoorziening volstaat.  
+ 
+Op dit moment gebruiken bijna alle huizen22 een cv-ketel met een hoge afgifte-temperatuur: alle huizen 
+zou je daarom een rood warmteprofiel kunnen geven op een gemeenteplattegrond. Wanneer alle huizen 
+in  gemeente  Gemert-Bakel  de  besparingsstap  zetten  die  past  bij  hun  huis  (zie  Tabel  4  in  bijlage  C), 
+verbetert  hun  warmteprofiel.  Deze  verbeterde  warmteprofielen  zijn  per  cluster  van  huizen  op  de  kaart 
+gezet in Figuur 8. 
+ 
+ 
+
+ 
+
+21 Huidige warmtevraag is op basis van het aardgasverbruik en verbruik hernieuwbare bronnen in de Klimaatmonitor.  
+
+Aardgasverbruik: 674 TJ voor woningen en 610 TJ voor utiliteit. Verbruik van hernieuwbare bronnen: 108 TJ. Met de 
+
+verwachte energiebesparing komen we dan op circa  700 TJ. Zie bijlage C voor een meer uitgebreide toelichting.  
+22 Nieuwbouw huizen die na 1 juli 2018 zijn vergund en gebouwd, zijn al aardgasvrij. Ook is er door Goed Wonen een 
+
+honderdtal woningen aardgasvrij verbouwd. Tussen de 1 en 2% van de huidige woningen is dus al aardgasvrij.  
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+17 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figuur 8 Warmteprofielen gemeente Gemert-Bakel waarbij uitgegaan is van rendabel isoleren. We zien 
+clusters van huizen met een zelfde warmteprofiel. Het warmteprofiel ‘Midden tot lage temperatuur’ komt 
+het meest voor. In een aantal dorpskernen komen rode clusters voor; hier staan oude woningen die 
+moeilijk te isoleren zijn tot een niveau waar midden tot lage temperaturen voldoen. De groene clusters 
+(vaak nieuwbouw) liggen vaak aan de rand van de dorpskernen. 
+ 
+ 
+
+ 
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+18 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Warmtedichtheid  
+Hoe de warmtevraag over de gemeente verdeeld is, is ook van belang voor de mogelijke alternatieven 
+voor aardgas. Gebieden met een geconcentreerde warmtevraag (veel panden bij elkaar of panden met 
+een  hoge  warmtevraag)  zijn  eerder  geschikt  voor  de  aanleg  van  een  warmtenet.  Bij  een  lage 
+warmtedichtheid liggen individuele oplossingen, zoals een warmtepomp, eerder voor de hand.  
+ 
+Vanaf 1000 GJ/ha en een minimum aantal woningen van ongeveer 200 (afhankelijk van de warmtebron) 
+is de kans op een rendabele business case voor een warmtenet groot. Tussen 500 en 1000 GJ/ha hangt 
+de financiële haalbaarheid meer af van de omstandigheden; het type warmtebron, de afstand tussen de 
+woningen  en  de  warmtebron  en  de  gewenste  afgiftetemperatuur  zijn  allemaal  factoren  die  invloed 
+hebben.  In  het  centrum  van  dorpskern  Gemert  zou  een  warmtenet  kunnen  worden  ingezet.  De 
+warmtedichtheid in andere delen van gemeente  Gemert-Bakel is te laag, of het gebied is te klein, voor 
+inzet  van  een  warmtenet  zoals  te  zien  is  in  Figuur  9.  In  bijlage  C  is  ook  een  kaart  toegevoegd  met  de 
+warmtevraagdichtheid van de utiliteit in de gemeente. 
+
+Figuur 9 De verwachte toekomstige warmtedichtheid in gemeente Gemert-Bakel. De warmtedichtheid is 
+gebaseerd op de warmtevraag die overblijft na besparingsmaatregelen zoals in Tabel 2.  
+
+ 
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+19 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+3.2 Beschikbare warmtebronnen  
+De totale warmtevraag die we verwachten in 2050 is  bijna 900 TJ (zie paragraaf  3.1). In deze paragraaf 
+noemen  we  welke  warmtebronnen  in  Gemert-Bakel  beschikbaar  zijn  om  in  2050  in  de  warmtevraag  te 
+voorzien.  Ook  benoemen  we  kort  wat  deze  technieken  betekenen.  Warmtebronnen  die  (nog)  niet  of 
+beperkt aanwezig zijn in Gemert-Bakel, zoals waterstof, zijn toegelicht in bijlage D.  
+ 
+Er  zijn  meerdere  energiebronnen  gevonden  in  gemeente  Gemert-Bakel  die  kunnen  worden  ingezet  als 
+alternatief  voor  aardgas.  Wanneer  we  al  deze  bronnen  bij  elkaar  op  tellen,  is  er  ruim  voldoende 
+beschikbaar om de woningen en bedrijfspanden warm te houden.  
+ 
+In onderstaand overzicht is van deze bronnen ook de ingeschatte potentie weergegeven. In hoeverre de 
+energiebronnen ook echt ingezet gaan worden, zal duidelijker worden tijdens haalbaarheidsstudies die ná 
+de Transitievisie Warmte worden uitgevoerd.  Of een bepaalde bron ingezet wordt, is daarnaast afhankelijk 
+van de lokale geschiktheid én is een keuze van inwoners en betrokken partijen.  
+ 
+Bron  
+
+Bodemenergie 
+ 
+
+  
+ 
+
+  
+
+ 
+
+ 
+
+Aardwarmte 
+ 
+
+ 
+
+ 
+
+is  de 
+
+inzet  van  bodemenergie  mogelijk. 
+
+Inschatting potentie in TJ per jaar en als % van totale energievraag23 
+Toelichting 
+ 
+Circa 450 TJ / circa 55% Op een diepte van tussen de 20 en 300 meter kan warmte 
+met een constante, lage temperatuur gewonnen worden (tot 20 ͦC). Hiervoor worden 
+‘lussen’ in de grond gelegd die deze warmte opnemen en via een warmtepomp afgeven 
+aan één of enkele woningen. Inzet van bodemenergie wordt vaak gecombineerd met 
+warmte-koude opslag (WKO). Warmte die in de winter aan de bodem onttrokken wordt, 
+kan  in  de  zomer  weer  worden  opgeslagen  in  een  WKO  om  de  bodem  in  balans  te 
+houden. Denk aan warmte die vrijkomt bij het koelen van gebouwen. In een groot deel 
+van  Gemert-Bakel 
+In  de  concept 
+omgevingsverordening die in 2022 definitief zal worden vastgelegd zullen waarschijnlijk 
+dieptebeperkingen voor Gemert en Handel zijn opgenomen (maximaal 50 meter diepe 
+systemen toegestaan). Ondanks deze restrictie is er naar verwachting nog voldoende 
+potentie  voor  ondiepe  systemen  (tot  50  meter)  of  dieper  op  andere  plekken  in  de 
+gemeente.  
+ 
+Circa  50  TJ24  /  5%  Aardwarmte  of  geothermie  is  het  winnen  van  de  warmte  van  de 
+aarde, vanaf 500 m tot 1 km (ondiep, tot 50 °C) en van 1 tot 7 km diep (diep/ultradiep, 
+tot  100  °C).  De  potentie  voor  geothermie  is  in  de  conceptversie  van  de  RES  MRE25 
+vastgesteld voor alle gemeentes in deze regio. EBN is momenteel met een onderzoek 
+naar  de  potentie  van  geothermie  bezig,  wat  in  de  loop  van  2021  tot  aanvullende 
+inzichten kan leiden. Het project WARM heeft ook de potentie voor geothermie in kaart 
+gebracht. In dit project is gekeken naar de slagingskans van de inzet van geothermie. 
+In Gemert-Bakel is de warmtedichtheid relatief laag, waardoor geothermie hier niet naar 
+voren  komt  als  kansrijk  om  grootschalig  in  te  zetten.26  We  gaan  er  bij  deze  potentie 
+vanuit dat aardwarmte alleen kan worden benut ten behoeve van Gemert centrum.  
+ 
+
+ 
+
+23 Dit is energievraag inclusief landbouw en industrie omdat voor hen op termijn mogelijk ook een aardgas alternatief 
+
+nodig zal zijn. 
+24  Bronnen:  Theoretische  potentie 
+  van  380  TJ  uit  concept  RES  MRE.  De  analyse  van  de 
+WarmteTransitieMakers naar het aantal gebouwen waar het kan worden ingezet  geeft het beeld dat niet 
+veel  meer  dan  50  TJ  aan  warmte  vragers  haalbaar  op  een  warmtenet  kunnen  worden  aangesloten  (zie 
+volgend hoofdstuk).  
+25 RES MRE staat voor Regionale Energie Strategie van de Metropool Regio Eindhoven 
+26 
+
+https://kennisbank.ebn.nl/wp-content/uploads/2020/09/15.-Detailstudie-potentie-aardwarmte-Metropoolregio-
+
+Eindhoven-WARM2020.pdf 
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+20 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Lucht 
+warmtepompen  
+ 
+
+ 
+
+ 
+
+Zonnewarmte 
+ 
+
+ 
+
+  
+ 
+   
+
+Biogas 
+ 
+
+ 
+
+Biomassa 
+(houtachtig) 
+ 
+
+ 
+
+ 
+
+Restwarmte 
+bedrijven 
+ 
+
+ 
+
+ 
+
+Luchtwarmtepompen  onttrekken  warmte  aan  de  buitenlucht  om  de  woning  te 
+verwarmen, en gebruiken hiervoor elektriciteit. Het is een individuele oplossing, die per 
+woning  of  per  appartementencomplex  toegepast  kan  worden.  De  standaard 
+luchtwarmtepomp  geeft  warmte  op  lage  temperatuur.  Een  woning  moet  dan  goed 
+geïsoleerd  zijn  en  er 
+is  een  passend  warmte-afgiftesysteem  nodig,  zoals 
+vloerverwarming  of  lage  temperatuur-radiatoren.  Er  zijn  ook  midden-  en  hoge 
+temperatuur  warmtepompen  op  de  markt.  Deze  hebben  wel  een  hoger 
+elektriciteitsverbruik. Luchtwarmtepompen zijn op grote schaal inzetbaar in de gehele 
+gemeente. 
+ 
+450 TJ/ 50% Warmte uit zonnecollectoren kan in zowel grootschalige als kleinschalige 
+oplossingen ingezet worden. Er kan 60 °C tot 100 °C mee worden geleverd. Er bestaan 
+gecombineerde  panelen  die  zowel  elektriciteit  als  warmte  leveren,  die  worden  PVT-
+panelen  genoemd  (photovoltaïsch-thermisch).  Bij  toepassing  op  daken  worden  de 
+zonthermische  panelen  gecombineerd  met  een  warmtepomp  in  de  woning.  Bij  een 
+veldopstelling wordt de warmte via een warmtenet verspreid. Het maximaal potentieel 
+voor zonnewarmte is ongeveer 10 TJ per hectare in een veldopstelling en ongeveer 2 
+GJ per vierkante meter in een dak opstelling.27 De techniek is nog niet op grote schaal 
+ingezet  voor  het  verwarmen  van  de  gebouwde  omgeving,  maar  gezien  het  grote 
+potentieel  interessant  om  te  onderzoeken.  In  de  conceptversie  van  de  RES  is  een 
+inschatting gegeven voor de bruikbare potentie van zonnevelden in Gemert-Bakel.28 
+ 
+Circa  674  TJ.29/140%  Biogas  wordt  geproduceerd  door  organisch  materiaal  te 
+vergisten.  Verschillende  vormen  van  biomassa  kunnen  als  grondstof  dienen  voor  het 
+produceren van biogas, waaronder vloeibare mest, GFT-afval en de bio restfractie van 
+akkerbouw en grasland. De potentie in Gemert-Bakel is relatief hoog vanwege de grote 
+reststromen  van  de  akkerbouw  en  de  beschikbare  meststromen.  In  de  rest  van 
+Nederland is de beschikbaarheid vaak beperkt.  
+ 
+70  TJ30/  8%  Deze  biomassa  komt  volledig  uit  productie  van  warmte  met  resthout 
+afkomstig van het grondgebied van Gemert-Bakel. Biomassa is de verzamelnaam voor 
+diverse soorten organische materiaal, zoals voedselresten, snoeihout, meststromen en 
+productiebossen. Er zijn vele vormen van biomassa, maar de inzet van biomassa voor 
+het verwarmen van woningen zal naar verwachting gering blijven. Dit heeft te maken 
+met  de  beperkte  beschikbaarheid  van  duurzaam  beschikbare  biomassa  én  de  andere 
+toepassingsmogelijkheden die biomassa heeft. Biomassa kan meegestookt worden in 
+grote  energiecentrales  en  op  kleinere  schaal  ingezet  worden  in  pelletkachels.  Omdat 
+hierbij  fijn  stof  vrij  komt,  zijn  pelletkachels  niet  geschikt  om  op  grote  schaal  toe  te 
+passen in woonwijken. In het  buitengebied kan het echter op kleine schaal een optie 
+zijn, als andere mogelijkheden ontbreken. 
+ 
+31 TJ / 4% Bij industriële processen blijft soms warmte over, die niet binnen het bedrijf 
+gebruikt kan worden. Afhankelijk van het type bedrijf is dit lage, middelhoge of hoge 
+temperatuur  warmte,  die  door  middel  van  een  warmtenet  ingezet  kan  worden  voor 
+verwarming.  In  Gemert-Bakel  zijn  geen  bedrijven  aanwezig  met  hogere  temperatuur 
+restwarmte.  Er  zijn  een  aantal  bedrijven  in  Gemert-Bakel  die  in  potentie  lage 
+temperatuur  restwarmte  beschikbaar  hebben,  tussen  de  30  en  45°C.  De  relevante 
+bedrijven  en  hun  restwarmte  potentie  zijn  Jumbo  Supermarkten  B.V.  en  De  Vries 
+Supermarkt  Gemert  B.V.  (beide  8  TJ)  en  Cor  Segers  B.V.  op  het  bedrijventerrein  (15 
+
+ 
+
+27 Bron: Berenschot position paper: Kansen voor zonnewarmte in het hart van de energietransitie 
+28 Bron: Concept RES MRE 
+29 Bron: Warmteatlas 
+30 Bron: Warmteatlas 
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+21 
+
+ 
+
+ 
+
+ 
+
+Aquathermie 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TJ).31Supermarkten  zijn  ook  voorbeelden  van  bedrijven  waar  restwarmte  wellicht  ook 
+binnen het bedrijf efficiënt benut kan worden. Op die manier zal de warmtevraag van 
+de  gebouwde  omgeving  omlaag  gaan,  maar  is  de  restwarmte  niet  beschikbaar  voor 
+naastgelegen woningen of bedrijven. 
+ 
+Circa 5 TJ / 0,5% Uit oppervlaktewater is warmte te winnen met een warmtewisselaar. 
+Deze warmte kan in de bodem worden opgeslagen en in de winter worden gebruikt. 
+Met een (vaak lage temperatuur) warmtenet komt de warmte bij de gebruikers.  
+Gemert-Bakel  heeft  weinig  grote  waterlopen  of  waterpartijen  dichtbij  de  gebouwde 
+omgeving. Het oppervlaktewater lijkt daarom geen warmtebron van betekenis. Mogelijk 
+kan oppervlaktewater wel op enkele plekken kleinschalig worden ingezet om een WKO 
+in  balans  te  houden.  In  Zuid-Gemert  bevindt  zich  bijvoorbeeld  het  Dribbelei 
+oppervlaktewater. Dit oppervlaktewater heeft een potentie van 5 TJ per jaar.32 
+
+31 Bron: Warmteatlas 
+32 Bron: Warmteatlas 
+
+ 
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+22 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4. Kansrijke  warmtevoorziening  per  buurt  in 
+
+2050 
+
+ 
+In dit hoofdstuk worden warmtevraag en beschikbare bronnen bij elkaar gebracht. Op basis 
+daarvan, en op basis van uitgangspunten duurzaamheid en milieu-impact, komen we tot de 
+warmtevisie voor 2050.  Deze visie geeft aan welke warmtetechnieken het beste passen bij de 
+verschillende buurten van gemeente Gemert-Bakel. Op basis daarvan kunnen we de komende 
+jaren aan de slag. In gebieden waar we bijvoorbeeld in moeten zetten op individuele all-electric 
+oplossingen kunnen inwoners en bedrijven in hun toekomstplannen vast rekening houden met 
+deze oplossing.  
+ 
+
+4.1 Warmtevisie in beeld 
+We hebben in het vorige hoofdstuk de warmtevraag en de warmtebronnen in kaart gebracht. Daaruit blijkt 
+dat er voldoende bronnen beschikbaar zijn in gemeente Gemert-Bakel om in de warmtevraag te voorzien. 
+De warmteprofielen (Figuur 8) en de warmtedichtheid (Figuur 9) vormen daarom samen de basis voor de 
+afweging van de mogelijkheden voor de warmtevoorziening.  Gebieden met een hoge warmtedichtheid 
+en  hoge  temperatuur  zijn  gebaat  bij  de  inzet  van  een  warmtenet  en  bevinden  zich  met  name  in  het 
+centrum van Gemert. De locaties waar relatief veel oude woningen staan (hoge temperatuurvraag), maar 
+met lage warmtedichtheid, zijn de gebieden waar groen gas, indien beschikbaar, als eerste ingezet kan 
+worden. De overige gebieden zijn geschikt voor individuele of klein-collectieve warmtevoorzieningen. Zie 
+de kaart in Figuur 10.  
+ 
+
+ 
+
+Individuele oplossingen 
+
+Zoals te zien is, is voor het grootste deel van gemeente Gemert-Bakel een individuele oplossing het beste. 
+In  gebieden  met  een  lagere  bebouwingsdichtheid,  waar  bijvoorbeeld  veel  vrijstaande  huizen  of  twee-
+onder-één-kap woningen staan, zijn oplossingen per woning het meest aantrekkelijk. Een warmtenet is 
+hier al snel te kostbaar om aan te leggen omdat de huizen ver uit elkaar liggen. Als de woningen redelijk 
+geïsoleerd  kunnen  worden  (de  groene  en  oranje  warmteprofielen  uit  Figuur  8),  zijn  bijvoorbeeld  een 
+luchtwarmtepomp of een bodemwarmtepomp geschikt. Ook klein-collectieve oplossingen zijn hier een 
+optie, zoals een gezamenlijke bodemwarmtepomp voor 3 tot 7 woningen (via een mini-warmtenet). Deze 
+opties lijken voor de hand te liggen in  het grootste deel van gemeente  Gemert-Bakel. Voor moeilijk te 
+isoleren huizen kan incidenteel worden ingezet op individuele groen gas (biopropaan)tanks of pelletkachel 
+verwarming (deze laatste is minder duurzaam).  
+ 
+
+ 
+
+Kansrijk voor warmtenet 
+
+In  de  oranje  gebieden  is  een  warmtenet  een  serieuze  optie.  In  gemeente  Gemert-Bakel  is  de 
+warmtedichtheid relatief laag. Alleen in de plaats Gemert zijn grotere gebieden met een significant hoge 
+warmtedichtheid,  waar  een  warmtenet  een  kansrijke  optie  is.  Er  zijn  verschillende  bronnen  die  in  dit 
+warmtenet kunnen worden gebruikt. Het oranje gebied heeft een totale warmtevraag van circa 50 TJ. Er is 
+bijvoorbeeld één hectare grond nodig aan zonnevelden om 10 TJ warmte te produceren. Daarnaast zijn 
+er twee supermarkten in het centrum die samen zo’n 10 TJ aan restwarmte produceren. Bronnen binnen 
+éen kilometer van de warmtenetgebieden kunnen rendabel worden ingezet. Deze bronnen zijn ook op de 
+kaart  ingetekend.  Restwarmte  van  Cor  Segers  B.V.  (15  TJ)  en  eventueel  koppeling  aan  het  dribbelei 
+(aquathermie, 5 TJ) zijn ook een mogelijkheid. Verder zou de inzet van geothermie ook kunnen worden 
+onderzocht.  
+ 
+
+ 
+
+Individueel of met warmtenet 
+
+In  de  gebieden  die  oranje-blauw  gearceerd  zijn,  is  nog  onzeker  wat  de  meest  rendabele  oplossing  is: 
+individueel of met een warmtenet. In deze gebieden moet in meer detail onderzoek gedaan worden naar 
+de  besparingsmogelijkheden,  de  beschikbaarheid  van  nabije  warmtebronnen  én  de  kosten  van  het 
+exploiteren  van  de  warmtebronnen.  Wanneer  in  aangrenzende  gebieden  een  warmtenet  gerealiseerd 
+wordt, kan dit een koppelkans zijn om een onzeker gebied ook op dit warmtenet aan te sluiten. 
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+23 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figuur  10  Visie  warmtevoorziening  gemeente  Gemert-Bakel.  Op  basis  van  de  warmtedichtheid, 
+warmteprofielen en beschikbare warmtebronnen is aangegeven waar collectieve of juist individuele 
+oplossingen kansrijk zijn. Lokale warmtebronnen zijn ook ingetekend. Voor de zonnevelden geldt: alle 
+geschikte velden zijn ingetekend maar in de praktijk zullen één of enkele gebieden benut worden.  
+Grootschalige warmtebronnen zoals geothermie en groen gas zijn niet ingetekend omdat hier (nog) geen 
+vaste locatie voor is aan te wijzen.  
+ 
+
+ 
+
+ 
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+24 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Groen gas 
+
+In een aantal buurten is de bebouwingsdichtheid laag en zijn de warmteprofielen rood (zie Figuur 8). Door 
+de  lage  bebouwingsdichtheid  is  een  warmtenet  hier  weinig  kansrijk.  Tegelijkertijd  hebben  de 
+(voornamelijk)  oudere  woningen  in  de  toekomst  waarschijnlijk  een  hogere  temperatuur  warmteafgifte 
+nodig.  Dat  maakt  toepassing  van  warmtepompen  lastig,  omdat  de  woningen  dan  eerst  voldoende 
+geïsoleerd  moeten  worden.  Voor  vrijstaande  woningen  is  dat  kostbaar,  er  zijn  immers  aan  vier  kanten 
+muren  te  isoleren.  Ook  hebben  oudere  woningen  vaak  nog  geen  spouwmuren  waardoor  muur  isolatie 
+ook  kostbaar  is.  De  totale  warmtevraag  in  de  groen  gas  gebieden  is  80  TJ.  Mogelijk  zijn  er  ook  oude 
+boerderijen in het buitengebied waarvoor groen gas een optie is. Deze zijn (nog) niet als cluster op de 
+kaart weergegeven.  
+ 
+Er  is  een  grote  potentie  aan  bronnen  om  groen  gas  van  te  maken.  Dit  kan  door  realisatie  van  een 
+biovergister  waar  vloeibaar  groenafval  wordt  vergist.  Vanwege  de  grote  potentie  zijn  de  groen  gas 
+onderzoeksgebieden iets groter gemaakt dan alleen de straten met oudere woningen. Voor de inzet van 
+groen gas is de bestaande aardgas infrastructuur nodig. Het is voor een netbeheerder waarschijnlijk het 
+beste hanteerbaar om voor een hele dorpskern de gasleidingen in gebruik te houden voor groen gas (in 
+plaats van enkele straten wel en enkele niet). Vanwege de beperkte landelijke beschikbaarheid van groen 
+gas en omdat niet alle huizen in de gebieden een rood warmteprofiel hebben, zijn de gebieden waarvoor 
+groen gas interessant is, gearceerd gemaakt en gecombineerd met inzet van een individuele oplossing. In 
+de  buurtaanpak  moet  gekeken  worden  of  in  deze  buurten  wordt  ingezet  op  vergaande  isolatie  en 
+warmtepompen,  of  dat  er  wellicht  aan  groen  gas  (biogas)  gedacht  moet  worden.  Ook  zal  in  deze 
+verkenningen aandacht besteed worden aan een eventuele locatie van een biovergister.  Wij hebben de 
+wens om zo’n vergister niet te dicht bij een dorpskern te plaatsen.  
+ 
+
+4.2 Bedrijven en kantoren  
+Gemeente  Gemert-Bakel  kent  een  aantal  bedrijventerreinen.  Het  doel  is  om  voor  de  transitie  van 
+bedrijventerreinen  zoveel  mogelijk  aan  te  sluiten  op  natuurlijke  (gebieds-)ontwikkelingen  van  de 
+bedrijventerreinen. Kantoren hebben over het algemeen een grotere vraag naar koeling dan woningen. 
+Bodemenergie is daarvoor erg geschikt: warmte die in de zomer aan de gebouwen wordt onttrokken en 
+in de bodem wordt opgeslagen, wordt in de winter weer gebruikt. Dit kan per gebouw, of voor een cluster 
+gebouwen worden aangelegd. Ook luchtwarmtepompen en luchtkoelers behoren tot de mogelijkheden. 
+Tegelijkertijd  hoeft  niet  elk  gebouw  verwarmd  te  worden,  bijvoorbeeld  opslagloodsen  hebben  meestal 
+beperkte verwarming nodig. Bedrijventerreinen vragen daarom maatwerk: een afzonderlijk traject, waarin 
+naar  de  specifieke  behoeften  van  alle  bedrijven  wordt  gekeken.  In  Gemert  bevindt  zich  het  bedrijf  Cor 
+Segers B.V., te midden van het bedrijventerrein Wolfsveld. De potentiële restwarmte hiervan kan wellicht 
+efficiënter ingezet worden op het bedrijventerrein dan in woningen die op ongeveer een kilometer afstand 
+liggen. 
+ 
+De analyse en deze visie is getoetst door diverse betrokkenen. Ook is een vergelijking gemaakt met de 
+Landelijke  tool  ‘  Startanalyse  Leidraad’.  Hieruit  komt  naar  voren  dat  de  visie  goed  overeenkomt  met 
+verwachtingen  van  betrokkenen  en  ook  in  lijn  is  met  de  Startanalyse  Leidraad.  Een  toelichting  van  de 
+Startanalyse Leidraad analyse is te vinden in bijlage E.  
+ 
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+25 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5. Stap voor stap aan de slag met aardgasvrij 
+
+ 
+De komende jaren zetten we de eerste stappen om uiteindelijk in 2050 een volledig aardgasvrije 
+gemeente te zijn. De activiteiten die de gemeente al organiseert en nog wil opzetten worden in dit 
+hoofdstuk uiteengezet. Zo kunnen bewoners, bedrijven, woningbouwcorporaties, netbeheerder en 
+wij als gemeente investeringen afstemmen op het tijdpad. We onderstrepen dat de planning in dit 
+hoofdstuk  een  globale  planning  is.  Er  blijft  ruimte  om  in  te  spelen  op  nieuwe  kansen, 
+bewonersinitiatieven, of initiatieven van bedrijven.  
+ 
+Tijdens werksessies met de woningbouwcorporatie, Enexis, Bedrijven Kontakt Gemert-Bakel en Duurzaam 
+Gemert  en  tijdens  informatiebijeenkomsten  met  inwoners  en  ondernemers,  werden  ontwikkelingen  en 
+kansen per buurt besproken. We hebben gekeken naar mogelijkheden om stappen te zetten. Hierbij zijn 
+verschillende  uitgangspunten  en  criteria  tegen  elkaar  afgewogen.  Dit  heeft  geleid  tot  een 
+uitvoeringsstrategie. Deze beschrijft op hoofdlijnen de stappen die we de komende jaren gaan zetten.  
+ 
+
+Programmaonderdeel 
+ 
+1. Aanpak gemeentebreed: 
+-Inzetten op isoleren 
+-Ondersteunen koplopers 
+-Informatie- en participatie 
+middelen 
+
+2. Aanpak 
+bedrijventerreinen, utiliteit 
+en maatschappelijk vastgoed 
+
+3. Kansen voor inzet van 
+groen gas 
+
+4. Doorontwikkeling 
+Transitievisie Warmte 
+
+Periode 
+
+Toelichting 
+
+2021 en 
+verder 
+
+De gemeente ondersteunt bewoners die hun huis 
+willen verduurzamen. We informeren via diverse 
+kanalen over hoe inwoners en bedrijven aan de slag 
+kunnen of betrokken kunnen worden (zie paragraaf 
+5.1).  
+
+2021 en 
+verder 
+
+• 
+
+In de komende jaren  stellen we een aanpak op 
+voor bedrijventerreinen en utiliteitsbouw. 
+
+•  De gemeente zet zelf stappen om het eigen 
+
+vastgoed te verduurzamen.  
+
+2022-2025  Omdat er in gemeente Gemert-Bakel een hoge 
+
+potentie is voor het produceren van groen gas, willen 
+we de haalbaarheid van deze optie apart 
+onderzoeken (zie paragraaf 5.3) 
+
+2025-2026  Nieuwe inzichten en ontwikkelingen nemen we mee 
+
+door de Transitievisie Warmte iedere 5 jaar te 
+
+actualiseren. Zo kunnen we inspelen op nieuwe 
+
+technologieën en ontwikkelingen in de prijsstelling 
+
+van de verschillende warmteoplossingen. 
+
+5. Aan de slag met 
+verkenningsbuurten 
+
+2026-2035 
+
+In de verkenningsbuurten starten we met nader 
+
+onderzoek per buurt (zie paragraaf 5.4) 
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+26 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+5.1 Gemeentebreed 
+
+besparen  
+
+inzetten  op 
+
+isoleren  en  energie 
+
+ 
+
+ 
+Isoleren en energie besparen 
+Vrijwel alle huizen en utiliteitsgebouwen in gemeente Gemert-Bakel gebruiken aardgas voor verwarming, 
+warm water en koken. Voor het verwarmen van gebouwen staat een cv ketel daarbij vaak ingesteld op een 
+temperatuur van 80  ͦC33. Door woningen te isoleren kan de benodigde temperatuur van de warmte naar 
+beneden  worden  bijgesteld.  Hierdoor  wordt  minder  aardgas  verbruikt.  Ook  betekent  dit  dat  we  een 
+warmtebron met een temperatuur lager dan 80  ͦC kunnen inzetten om de huizen te verwarmen. In onze 
+gemeente zullen we vooral de overstap naar warmtepompen gaan maken en om de overstap daar naartoe 
+te maken, is het belangrijk dat een woning ook met een lagere temperatuur te verwarmen is.  Isolatie is 
+daarom een belangrijke eerste stap voor alle woningen in onze gemeente. Dat is niet alleen goed voor het 
+milieu, het verlaagt ook de energierekening, en verbetert het comfort in de woning. Bewoners zetten vaak 
+al  stappen  om  hun  woning  te  isoleren.  Maar  er  zijn  ook  nog  extra  isolatiestappen  te  maken  in  veel 
+woningen. Dit is vaak ook rendabel. De Transitievisie Warmte geeft inwoners en ondernemers een richting: 
+welke isolatiemaatregelen kunnen het beste genomen worden. Voor warmtenetgebieden is namelijk een 
+andere (beperkte) isolatie vereist dan wanneer een warmtepomp wordt ingezet.  
+ 
+Wij willen bewoners ondersteunen bij het isoleren van hun woningen. In het bijzonder is dit belangrijk in 
+de gebieden waar individuele oplossingen het meest geschikt zijn. Gebouweigenaren (eigenaar-bewoners, 
+lokale  ondernemers,  woningbouwcorporaties,  particuliere  verhuurders)  besluiten  in  deze  gebieden 
+namelijk zelf wanneer zij aan de slag gaan, en welke maatregelen ze treffen.  Maar ook in buurten waar 
+een  collectieve  oplossing  komt,  staat  het  woningeigenaren  en  bedrijven  vrij  om  zelf  een  individuele 
+oplossing voor hun woning of bedrijfspand te kiezen. Informatie over de verschillende isolatiematerialen 
+en methoden en informatie over financieringsmogelijkheden van isoleren, zijn in deze fase belangrijk. Wij 
+zullen deskundige informatie inwinnen om inwoners in hun informatiebehoefte te voorzien.   
+ 
+Naast inzet op isoleren, zijn er ook andere manieren om energie te besparen. Wij willen als gemeente onze 
+inwoners bewust maken van de energie die we gebruiken en hoe we daar zuiniger mee om kunnen gaan. 
+Door de CV-ketel op een lagere temperatuur af te stellen, bijvoorbeeld, werkt deze efficiënter en bespaar 
+je  op  de  energierekening.  Er  zijn  nog  vele  andere  maatregelen  die  behalve  een  tijdsinvestering,  geen 
+kosten met zich mee brengen. Door hier aandacht aan te besteden, kunnen we inwoners in onze gemeente 
+helpen met besparen op de energierekening én zetten we samen stappen in CO2 reductie.  
+ 
+Wij als gemeente organiseren in ieder geval de volgende ondersteuning: 
+•  De mogelijkheid om op een fysieke locatie informatie en advies in te winnen. Energiehuis 
+
+Slimwonen in Helmond is hiervoor de aangewezen regionale locatie. Dit is een algemeen loket waar 
+bewoners en VvE’s terecht kunnen met vragen, en waar informatie te vinden is over de verschillende 
+isolatiemogelijkheden, financierings- en subsidiemogelijkheden en aardgasvrije technieken die er 
+zijn. Zie ook: https://www.energiehuishelmond.nl/. Daarnaast kan men bij stichting leds go green in 
+de Boelthiek terecht, daar vinden diverse activiteiten plaats in het kader van de Regeling Reductie 
+Energieverbruik Woningen (RREW 2021).  
+
+•  Gemeentewebsite Gemert-Bakel: De website wordt steeds voorzien van actuele en relevante 
+
+• 
+
+informatie over de warmtetransitie en initiatieven in onze gemeente: https://www.gemert-
+bakel.nl/gemert-bakel-aardgasvrij.   
+Bewonersavonden: Tijdens deze avonden kan de gemeente actuele informatie delen en kunnen 
+inwoners en ondernemers vragen stellen in ideeën voorleggen. Inwoners geven daarbij de voorkeur 
+voor een avond op locatie, zien we terug in de inwonersenquête. Onderwerpen die we de komende 
+jaren willen behandelen zijn: aan de slag met energie besparen en aan de slag met isoleren. En 
+uiteindelijk ook aan de slag met de stap naar aardgasvrij. 
+
+33 Bron: Milieu Centraal 
+
+ 
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+27 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+•  Gemeentepagina van het lokale weekblad en nieuwsbrief: door hier regelmatig nieuws over 
+aardgasvrij verwarmen te delen, blijft iedereen op de hoogte van mogelijkheden en actuele 
+ontwikkelingen.  
+ 
+
+Verder willen we de volgende zaken gaan onderzoeken: 
+•  Werken aan breed communicatienetwerk (wijk- en dorpambassadeurs) 
+• 
+
+Basis- en middelbare scholen mee laten denken en doen in bewustwordingscampagnes over de 
+
+noodzaak van de warmtetransitie.  
+
+ 
+
+Aan de slag gaan met isoleren doen wij als gemeente zeker niet alleen. Inwoners zijn ook al aan de slag. 
+
+Een groep vrijwilligers heeft zich georganiseerd onder de naam Duurzaam Gemert. Zij hebben al 
+
+meerdere collectieve inkoopacties opgezet. Ook is er een werkgroep Duurzaam De Rips die mee wil 
+
+denken met energievraagstukken in onze gemeente.  
+
+De overstap op een hybride 
+
+warmtepomp 
+
+geschikt 
+
+zijn 
+
+voor 
+
+verdiend34. 
+
+de 
+
+CV-ketel 
+
+te  maken 
+
+Nieuwe streefwaarden voor woningisolatie 
+ 
+In  maart  2021  heeft  de  Rijksoverheid  nieuwe  streefwaarden 
+aangekondigd  voor  de 
+isolatie  van  particuliere  woningen. 
+Uitgangspunt  voor  de  nieuwe  standaard  is  dat  naoorlogse 
+woningen 
+lage-
+temperatuurverwarming: verwarming met water van onder de 55 
+°C.  Woningen  van  vóór  1945  zijn  lastiger  te  isoleren,  waardoor 
+verwarming op hogere temperaturen (70 °C of hoger) voor deze 
+woningen nodig lijkt. 
+ 
+De nieuwe woningstandaard wordt (op dit moment) niet verplicht 
+gesteld voor particulieren. Het is de bedoeling van het Rijk om de 
+nieuwe standaard onderdeel uit te laten maken van het verplichte 
+energielabel voor verkoop van woningen. Zo kunnen  kopers van 
+de woning beter inschatten of er (en zo ja, welke) kosten nodig zijn 
+om  de  woning  te  verduurzamen  en  geschikt  te  maken  voor 
+verwarming op lage temperatuur.  
+
+Ook  kan  de  aanschaf  van  een 
+hybride  warmtepomp  een  mooie 
+stap  zijn  om  energie  te  besparen. 
+Wanneer 
+aan 
+vervanging  toe  is,  is  het  voor  een 
+deel  van  de  woningen  in  onze 
+gemeente nu al financieel rendabel 
+om  een  hybride  warmtepomp  te 
+installeren.  Voor  woningen  die  ná 
+1975 gebouwd zijn is dit vaak een 
+maatregel die zich na 10 tot 15 jaar 
+terug 
+Het 
+aardgasverbruik  van  een  woning 
+wordt  er  fors  mee  verminderd  en 
+de CO2 uitstoot wordt met ca 20% 
+omlaag gebracht35.  
+ 
+ 
+Informatie voor de koplopers 
+Er zijn altijd inwoners die al de stap willen en kunnen zetten om hun woning aardgasvrij te verwarmen. De 
+gemeente biedt graag informatie voor deze koplopers. Voor deze mensen merken we dat de volgende 
+informatie vooral gemist: 
+- Informatie over financieringsmogelijkheden 
+- Advies 
+- Garanties over werkzaamheid van oplossingen 
+ 
+Via inwonersavonden en ook via het Energiehuis Slimwonen stellen we informatie beschikbaar voor deze 
+inwoners. We beschrijven hier in het kort welke ondersteuning we de komende jaren gaan bieden.  
+ 
+Informatie over betaalbaarheid en financieringsmogelijkheden 
+Een gebouw aardgasvrij verwarmen vergt een aantal aanpassingen. De kosten hiervoor lopen uiteen van 
+€12.000,-  tot  zo’n  €35.000,-  euro  per  woning36.  Dit  is  een  behoorlijke  investering  en  voor  veel  mensen 
+(nog) niet te financieren. Het beschikbaar maken van subsidies en interessante financieringsvormen speelt 
+een essentiële rol in de warmtetransitie. De gemeente zet daarom in op goede informatievoorziening over 
+
+34  Onderzoek DWA juli 2021, https://www.nvde.nl/wp-content/uploads/2021/08/Rapportage-effect-elektra-DWA.pdf 
+35 Bron: Milieucentraal 
+36 Indicaties volgens milieucentraal.  
+
+ 
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+28 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+welke financieringsmogelijkheden er zijn (zie bijlage F). Een globaal overzicht van de kosten om over te 
+stappen op een warmtepomp is in onderstaande Figuur 11 weer gegeven.  
+ 
+
+ 
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+29 
+
+Figuur 11 Diverse typen warmtepompen en hun kenmerken 
+
+ 
+
+ 
+ 
+Advies en garanties over werkzaamheid van oplossingen 
+De afgelopen jaren zijn er veel nieuwe duurzame bouwmaterialen op de markt gekomen. Ook wordt er 
+steeds  meer  gewerkt  met  kierdichting  en  mechanische  ventilatie.  Om  deze  nieuwe  materialen  en 
+technieken  op  een  gebalanceerde  manier  in  te  zetten,  is  kennis  nodig.  De  gemeente  zet  in  op  het 
+verbreden van kennis onder installateurs in de gemeente door hen tijdens een kennissessie aan elkaar te 
+koppelen. Op deze manier kunnen installateurs onderling het werk ook beter overdragen. Zo veranderen 
+innovatieve  toepassingen  sneller  in  ‘proven  technology’  en  kunnen  garanties  makkelijker  worden 
+afgegeven. 
+ 
+
+5.2 Communicatie en participatie 
+Een belangrijke rol van de gemeente is de communicatie met bewoners over wat er op hen afkomt, en het 
+organiseren van de participatie. Belangrijke uitgangspunten voor de communicatie en participatie zijn: 
+• 
+
+In de communicatie hanteren we waar mogelijk drie niveaus: (1) eenvoudige informatie, voor 
+iedereen te begrijpen, (2) de mogelijkheid voor inwoners om zich verder te verdiepen, bijvoorbeeld 
+via een projectwebsite. En (3) online beschikbaarheid van alle rapporten en onderzoeken voor de 
+inwoners die alles willen weten. 
+Elke buurt is anders. De diversiteit van buurten vraagt om maatwerk in de communicatie: in het 
+soort informatie, keuze van de communicatiekanalen en de communicatie- en participatieaanpak. 
+We hebben een onderzoek uitgevoerd naar de verschillende communicatiestijlen die bij 
+verschillende mensen aansluiten37. We passen onze communicatie daar zoveel mogelijk op aan.  
+
+• 
+
+•  We zijn helder over de harde kaders, over wat er al vast staat en over wat we nog niet weten of 
+
+kunnen beloven. We zijn ook helder over rollen, verantwoordelijkheden, proces, planning, 
+dilemma’s, hinder, risico’s, mate van invloed van bewoners, en communiceren daar actief over. 
+
+•  We maken gebruik van bestaande netwerken en communicatiekanalen. We hanteren het liefst een 
+
+persoonlijke benadering: liever een gesprek dan een brief. 
+
+ 
+In de aanpak die in paragraaf 5.1 beschreven staat, hanteren we bovenstaande uitgangspunten. Op deze 
+manier kan een zo breed mogelijke doelgroep bereikt worden en (wanneer ze dit willen) aan de slag.  
+ 
+
+5.3 Onderzoek naar de inzet van biogas 
+ 
+
+Vanwege  de  grote  potentie  voor  biogasproductie  in  gemeente  Gemert-Bakel  en  ook  in 
+gemeenten Deurne en Someren, is extra aandacht voor dit  onderwerp  nodig.  Al tijdens het 
+schrijven  van  deze  Transitievisie  Warmte  zijn  met  de  drie  gemeenten  en  belanghebbenden 
+(waaronder  ZLTO)  gesprekken  opgestart.  Het  doel  was  om  te  inventariseren  wat  de 
+mogelijkheden zijn om de biogaspotentie te benutten en hoe hier tegenaan wordt gekeken. De komende 
+jaren zal op regionaal niveau verder worden uitgewerkt welke lokale partijen mee willen werken aan de 
+productie en levering van biogas. Ook landelijk wordt gekeken hoe biogas het beste kan worden ingezet. 
+Gemeente Gemert-Bakel zal samen met omliggende gemeenten de rol op zich nemen om de strategie 
+voor inzet van biogas uit te werken. De gemeente ziet het hierbij als haar taak om omgevingsaspecten 
+(hinder,  overlast),  bredere  duurzaamheidsaspecten  (ecologie,  de  toekomst  van  de  landbouw),  en 
+verschillende  belangen  mee  te  laten  wegen.  Waar  mogelijk  speelt  de  gemeente  een  coördinerende  rol 
+tussen eventuele leveranciers en afnemers. Dit zal in de komende jaren verder duidelijk worden.  
+ 
+
+ 
+
+ 
+
+37 Brand Strategy Research. Dit wetenschappelijke model ontrafelt de drijfveren van mensen: Met welke boodschap, 
+
+welke tone of voice en via welk kanaal worden mensen het meest betrokken.  
+
+ 
+
+De WarmteTransitieMakers. – Atoomweg 50, 3542 AB Utrecht – info@dwtm.nl 
+
+KVK 71166645 - BTW NL85606227B01 - NL60TRIO0338946349 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5.4 Tijdspad tot aan 2050 
+ 
+Uiteindelijk moet de stap gemaakt worden naar aardgasvrij. We hebben het afgelopen jaar onderzocht of 
+er kansen zijn om in een aantal gebieden op korte termijn deze stap te zetten. Onder andere hebben we 
+daarbij gekeken of hiervoor interesse is vanuit inwoners38. Daaruit is naar voren gekomen dat we op korte 
+termijn nog niet starten met een verkenning. We gaan hier over vijf jaar, wanneer de Transitievisie Warmte 
+wordt herijkt, mee aan de slag. De kansen die we in onze gemeente zien, hebben geleid tot een fasering 
+die weergegeven is in Figuur 12. Dit is een globaal tijdpad en er blijft ruimte om in te spelen op kansen, 
+bewonersinitiatieven of initiatieven van bedrijven. We lichten hieronder de verschillende kleuren op deze 
+kaart toe.  
+ 
+
+  Natuurlijk tempo (2022-2050) 
+
+Voor deze gebieden (buitengebied en grote delen van de dorpen) liggen individuele warmteoplossingen 
+per gebouw voor de hand. De gemeente realiseert zich dat bewoners en ondernemers hiervoor hun eigen 
+tempo kiezen, vandaar  een natuurlijk tempo. Logisch momenten zijn bijvoorbeeld bij een verbouwing, op 
+het moment dat de CV-ketel aan vervanging toe is, of bij een verhuizing.  
+ 
+
+  Middellange termijn (2025-2040) 
+
+In de gebieden in dorpskern Gemert waar een warmtenet een goede mogelijkheid lijkt, willen we op niet 
+al te lange termijn starten met een verkenning. Bij de overstap op een warmtenet komt veel kijken. Er zijn 
+veel partijen bij betrokken die allemaal akkoord moeten geven op een uiteindelijk plan. Ook moet er veel 
+werk verzet worden in de openbare ruimte. Het is daarom wenselijk om op tijd verkenningen op te starten 
+om  zowel  het  technische  als  het  financiële  plaatje  scherp  te  hebben.  Tegelijkertijd  willen  we  dan  ook 
+onderzoeken of er voldoende interesse is voor deze oplossing onder inwoners en bij de woningcorporatie.  
+We benadrukken dat we in deze buurten starten met onderzoek, maar dat nog niet besloten is wanneer 
+en hoe de buurt van het aardgas gaat. 
+ 
+
+  Middellange termijn (2025-2040) of natuurlijk tempo 
+
+In deze gebieden zien we kansen of ontwikkelingen  waar de gemeente, samen met belanghebbenden, 
+tijdig op wil inspelen. Dit zijn in gemeente Gemert-Bakel de gebieden waar groen gas een mogelijkheid 
+is. In deze gebieden staan ook gebouwen waarvoor het logisch is om individueel, in natuurlijk tempo de 
+overstap te maken.   
+  
+
+  Lange termijn (2040-2050) of natuurlijk tempo 
+
+In  de  gearceerde  gebieden  hangt  het  tempo  af  van  de  kans  om  aan  te  sluiten  op  een  klein  collectief 
+warmtenet.  Als  een  klein-collectieve  oplossing  de  meest  aantrekkelijke  oplossing  blijkt,  dan  zal  hier 
+mogelijk  voor  worden  gekozen.  Omdat  in  deze  gebieden  nog  geen  aanleidingen  zijn  om  te  starten 
+verwachten  we  dat  dit  voor    die  buurten  op  lange  termijn  gaat  spelen.  Als  gebouweigenaren  in  deze 
+buurten individuele oplossingen kiezen, is er een natuurlijk tempo te verwachten.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+38 In een enquête die door 105 inwoners is ingevuld werd aangegeven dat we geen koploper hoeven zijn. Tijdens een 
+
+inwoners avond is aan 150 deelnemers de vraag voorgelegd of ze een verkenning in hun wijk wilden. Ruim 80% wilde 
+
+dat (nog) niet.   
+
+ 
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+32 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figuur 12 De faseringskaart: hier wordt een globaal beeld gegeven van het tempo waarmee de 
+verschillende gebieden in gemeente Gemert-Bakel van het aardgas af stappen.  
+  
+
+ 
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+33 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Multicriteria analyse om fasering te bepalen 
+We hebben in beeld wat de best passende warmtevoorziening is voor de woningen en bedrijven in  de 
+verschillende  buurten  van  gemeente  Gemert-Bakel.  De  fasering  -  de  keuzes  over  wanneer  we  in  welke 
+buurt aan de slag gaan - hebben we bepaald op basis van meerdere criteria. Deze zijn gebaseerd op de 
+criteria keuze startbuurten en het hoofddoel voor een alternatieve warmtevoorziening (zie onderstaand).  
+ 
+
+ 
+
+Criteria keuze 
+startbuurten 
+Zie hoofdstuk 2 
+1. 
+2.  Percentage corporatiebezit 
+3.  Combinatie met andere 
+
+Laaghangend fruit 
+
+4. 
+
+werkzaamheden 
+Initiatief/interesse bewoners 
+of vastgoedeigenaren 
+
+5.  Eenvoud aanpak 
+6.  Collectieve systemen 
+7.  Schaalbaarheid 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eén van onze belangrijkste uitgangspunten, is dat we zoeken naar de optie met de laagste kosten. Voor 
+een  eerste  inschatting  van  de  totale  kosten  van  de  diverse  warmte-opties  gebruiken  we  de  Leidraad 
+Startanalyse  van  het  Expertise  Centrum  Warmte.  Hierin  wordt  de  oplossing  berekend  met  de  laagste 
+“nationale  kosten”:  de  totale  kosten  van  alle  maatregelen  die  nodig  zijn  voor  een  warmteoplossing, 
+ongeacht wie die kosten betaalt. Het is inclusief de kosten en baten van energiebesparing en alle kosten 
+en  investeringen  voor  de  opwek  en  distributie  van  stroom  en  warmte,  maar  exclusief  belastingen, 
+heffingen  en  subsidies.  Dit  wordt  gedaan  door  24  oplossingen  door  te  rekenen,  waaronder 
+warmtepompen  en  warmtenetten  met  diverse  bronnen  en  temperatuurniveaus.  Deze  worden  per  CBS 
+buurt berekend en geven dus nog geen beeld per straat of huis. De kosten per gebied bleken niet sterk 
+onderscheidend. 
+ 
+Naast het onderzoek naar betaalbaarheid hebben we de volgende zaken  meegewogen in onze keuze:  
+ 
+
+•  Gebieden met eenzelfde temperatuur warmtevraag;  
+•  Gebieden met corporatiebezit;  
+•  Gebieden met geïnteresseerde/actieve bewoners;  
+•  Gebieden waar nieuwbouw gepland staat;  
+•  Gebieden waar werkzaamheden van de netbeheerder gepland zijn;  
+• 
+
+Kennis  en  inzichten  van  alle  betrokkenen  (inwoners,  beleidsmedewerkers,  netbeheerder, 
+woningbouwcorporaties, etc.) 
+
+ 
+Geplande aardgasvrij projecten 
+Woningcorporatie Goed Wonen is al aan de slag met het aardgasvrij maken van woningen en gaat door 
+mee  door.  Goed  Wonen  is  ook  bezig  met  een  soort  TVW,  een  meerjarenplan  om  alle  huurwoningen 
+aardgasloos te maken. Goed Wonen kijkt voor het aardgasloos maken per blok/type woning,  
+niet per wijk. Er worden tot nu toe alleen individuele systemen toegepast, niets collectief. 
+Collectieve systemen lijken lastig toe te passen. Zou kunnen werken als het initiatief van onderop komt. 
+Goed Wonen staat er wel open voor, biedt kansen voor nieuwbouwwijken. 
+ 
+Globaal  zijn  er  de  afgelopen  jaren  200  nieuwe  huurwoningen  aardgasloos  gebouwd  en  120  bestaande 
+huurwoningen omgebouwd naar nul-op-de-meter-woningen  
+ 
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+34 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NOM (Nul-op-de-meter-woningen) 
+
+Aanpassen warmtebron 
+
+BENG (Bijna Energieneutrale Gebouwen) 
+A++ (energielabel) 
+
+ 
+Voor  de  lange  termijnvisie  wordt  gebruik  gemaakt  van  een  tool  van  Aedes.  Dit  is  vergelijkbaar  met  de 
+leidraad  warmte  die  ook  uitgaat  van  verschillende  vormen  zoals  warmtenet,  biogas,  warmtepompen 
+(elektrificatie), etc. 
+Voor de elektrificatie hanteert Goed Wonen vier strategieën om ervaring op te doen: 
+1. 
+Voor deze woningen kan een energieprestatievergoeding gevraagd worden 
+2. 
+3. 
+Betreft vooral isoleren 
+4. 
+Betreft vooral nieuwere woningen die al goed zijn geïsoleerd, waarbij de installatie aan vervanging toe is. 
+ 
+Een belangrijk ervaring tot nu toe is dat over het algemeen mensen niet zitten te wachten op lange overlast 
+bij verbouwing. Goed Wonen is bereid de opgedane ervaring/kennis te delen met gemeente. 
+Op  onderstaande  kaart  zijn  een  aantal  geplande  aardgasvrij-projecten  van  Goed  Wonen  in  dorpskern 
+Gemert weergegeven. 
+
+ 
+Voor woningen die nieuw gebouwd zijn (met een vergunde datum na 1 juli 2018) geldt verder dat deze 
+standaard aardgasvrij gebouwd worden.  
+
+ 
+
+ 
+
+Groen gas onderzoek op korte termijn. Overstap mogelijk op middellange termijn (2025-2040) 
+Op de middellange termijn gaan we onderzoek doen naar de gebieden in de gemeente die in aanmerking 
+komen voor de inzet van groen gas. Het gaat om delen van de dorpskern Gemert en dorpskernen Bakel, 
+Handel, de Rips en de Mortel.  
+ 
+Wanneer? 
+Op korte termijn (tussen 2022 en 2025) zal er worden gekeken naar de wenselijkheid om groen gas in te 
+zetten in gemeente Gemert-Bakel. Daarna kan eventueel worden gestart met bouw van een biovergister 
+en groen gas levering. Zo’n installatie en groengas levering aan het bestaande gasnet zal tussen 2030 en 
+2040  gerealiseerd  kunnen  zijn.  Is  de  overstap  op  groen  gas  niet  haalbaar,  dan  zullen  inwoners  in  een 
+natuurlijk tempo de overstap op warmtepompen maken.  
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+35 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+Wat?  
+De inzet van lokaal opgewekt groen gas. Er is veel potentie in de gemeente om afvalstromen (grotendeels 
+uit mest) te verwerken tot biogas. Dit biogas kan worden opgewaardeerd tot groen gas dat zonder verdere 
+aanpassing via het bestaande gasnet naar huizen kan worden toegevoerd. Wanneer het haalbaar blijkt om 
+groen gas te produceren en er zijn voldoende inwoners en bedrijven enthousiast, dan kan gestart worden 
+met de bouw van een vergistingsinstallatie om het groene gas te produceren. Vanaf deze installatie wordt 
+het groene gas geleverd aan het bestaande gasnet. Dit betekent dat gebouwen in deze gebieden vanaf 
+het moment van groen gas levering zonder verdere aanpassingen aardgasvrij verwarmd zijn. De inzet van 
+groen  gas  vormt  daarmee  een  heel  betaalbaar  alternatief  vergeleken  met  aardgas.  Voor  de  toekomst 
+worden  wel  verhogingen  van  de  gasprijs  verwacht,  omdat  productie  van  groen  gas  duurder  is  dan  de 
+productie van aardgas.  
+ 
+De gebieden in gemeente Gemert-Bakel die in aanmerking komen voor groen gas zijn:  
+ 
+
+Dorpskern 
+Gemert 
+Bakel  
+Handel 
+De Mortel 
+De rips 
+Totaal 
+
+Aantal gebouwen 
+569  
+257 
+460  
+358 
+279 
+1923 
+
+Warmtevraag in TJ na rendabel isoleren 
+20  
+14  
+18 
+16 
+12 
+80 
+
+ 
+Waarom deze buurten op de middellange termijn? 
+Óf groen gas zal worden ingezet is afhankelijk van de wensen vanuit de leveranciers van het groen gas 
+(veelal  boeren  bedrijven  in  Gemert-Bakel),  het  draagvlak  onder  inwoners  in  de  gemeente,  de 
+mogelijkheden voor een geschikte locatie waar draagvlak voor is, de wensen van de netbeheerder en de 
+wensen qua landelijke verdeling van groen gas. Voor een aantal boerenbedrijven is de toekomst onzeker 
+en  dus  ook  de  toekomstige  beschikbaarheid  van  restafval.  Voor  de  netbeheerder  is  het  momenteel 
+onzeker  waar  het  huidige  gasnet  blijft  liggen  na  2050.  Daarnaast  is  er  landelijk  discussie  over  welke 
+gebieden groen gas het hardst nodig hebben. Slechts 5 tot 10%39 van alle huizen in Nederland kunnen er 
+namelijk mee worden verwarmd. We willen niet te lang wachten en aan tafel om mede te bepalen waar 
+en wanneer groen gas zal worden ingezet.  
+ 
+Warmtenet op middellange termijn onderzoeken en daarna eventueel realiseren (2025-2040) 
+Wat? 
+Voor deze buurt starten we met een onderzoek naar de inzet van een warmtenet. Ook bekijken we de 
+mogelijkheden om de gebouwen in dit gebied zover te isoleren dat ze klaar zijn voor inzet van een 
+aardgas alternatief (aardgasvrij-ready). De haalbaarheid en het financiële plaatje van een warmtenet met 
+verschillende bron-opties worden doorgerekend. In de haalbaarheidsonderzoeken moet worden 
+onderzocht wat de precieze kaders gaan zijn van het gebied dat uiteindelijk door een warmtenet wordt 
+bediend. 
+ 
+Waarom deze buurten op de middellange termijn? 
+In dit gebied is de dichtheid van de warmtevraag hoog. De aanleg van een warmtenet is daarom 
+waarschijnlijk rendabel.  Voor inwoners in deze gebieden zijn er daarmee waarschijnlijk twee 
+alternatieven voor aardgas: overstappen op een individuele warmtepomp of op een warmtenet. Bij 
+aanleg van een warmtenet wordt veel werk uit handen genomen van inwoners waardoor we denken dat 
+een interessante mogelijkheid is. Wij onderzoeken graag om middellange termijn of dit haalbaar is en 
+hoeveel interesse hiervoor is. Er zijn meerdere potentiële warmtebronnen die kunnen worden ingezet 
+om het warmtenet te voeden. Hoeveel potentie er is moet nog verder worden uitgezocht tijdens de 
+verkenning, maar er lijkt voldoende te zijn. Er zijn plannen voor gebiedsontwikkeling in Gemert centrum. 
+
+39 Of maximaal 20% van de huizen kan op groen gas wanneer deze huizen goed geïsoleerd zijn én voorzien worden 
+
+van een hybride warmtepomp.  
+
+ 
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+36 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+De eventuele aanleg van een warmtenet kan in deze plannen worden meegenomen. Dit zien we als een 
+kans om, waar mogelijk, organisatiekracht binnen onze gemeente te bundelen. Een ander positief punt 
+is, dat er al ideeën zijn om energie uit de kasteelgracht van Kasteel van Gemert in te zetten bij 
+omliggende woningen. Er is dus al interesse bij een aantal inwoners voor het onderwerp.  
+ 
+Lange termijn (2040-2050) 
+We verwachten dat de dorpen Milheeze en Elsendorp als laatste de overstap naar aardgasvrij maken, of 
+dat de inwoners dat op hun individuele natuurlijke tempo doen.  
+ 
+Wat? 
+Inzetten op klein-collectieve systemen zoals buurtwarmtepompen en WKO’s. Ook een warmtepomp voor 
+2 of enkele huizen is een mogelijkheid. Daarnaast is het, aangezien de huizen redelijk ver uit elkaar staan, 
+ook goed mogelijk individueel aan de slag te gaan als gebouweigenaar. Ook in deze gebieden kan meteen 
+al worden gestart met het (beter) isoleren van gebouwen.  
+ 
+Waarom deze dorpen als laatste? 
+We  wachten  technologische  ontwikkelingen  en  de  ervaringen  uit  andere  gemeenten  af  voordat  we 
+eventueel aan de slag gaan met klein-collectieve systemen in Milheeze en Elsendorp. Waarschijnlijk maken 
+in deze dorpen enkele inwoners individueel al wel de overstap naar aardgasvrij. Zo is ‘Energiek Elsendorp’ 
+al actief bezig met verduurzamen.  
+ 
+Buurten met natuurlijk tempo (2020-2050) 
+De buitengebieden en dorpsranden hebben een lage bebouwingsdichtheid met veel vrijstaande huizen 
+of twee-onder-een-kap woningen. Hier liggen individuele oplossingen het meest voor de hand. In deze 
+buurten kiest daarom iedere individuele huiseigenaar voor een alternatief op basis van een eigen tempo. 
+Voor deze gebieden ontstaat dan een ‘natuurlijk tempo’: niet de hele buurt tegelijk, maar elk gebouw op 
+een logisch moment, bijvoorbeeld bij een verbouwing of verhuizing. Woningeigenaren kunnen stap voor 
+stap maatregelen nemen, bijvoorbeeld door eerst te isoleren en een paar jaar later een warmtepomp te 
+laten installeren. Het is belangrijk dat woningeigenaren natuurlijke momenten, zoals een verbouwing, wel 
+daadwerkelijk benutten. Daarom beginnen we vanaf nu met voorlichting geven aan bewoners.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+37 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Bijlage A Overzicht betrokkenen en hun rollen 
+
+ 
+De transitievisie moet gedragen worden door de hele gemeente. Daarom is er gekozen de belangrijkste 
+partijen allemaal op een passende manier te betrekken. Dit traject is samen met gemeente Deurne en 
+Someren uitgevoerd, wat betekent dat sommige activiteiten gezamenlijk opgepakt zijn.  
+ 
+Er is gewerkt in een kernteam met projectleiders van de drie gemeenten en met adviseurs van de 
+WarmteTransitieMakers. Daarnaast zijn er workshops gehouden in een werkgroep met professionele 
+belanghebbenden. De werkgroep bestond uit de beleidsadviseurs van de 3 gemeenten, de netbeheerder 
+Enexis, de woningcorporaties (voor Gemert-Bakel: woningcorporatie Goed wonen), de energie 
+coöperaties (voor Gemert-Bakel: duurzaam Gemert) en bedrijvenvertegenwoordigers (voor Gemert-
+Bakel: Bedrijven Kontakt Gemert-Bakel. In de werkgroep is stap voor stap gewerkt om de Transitievisie 
+Warmte op te stellen. Inwoners en ondernemers zijn ook gevraagd om mee te denken. In 2 
+bewonersavonden en door middel van enquêtes zijn inwoners geïnformeerd over de Transitievisie 
+Warmte. Ook is er opgehaald welke aandachtspunten en uitgangspunten belangrijk zijn. 
+Bedrijvenvertegenwoordigers, dorpsraden, het waterschap en andere belanghebbenden hebben ook 
+gelegenheid gekregen om feedback  te geven op de Transitievisie Warmte. De gemeenteraad heeft de 
+verantwoordelijkheid om de TVW vast te stellen. Gedurende het traject om te komen tot een definitieve 
+versie zijn het college en de gemeenteraad daarom regelmatig geïnformeerd over de voortgang. 
+ 
+
+ 
+
+ 
+Figuur 13 Overzicht van betrokken partijen bij het opstellen van de Transitievisie Warmte.  
+ 
+Toelichting op de rol van de verschillende partijen  
+
+ 
+
+Gemeente Gemert-Bakel: De gemeente voert regie in het traject naar de Transitievisie Warmte en daarna 
+in de realisatie van de overstap naar aardgas ( de warmtetransitie). De gemeente organiseert het proces 
+en  zorgt  voor  de  projectcoördinatie.  Ze  betrekt  alle  partijen,  stelt  projectbegeleiders  aan  en  draagt 
+inhoudelijk bij vanuit de doelen en de rol die de gemeente speelt in gebieds- en wijkontwikkelingen. De 
+gemeente levert input en data aan over de buurtkarakteristieken en ontwikkelplannen, zoals vervanging 
+van  riolering  en  andere  wijkontwikkelingen.  Ook  speelt  de  gemeente  een  belangrijke  rol  in  de 
+communicatie richting bedrijven, instellingen en bewoners. Verder houdt de gemeente zich bezig met het 
+ontwikkelen  van  buurtuitvoeringsplannen.  De  gemeente  speelt,  wanneer  dit  aan  de  orde  is,  in  op 
+buurtinitiatieven. De reeds aangekondigde nieuwe Warmtewet beschrijft ook een rol voor de gemeente 
+om aan te (kunnen) sturen op de ontwikkeling van warmtenetten. Welke rol de gemeente hierin inneemt 
+hangt van verschillende factoren af. De visie hierop zal in de komende jaren ontwikkeld worden. 
+ 
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+38 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+inwoners  gevraagd  om  hun  wensen  en  vragen.  Er 
+
+ 
+Woningbouwcorporatie Goed Wonen: In de werkgroep draagt de woningbouwcorporatie bij door hun 
+ontwikkel-  en  renovatieplannen  en  de  visie  op  de  warmtetransitie  vanuit  hun  vastgoed  in  te  brengen. 
+Hierdoor kunnen plannen over investeringen in infrastructuur en vastgoed op elkaar afgestemd worden. 
+Doel daarbij is om kosten te besparen en snelheid te creëren. Ook heeft de woningbouwcorporatie veel 
+kennis over kosten en haalbaarheid. Uiteindelijk resulteert dit in een investeringsbesluit. Tot slot speelt ze 
+een  belangrijke  rol  in  de  communicatie  richting  bewoners.  De  werkgroep  wil  zo  zorgen  dat  de 
+communicatie naar eigenaren en huurders in de buurt eenduidig en goed op elkaar afgestemd is.  
+ 
+Duurzaam  Gemert:  Duurzaam  Gemert  zit  in  de  werkgroep  voor  de  Transitievisie  Warmte.  Duurzaam 
+Gemert  geeft  ondersteuning  over  verduurzaming  van  de  woning  aan  individuele  bewoners  en  het 
+verduurzamen van de gebouwen van bedrijven. Ze organiseren hiervoor ook diverse bewonersavonden 
+en hebben een goed beeld van wat er leeft.  
+ 
+BKG, Bedrijven Kontact Gemert: BKG zit in de werkgroep. De belangen van (een deel van ) de bedrijven 
+in Gemert worden op deze manier goed meegewogen tijdens het opstellen van de Transitievisie Warmte. 
+ 
+Enexis: Enexis beheert het aardgas- en elektriciteitsnet en draagt bij met haar kennis over mogelijkheden 
+voor (collectieve) energieoplossingen. Een belangrijk speerpunt daarbij is het bepalen van het moment 
+waarop geïnvesteerd kan worden en wanneer (onder welke voorwaarden) dit wenselijk is. Ook kijkt Enexis 
+naar de (on)mogelijkheden die er zijn om elektrische warmtepompen op buurtniveau in te zetten.  
+ 
+Inwoners/in  Gemert-Bakel  gevestigde  kantoren:  Tijdens  het  opstellen  van  de  Transitievisie  Warmte 
+wordt 
+is  nog  geen  verplichte  rol  voor 
+inwoners/kantooreigenaren  tijdens  het  opstellen  van  de  transitievisie.  Wanneer  er  in  een  buurt  een 
+uitvoeringsplan wordt opgesteld, zullen gemeente en inwoners samen moeten optrekken om een plan te 
+maken dat aansluit bij de eisen en wensen van inwoners. Tijdens de uitvoering bepalen woningeigenaren 
+op welke manier hun huis wordt geïsoleerd en met welke warmtevoorziening ze gaan werken.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+39 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Bijlage B Selectiecriteria aardgasvrij 
+
+de 
+
+onderhoudsplanning 
+
+Bijvoorbeeld 
+
+andere  werkzaamheden: 
+
+ 
+Selectiecriteria verkenningsbuurten 
+ 
+In  de  Transitievisie  Warmte  2.0  zullen  “verkenningsbuurten”  worden  aangewezen:  clusters  van 
+huizen/bedrijfspanden waar de gemeente kansen ziet om op korte termijn geheel of gedeeltelijk van het 
+aardgas af te gaan. In de buurten die als verkenningsbuurt zijn aangewezen, onderzoeken we vervolgens 
+de  haalbaarheid.  Op  basis  daarvan  kan  definitief  bepaald  worden  om  te  starten  met  de  overstap  naar 
+aardgasvrij.  
+ 
+Om de verkenningsbuurten te selecteren zijn de onderstaande criteria opgesteld:  
+ 
+Laaghangend fruit: Buurten die in de nabijheid liggen van een bestaande warmtebron (water, RWZI, etc.) 
+die  makkelijk  is  te  ontsluiten,  kunnen  makkelijker  aardgasvrij  worden.  Door  deze  gebieden  eerst  op  te 
+pakken kunnen we meer aandacht besteden aan het participatieproces en is er minder inspanning nodig 
+voor de relatief makkelijke weg naar de techniek.  
+ 
+Percentage corporatiebezit:  Hoe meer corporatiebezit, hoe geschikter de  buurt is om mee te starten. 
+Het achterliggende idee is dat corporatiewoningen kunnen fungeren als ‘startmotor’ voor veranderingen 
+in de buurt, zoals bijvoorbeeld grootschalige isolatieprojecten of aanleg van een warmtenet. Ze kunnen 
+met instemming van een meerderheid van hun huurders hier keuzes in maken.  
+ 
+Combinatie  met 
+van 
+woningbouwcorporaties  of  werkzaamheden  aan  de  openbare  ruimte,  kunnen  een  aanleiding  zijn  om 
+direct ook de energie-infrastructuur in een buurt aan te pakken. Een ander soort  koppelkans is de sociale 
+ontwikkeling  van  een  buurt  waarin  de  gemeente  bijvoorbeeld  graag  de  sociale  cohesie  of  veiligheid 
+bijvoorbeeld wil verbeteren. 
+ 
+Initiatief/interesse bewoners of vastgoedeigenaren: buurten waar bewoners en/of vastgoedeigenaren 
+het voortouw nemen om aardgasvrij te worden (of open  staan voor een collectieve oplossing), kunnen 
+mogelijk vooroplopen. De gemeente ondersteunt dergelijke initiatieven graag.  
+ 
+Eenvoud aanpak: Voor buurten met veel dezelfde woningen is het makkelijker een aanpak op te stellen. 
+Hetzelfde  geldt  voor  uniforme  bedrijfsterreinen  met  gelijksoortige  gebouwen.  Is  er  aanwezigheid  van 
+maatschappelijk vastgoed? Dan kan dit een extra reden zijn om eerder met een buurt / bedrijventerrein 
+aan de slag te gaan.  
+ 
+Collectieve  systemen:  We  beginnen  in  buurten  waar  collectieve  oplossingen  (warmtenetten)  voor  de 
+hand  liggen.  Overschakelen  op  een  collectief  systeem  is  minder  ingrijpend  voor  woningeigenaren  dan 
+overschakelen op een individuele oplossing. In buurten waar voor elke woning een individuele oplossing 
+komt, zoals een warmtepomp, geven we woningeigenaren meer de tijd om hun woning aan te passen. 
+ 
+Schaalbaarheid:  Buurten  waarvan  de  aanpak  uitgerold  kan  worden  in  andere  buurten  hebben  de 
+voorkeur. Dit om het leereffect in de rest van de gemeente te benutten. 
+ 
+Criteria aardgasvrije technieken 
+ 
+In  de  transitievisie  geven  we  per  buurt  aan  welke  aardgasvrije  techniek  de  voorkeur  heeft.  Tijdens  het 
+opstellen van het buurtuitvoeringsplan bekijken we de haalbaarheid van deze techniek in meer detail. We 
+maken de keuze voor een techniek op grond van de criteria in Figuur 14.  
+ 
+In  de  meeste  gevallen  zal  gelden  dat  de  meest  betaalbare  techniek  gekozen  zal  worden.  Als  er  twee 
+technieken voor ongeveer dezelfde prijs beschikbaar zijn, kan verder worden gekeken naar impact qua 
+duurzaamheid en milieu, sociale aspecten als overlast en technologische kwaliteit.  Basis uitgangspunten 
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+40 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+zoals  eerder  genoemd,  blijven  dat  er  een  betaalbare,  betrouwbaar  &  veilige  en  duurzame  warmtebron 
+gekozen zal worden.  
+ 
+
+ 
+
+ 
+Figuur 14 Criteria waaraan een techniek wordt getoetst om te kijken of deze geschikt is om toe te passen 
+in een bepaalde buurt.  
+ 
+Duurzaamheid, milieu 
+Benodigde hoeveelheid primaire energie – Primaire energie wordt gedefinieerd als de energie die nodig 
+is  aan  de  bron  om  het  uiteindelijke  warmtevraag  te  dekken.  Er  wordt  dus  rekening  gehouden  met  de 
+energie  die  verloren  gaat  tijdens  transport,  opslag  en  conversiestappen  in  de  keten,  en  een  positieve 
+bijdrage vanuit omgevingswarmte. Een warmteoplossing met een lage primaire energievraag en goede 
+efficiëntie legt minder beslag op de (veelal schaarse) energie-/warmtebronnen. Voor de berekening wordt 
+aangesloten bij de definities uit de BENG-norm. 
+ 
+CO2-uitstoot – De totale uitstoot van CO2-equivalenten in het uiteindelijke warmteconcept. We bekijken 
+alleen de CO2-uitstoot van verwarming, koeling, warm tapwater en ventilatie. Voor de berekening wordt 
+aangesloten bij de aannames en definities uit Startanalyse Leidraad Transitievisie Warmte van het PBL. 
+ 
+Omgevingsimpact, ruimtebeslag – Hoeveel ruimte neemt de oplossing in beslag? Is er negatieve impact 
+op het landschap, de flora en fauna of op de ruimtelijke kwaliteit in de buurt?  
+ 
+Kwaliteit lucht, water en bodem – Heeft de gekozen oplossing een positieve of negatieve impact op de 
+luchtkwaliteit, bodem- of waterkwaliteit? Hieronder vallen: 
+
+• 
+• 
+
+Luchtkwaliteit: de uitstoot van onder andere fijn stof, roet en stikstofoxiden. 
+Bodemkwaliteit: 
+toepassing 
+bodemenergie, of juist versnelde afbraak verontreinigde stoffen bij toepassing bodemenergie.  
+•  Waterkwaliteit: invloed (positief of negatief) op de waterkwaliteit en de biodiversiteit in het water 
+
+risico  op  verspreiding  van  bodemverontreinigingen  bij 
+
+ 
+Duurzaamheid  in  de  keten  –  Leidt  de  oplossing  tot  negatieve  milieu-impact  elders,  bijvoorbeeld 
+ontbossing, of uitputting van schaarse grondstoffen? 
+Sociaal 
+Draagvlak – Is er draagvlak/acceptatie onder de bewoners en lokale ondernemers in de buurt voor de 
+gekozen oplossing?  
+ 
+Inpasbaarheid  &  wenselijkheid  in  de  woning  –  Hoe  goed  is  de  oplossing  inpasbaar  in  de  woning? 
+Neemt de oplossing veel ruimte in de woning in beslag? Is er een ingrijpende verbouwing nodig?  
+ 
+Gezondheid, welzijn, leefbaarheid – Heeft de gekozen oplossing een positieve of negatieve impact op 
+de directe leefomgeving? Is er een effect op gezondheid of leefbaarheid? Hieronder vallen: 
+
+•  Geluidhinder: geeft de gekozen techniek geluidhinder binnen de woning of op de omgeving? 
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+41 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Binnenklimaat: leidt de oplossing tot (on)gezondere lucht binnenshuis? 
+
+• 
+•  Comfort: verandert het comfort van de woning? (negatief dan wel positief) 
+
+ 
+Overlast - Kunnen we de overlast beperkt houden?  
+ 
+Economisch 
+Nationale kosten - De totale kosten van alle maatregelen die nodig zijn om een warmteoplossing uit te 
+voeren,  ongeacht  wie  die  kosten  betaalt,  inclusief  de  baten  van  energiebesparing,  maar  exclusief 
+belastingen, heffingen en subsidies. Voor de berekening wordt aangesloten bij de Startanalyse Leidraad 
+Transitievisie Warmte van het PBL. 
+ 
+Kosten  voor  de  eindgebruiker  –  Alle  kosten  die  een  eindgebruiker  betaalt  voor  de  omschakeling  op 
+aardgasvrij  verwarmen.  Dat  zijn  zowel  de  maandelijkse  energielasten  als  kosten  voor  (het  gebruik  van) 
+installaties en isolatie. Alle subsidies en belastingen zijn hierin verwerkt. Eindgebruikers zijn huurders en 
+eigenaar-gebruikers van gebouwen (bewoners en ondernemers). 
+ 
+Kwaliteit business case – Een gezonde robuuste business case voor alle partijen zorgt dat investeringen 
+beschikbaar komen en vermindert het risico dat projecten niet van de grond komen of stil komen te liggen. 
+ 
+Onzekerheid in prijsstelling – Grote financiële risico’s worden zoveel mogelijk vermeden. Voor bewoners 
+moet duidelijk zijn wat hun lasten zullen worden. Kan gegarandeerd worden dat zij niet voor verrassingen 
+komen te staan, bijvoorbeeld door een elektriciteitsverbruik dat veel hoger blijkt dan voorspeld? 
+ 
+Juridisch kader – Moet er juridisch nog veel geregeld worden om deze oplossing mogelijk te maken? Is 
+de wet- en regelgeving al passend?  
+ 
+Technologisch 
+Beschikbaarheid bronnen – Is de bron in voldoende mate aanwezig?  Is de bron nu en in de toekomst 
+rendabel  te  exploiteren?  Het  optimaal  benutten  van  de  lokaal  beschikbare  (warmte)bronnen  heeft  de 
+voorkeur boven het importeren van energie van buiten de gemeente.  
+ 
+Onzekerheid in performance – Is het een bewezen techniek? Als het een nieuwe techniek is, wat kan er 
+gezegd worden over de performance?  
+  
+Veiligheid – Zijn er risico’s voor de (externe) veiligheid verbonden met de techniek? In hoeverre kunnen 
+deze risico’s worden beheerst? 
+ 
+Robuustheid, continuïteit – Leveringszekerheid van de warmtevoorziening is cruciaal. Brengt de gekozen 
+techniek een groter risico op uitval of storingen met zich mee, dan we van het huidige energiesysteem 
+gewend zijn? Als er iets uitvalt, is er dan een vervanging (back-up)?  
+ 
+Meekoppelkansen - Hoe goed sluit de oplossing aan bij andere ontwikkelingen in de buurt? Zijn er qua 
+timing meekoppelkansen, bijvoorbeeld met groot onderhoud, vervanging van riolering of asfalt of aanleg 
+van glasvezel? Maar ook: hoe goed past de oplossing bij de gebiedsontwikkeling? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+42 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Bijlage C Analyses, kaarten & kentallen  
+
+In Figuur 15 zien we de bouwjaren in gemeente Gemert-Bakel op de kaart. 
+
+Figuur 15 Bouwjaren in gemeente Gemert-Bakel en gemarkeerde locaties van bedrijventerreinen 
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+43 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Toelichting toekomstige warmtevraag: 
+Onderstaande tabel geeft van de verschillende gebruikers de huidige warmtevraag aan in de middelste 
+kolom. De rechterkolom geeft de verwachte toekomstige warmtevraag.   
+ 
+
+ 
+
+Categorie 
+
+Op basis van aardgasverbruik 
+ 
+Gebouwde omgeving 
+-Woningen 
+
+-Commerciële dienstverlening 
+
+-Publieke Dienstverlening 
+Landbouw, Bosbouw en Visserij 
+Industrie, Energie, Water en Afval 
+Hernieuwbare warmte 
+-Houtkachels Woningen 
+-Overige installaties 
+ 
+
+Huidige  warmtevraag 
+(TJ)40 
+
+Toekomstige 
+warmtevraag (TJ) 
+
+1078 
+ 
+798 
+617 
+91 
+90 
+114 
+
+166 
+95 
+46 
+48 
+
+ 
+
+809 
+
+613 
+
+486 
+
+63 
+
+63 
+
+80 
+
+116 
+66 
+32 
+34 
+ 
+
+Tabel 3 Warmtevraag in gemeente Gemert-Bakel onderverdeeld in verschillende gebruikerscategorieën. 
+Binnen de Transitievisie Warmte richten we ons op de categorie ‘gebouwde omgeving’. Hieronder vallen 
+woningen, commerciële dienstverlening en publieke dienstverlening. De tweede kolom geeft de 
+voorspelde energiebesparing en verbetering van het energielabel door isolatie. We gaan uit van de isolatie 
+die economisch rendabel is. De mogelijke besparing is berekend door (via kengetallen ) de warmtevraag 
+van het huidige en het toekomstige energielabel te vergelijken, zie Tabel 4. 
+ 
+Om een inschatting te maken van de verwachte energiebesparing, en dus de toekomstige warmtevraag,  
+van woningen tot 2050 is een analyse gemaakt die rekening houdt met de woningvoorraad in Gemert-
+Bakel (bouwjaar, energielabel, oppervlakte van de woningen). De labelstappen die gezet kunnen worden 
+zijn ingeschat, waarbij economisch rendabele isolatie het uitgangspunt is. In Tabel 4 is te zien wat landelijk 
+gezien de verwachte energiebesparing is voor een huis uit een bepaalde bouwperiode. Huizen van voor 
+1920 bijvoorbeeld, zitten vaak op een energielabel G en zijn tot een energielabel C of D te isoleren. Deze 
+isolatiestap  betekent  een  energiebesparing  van  18%.  Voor  de  verschillende  bouwperiodes  gelden 
+verschillende rendabele labelstappen en besparingspotenties.  
+ 
+Tabel 4 Voorspelde energiebesparing en verbetering van het energielabel door isolatie. We gaan uit van 
+de isolatie die economisch rendabel is. De mogelijke besparing is berekend door (via kengetallen41) de 
+warmtevraag van het huidige en het toekomstige energielabel te vergelijken.  
+
+ 
+
+ 
+
+40 1 TJ = 277.777,8 kWh. Ter referentie: Een Nederlands huishouden verbruikt jaarlijks gemiddeld 1.239 kubieke meter 
+
+ 
+
+(m3) gas (=circa 12.400 kWh) en 2.741 kilowattuur (kWh) elektriciteit. 
+41 Bron: adviesbureau Greenvis 
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+44 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Bij  het  bepalen  van  de  warmtevisie  hebben  we  gekeken  naar  de  warmtedichtheid  van  gebouwen. 
+Woonhuizen  die  dicht  bij  elkaar  staan,  bieden  meer  kansen  voor  inzet  van  een  warmtenet.  Voor 
+utiliteitsbouw hebben we ook de warmtedichtheid in kaart gebracht. Omdat het gebruik bij utiliteitsbouw 
+meer  divers  is,  zijn  deze  warmtedichtheden  minder  nauwkeurig  in  beeld  te  brengen.  Voor  een  eerste 
+indruk laten we deze warmtedichtheid voor utiliteitsbouw toch zien in deze bijlage in Figuur 16. Een aantal 
+bedrijven  in  de  gemeente  hebben  daarnaast  een  koude-vraag.  Bij  het  koelen  van  producten  komt 
+(rest)warmte vrij dat mogelijk kan worden ingezet voor in het warmtenet gebied. Daarom ook een globaal 
+beeld van deze koudevraag in de gemeente in Figuur 17. 
+
+ 
+
+ 
+Figuur 16 Warmtevraagdichtheid utiliteit. De warmtevraag voor utiliteit is gebaseerd op landelijke 
+gemiddeldes voor verschillende gebruiksdoeleinden. Deze getallen zijn minder robuust dan de kentallen 
+voor woningen. De kaart geeft wel een goede indicatie waar de utiliteit in de gemeente geclusterd is. 
+ 
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+45 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figuur  17  Koudevraagdichtheid  utiliteit.  De  koudevraag  voor  utiliteit  is  gebaseerd  op  landelijke 
+gemiddeldes voor verschillende gebruiksdoeleinden. Deze getallen zijn minder robuust dan de kentallen 
+voor woningen. De kaart geeft wel een goede indicatie waar de utiliteit in de gemeente geclusterd is. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+46 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Bijlage D Niet of beperkt aanwezige 
+warmtebronnen 
+
+ 
+In de warmtebronneninventarisatie zijn een aantal bronnen naar voren gekomen die op het eerste oog 
+niet kansrijk zijn voor gebouwde omgeving. Ter volledigheid zijn deze bronnen hieronder kort toegelicht. 
+ 
+
+Restwarmte Bedrijven 
+
+ 
+
+Aquathermie 
+ 
+
+Biomassa 
+
+ 
+
+Riothermie 
+ 
+
+In  gemeente  Gemert-Bakel  bevinden  zich  een  aantal  supermarkten  die 
+een relatief kleine potentie voor restwarmte uit koudevraag hebben (< 5 
+TJ)  of  die  te  ver  liggen  van  gebieden  waar  een  collectieve  oplossing 
+kansrijk is (> 1 km). Het gaat om: 
+- 
+- 
+- 
+- 
+- 
+- 
+
+Jumbo Bakel (8 TJ) 
+Keizersberg Diervoeders Elsendorp (onbekende potentie) 
+Fransen Gerrits De Rips (onbekende potentie) 
+BV Nettorama (4 TJ) 
+Bakkerij van de Ven (3 TJ) 
+Bakkerij Ber Vogels (2 TJ) 
+
+Voor de mogelijkheden voor de inzet van aquathermie is gekeken naar 
+oppervlaktewateren  die  dichtbij  de  bebouwde  kom  liggen  én  een 
+potentie  voor  warmtewinning  groter  dan  5  TJ  per  jaar  hebben.  Hierom 
+worden  kleine  sloten  en  plassen  niet  genoemd,  maar  op  heel  lokaal 
+niveau  (klein-collectief)  kan  oppervlaktewater  voor  een  rijtje  woningen 
+een mogelijkheid zijn.  
+ 
+Daarnaast is er een tweetal wateren die een potentie voor warmtewining 
+groter dan 5 TJ hebben, maar te ver van een mogelijk afzetgebied liggen. 
+Dat zijn: 
+- 
+- 
+- 
+- 
+- 
+Bij Maatschap H.P.M. van den Heuvel en Besterd Hoeve B.V. is een SDE 
+subsidies aangevraagd voor een mestvergister. Hier wordt mest ingezet 
+voor de productie van warmte. Hoewel de mest die hier gebruikt wordt, 
+dus niet ergens anders ook ingezet kan worden, is het waardevol om dit 
+soort bestaande projecten op de radar te hebben. 
+In  Gemert-Bakel  bevinden  zich  twee  rioolgemalen,  gelegen  bij  de 
+woonkernen  Elsendorp  en  De  Rips.  Deze  rioolgemalen  hebben  een 
+potentie  kleiner  dan  1  TJ  per 
+is  er  geen 
+rioolwaterzuiveringsinstallatie 
+in  Gemert-Bakel  die  restwarmte  kan 
+leveren. 
+
+Plas ten noordoosten van Bakel (91 TJ) 
+Plas ten noordoosten van Handel (18 TJ) 
+Aarlesche Vijver (14 TJ) 
+Plas bij Introcoat BV (10 TJ) 
+Visvijver Wethouder Slits (8 TJ) 
+
+jaar.  Verder 
+
+ 
+ 
+Opkomende technieken, nog niet beschikbaar 
+Waterstof 
+
+Waterstof is geen energiebron, maar een energiedrager. Om waterstof te maken wordt tot 
+nog toe meestal elektriciteit gebruikt uit fossiele gas- en kolencentrales (grijze waterstof). In 
+de warmtetransitie is het nodig om groene energie te gebruiken (groene waterstof). Groene 
+waterstof wordt gemaakt door groene stroom en water bij elkaar te brengen (elektrolyse). 
+Groene waterstof is vooralsnog duur en schaars, en zal dat voorlopig waarschijnlijk blijven . 
+Waterstof is bij uitstek geschikt om hoge temperaturen warmte mee te maken. Het is dan ook het meest 
+logisch om waterstof in te zetten waar hoge temperaturen noodzakelijk zijn. In de meeste toekomstvisies 
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+47 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+worden vooral de industrie, zwaar transport en de vliegtuigsector genoemd als de sectoren waar waterstof 
+het meeste bijdraagt aan verduurzaming. Ook wordt een rol van waterstof voorzien in het balanceren van 
+het elektriciteitsnet. Waterstof wordt opgeslagen om stroom te produceren als er tijdelijk minder zonne- 
+en windenergie wordt opgewekt. Er moet dus kritisch gekeken worden waar waterstof het meest logisch 
+is om in te zetten.  
+Een  voordeel  van  de  inzet  van  waterstof  is  dat  –  met  beperkte  aanpassingen  –  het  bestaande  gasnet 
+gebruikt kan blijven worden. Een overstap naar waterstof heeft daarom het voordeel dat het minder grote 
+ingrepen  in  de  openbare  ruimte  vraagt.  Ook  zijn  de  vereiste  ingrepen  in  de  woning  beperkt,  omdat 
+waterstof warmte kan leveren op hoge temperatuur. Omdat waterstof duur (veel duurder dan aardgas) is, 
+zal voldoende isolatie van de woning wenselijk blijven. De cv-ketel dient aangepast te worden, ook moet 
+per woning worden nagegaan of de leidingen in de woning veilig zijn voor toepassen van waterstof. In 
+Nederland wordt tot aan 2030 zeer beperkt ingezet op kleinschalige pilots. Ook omdat er (goedkopere) 
+alternatieven  voorhanden  zijn.  Maar  voor  lastig  te  verwarmen  gebouwen  zoals  monumenten  is  een 
+hybride oplossing met waterstof in de toekomst wellicht een optie.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+48 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Bijlage E Toelichting Startanalyse Leidraad 
+
+ 
+ 
+De startanalyse Leidraad is een rekentool die landelijk beschikbaar wordt gesteld. De tool geeft gemeenten 
+inzicht in de alternatieven voor aardgas per CBS buurt en geeft ook een indicatie van de kosten.  Er zijn 
+een aantal landelijke aannames/datasets gebruikt die op lokaal niveau mogelijk niet kloppen. Hoe werkt 
+de Startanalyse Leidraad: 
+ 
+• 
+
+Er worden diverse informatiebronnen in het model gezet. Zo wordt er een inschatting gemaakt van 
+de grootte van potentie van warmtebronnen (Deze potentie is vaak te ruim ingeschat).  
+
+•  De Leidraad startanalyse geeft  op basis van alle input tot op woningniveau een inschatting van de 
+kosten per warmteoptie. Er worden meerdere scenario’s door gerekend. Het scenario met de laagste 
+kosten wordt zichtbaar gemaakt in een kaart. Scenario’s die nét iets slechter scoren, zijn niet zichtbaar, 
+maar mogelijk wel interessant bij nader onderzoek. 
+
+•  Het model brengt de resultaten niet per individueel huis in beeld, maar per CBS wijk of buurt. Binnen 
+een  buurt  kunnen  er  verschillen  zijn  in  de  wenselijke  warmtevoorzieningen.  In  de  Leidraad  komen 
+alleen de gemiddelde van een buurt naar voren. Dit brengt verschillen binnen een CBS buurt dus niet 
+in beeld. De CBS buurt Gemert bevat bijvoorbeeld zowel gebieden waarvoor een individuele aanpak 
+goed  werkt,  als  gebieden  waarvoor  een  warmtenet  of  groen  gas  passend  is.  Het  samenvattende 
+eindbeeld  van  de  Startanalyse  Leidraad  geeft  het  scenario  ‘individuele  oplossing’  als  best  passend 
+voor de gehele CBS buurt.  
+
+ 
+In  Figuur  19  is  de  uitkomst  van  de  Leidraad  van  het  Expertise  Centrum  Warmte  weergegeven  voor 
+gemeente Gemert-Bakel. 
+
+Figuur 19 Weergave scenario’s met de laagste nationale kosten per gereduceerde ton CO2 uitstoot uit de 
+Leidraad voor gemeente Gemert-Bakel.  
+ 
+Hieronder  is  per  buurt  te  zien  wat  de  extra  nationale  kosten  per  ton  CO2  en  per  WEQ  per  jaar  zijn  ten 
+opzichte  van  het  referentiescenario  in  2030  als  we  aardgas  zouden  blijven  gebruiken.  Alle  buurten  die 
+groen gas toegewezen krijgen, zijn goedkoper dan de buurten die een individuele oplossing toegewezen 
+krijgen.  Voor  inzet  van  groen  gas  zijn  namelijk  geen  aanpassingen  aan  radiatoren  nodig.  Ook  het 
+
+ 
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+49 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+isolatieniveau hoeft minder hoog te zijn. Vanwege beperkte beschikbaarheid van groen gas, is nog niet 
+zeker of groen gas ook in alle groen gebieden kan worden ingezet.  
+ 
+
+ 
+
+ 
+Figuur 20 De extra nationale kosten per ton CO2 per CBS buurt. De kleuren corresponderen met de 
+strategie die voor de CBS buurt het goedkoopste is. In gemeente Gemert-Bakel voorzien de startanalyse 
+Leidraad alleen Individuele-(paars) en Groen gas oplossingen (groen). 
+ 
+De buurt Verspreide Huizen Grotelse Heide en Esp is de enige die uitkomt op de strategie van een lage 
+temperatuur  warmtenet.    Wanneer  we  inzoomen  op  deze  buurt  blijkt  dat  maar  2%  van  de  WEQ’s 
+aangesloten wordt op het warmtenet en de rest dus individueel. In totaal staan hier 147 woningen en 385 
+WEQ’s. 
+ 
+Voor Gemert-Centrum en Gemert-Noord wordt een individuele oplossing voorzien en de kosten daarvan 
+per  ton  CO2  en  per  WEQ  zijn  zeker  niet  het  laagst  van  de  buurten  die  een  individuele  oplossing 
+toegewezen  hebben  gekregen.  We  gaan  hier  ook  juist  op  zoek  naar  collectieve  mogelijkheden.  Voor 
+Gemert-Centrum  wordt  in  de  Startanalyse  als  tweede  optie  een  geothermie  warmtenet  toegewezen  in 
+Strategie 4 met een MT-bron en ook is een restwarmte variant met supermarkten Nettorame en De Vries 
+in  Strategie  3  met  een  LT-bron  een  optie.  In  Strategie  3  wordt  30%  vd  buurt  aangesloten  op  dit  LT 
+restwarmtebron  warmtenet.  In  de  Leidraad  kan  niet  op  detail  niveau  worden  aangewezen  waar  moet 
+worden ingezet op een warmtenet. Dat een warmtenet als optie wordt genoemen voor zo’n 30% van de 
+gebouwen is wel een goede indicatie.  
+ 
+
+ 
+Figuur 21 De extra nationale kosten per woningequivalent (WEQ) ten opzichte van het gebruik van 
+aardgas. De kleuren corresponderen met de Individuele (paars) en Groen gas oplossingen (groen).  
+ 
+Voor de varianten die als goedkoopste oplossingen naar voren komen, is ook gekeken naar het het verschil 
+in  kosten  met  eerste  volgende  goedkoopste  alternatief.  In  Figuur  22  is  te  zien  dat  voor  de  Groen  gas 
+oplossingen de verschillen oplopen tot 100%.  Dit betekent dat de groen gas oplossing tot wel twee keer 
+goedkoper  is  dan  het  eerste  volgende  alternatief.  Het  eerst  volgende  alternatief  is  een  individuele 
+warmtepomp óf een warmtenet oplossing. Het is niet kenmerkend voor gemeente Gemert-Bakel dat de 
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+verschillen bij Groen gas zo groot zijn; de Startanalyse houdt rekening met een beperkte beschikbaarheid 
+van  Groen  gas.  Hierdoor  krijgen  alleen  de  buurten  waar  Groen  gas  duidelijk/veel  goedkoper  is  dan  de 
+alternatieven ook daadwerkelijk Groen gas toegewezen.  
+ 
+Voor de buurten die een individuele oplossingen toegewezen hebben gekregen in de Startanalyse, is het 
+verschil in extra nationale kosten per ton CO2 relatief klein met het goedkoopste alternatief. Voor deze 
+buurten wordt Groen gas niet als alternatief gezien, vanwege de beperkte beschikbaarheid van Groen gas. 
+Dat betekent dat de paarse kolommen in onderstaande grafiek het verschil in extra nationale kosten laat 
+zien  tussen  een  individuele  oplossing  en  een  warmtenet  oplossing.  Dit  kan  zijn  een  hoge-  of  lage 
+temperatuur warmtenet oplossing. Bij de warmtenet oplossingen moet wel in acht genomen worden dat 
+niet (altijd) alle woningen op het warmtenet aangesloten worden in de CBS buurt waarvoor de strategie is 
+aangewezen. Zo is voor Gemert centrum het verschil tussen inzet op een individuele oplossing en inzetten 
+op een warmtenet erg klein. Dit is in lijn met het beeld wat we schetsen in hoofdstuk 3. Voor delen van 
+Gemert Centrum is inzet van een warmtenet inderdaad interessant.  
+
+ 
+Figuur 22 Verschil in extra nationale kosten tussen de goedkoopste strategie en het goedkoopste 
+alternatief daarvan 
+ 
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+51 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Bijlage 
+financieringsmogelijkheden 
+
+F 
+
+informatie 
+
+ 
+
+over 
+
+ 
+Subsidies 
+Als de besparing op de energielasten niet voldoende is om een investering binnen een redelijke termijn  
+terug te verdienen, spreken we van een ‘onrendabele top’. Subsidies zijn er met name om de onrendabele 
+top  af  te  dekken,  en  soms  ter  stimulering  van  een  nieuwe  techniek.  Het  Rijk  biedt  hier  verschillende 
+subsidies voor: 
+
+-  voor particulieren: voor isolatiemaatregelen of aanschaf van installaties (ISDE, SEEH) 
+
+-  voor woningcorporaties, institutionele beleggers en particuliere verhuurders:  de SAH voor het 
+
+aardgasvrij maken van woningen met warmtenetten en de Renovatieversneller om 
+
+corporatiebezit innovatief te verduurzamen. 
+
+-  voor energieproducenten: voor het produceren van duurzame energie (SDE+) 
+
+-  voor gemeenten: o.a. de RRE regeling (2020 en 2021) en de bijdrage vanuit het Programma 
+
+Aardgasvrije Wijken (PAW). Met deze rijksbijdrage kunnen de kosten voor een hele buurtaanpak 
+
+gecompenseerd worden, waardoor dit voor alle betrokken partijen voordeliger wordt. 
+
+ 
+Aanvullend zijn er periodiek specifieke provinciale regelingen waar bijvoorbeeld de gemeente of bedrijven 
+gebruik van kunnen maken.  
+ 
+Duurzaamheidsleningen 
+Duurzaamheidsleningen  maken  het  mogelijk  om  duurzame  maatregelen  te  treffen,  zonder  dat  iemand 
+daarvoor veel eigen geld hoeft te gebruiken. Een maatregel kan namelijk een voordelige keus zijn, maar 
+niet direct te financieren met eigen middelen (zoals spaargeld). Een duurzaamheidslening moet worden 
+terugbetaald, maar kent meestal een lage rente. Er zijn verschillende duurzaamheidsleningen, waaronder: 
+
+-  Het Nationaal Warmtefonds voor particulieren en VvE’s (nationaal) 
+
+-  Energiefondsen voor initiatieven/organisaties (regionaal) 
+
+-  Lokale duurzaamheidslening (SVn) 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Rekenvoorbeeld Investeringsruimte 
+ 
+Stel:  Een  bewoner  kan  650  euro  per  jaar  op  de  energierekening  besparen  door  te  isoleren  en  een 
+warmtepomp te nemen, maar hij of zij heeft geen eigen geld om de investering te doen. Hoe kan een 
+financieringsconstructie dit oplossen? 
+ 
+De besparing van 650 euro per jaar, komt over een looptijd van 30 jaar (na rentelasten) neer op circa 
+18.000 euro. Dit noem je de investeringsruimte. Een goede financieringsconstructie maakt dit bedrag 
+vooraf beschikbaar, waarbij de maandlasten van bewoners gelijk blijven. De investering en de rentelast 
+worden dan dankzij de lagere energierekening in 30 jaar terugbetaald. 
+ 
+Via  diverse  subsidies  kan  een  aanvullende  bijdrage  van  circa  5.000,-  euro  per  woning  aangevraagd 
+worden.  In  dit  rekenvoorbeeld  is  het  daarom  mogelijk  om  ongeveer  23.000  euro  in  de  woning  te 
+investeren, waarbij de maandlasten van bewoners gelijk blijven.  
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+52 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Bijlage  G  aanpak  verkenningsgebieden  (vanaf 
+2026) 
+
+ 
+In de loop van de komende decennia zal de gemeente voor alle buurten in gemeente Gemert-Bakel een 
+buurtuitvoeringsplan  maken.  Dat  is  maatwerk.  Elke  buurt  heeft  specifieke  kenmerken  wat  betreft 
+technische  mogelijkheden,  aard  van  de  woningen,  eigendomssituatie  en/of  samenstelling  van  de 
+bevolking. De aanpak in buurten waar collectieve warmtenetten worden opgezet, zal er anders uitzien dan 
+een aanpak in een buurt waar individuele of kleinschalig-collectieve oplossingen reëel lijken.  
+ 
+Een buurtuitvoeringsplan komt altijd tot stand in nauwe samenwerking met bewoners en lokale partijen. 
+Ook is het nodig een gedetailleerde studie van de kosten en technische haalbaarheid uit te voeren. In de 
+periode van 2026 tot aan 2035 gaan we eerst van start met haalbaarheidsstudies en stellen we op basis 
+daarvan  de  uitvoeringsplannen  op  voor  de  verkenningsbuurten.  De  gemeente  organiseert  de 
+haalbaarheidsonderzoeken. 
+ 
+Hieronder een schets van wat er in deze periode gaat gebeuren: 
+ 
+
+               
+ 
+
+1 Samen starten. We brengen lokale partijen bij elkaar en vormen een 
+werkgroep en een klankbordgroep waarin lokale belanghebbenden zijn 
+vertegenwoordigd. Bewoners kunnen deelnemen in de klankbordgroep 
+om zo direct input te leveren. Eerst op de randvoorwaarden van de 
+haalbaarheidsstudie en daarna op de ontwikkeling van het 
+buurtuitvoeringsplan. De gemeente zorgt voor een procesbegeleider die 
+ook toeziet op het participatietraject met bewoners. Het verkennen van 
+de belangen is een belangrijk onderdeel in deze fase. 
+ 
+
+2 Buurtanalyse. Met de werkgroep en ondersteunt door experts brengen we in kaart wie in de buurt 
+wonen, wat hun behoeften zijn en hoe we bewoners het beste kunnen bereiken en betrekken. Parallel 
+worden technische gegevens over de woningen, beschikbare duurzame warmtebronnen en de 
+aanwezige energie-infrastructuur in kaart gebracht. Voor de meest kansrijke warmteopties brengen 
+we in detail in kaart welke voordelen, nadelen, kosten en besparingen realistisch zijn. 
+ 
+3 Kiezen optimale warmteoplossing. Na stap 2 bepalen we in samenspraak met lokale 
+belanghebbenden welke warmteoplossing het best bij de buurt past. Met het afwegingskader (zie 
+bijlage B) wordt onderbouwd welke oplossing de voorkeur heeft. In deze fase betrekken we 
+bewoners, bedrijven en alle andere lokale betrokkenen intensief.  
+ 
+4 Onderbouwen van de haalbaarheid en financiën. Voor de gekozen optie werken we in detail de 
+kosten en baten uit voor referentiewoningen. De investeringskosten, eindgebruikerskosten en 
+energiekosten worden in detail in kaart gebracht. Zo nodig worden eerst in praktijk concepten 
+kleinschalig gerealiseerd om zeker te zijn van alle kosten en baten. Als vervolgens de haalbaarheid 
+toch twijfel oproept, dan gaan we een stap terug naar de vorige fase ‘keuze warmteoplossing’. We 
+werken daarna een concreet investeringsprogramma uit, waarbij ook ingezet wordt op subsidies en 
+financieringsvormen zodat de overstap haalbaar en betaalbaar is voor alle betrokkenen en alle 
+bewoners. 
+ 
+ 
+ 
+
+5 Besluitvorming (go / no go). Om tot besluitvorming te komen is het 
+nodig om aan een aantal randvoorwaarden te voldoen. De gemeenteraad 
+wordt pas gevraagd definitief in te stemmen als voldaan is aan 
+onderstaande voorwaarden: 
+
+a.  de oplossing is duurzaam en technisch haalbaar  
+b. de oplossing is voor alle belanghebbenden in principe financierbaar  
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+53 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+c.  er is draagvlak bij een ruime meerderheid van bewoners, bedrijven en 
+
+andere belanghebbende organisaties die nodig zijn voor de 
+realisatie 
+
+d. juridisch wordt voldaan aan alle wettelijke voorwaarden. 
+
+ 
+
+ 
+
+ 
+
+ 
+Als de gemeenteraad en andere partijen akkoord zijn, worden daarna afspraken gemaakt over de 
+realisatiefase. Deze afspraken worden in het buurtuitvoeringsplan opgenomen. Bijvoorbeeld afspraken 
+over de tijdplanning, rolverdeling, de benodigde aanpak van gebouwen en woningen en het 
+contracteren van partijen die verantwoordelijk zijn voor de bouw en aanleg van nieuwe infrastructuur. 
+ 
+ 
+ 
+
+DWTM21072  –  Ontwerp Transitievisie Warmte 1.0 gemeente Gemert-Bakel – definitieve versie 
+
+ 
+
+ 
+
+54 
+
+

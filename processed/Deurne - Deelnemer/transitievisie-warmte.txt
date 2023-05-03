@@ -1,0 +1,4306 @@
+ 
+
+ 
+
+Transitievisie Warmte 
+ 
+
+De WarmteTransitieMakers. – Atoomweg 50, 3542 AB Utrecht – info@dwtm.nl 
+
+KVK 71166645 - BTW NL85606227B01 - NL60TRIO0338946349 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Transitievisie Warmte 
+Versie 1.0 
+
+Opdrachtgever:  
+Auteurs:  
+ 
+
+Projectleider: 
+Datum:  
+
+ 
+
+Gemeente Deurne 
+Robert Drooghmans, gemeente Deurne 
+Augusta  Goedhart,  Daniel  Peyron,  Niek 
+Brinkhof van de WarmteTransitieMakers 
+Robert Drooghmans 
+1 juni 2021 
+
+ 
+
+TVW gemeente Deurne 
+
+2 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Inhoud 
+Samenvatting .................................................................................................................................................. 5 
+
+Inleiding .......................................................................................................................................................... 7 
+
+Waarom een Transitievisie Warmte? ........................................................................................................................ 7 
+Doel van dit plan ............................................................................................................................................................... 7 
+Wie zijn er betrokken? .................................................................................................................................................... 8 
+Samenhang met andere trajecten ............................................................................................................................. 8 
+Hoe gaat het hierna verder? ......................................................................................................................................... 8 
+Wat is de impact? ............................................................................................................................ 9 
+
+Wat zijn alternatieven voor koken op een gaspit? ............................................................................................. 9 
+Mogelijkheden voor verwarming en warm water ............................................................................................... 9 
+Hoe maken we keuzes? ................................................................................................................. 11 
+
+1. 
+
+2. 
+
+2.1 Algemene uitgangspunten ............................................................................................................................................. 11 
+
+2.2 Selectiecriteria verkenningsbuurten ............................................................................................................................ 12 
+
+2.3 Criteria aardgasvrije technieken .................................................................................................................................... 13 
+
+3. 
+
+Warmtevraag en warmtebronnen .............................................................................................. 14 
+
+3.1 Warmtevraag......................................................................................................................................................................... 14 
+
+3.2 Beschikbare warmtebronnen.......................................................................................................................................... 20 
+
+4. Kansrijke warmtevoorziening per buurt in 2050 ................................................................................. 22 
+
+4.1 Warmtevisie in beeld ......................................................................................................................................................... 22 
+
+4.2 Bedrijven en kantoren ....................................................................................................................................................... 24 
+
+5. Wanneer worden de buurten aardgasvrij? ........................................................................................... 25 
+
+Multicriteria analyse om fasering te bepalen ..................................................................................................... 27 
+5.1 De verkenningsbuurten .................................................................................................................................................... 27 
+
+5.2 Overige buurten................................................................................................................................................................... 31 
+
+Middellange termijn (2025-2040) ........................................................................................................................... 31 
+Lange termijn (2040-2050) ......................................................................................................................................... 31 
+Buurten met natuurlijk tempo (2020-2050) ........................................................................................................ 32 
+Uitvoeringsstrategie en vervolgstappen .................................................................................... 33 
+
+6. 
+
+6.1 Aanpak verkenningsbuurten .......................................................................................................................................... 33 
+
+6.2 Gemeentebrede aanpak woningen ............................................................................................................................. 35 
+
+6.3 Aanpak bedrijventerreinen, utiliteit en maatschappelijk vastgoed ................................................................ 36 
+
+6.4 Onderzoek naar de inzet van biogas .......................................................................................................................... 37 
+
+6.5 Financiering ........................................................................................................................................................................... 37 
+
+Programmaonderdeel 1 .............................................................................................................................................. 38 
+Programmaonderdeel 2 .............................................................................................................................................. 38 
+Programmaonderdeel 3 .............................................................................................................................................. 39 
+Programmaonderdeel 4 .............................................................................................................................................. 39 
+Programmaonderdeel 5 .............................................................................................................................................. 40 
+Bijlage A Overzicht betrokkenen en hun rollen ....................................................................................... 41 
+
+Bijlage B Afwegingskader ........................................................................................................................... 43 
+
+Bijlage C Analyses, kaarten & kentallen ................................................................................................... 45 
+
+ 
+
+TVW gemeente Deurne 
+
+3 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Bijlage D Niet of beperkt aanwezige warmtebronnen ........................................................................... 48 
+
+Bijlage E Toelichting Startanalyse Leidraad ............................................................................................. 50 
+
+Bijlage F informatie over financieringsmogelijkheden ........................................................................... 53 
+
+ 
+
+ 
+
+TVW gemeente Deurne 
+
+4 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Samenvatting 
+
+In Nederland gaan we stoppen met het gebruik van 
+aardgas in de gebouwde omgeving. 
+Waarom?  Verbranding  van  aardgas  veroorzaakt 
+CO2-uitstoot en dat heeft negatieve gevolgen voor 
+het klimaat wereldwijd en voor Nederland. Wat gaan 
+we  doen?  Tussen  nu  en  2050  vervangen  we  het 
+aardgas door duurzame warmte, buurt voor buurt.  
+Met  wie  en  vóor  wie?  Samen  met  inwoners, 
+bedrijven  en  maatschappelijke  partners  zoeken  we 
+(gemeente Deurne) de beste oplossingen voor een 
+duurzame  gebouwde  omgeving  in  Deurne,  waar 
+onze  én  volgende  generaties  een  prettige  en 
+leefbare  toekomst  hebben.  Bij  de  totstandkoming 
+van  deze  visie  hebben  we  (gemeente  Deurne) 
+daarom samengewerkt met woningbouwvereniging 
+Bergopwaarts, Energyport Peelland en netbeheerder 
+Enexis.  Inwoners  en  ondernemers  zijn  betrokken 
+tijdens  inwonersavonden  en  door  het  invullen  van 
+een enquête.  
+
+Figuur 1 Impact nu en in de toekomst van te hoge CO2-
+uitstoot in Nederland. 
+ 
+
+ 
+ 
+ 
+
+In  deze  Transitievisie Warmte  stippelen  we  het  pad  uit  naar  een  duurzame  en  toekomstbestendige 
+warmtevoorziening.  
+ 
+Welke alternatieven voor aardgas zijn er? 
+Het omschakelen van verwarming met aardgas naar verwarming met een alternatieve bron is complex. 
+Het  heeft  impact  op  mensen  en  gebouwen.  De  oplossingen  die  er  zijn  in  plaats  van  aardgas,  zijn  in  te 
+delen in drie groepen: 
+
+• 
+
+Individuele oplossing: een oplossing per woning, gebouw of woonblok. Voorbeelden zijn een 
+warmtepomp, infraroodpanelen of incidenteel een biopropaantank1 of pelletkachel. 
+
+•  Warmtenet:  dit  is  een  collectieve  oplossing  voor  de  hele  buurt.  Warm  water  stroomt  door 
+
+leidingen onder de grond naar de huizen. 
+
+•  Duurzaam  gas:  we  stappen  over  op  een  ander  type  gas,  zoals  groen  gas  of  waterstof  en 
+
+gebruiken hiervoor de bestaande gasleidingen.  
+
+De eerste belangrijke stap is het isoleren van woningen. Hierdoor vermindert de vraag naar warmte,  en 
+vermindert  de  CO2-uitstoot  direct.  Ook  maakt  isolatie  de  woning  geschikt  voor  diverse  duurzame 
+manieren van verwarmen.  
+ 
+Warmtevisie op basis van warmtevraag en beschikbare warmtebronnen 
+De warmtevraag die na rendabel isoleren  te verwachten is, is niet voor alle gebouwen hetzelfde. Er zijn 
+(met name) oude gebouwen waarvoor een hoge temperatuur warmte nodig zal blijven. De gecombineerde 
+warmtevraag voor bedrijven en woningen in Deurne zal tussen de 1000 en 1100 TJ/jaar zijn in 20502. Dit 
+is dan ook de warmtevraag waarvoor we passende warmtebronnen (met passende temperatuurniveaus) 
+hebben gezocht. Op basis van de beschikbare warmtebronnen, de temperatuur die huizen nodig hebben 
+voor verwarming en de dichtheid van de warmtevraag (de mate waarin huizen dicht bij elkaar staan), heeft 
+de gemeente samen met betrokkenen een visie bepaald. In het overgrote deel van de gemeente past een 
+
+ 
+
+1 Op dit moment wordt op één plek in Nederland biopropaan gemaakt als bijproduct van biodiesel en er is ook nog 
+
+maar één leverancier. Biopropaan kan zonder aanpassingen worden ingezet in bestaande propaantanks.   
+2 Huidige warmtevraag op basis van het aardgasverbruik in de Klimaatmonitor is 674 TJ voor woningen en 610 TJ voor 
+
+utiliteit. Met 24% besparing bij woningen en 30% besparing bij utiliteit, komt de toekomstige warmtevraag uit op 942 
+
+TJ in 2050. Als we 30% besparing aannemen bij de warmtevraag uit hernieuwbare bronnen, komt hier nog 70% van 108 
+
+TJ bij. Dat resulteert in een totale warmtevraag van 1018 TJ per jaar. 
+
+ 
+
+TVW gemeente Deurne 
+
+5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+individuele oplossing het best. In beperkte mate kan groen gas worden toegepast. In dorpskern Deurne 
+liggen enkele gebieden waar een warmtenet de best passende mogelijkheid is.  
+ 
+Waar starten we met uitgebreider onderzoek? 
+Vanaf 2030 willen we de eerste buurten en gebouwen overgezet hebben naar een aardgasvrije, duurzame 
+verwarming. Daarom hebben we in deze Transitievisie Warmte al een aantal buurten aangewezen waar 
+we  in  2021  een  verdiepend  onderzoek  willen  starten.  In  deze  verkenningsbuurten  willen  we,  als  het 
+onderzoek aantoont dat het kan, als eerste van het gas af.  
+ 
+Voor de korte termijn worden drie gebieden als verkenningsbuurt onderzocht. De drie gebieden (A, B, C) 
+liggen in dorpskern Deurne (zie bladzijde 25 voor de precieze ligging). Er is een verkenningsgebied waar 
+zal worden gekeken naar inzet van groen gas (gebied A). In gebied C wordt gekeken naar inzet van een 
+klein-collectieve  oplossing.  Daarnaast  wordt  in  gebied  B  onderzoek  gedaan  naar  de  technische  en 
+financiële  haalbaarheid  van  een  warmtenet.  Daarbij  zijn  verschillende  warmtebronnen  mogelijk  zoals 
+zonthermie,  restwarmte  of  geothermie.  In  deze  drie  gebieden  zal  in  afstemming  met  inwoners  en  daar 
+gevestigde  ondernemers  worden  gestart  met  haalbaarheidsonderzoeken.  Blijkt  het  haalbaar  om  de 
+overstap te maken, dan zal er vanaf 2022 gestart worden met concrete uitwerking tot een uitvoeringsplan. 
+In dat geval zal rond 2030 de overstap plaatsvinden naar een alternatief voor aardgas.  
+ 
+Er is een hoge potentie voor de productie van biogas in Deurne. Dit biogas kan worden ‘opgewaardeerd’ 
+naar groen gas. Er zal de komende jaren verder worden onderzocht en uitgewerkt of het haalbaar is deze 
+potentie  te  benutten.  De  buurten  waarvoor  groen  gas  interessant  is,  zullen  daarom  als  tweede  aan  de 
+beurt zijn voor haalbaarheidsonderzoeken (periode 2025-2040).  
+ 
+Voor de gebieden waar gebouweigenaren op individuele basis aan de slag gaan, verwachten we dat ieder 
+voor zich een natuurlijk tempo kiest om de overstap te maken (bijvoorbeeld bij verhuizing of verbouwing). 
+De  woningbouwvereniging  hanteert  momenteel  ook  al  dit  natuurlijke  tempo.  We  zullen  inwoners  en 
+ondernemers ondersteunen om deze stap op een passend moment te kunnen maken. Voor de gebieden 
+aan  de  rand  van  dorpskern  Deurne  en  in  Liessel  en  Helenaveen  zijn  kansen  om  als  klein-collectief  de 
+overstap te maken. Daarvoor is op dit moment geen concrete aanleiding. Daarom verwachten we dat deze 
+gebieden als laatste overstappen. 
+ 
+Hoe gaan we nu verder? 
+Om  de  ambitieuze  plannen  in  deze  Transitievisie  Warmte  mogelijk  te  maken  zetten  we  een 
+uitvoeringsprogramma op. In dit programma is aandacht voor de verschillende onderwerpen die nodig 
+zijn  om  de  warmtetransitie  te  laten  slagen.  Het  is  een  programma  met  aandacht  voor  de 
+verkenningsbuurten en voor de warmtetransitie in de gemeente als geheel.  
+
+ 
+In  de  verkenningsbuurten  gaan  we  samen  met  inwoners  en 
+ondernemers aan de slag om te kijken welke oplossing passend 
+is  voor  de  buurt.  Als  er  een  technisch  haalbaar  en  betaalbaar 
+plan  ligt  waar  de  buurt  mee  aan  de  slag  wil,  worden  zaken 
+vastgelegd in buurt uitvoeringsplannen.  
+ 
+
+Gemeentebreed  zetten  we  in  om  zo  snel  mogelijk  alle  gebouwen  te  isoleren.    We  gaan  hierover  via 
+meerdere kanalen informatie  delen. Ook voor koplopers, die al snel hun huis van  het aardgas af willen 
+halen, maken we informatie beschikbaar. Wij, gemeente Deurne, zijn momenteel de regisseur van deze 
+warmtetransitie en faciliteren alle betrokkenen daar waar mogelijk.  
+ 
+Wethouder duurzaamheid: “De warmtetransitie is één van de grootste opgaven waar we als gemeente 
+voor aan het stuur staan. Die regie is vanuit het nationale klimaatakkoord aan gemeenten toegewezen. 
+Deze rol nemen wij in deze fase ook graag op ons. Echter, de uitvoering (programmaonderdelen) van de 
+warmtetransitie is een opgave voor iedereen. Waarbij de gemeente faciliteert en bijstuurt indien nodig. Ik 
+zie, zoals de gehele energietransitie, een opgave van en voor iedereen. Met ieder zijn/haar rol en een 
+goede samenwerking tussen lokale partijen, inwoners en ondernemers. Alleen op deze manier zal de 
+transitie succesvol zijn.” 
+
+ 
+
+TVW gemeente Deurne 
+
+6 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Inleiding 
+ 
+In Nederland gaan we stoppen met het gebruik van aardgas. Tussen nu en 2050 vervangen we het 
+aardgas in de gebouwde omgeving door duurzame warmte, buurt voor buurt. Samen met inwoners, 
+bedrijven  en  maatschappelijke  partners  zoeken  we  de  beste  oplossingen  voor  een  duurzaam 
+Deurne,  waar  onze  én  volgende  generaties  een  prettige  en  leefbare  toekomst  hebben.  In  deze 
+Transitievisie Warmte  stippelen  we  het  pad  uit  naar  een  duurzame  en  toekomstbestendige 
+warmtevoorziening. 
+
+Waarom een Transitievisie Warmte? 
+Tientallen jaren heeft de aardgasvoorraad in  Groningen Nederland voorzien van een  goedkope manier 
+om  onze  huizen  te  verwarmen,  te  douchen  en  te  koken.  Maar  aardbevingen  dwingen  ons  de 
+aardgaswinning  af  te  bouwen.  De  Nederlandse  regering  wil  niet  afhankelijk  worden  van  Russisch  gas. 
+Daarnaast verandert het klimaat door toename van CO2 en worden de negatieve gevolgen daarvan steeds 
+zichtbaarder. Het is noodzakelijk de CO2-uitstoot terug te dringen. 
+ 
+In 2019 ondertekenden meer dan 100 partijen het landelijke klimaatakkoord. In het klimaatakkoord zijn 
+tientallen maatregelen vastgelegd om klimaatverandering tegen te gaan. De Nederlandse overheid wil de 
+uitstoot van broeikasgassen in Nederland in 2030 met 49% terugdringen ten opzichte van 1990. In 2050 
+moet de CO2-uitstoot met 95% verminderd zijn. Dit vraagt ingrijpende veranderingen in allerlei sectoren: 
+industrie, landbouw, mobiliteit, de productie van elektriciteit en de wijze waarop we gebouwen verwarmen. 
+Om de klimaatdoelen te behalen moeten we uiterlijk in 2050 afscheid nemen van fossiele brandstoffen en 
+dus ook van het gebruik van aardgas  voor koken, verwarming en warm water. In het klimaatakkoord is 
+bepaald dat elke gemeente uiterlijk in 2021 een plan maakt voor de gebouwde omgeving. Hoe maken 
+woningen  en  bedrijfspanden  de  overstap  van  aardgas  op  andere,  duurzame  warmtebronnen?  Dat  plan 
+presenteren we in deze Transitievisie Warmte. Voor de uitvoering van de transitie hebben we tot 2050 de 
+tijd.  
+ 
+Gemeente Deurne maakt in deze Transitievisie Warmte een eerste stap richting een aardgasvrij verwarmde 
+gebouwde omgeving. De gemeente wil geen koploper zijn, maar wél tijdig beginnen met onderzoek naar 
+haalbare  en  betaalbare  alternatieven  voor  aardgas.  Om  de  overstap  naar  een  alternatief  voor  aardgas 
+mogelijk te maken, wordt op dit moment veel kennis ontwikkeld. Door niet voorop te lopen kunnen we 
+leren van de ervaringen die nu worden opgedaan. We willen inwoners van onze gemeente de tijd geven 
+om  de  best  passende  (individuele)  keuzes  te  maken3.  Vermindering  van  het  energiegebruik  door 
+gebouwen te isoleren, is daarbij een speerpunt. Er wordt al hard gewerkt aan het isoleren van huizen. De 
+reductie  in  energiegebruik  (en  de  daling  van  de  energierekening  die  dit  oplevert)  en  het  meer 
+comfortabele binnenklimaat zijn redenen dat veel inwoners hier al mee bezig zijn4.  
+
+Doel van dit plan 
+Deze Transitievisie Warmte geeft een doorkijk naar wat er in de gemeente gaat gebeuren de komende 
+dertig jaar om de gebouwde omgeving aardgasvrij te verwarmen. Er zijn nog geen definitieve besluiten 
+genomen, maar er is wel inzicht in interessante alternatieven voor aardgas  per buurt. Dit geeft houvast 
+voor het maken van keuzes. We schetsen in welke periode welke buurt van het aardgas af zal gaan. Voor 
+de buurten waar we vóór 2030 aan de slag gaan, geven we ook aan welk alternatief voor aardgas mogelijk 
+kan worden ingezet. Voor de andere buurten geven we aan welke opties het meest waarschijnlijk lijken.  
+
+ 
+
+3 In de zomer van 2020 is een enquête over de Transitievisie Warmte uitgevoerd onder inwoners en ondernemers. Bijna 
+
+de helft van de respondenten uit de enquête geeft aan de voorkeur te hebben voor een individueel alternatief voor 
+
+aardgas in tegenstelling tot een collectieve oplossing.  
+4 Uit de enquête onder inwoners, uitgevoerd in zomer 2020 blijkt dat van de 100 respondenten al meer dan 70% het 
+
+huis geïsoleerd heeft en dubbel glas heeft aangebracht.  
+
+ 
+
+TVW gemeente Deurne 
+
+7 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Wie zijn er betrokken? 
+Deze  Transitievisie  Warmte  is  opgesteld  door  de  gemeente  samen  met  woningbouwvereniging 
+Bergopwaarts,  energiecoöperatie  Energyport  Peelland  en  netbeheerder  Enexis.  Woningeigenaren, 
+huurders en ondernemers zijn ook betrokken. Er is een enquête verspreid in de gemeente en er zijn twee 
+inwonersavonden georganiseerd. Zo hebben de verschillende betrokkenen de Transitievisie Warmte mede 
+vormgegeven (zie meer informatie in bijlage A). Wij streven ernaar om de warmtetransitie zoveel mogelijk 
+samen met inwoners en bedrijven uit te voeren. De initiatieven die vanuit hen gestart worden, faciliteren 
+we graag.  
+
+Samenhang met andere trajecten 
+De  Transitievisie  Warmte    is  een  bouwsteen  voor  de  Omgevingsvisie  (in  voorbereiding).  De  doelen  en 
+ambities  uit  de  Transitievisie  Warmte  worden  hierin  verwerkt.  De  verdere  uitwerkingen  komen  in  een 
+(omgevings)programma  met  buurtuitvoeringsplannen  en  worden  (waar  nodig)  via  juridische  regels 
+geborgd in het omgevingsplan. We kijken verder dan de gemeentegrenzen. De puzzel van warmte-opwek, 
+-opslag  en  -gebruik  maken  we  samen  met  andere  gemeenten  in  de  regio.  We  werken  toe  naar  de 
+Regionale  Structuur  Warmte,  als  onderdeel  van  de  Regionale  Energiestrategie  van  de  Metropoolregio 
+Eindhoven. De RES kan dus als startpunt gebruikt worden voor de TVW en de TVW levert input voor de 
+RES.  
+
+Hoe gaat het hierna verder? 
+Deze  transitievisie  geeft  een  beeld  van  wat  er  in  de  gemeente  gaat  gebeuren  de  komende  dertig  jaar. 
+Inwoners  weten  daardoor  waar  ze  aan  toe  zijn,  en  kunnen  beslissingen  over  hun  woning  hierop 
+afstemmen.  De  transitievisie  vormt  de  start  van  een  proces  om  de  gemeente  Deurne  buurt  voor  buurt 
+aardgasvrij te maken. We selecteren in deze transitievisie een aantal ‘verkenningsbuurten’, die kansrijk zijn 
+om  als  eerste  van  het  aardgas  af  te  gaan  (voor  2030).  Voor  deze  buurten  worden  vervolgens 
+‘buurtuitvoeringsplannen’ gemaakt (zie  Figuur 2). Deze uitvoeringsplannen maken we in samenwerking 
+met inwoners en andere betrokkenen – hiervoor volgt per buurt een participatietraject.  
+ 
+Het besluit om daadwerkelijk over te stappen naar een duurzame warmtevoorziening wordt pas genomen 
+als bekend is wat de consequenties zijn voor de woonlasten van inwoners en ondernemers in deze wijken 
+en er een gedegen haalbaarheidsstudie is afgerond. Als het aardgas in een buurt wordt afgesloten, krijgen 
+inwoners dat ruim van tevoren (circa 8 jaar) te horen5. Ook hecht de gemeente aan breed draagvlak. Het 
+spreekt  dan  ook  voor  zich  dat  inwoners  goed  geïnformeerd-  en  nauw  betrokken  worden  bij  de 
+buurtuitvoeringsplannen. In hoofdstuk 6 wordt uitgebreider ingegaan op de vervolgstappen. 
+ 
+
+Figuur 2: Na de Transitievisie Warmte (TVW) volgen haalbaarheidsstudies en buurtuitvoeringsplannen. De 
+Transitievisie Warmte wordt iedere 5 jaar geüpdatet.  
+ 
+Het  Transitieprogramma  zal  eens  in  de  vijf  jaar  bijgesteld  worden  en  in  de  loop  van  de  tijd  steeds 
+nauwkeuriger beschrijven welke warmteoplossingen het beste passen in elke buurt. 
+
+ 
+
+5 De termijn van 8 jaar is voorlopig in het klimaatakkoord opgenomen en zal uiterlijk 2022 worden geëvalueerd. Dan 
+
+wordt definitief vastgesteld wat een goede termijn is. 
+
+ 
+
+ 
+
+TVW gemeente Deurne 
+
+8 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1. Wat is de impact?  
+
+ 
+Het  omschakelen  van  verwarming  met  aardgas  naar  verwarming  met  een  alternatieve  bron  is 
+complex. Het heeft impact op mensen en gebouwen. In dit hoofdstuk omschrijven we in het kort 
+de impact die we verwachten. 
+ 
+Bijna alle huizen in de gemeente gebruiken aardgas. Het wordt gebruikt om het huis te verwarmen (via cv 
+en radiatoren), om te koken, en voor warm water uit de kraan. Ook de meeste bedrijven gebruiken aardgas. 
+Soms  alleen  voor  verwarming,  soms  ook  in  het  bedrijfsproces.  De  belangrijkste  aanpassingen  die  in 
+woningen  en  andere  gebouwen  nodig  zijn  om  over  te  stappen  op  een  duurzame  warmtebron,  zijn 
+hieronder kort toegelicht. 
+
+Wat zijn alternatieven voor koken op een gaspit? 
+Koken  kan  met  een  inductieplaat,  elektrische  kookplaat  of  keramische  kookplaat.  De  meeste  mensen 
+kiezen voor inductie. Dat verbruikt minder stroom dan andere elektrische kookplaten, en het lijkt op koken 
+op gas: je kunt de temperatuur snel regelen.  
+
+Mogelijkheden voor verwarming en warm water 
+De oplossingen die er zijn in plaats van aardgas, zijn in te delen in drie groepen: 
+ 
+
+• 
+
+Individuele  oplossing:  een  oplossing  per  woning,  gebouw  of  woonblok.  Bijvoorbeeld  een 
+warmtepomp of infraroodpanelen of incidenteel een biopropaantank of pelletkachel. 
+
+•  Warmtenet:  dit  is  een  collectieve  oplossing  voor  de  hele  buurt.  Warm  water  stroomt  door 
+
+leidingen onder de grond naar de huizen. 
+
+•  Duurzaam gas: we stappen over op een ander type gas, zoals groen gas of waterstof.  
+
+ 
+Het  hangt  onder  andere  van  het  type  woning  en  type  buurt  af,  welke  oplossing  het  meest  geschikt  is. 
+Welke  aanpassingen  nodig  zijn  in  de  woning  verschilt  per  oplossing.  In  Figuur  3  is  dit  schematisch 
+weergegeven.  In  hoofdstuk  4  en  5  komt  aan  bod  welke  oplossing  het  beste  past  bij  de  verschillende 
+buurten in gemeente Deurne.  
+ 
+Isolatie en andere aanpassingen aan de woning zijn vaak noodzakelijk om de woning met het alternatief 
+voor aardgas comfortabel te verwarmen. Detailinformatie over de aanpassingen die nodig zijn in huizen 
+komen  verder  niet  aan  bod  in  deze  transitievisie.  Wanneer  tijdens  de  uitvoeringsplannen  vast  komt  te 
+staan  welke  techniek  gekozen  wordt,  kan  een  goede  inschatting  worden  gemaakt  van  de  benodigde 
+aanpassingen en kosten. 
+ 
+
+ 
+
+TVW gemeente Deurne 
+
+9 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figuur 3 Overzicht van de alternatieve warmtebronnen en benodigde aanpassingen in huizen. Afhankelijk 
+van de gekozen warmtebron zijn er andere aanpassingen aan huizen en bedrijfspanden nodig. Bij inzet 
+van individuele biopropaangastanks en pelletkachels gelden de aanpassingen zoals bij duurzaam gas.   
+
+ 
+
+ 
+
+TVW gemeente Deurne 
+
+10 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2. Hoe maken we keuzes? 
+
+ 
+We hebben ons samen met vele partijen in Nederland tot doel gesteld om in 2050 een betaalbare, 
+betrouwbare  en  duurzame  warmtevoorziening  te  hebben  zonder  aardgas.  Dit  betekent  dat  we 
+keuzes  moeten  maken.  Waar  gaan  we  starten  en  waarom?  Voor  welke  alternatieve 
+warmteoplossing kiezen we? Om deze beslissingen weloverwogen te maken, benoemen we in deze 
+Transitievisie Warmte een aantal belangrijke uitgangspunten.  
+ 
+Wij, Gemeente Deurne, zijn regisseur van de warmtetransitie.  In Figuur 4 is te zien dat de Transitievisie 
+Warmte in 2021 wordt vastgesteld door de gemeenteraad. In de Transitievisie Warmte worden een aantal 
+verkenningsbuurten  benoemd.  Vanaf  2021  toetst  de  gemeente  de  haalbaarheid  voor  deze 
+verkenningsbuurten. Blijkt daaruit dat het haalbaar is om voor 2030 een aardgasvrije warmtevoorziening 
+te realiseren, dan wordt het besluit genomen de buurt definitief als startbuurt aan te wijzen. We nemen 
+tijdens het opstellen van de Transitievisie Warmte en de uitvoeringsplannen  zorgvuldig en gezamenlijk 
+besluiten, en zijn open over de afwegingen die we maken. Daarom zijn er uitgangspunten geformuleerd 
+om deze keuzes in de warmtetransitie op te baseren. Er zijn drie soorten uitgangspunten: 
+ 
+1.  Algemene uitgangspunten voor de warmtetransitie, die het hele proces leidend zijn; 
+2.  Uitgangspunten voor het bepalen van de verkenningsbuurten; 
+3.  Uitgangspunten voor het kiezen van aardgasvrije technieken.  
+ 
+
+ 
+
+Figuur 4 In de Transitievisie Warmte presenteert de gemeente haar visie op een aardgasvrije gemeente. 
+Later volgt per buurt een uitvoeringsplan. De uitgangspunten die we in de transitievisie bepalen, zijn 
+steeds de basis waarop we besluiten baseren. 
+ 
+Inwoners maken definitief een keuze tijdens het opstellen van het uitvoeringsplan voor hun buurt. Het is 
+voor individuele inwoners niet verplicht om aan te sluiten bij de keuze die in het uitvoeringsplan voor hun 
+buurt  wordt  gemaakt.  In  de  uitgangspunten  waarop  de  uitvoeringsplannen  zijn  gebaseerd  zijn  de 
+belangen van inwoners sterk  meegewogen, dus het is wel  waarschijnlijk dat het plan  voor inwoners de 
+best passende optie aanlevert.  
+ 
+
+2.1 Algemene uitgangspunten 
+Elke  buurt  is  anders,  met  een  andere  samenstelling  van  inwoners,  gebouwen,  omgeving  en 
+warmtebronnen.  De  benadering  per  buurt  zal  dus  op  maat  zijn.  Toch  streven  we  in  de  hele  gemeente 
+hetzelfde doel na. We willen een betaalbare, betrouwbare, veilige en duurzame energievoorziening. En we 
+willen  overal  zorgvuldig  omgaan  met  de  belangen  van  inwoners,  ondernemers  en  maatschappelijke 
+organisaties.  We  hebben  daarom  een  aantal  uitgangspunten  benoemd  die  gedurende  het  hele  proces 
+centraal zullen staan: 
+ 
+
+• 
+
+Iedereen moet mee kunnen in de warmtetransitie. In gemeente Deurne vinden we het belangrijk 
+dat iedereen zowel in het proces mee kan als ook qua financiële draagkracht. Dat betekent dat er is 
+bij  het  kiezen  van  een  alternatief  dat  het  best  past  bij  de  individuele  situatie  van  inwoners  en 
+
+ 
+
+TVW gemeente Deurne 
+
+11 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+bedrijven en dat er voldoende informatie beschikbaar is over de mogelijkheden. Dit betekent ook 
+dat de overstap betaalbaar moet zijn eventueel met behulp van subsidies en/of omgevingsfondsen. 
+Hoe de financiering per individu er uit komt te zien is in deze fase niet te zeggen. Verder onderzoek 
+naar financiële haalbaarheid is nodig. 
+
+•  We  streven  naar  de  laagste  totale  kosten  voor  de  warmteoplossing6  en  daarmee  ook  de  laagste 
+
+kosten voor inwoners en bedrijven7. 
+
+•  We  spelen 
+
+in  op 
+
+logische  momenten 
+
+in  buurten  die  kostenverlagend  werken,  zoals 
+vervangingsmomenten  van  de  (aard)gasleidingen,  onderhoudsplannen  aan  gebouwen,  of 
+grootschalige werkzaamheden in de openbare ruimte. 
+Energiebesparing is belangrijk om de vraag naar (primaire) energie in 2050 te beperken en de CO2-
+uitstoot te minimaliseren. 
+
+• 
+
+•  We hechten veel belang aan een zorgvuldig proces dat inclusief en transparant is (met duidelijke, 
+eerlijke  en  begrijpelijke  informatie).  We  zien  dit  als  randvoorwaarde  om  wederzijds  begrip  en 
+helderheid te scheppen en de belangen van  inwoners en bedrijven in gemeente Deurne goed te 
+dienen.  Uit  de  enquête  die  onder  inwoners  is  gehouden,  blijkt  ook  dit  belang  voor  goede 
+informatievoorziening.   
+
+•  Naast  energie  en  klimaat  is  er  ook  aandacht  voor  bredere  milieu-impact  en  de  volksgezondheid 
+
+(zoals een gezond binnenklimaat) en milieuvriendelijke oplossingen8. 
+
+•  We staan open voor de komst van nieuwe technologieën. 
+
+ 
+Toekomstig beleid en de toekomstige plannen voor de warmtetransitie zullen we steeds toetsen aan deze 
+uitgangspunten. 
+ 
+
+clusters 
+
+aangewezen: 
+
+“verkenningsbuurten” 
+
+Transitievisie  Warmte  worden 
+
+2.2 Selectiecriteria verkenningsbuurten 
+ 
+In  deze 
+van 
+huizen/bedrijfspanden waar de gemeente kansen ziet om voor 2030 geheel of gedeeltelijk van het aardgas 
+af  te  gaan.  In  de  buurten  die  als  verkenningsbuurt  zijn  aangewezen,  onderzoeken  we  vervolgens  de 
+haalbaarheid. Daarna wordt definitief bepaald welke “startbuurten” voor 2030 van het aardgas af gaan. 
+ 
+Om de verkenningsbuurten te selecteren zijn de onderstaande criteria opgesteld:  
+ 
+Collectieve  systemen:  We  beginnen  in  buurten  waar  collectieve  oplossingen  (warmtenetten)  voor  de 
+hand  liggen.  Overschakelen  op  een  collectief  systeem  is  minder  ingrijpend  voor  woningeigenaren  dan 
+overschakelen op een individuele oplossing. In buurten waar voor elke woning een individuele oplossing 
+komt, zoals een warmtepomp, geven we woningeigenaren meer de tijd om hun woning aan te passen. 
+ 
+Laaghangend  fruit:  Buurten  die  in  de  nabijheid  liggen  van  een  bestaande  warmtebron  (water,  RWZI, 
+riolering) die makkelijk is te ontsluiten, kunnen makkelijker aardgasvrij worden. Door deze gebieden eerst 
+op te pakken kunnen we meer aandacht besteden aan het participatieproces en is er minder inspanning 
+nodig voor de relatief makkelijke weg naar de techniek.  
+ 
+Percentage corporatiebezit:  Hoe meer corporatiebezit, hoe geschikter de  buurt is om mee te starten. 
+Het achterliggende idee is dat corporatiewoningen kunnen fungeren als ‘startmotor’ voor veranderingen 
+in de buurt, zoals bijvoorbeeld bij isolatieprojecten. 
+ 
+
+ 
+
+6  Om  precies  te  zijn  streven  we  de  laagste  “nationale  kosten”  na.  Nationale  kosten  zijn  de  totale  kosten  van  alle 
+
+maatregelen die nodig zijn voor een warmteoplossing, ongeacht wie die kosten betaalt. Het is inclusief de kosten en 
+
+baten van energiebesparing en alle kosten en investeringen voor de opwek en distributie van stroom en warmte, maar 
+
+exclusief belastingen, heffingen en subsidies. 
+7 Uit een enquête onder inwoners (103 reacties) blijkt dat de helft van hen alleen wil overstappen op een alternatief 
+
+voor aardgas als de kosten gelijk blijven. Nog eens een kwart wil eventueel wel kosten maken, als het in de toekomst 
+
+weer voordeliger wordt.  
+8 Het 54punten plan van Urgenda geeft o.a. aan hoe breed kan worden ingezet om impact te maken.  
+
+ 
+
+TVW gemeente Deurne 
+
+12 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Combinatie  met  andere  werkzaamheden:  Bijvoorbeeld  de  planning  van  woningbouwcorporaties  of 
+werkzaamheden  aan  de  openbare  ruimte,  kunnen  een  aanleiding  zijn  om  direct  ook  de  energie-
+infrastructuur in een buurt aan te pakken. Een ander soort koppelkans is de sociale ontwikkeling van een 
+buurt waarin de gemeente bijvoorbeeld graag de sociale cohesie of veiligheid bijvoorbeeld wil verbeteren. 
+ 
+Initiatief/interesse inwoners of vastgoedeigenaren: buurten waar inwoners en/of vastgoedeigenaren 
+het voortouw nemen om aardgasvrij te worden (of open  staan voor een collectieve oplossing), kunnen 
+mogelijk vooroplopen. De gemeente ondersteunt dergelijke initiatieven graag.  
+ 
+Eenvoud aanpak: Voor buurten met veel dezelfde woningen is het makkelijker een aanpak op te stellen. 
+Hetzelfde geldt voor uniforme bedrijfsterreinen met gelijksoortige gebouwen.  
+ 
+Schaalbaarheid:  Buurten  waarvan  de  aanpak  uitgerold  kan  worden  in  andere  buurten  hebben  de 
+voorkeur. Dit om het leereffect in de rest van de gemeente te benutten. 
+ 
+
+2.3 Criteria aardgasvrije technieken 
+ 
+In de Transitievisie Warmte geven we per buurt aan welke aardgasvrije techniek de voorkeur heeft. Tijdens 
+het opstellen van het buurtuitvoeringsplan bekijken we de haalbaarheid van deze techniek in meer detail. 
+We  maken  de  keuze  voor  een  techniek  op  grond  van  de  criteria  in  Figuur  5.  Deze  worden  in  bijlage  A 
+verder toegelicht.  
+ 
+In de meeste gevallen zal gelden dat de meest betaalbare techniek gekozen zal worden. Als er 2 technieken 
+voor ongeveer dezelfde prijs beschikbaar zijn, kan verder worden gekeken naar impact qua duurzaamheid 
+en  milieu,  sociale  aspecten  als  overlast  en  technologische  kwaliteit.    Basisuitgangspunten  zoals  eerder 
+genoemd,  blijven  dat  er  een  betaalbare,  betrouwbaar  &  veilige  en  duurzame  warmtebron  gekozen  zal 
+worden.  
+ 
+
+ 
+Figuur 5 Criteria waaraan een techniek wordt getoetst om te kijken of deze geschikt is om toe te passen 
+in een bepaalde buurt.  
+ 
+ 
+ 
+ 
+
+ 
+
+TVW gemeente Deurne 
+
+13 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3. Warmtevraag en warmtebronnen 
+
+ 
+In  dit  hoofdstuk  beschrijven  we  de  warmtevraag  van  de  gebouwde  omgeving,  bestaande  uit 
+woningen en bedrijfspanden. Daarbij kijken we naar de hoeveelheid warmte die in een gebied nodig 
+is en  de temperatuur  van de warmte die wordt gevraagd. Ook  geven  we een  inschatting van  de 
+toekomstige  warmtevraag.  Daarna  kijken  we  naar  het  potentiële  aanbod  van  duurzame 
+warmtebronnen in Deurne9.  
+ 
+Vrijwel alle huizen en utiliteitsgebouwen in gemeente Deurne gebruiken aardgas voor verwarming, warm 
+water  en  koken.  Voor  het  verwarmen  van  gebouwen  staat  een  cv-ketel  daarbij  vaak  ingesteld  op  een 
+temperatuur van 80  ͦC10. Door woningen te isoleren kan de benodigde temperatuur van de warmte naar 
+beneden  worden  bijgesteld.  Hierdoor  wordt  minder  aardgas  verbruikt.  Ook  betekent  dit  dat  we  een 
+warmtebron met een temperatuur lager dan 80  ͦC kunnen inzetten om de huizen te verwarmen. Isolatie 
+is daarom een belangrijke eerste stap voor alle woningen in onze gemeente. Dat is niet alleen goed voor 
+het milieu, het verlaagt ook de energierekening, en verbetert het comfort in de woning. In dit hoofdstuk 
+beschrijven we eerst de gebouwen in de gemeente, hun huidige warmtevraag en het gasverbruik daarbij. 
+Daarna kijken we hoe ver we dit kunnen verlagen door rendabel te isoleren. Door de warmtevraag op een 
+kaart van de gemeente in beeld te brengen, zien we welke temperatuur warmte per cluster van woningen 
+nodig is. In het 2e deel van dit hoofdstuk beschrijven we de warmtebronnen die we gevonden hebben in 
+de gemeente.  
+ 
+
+3.1 Warmtevraag 
+ 
+Huidig gasverbruik woningen en bedrijven  
+In gemeente Deurne staan in totaal 13.644 woningen11 en 3.205 bedrijfspanden12. Woningbouwcorporatie 
+Bergopwaarts  heeft  een  aanzienlijk  deel  (25%)  van  de  woningen  in  de  gemeente  in  bezit13.  De  totale 
+warmtevraag in Deurne varieerde de afgelopen jaren tussen 1200 en 1600 TJ per jaar14. Het grootste deel 
+hiervan  werd  uit  aardgas  gehaald  en  een  klein  deel  uit  hernieuwbare  bronnen.  In  deze  Transitievisie 
+Warmte baseren we ons op een aardgasverbruik van 1284 TJ zoals genoemd in de klimaatmonitor. Iets 
+meer dan de helft van het gasgebruik (674 TJ) werd gebruikt in de ruim 14.000 woningen in Deurne, de 
+rest (610 TJ) ging naar bedrijven en industrie.  
+ 
+Het overgrote deel van de woningen en de bedrijven is aangesloten op het aardgasnet. Verhoudingsgewijs 
+wordt  er  aanzienlijk  meer  energie  uit  aardgas  gebruikt  dan  uit  elektriciteit  (zie  Figuur  6Fout! 
+Verwijzingsbron niet gevonden.). Het stoppen met aardgas is daarom cruciaal in de energietransitie. In 
+woningen  wordt  het  aardgas  hoofdzakelijk  gebruikt  voor  verwarming  (75%),  een  kleiner  deel  wordt 
+gebruikt voor warm water (20%) en 5% van het gas wordt gebruikt om te koken.  
+ 
+Voor alle nieuwbouwwoningen die op of na 1 juli 2018  zijn ingediend voor een omgevingsvergunning, 
+geldt dat deze aardgasvrij gebouwd moeten worden. Voor de komende 15 jaar is de verwachting dat 1500 
+nieuwbouwwoningen  aardgasvrij  worden  opgeleverd.  College  van  B&W  gaat  in  Deurne  geen  gebruik 
+maken van de uitzonderingen op deze regel.  
+
+ 
+
+9  Gegevens over de gebouwde omgeving zijn grotendeels afkomstig uit openbare data en deels uit kengetallen van 
+
+De WarmteTransitieMakers. De Startanalyse van het Planbureau voor de Leefomgeving is gebruikt om inzicht te krijgen 
+
+in de nationale kosten voor verschillende technieken voor de buurten van Deurne. 
+10 Bron: Milieu Centraal 
+11 bron: CBS statline - totale woningvoorraad 1 januari 2018 
+12 Bron: bedrijfsvestigingen 2018 CBS - allecijfers.nl  
+13 Bron: CBS, 2019 
+14 Studie Backhoom, CBS data, en de klimaatmonitor. We baseren ons verder op in dit document op de berekeningen 
+
+zoals  gedaan  in  de  klimaatmonitor.  Voor  2018  geeft  deze  een  aardgasverbruik  van  1392  TJ  (waarvan  108TJ 
+
+hernieuwbaar).  
+
+ 
+
+TVW gemeente Deurne 
+
+14 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Figuur 6 Totaal energieverbruik in Deurne onderverdeeld in aardgasverbruik en elektriciteitsverbruik15. 
+ 
+Bij bedrijven hangt het aardgasverbruik sterk af van het type bedrijf. In sommige bedrijven wordt aardgas 
+niet  alleen  gebruikt  voor  verwarmen,  maar  ook  in  het  bedrijfsproces.  Daarnaast  wordt  aardgas  in  de 
+glastuinbouw gebruikt voor zowel de productie van warmte als de productie van elektriciteit. Dit gebeurt 
+dan met een Warmtekracht Koppeling (WKK) installatie.  
+ 
+Alles  wat  valt  onder  industrie,  energie,  afval  en  water,  is  buiten  de  scope  van  de  Transitievisie 
+Warmte. Dit geldt ook voor glastuinbouw en alles dat valt onder landbouw, bosbouw en visserij. 
+Met name de maakindustrie, waar aardgas gebruikt wordt voor bedrijfsprocessen, vraagt om individueel 
+maatwerk. Eventuele restwarmte van de industrie wordt wel meegenomen in de warmtebronnen analyse.  
+ 
+Verlagen energiegebruik per bouwperiode 
+Het merendeel van de woningen in gemeente Deurne is gebouwd in de periode 1941-1974. Zo zijn grote 
+delen van de buurten Deurne-Centrum, Koolhof en Walsberg gebouwd in deze periode. Ook zijn er, met 
+name in het centrum, nog vooroorlogse panden. In Figuur 7Fout! Verwijzingsbron niet gevonden. zijn 
+de  bouwjaren  van  de  woningen  en  de  utiliteitsobjecten  (inclusief  industrie)  in  gemeente  Deurne 
+weergegeven. In bijlage C is een kaart te vinden met de bouwjaren van alle panden in de gemeente. 
+
+ 
+Figuur 7 Links: het aantal utiliteitspanden in gemeente Deurne, onderverdeeld naar bouwperiode. Midden: 
+dezelfde onderverdeling voor woningen16. Rechts: Energielabels van de woningen in Deurne. 
+ 
+Sinds 2015 heeft vrijwel elk pand in Nederland een energielabel. Het energielabel zegt iets over de isolatie 
+en de warmtevraag van het pand. Label A staat voor een goed geïsoleerde woning, label G is voor slecht 
+geïsoleerde woningen. In Figuur 7 rechts is de verdeling van energielabels van de woningen in gemeente 
+
+ 
+
+15 Klimaatmonitor 
+16 De bouwjaren en energielabel analyse is gebaseerd op BAG data uit juni 2020. Alle woningen met een woonfunctie 
+
+zijn meegerekend als woning. De overige verblijfsobjecten zijn geteld als utiliteit. Er zijn verblijfsobjecten die zowel een 
+
+bedrijfsvestiging zijn als een woning, waardoor de getallen afwijken van het aantal woningen en aantal bedrijven zoals 
+
+door het CBS geregistreerd. 
+
+ 
+
+TVW gemeente Deurne 
+
+15 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Deurne te zien.17 Over het algemeen geldt: hoe ouder de woning, hoe slechter het energielabel. Dus een 
+huis gebouwd vóor 1940 heeft, als het niet is na-geïsoleerd meestal een label F of G.  
+ 
+De verwachting is dat in de komende periode woningeigenaren met isolatiemaatregelen (zie Tabel 1) aan 
+de  slag  gaan  waardoor  de  energielabels  verbeteren  en  de  warmtevraag  lager  wordt.  Isoleren  levert 
+namelijk  een  verlaging  van  de  energiekosten  op  en  zorgt  voor  een  comfortabel  binnenklimaat.  Voor 
+woningcorporaties  en  kantoorpandeigenaren  gelden  strenge  isolatie-eisen:  deze  panden  zullen,  waar 
+nodig, in de komende jaren grondig aangepakt worden om aan hieraan te kunnen voldoen.  
+ 
+
+<1940 
+
+ 
+1941-1964 
+
+ 
+
+ 
+
+1965-1982 
+
+1983-2005 
+
+Slecht geïsoleerde 
+
+Woningen met gemiddeld isolatieniveau 
+
+huizen 
+
+ 
+
+>2005 
+
+ 
+
+Goed geïsoleerde 
+
+huizen 
+
+Energielabel G/F 
+• Gebouwd zonder 
+
+Energielabel E/F 
+• Gebouwd zonder 
+
+Energielabel C/D/E 
+• Gebouwd met dak- 
+
+Energielabel B/C/D 
+• Gebouwd met 
+
+Energielabel B/A 
+• Gebouwd met goede 
+
+isolatie, geen 
+spouwmuur 
+
+• Historisch uiterlijk 
+• Beperkte isolatie 
+
+mogelijk 
+
+goede isolatie, vaak 
+wel met 
+spouwmuur 
+
+en soms 
+gevelisolatie 
+• Rendabel te 
+
+• Nieuwe uitstraling 
+
+isoleren 
+
+soms wenselijk 
+
+• Rendabel te 
+
+isoleren 
+
+redelijke isolatie 
+
+isolatie 
+
+• Jaren ’80 isolatie vaak 
+
+• Lage temperatuur 
+
+kostbaar 
+
+• Jaren’90 gebouwd 
+met dubbel glas en 
+redelijke isolatie 
+
+verwarming vaak al 
+mogelijk 
+
+Maatregelen 
+
+Maatregelen 
+
+Maatregelen 
+
+Maatregelen 
+
+Maatregelen 
+
+• Isolatie van 
+
+binnenuit (dak, 
+gevel, vloer) 
+• Maatwerk bij 
+monumenten 
+
+• Spouwmuurisolatie 
+of vervanging gevel 
+
+• Spouwmuurisolatie 
+of vervanging gevel 
+
+• Op natuurlijke 
+
+• Op natuurlijke 
+
+onderhoudsmomen
+ten dakisolatie 
+
+onderhoudsmomen
+ten dakisolatie 
+
+• HR++ of triple glas, 
+
+• HR++ of triple glas 
+
+• HR++ of triple glas 
+
+• Op natuurlijke 
+
+• Extra isolatie meestal 
+
+moment is isolatie 
+(dak, gevel, vloer) 
+goed mogelijk  
+
+niet zinvol 
+
+• Focus op duurzame 
+
+installaties 
+
+• Bij voldoende isolatie 
+
+focus op duurzame 
+installaties 
+
+monumentenglas 
+of voorzetramen 
+
+Hoge temperatuur 
+
+warmte nodig in 
+
+2050 
+
+Passende 
+
+aardgasvrije 
+technieken 
+
+Biomassa, groen gas, 
+hoge temperatuur 
+warmtenet 
+ 
+
+Midden temperatuur warmte nodig in 2050 
+
+ 
+
+Passende aardgasvrije technieken 
+
+Warmtenetten  op  midden  temperatuur  of  op  lage  temperatuur  en 
+
+aangevuld met booster warmtepomp per huis 
+
+ 
+
+Lage temperatuur 
+warmte nodig in 
+
+2050 
+
+Passende aardgasvrije 
+
+technieken 
+
+Na aanpassing van de 
+radiatoren vrijwel elke 
+
+techniek geschikt 
+
+Tabel 1 Huizen in verschillende bouwperiodes en de benodigde isolatiemaatregelen om deze huizen klaar 
+te maken voor een alternatief voor aardgas. Sommige huizen zullen altijd een hoge temperatuur warmte 
+nodig hebben. Hoe nieuwer een gebouw, hoe lager de benodigde temperatuur om het gebouw 
+comfortabel te verwarmen. Voor de drie warmteprofielen (hoog, midden en laag) zijn passende 
+aardgasvrije technieken benoemt.  
+ 
+Voor Deurne is een analyse gemaakt gebaseerd op de bekende bouwjaren en energielabels van de panden 
+en de rendabele maatregelen zoals omschreven in Tabel 1. Deze analyse, zie bijlage C, laat zien dat er een 
+totale  besparingspotentie  van  circa  24%  is  van  de  warmtevraag  in  bestaande  woningen.  Het 
+
+17 Bron: RVO 
+
+ 
+
+ 
+
+TVW gemeente Deurne 
+
+16 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+besparingspotentieel van bedrijven is geschat op circa 30% (het landelijk gemiddelde). Omdat bedrijven 
+meer  divers  zijn  dan  huizen  (een  kledingwinkel  en  opslagloods  zijn  heel  anders  qua  comforteisen  en 
+bouwstijl), is het besparingspotentieel hiervan moeilijker scherp te krijgen.  
+ 
+De gecombineerde warmtevraag voor bestaande bedrijven en woningen in Deurne zal tussen  de 
+1000  en  1100  TJ/jaar  zijn  in  205018.  Dit  is  dan  ook  de  warmtevraag  waarvoor  passende 
+warmtebronnen moeten worden gevonden. Van de totale warmtevraag is circa 750 TJ afkomstig 
+van de gebouwde omgeving en daarvoor zoeken we dus vóor 2050 alternatieven. 
+ 
+Temperatuurniveau 
+Naast de vraag hoevéel warmte er nodig is per buurt of woning, is ook van belang op welke temperatuur 
+deze warmte beschikbaar moet zijn. Dit noemen we het warmteprofiel. De temperatuur waarop de warmte 
+in de woning verspreid wordt via de radiatoren of vloerverwarming (de zogeheten afgifte-temperatuur) 
+moet passen bij de isolatiegraad van de woningen en het type radiator (en andere installaties). Hoe beter 
+de woning geïsoleerd is, hoe lager de afgifte-temperatuur kan zijn. In Tabel 1Fout! Verwijzingsbron niet 
+gevonden.  ,  derde  regel  van  onder,  zijn  de  warmteprofielen  gedefinieerd  die  de  gewenste 
+afgiftetemperatuur aangeven om woningen comfortabel en efficiënt te verwarmen.  
+ 
+Bij bedrijfspanden hangt de warmtevraag sterk af van de functie van een gebouw. Zo is het vaak niet nodig 
+om een opslagloods tot 20°C te verwarmen. Daarom is het lastig op basis van de energielabels te werken. 
+Voor bedrijfspanden moet meer op individueel niveau gekeken worden welke warmtevoorziening volstaat.  
+ 
+Op dit moment gebruiken bijna alle huizen een cv-ketel met een hoge afgifte-temperatuur: alle huizen 
+zou je daarom een rood warmteprofiel kunnen geven op een gemeenteplattegrond. Wanneer alle huizen 
+in gemeente Deurne de besparingsstap zetten die past bij hun huis (zie Tabel 3 in bijlage C), verbetert hun 
+warmteprofiel. Deze verbeterde warmteprofielen zijn per cluster van huizen op de kaart gezet in Figuur 8. 
+ 
+
+18 Huidige warmtevraag is op basis van het aardgasverbruik en verbruik hernieuwbare bronnen in de Klimaatmonitor.  
+
+Aardgasverbruik: 674 TJ voor woningen en 610 TJ voor utiliteit. Verbruik van hernieuwbare bronnen: 108 TJ. Zie bijlage 
+
+C voor een meer uitgebreide toelichting.  
+
+ 
+
+ 
+
+TVW gemeente Deurne 
+
+17 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figuur 8 Warmteprofielen gemeente Deurne waarbij uitgegaan is van rendabel isoleren. We zien clusters 
+van huizen met eenzelfde warmteprofiel. Het warmteprofiel ‘Midden tot lage temperatuur’ komt het meest 
+voor. In het centrum van Deurne en in Neerkant en Vlierden komen rode clusters voor; hier staan oude 
+woningen die moeilijk te isoleren zijn tot een niveau waar midden tot lage temperaturen voldoen. De 
+groene clusters (vaak nieuwbouw) liggen verspreid over de gemeente. 
+ 
+ 
+ 
+
+ 
+
+ 
+
+TVW gemeente Deurne 
+
+18 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Warmtedichtheid  
+Hoe de warmtevraag over de gemeente verdeeld is, is ook van belang voor de mogelijke alternatieven 
+voor aardgas. Gebieden met een geconcentreerde warmtevraag (veel panden bij elkaar of panden met 
+een  hoge  warmtevraag)  zijn  eerder  geschikt  voor  de  aanleg  van  een  warmtenet.  Bij  een  lage 
+warmtedichtheid liggen individuele oplossingen, zoals een warmtepomp, eerder voor de hand.  
+ 
+Vanaf 1000 GJ/ha en een minimumaantal woningen van ongeveer 200 (afhankelijk van de warmtebron) is 
+de kans op een rendabele business case voor een warmtenet groot. Tussen 500 en 1000 GJ/ha hangt de 
+financiële  haalbaarheid  meer  af  van  de  omstandigheden;  het  type  warmtebron,  de  afstand  tussen  de 
+woningen  en  de  warmtebron  en  de  gewenste  afgiftetemperatuur  zijn  allemaal  factoren  die  invloed 
+hebben.  In  het  centrum  van  dorpskern  Deurne  zou  een  warmtenet  kunnen  worden  ingezet.  De 
+warmtedichtheid in andere delen van gemeente Deurne is te laag voor inzet van een warmtenet zoals te 
+zien is in Figuur 9. In bijlage C is ook een kaart toegevoegd met de warmtevraagdichtheid van de utiliteit 
+in de gemeente. 
+ 
+
+Figuur 9 De verwachte toekomstige warmtedichtheid in gemeente Deurne. De warmtedichtheid is 
+gebaseerd op de warmtevraag die overblijft na besparingsmaatregelen zoals in Fout! Verwijzingsbron 
+niet gevonden..  
+
+ 
+
+ 
+
+TVW gemeente Deurne 
+
+19 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+3.2 Beschikbare warmtebronnen  
+De totale warmtevraag die we verwachten in 2050 is ruim 1000 TJ (zie paragraaf  3.1). In deze paragraaf 
+noemen we welke warmtebronnen in Deurne beschikbaar zijn om in 2050 in de warmtevraag te voorzien. 
+Ook  benoemen  we  kort  wat  deze  technieken  betekenen.  Warmtebronnen  die  (nog)  niet  of  beperkt 
+aanwezig zijn in Deurne, zoals waterstof, zijn toegelicht in bijlage D.  
+ 
+Er zijn meerdere energiebronnen gevonden in gemeente Deurne die kunnen worden ingezet als alternatief 
+voor  aardgas.  Wanneer  we  al  deze  bronnen  bij  elkaar  op  tellen,  is  er  energetisch  ruim  voldoende 
+beschikbaar om de woningen (inclusief nieuwbouw) en bedrijfspanden warm te houden. In onderstaand 
+overzicht is van deze bronnen de ingeschatte potentie weergegeven. In hoeverre de energiebronnen ook 
+echt  ingezet  gaan  worden,  zal  duidelijker  worden  tijdens  haalbaarheidsstudies  die  ná  de  Transitievisie 
+Warmte worden uitgevoerd.  Of een bepaalde bron ingezet wordt, is daarnaast afhankelijk van de lokale 
+geschiktheid én is een keuze van inwoners en betrokken partijen.  
+ 
+Bron  
+
+Bodemenergie 
+ 
+
+  
+ 
+
+  
+
+ 
+
+ 
+
+Aardwarmte 
+ 
+
+ 
+
+ 
+
+Lucht 
+warmtepompen  
+ 
+
+ 
+
+ 
+
+Zonnewarmte 
+ 
+
+Inschatting potentie in TJ per jaar en als % van totale energievraag19 
+Toelichting 
+600-1200TJ/ 50-100% Op een diepte van tussen de 20 en 300 meter kan warmte met 
+een constante, lage temperatuur gewonnen worden (tot 20 ͦC). Hiervoor worden ‘lussen’ 
+in de grond gelegd die deze  warmte opnemen en via een  warmtepomp afgeven aan 
+één  of  enkele  woningen.  Inzet  van  bodemenergie  wordt  vaak  gecombineerd  met 
+warmte-koude opslag (WKO). Warmte die in de winter aan de bodem onttrokken wordt, 
+kan  in  de  zomer  weer  worden  opgeslagen  in  een  WKO  om  de  bodem  in  balans  te 
+houden. Denk aan warmte die vrijkomt bij het koelen van gebouwen. In een groot deel 
+van  Deurne  is  de  inzet  van  bodemenergie  mogelijk.  Een  deel  van  Deurne  heeft  een 
+boringsvrije  zone  vanwege  een  waterwingebied.20  Daar  kan  deze  techniek  niet 
+(zondermeer) ingezet worden. 
+Circa  50  TJ21  /  5%  Aardwarmte  of  geothermie  is  het  winnen  van  de  warmte  van  de 
+aarde, vanaf 500 m tot 1 km (ondiep, tot 50 °C) en van 1 tot 7 km diep (diep/ultradiep, 
+tot  100  °C).  De  potentie  voor  geothermie  is  in  de  conceptversie  van  de  RES  MRE22 
+vastgesteld voor alle gemeentes in deze regio. EBN is momenteel met een onderzoek 
+naar  de  potentie  van  geothermie  bezig,  wat  in  de  loop  van  2021  tot  aanvullende 
+inzichten kan leiden. Het project WARM heeft ook de potentie voor geothermie in kaart 
+gebracht. In dit project is gekeken naar de slagingskans van de inzet van geothermie. 
+In Deurne is de warmtedichtheid relatief laag, waardoor geothermie hier niet naar voren 
+komt als kansrijke om grootschalig in te zetten.23  
+Luchtwarmtepompen  onttrekken  warmte  aan  de  buitenlucht  om  de  woning  te 
+verwarmen, en gebruiken hiervoor elektriciteit. Het is een individuele oplossing, die per 
+woning  of  per  appartementencomplex  toegepast  kan  worden.  De  standaard 
+luchtwarmtepomp  geeft  warmte  op  lage  temperatuur.  Een  woning  moet  dan  goed 
+geïsoleerd  zijn  en  er 
+is  een  passend  warmte-afgiftesysteem  nodig,  zoals 
+vloerverwarming  of  lage  temperatuur-radiatoren.  Er  zijn  ook  midden-  en  hoge 
+temperatuur  warmtepompen  op  de  markt.  Deze  hebben  wel  een  hoger 
+elektriciteitsverbruik. Luchtwarmtepompen zijn op grote schaal inzetbaar in de gehele 
+gemeente. 
+500 TJ/ 50% Warmte uit zonnecollectoren kan in zowel grootschalige als kleinschalige 
+oplossingen ingezet worden. Er kan 60 °C tot 100 °C mee worden geleverd. Er bestaan 
+gecombineerde  panelen  die  zowel  elektriciteit  als  warmte  leveren,  die  worden  PVT-
+
+ 
+
+19 Dit is energievraag inclusief landbouw en industrie omdat voor hen op termijn ook een aardgas alternatief komt. 
+20 Bron: NP RES viewer 
+21 Bronnen: Theoretische potentie  van 400 TJ uit concept RES MRE en analyse de WarmteTransitieMakers: 
+naar het aantal gebouwen waar het kan worden ingezet (beperkt) niet veel meer dan 50 TJ aan warmte 
+vragers (zie volgend hoofdstuk).  
+22 RES MRE staat voor Regionale Energie Strategie van de Metropool Regio Eindhoven 
+23 
+
+https://kennisbank.ebn.nl/wp-content/uploads/2020/09/15.-Detailstudie-potentie-aardwarmte-Metropoolregio-
+
+Eindhoven-WARM2020.pdf 
+
+ 
+
+TVW gemeente Deurne 
+
+20 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+ 
+   
+
+Biogas 
+ 
+
+ 
+
+ 
+
+Biomassa 
+(houtachtig) 
+ 
+
+ 
+
+ 
+
+Riothermie 
+
+ 
+
+Restwarmte 
+bedrijven 
+ 
+
+ 
+
+Aquathermie 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+panelen  genoemd  (fotovoltaïsch-thermisch).  Bij  toepassing  op  daken  worden  de 
+zonthermische  panelen  gecombineerd  met  een  warmtepomp  in  de  woning.  Bij  een 
+veldopstelling wordt de warmte via een warmtenet verspreid. Het maximaal potentieel 
+voor zonnewarmte is ongeveer 10 TJ per hectare in een veldopstelling en ongeveer 2 
+GJ per vierkante meter in een dak opstelling.24 De techniek is nog niet op grote schaal 
+ingezet  voor  het  verwarmen  van  de  gebouwde  omgeving,  maar  gezien  het  grote 
+potentieel  interessant  om  te  onderzoeken.  In  de  conceptversie  van  de  RES  is  een 
+inschatting gegeven voor de bruikbare potentie van zonnevelden in Deurne.25 
+Circa  1200  TJ.26  Biogas  wordt  geproduceerd  door  organisch  materiaal  te  vergisten. 
+Verschillende vormen van biomassa kunnen als grondstof dienen voor het produceren 
+van biogas, waaronder vloeibare mest, GFT-afval en de bio restfractie van akkerbouw 
+en  grasland.  De  potentie  in  Deurne  is  hoog  vanwege  de  grote  reststromen  van  de 
+akkerbouw  en  de  beschikbare  meststromen.  Ondanks  de  mogelijke  krimp  in  de 
+veehouderij  en  akkerbouw  sector,  zal  er  naar  verwachting  voldoende  potentie 
+overblijven. In de rest van Nederland is de beschikbaarheid van biogas vaak beperkt.  
+21  TJ.27/  2%  Deze  biomassa  komt  volledig  uit  productie  van  warmte  met  resthout 
+afkomstig van het grondgebied van Deurne. Biomassa is de verzamelnaam voor diverse 
+soorten  organische  materiaal,  zoals  voedselresten,  snoeihout,  meststromen  en 
+productiebossen. Er zijn vele vormen van biomassa, maar de inzet van biomassa voor 
+het verwarmen van woningen zal naar verwachting gering blijven. Dit heeft te maken 
+met  de  beperkte  beschikbaarheid  van  duurzaam  beschikbare  biomassa  én  de  andere 
+toepassingsmogelijkheden die biomassa heeft. Biomassa kan mee gestookt worden in 
+grote energiecentrales en op kleinere schaal ingezet worden met pelletkachels.  
+14  TJ/  1%28  Riothermie  staat  voor  restwarmte  uit  rioolwaterzuiveringsinstallaties  en 
+rioolgemalen.  In  Deurne  bevindt  zich  een  rioolgemaal  in  het  Noordwesten  van  de 
+woonkern  dat  restwarmte  beschikbaar  heeft.  Deurne.  Deze  restwarmte  kan  via  een 
+warmtenet naar woningen getransporteerd worden.  
+
+63 TJ/ 6% Bij industriële processen blijft soms warmte over, die niet binnen het bedrijf 
+gebruikt kan worden. Afhankelijk van het type bedrijf is dit lage, middelhoge of hoge 
+temperatuur  warmte,  die  door  middel  van  een  warmtenet  ingezet  kan  worden  voor 
+verwarming.  In  Deurne  zijn  geen  bedrijven  aanwezig  met  hogere  temperatuur 
+restwarmte.  Er  is  een  aantal  bedrijven  in  Deurne  dat  in  potentie  lage  temperatuur 
+restwarmte  beschikbaar  heeft,  tussen  de  30  en  45°C.  De  relevante  bedrijven  en  hun 
+restwarmte potentie zijn Bakkerij Vedder B.V. (7 TJ), Jumbo Supermarkten B.V. (8 TJ), 
+Voergroep Zuid B.V. (36 TJ) en Fromatech Ingredients B.V. (12 TJ).29 Supermarkten zijn 
+ook voorbeelden van bedrijven waar restwarmte wellicht ook binnen het bedrijf efficiënt 
+benut  kan  worden.  Op  die  manier  zal  de  warmtevraag  van  de  gebouwde  omgeving 
+omlaag gaan, maar is de restwarmte niet beschikbaar voor naastgelegen woningen of 
+bedrijven. 
+Circa 6 TJ/ 0,6% Uit oppervlaktewater is warmte te winnen met een warmtewisselaar. 
+Deze warmte kan in de bodem worden opgeslagen en in de winter worden gebruikt. 
+Met een (vaak lage temperatuur) warmtenet komt de warmte bij de gebruikers.  
+In  Deurne  ligt  De  Clarinet  (ca.  6  TJ)  dichtbij  de  gebouwde  omgeving  en  is  daarmee 
+kansrijk voor de warmtevoorziening. De Brink (125 TJ) is een grote plas in de buurt van 
+Liessel,  maar  ligt  wel  dermate  ver  weg  van  de  gebouwde  omgeving  dat  de  inzet  van 
+aquathermie hier weinig kansrijk is.30  
+
+ 
+
+24 Bron: Berenschot position paper: Kansen voor zonnewarmte in het hart van de energietransitie 
+25 Bron: Concept RES MRE 
+26 Bron: Warmteatlas 
+27 Bron: Warmteatlas 
+28 Bron: Warmteatlas 
+29 Bron: Warmteatlas 
+30 Bron: STOWA Aquathermie potentiekaart 
+
+ 
+
+TVW gemeente Deurne 
+
+21 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.  Kansrijke  warmtevoorziening  per  buurt  in 
+2050 
+
+ 
+In dit hoofdstuk worden warmtevraag en beschikbare bronnen bij elkaar gebracht. Op basis 
+daarvan, en op basis van uitgangspunten duurzaamheid en milieu-impact, komen we tot de 
+warmtevisie voor 2050. Deze visie geeft aan welke warmtetechnieken het beste passen bij de 
+verschillende buurten van gemeente Deurne. Op basis daarvan kunnen we de komende jaren aan 
+de slag. In gebieden waar we bijvoorbeeld in moeten zetten op individuele all-electric 
+oplossingen kunnen inwoners en bedrijven in hun toekomstplannen vast rekening houden met 
+deze oplossing.  
+ 
+
+4.1 Warmtevisie in beeld 
+We hebben in het vorige hoofdstuk de warmtevraag en de warmtebronnen in kaart gebracht. Daaruit blijkt 
+dat er voldoende bronnen beschikbaar zijn in gemeente Deurne om in de warmtevraag te voorzien.  De 
+warmteprofielen (Figuur 8Fout! Verwijzingsbron niet gevonden.) en de warmtedichtheid (Figuur 9Fout! 
+Verwijzingsbron  niet  gevonden.)  vormen  daarom  samen  de  basis  voor  de  afweging  van  de 
+mogelijkheden  voor  de  warmtevoorziening.  Gebieden  met  een  hoge  warmtedichtheid  en  hoge 
+temperatuur zijn gebaat bij de inzet van een warmtenet en bevinden zich met name in het centrum van 
+Deurne.  De  locaties  waar  relatief  veel  oude  woningen  staan  (hoge  temperatuurvraag),  maar  met  lage 
+warmtedichtheid, zijn de gebieden waar groen gas, indien beschikbaar, als eerste ingezet kan worden. De 
+overige gebieden, zijn geschikt voor individuele of klein-collectieve warmtevoorzieningen. Zie de kaart in 
+Fout! Verwijzingsbron niet gevonden.Figuur 10Fout! Verwijzingsbron niet gevonden..  
+ 
+
+   Individuele oplossingen  
+
+Zoals te zien is, is voor het grootste deel van gemeente Deurne een individuele oplossing het beste. In 
+gebieden met een lagere bebouwingsdichtheid, waar bijvoorbeeld veel vrijstaande huizen of twee-onder-
+één-kap woningen staan, zijn oplossingen per woning het meest aantrekkelijk. Een warmtenet is hier al 
+snel  te  kostbaar  om  aan  te  leggen  omdat  de  huizen  ver  uit  elkaar  liggen.  Als  de  woningen  redelijk 
+geïsoleerd  kunnen  worden 
+(de  groene  en  oranje  warmteprofielen),  zijn  bijvoorbeeld  een 
+luchtwarmtepomp of een bodemwarmtepomp geschikt. Ook klein-collectieve oplossingen zijn hier een 
+optie, zoals een gezamenlijke bodemwarmtepomp voor 3 tot 7 woningen (via een mini-warmtenet). Deze 
+opties lijken voor de hand te liggen in het grootste deel van gemeente Deurne. Voor moeilijk te isoleren 
+huizen  kan  incidenteel  worden  ingezet  op  groen  gastanks  of  pelletkachel  verwarming  (deze  laatste  is 
+minder duurzaam).  
+ 
+
+  Kansrijk voor warmtenet  
+
+In de oranje gebieden is een warmtenet een serieuze optie. In gemeente Deurne is de warmtedichtheid 
+relatief laag. Alleen in de plaats Deurne zijn gebieden met een significant hoge warmtedichtheid, waar een 
+warmtenet  een  kansrijke  optie  is.  Er  zijn  verschillende  bronnen  die  in  dit  warmtenet  kunnen  worden 
+gebruikt. Het oranje gebied heeft een totale warmtevraag van 38,2 TJ. Er is bijvoorbeeld één hectare grond 
+nodig  aan  zonnevelden  om  10  TJ  warmte  te  produceren.  Daarnaast  zijn  er  bakkerij  Vedder  en  Jumbo 
+supermarkt in het centrum die zo’n 15 TJ aan restwarmte produceren. Bronnen binnen éen kilometer van 
+de warmtenetgebieden kunnen rendabel worden ingezet. Restwarmte van Fromatech (12 TJ) en eventueel 
+koppeling met het bedrijventerrein is ook een mogelijkheid. Daar is de warmtedichtheid ook redelijk hoog. 
+Verder zou de inzet van geothermie kunnen worden onderzocht.  
+ 
+
+  Individueel of met warmtenet 
+
+In  de  gebieden  die  oranje-blauw  gearceerd  zijn,  is  nog  onzeker  wat  de  meest  rendabele  oplossing  is: 
+individueel of met een warmtenet. In deze gebieden moet in meer detailonderzoek gedaan worden naar 
+de  besparingsmogelijkheden,  de  beschikbaarheid  van  nabije  warmtebronnen  én  de  kosten  van  het 
+exploiteren  van  de  warmtebronnen.  Wanneer  in  aangrenzende  gebieden  een  warmtenet  gerealiseerd 
+wordt, kan dit een koppelkans zijn om een onzeker gebied ook op dit warmtenet aan te sluiten. 
+
+ 
+
+TVW gemeente Deurne 
+
+22 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Figuur 10 Visie warmtevoorziening gemeente Deurne. Op basis van de warmtedichtheid, warmteprofielen 
+en beschikbare warmtebronnen is aangegeven waar collectieve of juist individuele oplossingen kansrijk 
+zijn. Lokale warmtebronnen zijn ook ingetekend. Grootschalige warmtebronnen zoals geothermie en 
+groen gas zijn niet ingetekend omdat hier (nog) geen vaste locatie voor is aan te wijzen.   
+Disclaimer: aan de visualisatie zijn geen rechten te ontlenen.  
+ 
+
+ 
+
+TVW gemeente Deurne 
+
+23 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  Groen gas 
+
+ 
+In een aantal buurten is de bebouwingsdichtheid laag en zijn de warmteprofielen rood (zie Figuur 8). Door 
+de  lage  bebouwingsdichtheid  is  een  warmtenet  hier  weinig  kansrijk.  Tegelijkertijd  hebben  de 
+(voornamelijk)  oudere  woningen  in  de  toekomst  waarschijnlijk  een  hogere  temperatuur  warmteafgifte 
+nodig.  Dat  maakt  toepassing  van  warmtepompen  lastig,  omdat  de  woningen  dan  eerst  voldoende 
+geïsoleerd  moeten  worden.  Voor  vrijstaande  woningen  is  dat  kostbaar,  er  zijn  immers  aan  vier  kanten 
+muren te isoleren. Ook hebben oudere woningen vaak nog geen spouwmuren waardoor muurisolatie ook 
+kostbaar is. De totale warmtevraag in de groen gas gebieden is 70 TJ. Mogelijk zijn er ook oude boerderijen 
+in  het  buitengebied  waarvoor  groen  gas  een  optie  is.  In  dat  geval  zouden  ook  clusters  rondom  deze 
+boerderijen  op  groen  gas  aangesloten  kunnen  worden.  Of  deze  clusters  er  zijn  zal  in  overleg  met  een 
+netbeheerder verder moeten worden onderzocht.  
+ 
+Er  is  een  grote  potentie  aan  bronnen  om  groen  gas  van  te  maken.  Dit  kan  door  realisatie  van  een 
+biovergister waar vloeibaar groenafval wordt vergist tot biogas en daarna wordt opgewaardeerd tot groen 
+gas.  Voor  de  inzet  van  groen  gas  is  de  bestaande  aardgas  infrastructuur  nodig.  Het  is  voor  een 
+netbeheerder waarschijnlijk het beste hanteerbaar om voor een hele dorpskern de gasleidingen in gebruik 
+te houden voor groen gas in plaats van enkele straten wel en enkele niet. Daarom is er voor gekozen de 
+groen gas onderzoeksgebieden iets groter te maken dan alleen de straten met oudere woningen.  
+ 
+Vanwege de beperkte landelijke beschikbaarheid van groen gas en omdat niet alle huizen in de gebieden 
+een rood warmteprofiel hebben, zijn de gebieden waarvoor groen gas interessant is, gearceerd gemaakt 
+en gecombineerd met inzet van een individuele oplossing. In de buurtaanpak moet gekeken worden of in 
+deze buurten wordt ingezet op vergaande isolatie en warmtepompen, of dat er wellicht aan groen gas 
+(biogas), eventueel in combinatie met hybride warmtepompen, gedacht moet worden. 
+ 
+
+4.2 Bedrijven en kantoren  
+Gemeente Deurne kent een aantal bedrijventerreinen, waarvan de meeste zich rondom de plaats Deurne 
+bevinden.  Het  doel  is  om  voor  de  transitie  van  bedrijventerreinen  zoveel  mogelijk  aan  te  sluiten  op 
+natuurlijke (gebieds-)ontwikkelingen van de bedrijventerreinen. Kantoren hebben over het algemeen een 
+grotere vraag naar koeling dan woningen. Bodemenergie is daarvoor erg geschikt: warmte die in de zomer 
+aan de gebouwen wordt onttrokken en in de bodem wordt opgeslagen, wordt in de winter weer gebruikt. 
+Dit  kan  per  gebouw,  of  voor  een  cluster  gebouwen  worden  aangelegd.  Ook  luchtwarmtepompen  en 
+luchtkoelers  behoren  tot  de  mogelijkheden.  Tegelijkertijd  hoeft  niet  elk  gebouw  verwarmd  te  worden, 
+bijvoorbeeld  opslagloodsen  hebben  meestal  beperkte  verwarming  nodig.  Bedrijventerreinen  vragen 
+daarom maatwerk: een afzonderlijk traject, waarin naar de specifieke behoeften van alle bedrijven wordt 
+gekeken.  In  Deurne  Zuid  bevindt  zich  het  bedrijf  Fromatech  Ingredients  B.V.,  te  midden  van  het 
+bedrijventerrein  Leemskuilen.  De  potentiële  restwarmte  van  Fromatech  Ingredients  kan  hier  wellicht 
+efficiënter ingezet worden op het bedrijventerrein dan in woningen die op ongeveer een kilometer afstand 
+liggen. 
+ 
+De analyse en deze visie is getoetst door diverse betrokkenen. Ook is een vergelijking gemaakt met de 
+Landelijke  tool  ‘Startanalyse  Leidraad’.  Hieruit  blijkt  dat  de  visie  goed  overeenkomt  met  verwachtingen 
+van betrokkenen en ook in lijn is met de Startanalyse Leidraad. Een toelichting van dit model is te vinden 
+in bijlage E.  
+ 
+
+ 
+
+TVW gemeente Deurne 
+
+24 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5. Wanneer worden de buurten aardgasvrij? 
+
+ 
+In dit hoofdstuk beschrijven we in welke buurten we op korte termijn starten met een uitgebreider 
+onderzoek. We geven ook inzicht in de buurten die pas later, op middellange of lange termijn aan 
+de buurt zijn. Zo kunnen inwoners en bedrijven hun investeringen afstemmen op de ontwikkelingen 
+die we in de verschillende buurten voorzien. We onderstrepen dat de planning in dit hoofdstuk een 
+globale  planning  is.  We  willen  graag  ruimte  houden  om  in  te  spelen  op  nieuwe  kansen, 
+inwonersinitiatieven of initiatieven van bedrijven. 
+ 
+In  hoofdstuk  2  beschreven  we  wat  een  buurt  geschikt  maakt  als  verkenningsbuurt.  Tijdens  werksessies 
+met  woningbouwcorporaties,  Enexis  en  energiecorporatie  Energyport  Peeland  en 
+tijdens 
+informatiebijeenkomsten  met  inwoners  en  ondernemers,  werden  ontwikkelingen  en  kansen  per  buurt 
+besproken. We hebben verschillende uitgangspunten en criteria tegen elkaar afgewogen. Dit heeft geleid 
+tot een fasering die weergegeven is in Figuur 11Fout! Verwijzingsbron niet gevonden.. In paragraaf 5.1 
+en 5.2 wordt hierover meer informatie gegeven. 
+ 
+
+  Verkenningsbuurt (2020-2030) 
+
+Buurten waar het mogelijk lijkt om op kortere termijn, rond 2030, aardgasvrij te worden. Voor deze buurten 
+starten we in 2021 met haalbaarheidsonderzoeken. Hierin staan de technische- en financiële haalbaarheid 
+en het betrekken van inwoners, ondernemers en andere lokale partijen centraal. We benadrukken dat we 
+in deze buurten starten met onderzoek, maar dat nog niet besloten is wanneer en hoe de buurt van het 
+aardgas gaat. 
+ 
+
+  Natuurlijk tempo (2020-2050) 
+
+Voor deze buurten liggen individuele warmteoplossingen per gebouw voor de hand. We realiseren ons 
+dat inwoners en ondernemers hiervoor hun eigen tempo kiezen, vandaar een natuurlijk tempo. Logisch 
+momenten zijn bijvoorbeeld bij een verbouwing of verhuizing.  
+ 
+
+  Middellange termijn (2025-2040) of natuurlijk tempo 
+
+In deze gebieden zien we kansen of ontwikkelingen waar wij als gemeente, samen met belanghebbenden, 
+tijdig  op  willen  inspelen.  Dit  zijn  in  gemeente  Deurne  de  gebieden  waar  inzet  van  groen  gas  een 
+mogelijkheid is. In deze gebieden staan ook gebouwen waarvoor het logisch is om individueel, in natuurlijk 
+tempo de overstap te maken. Vandaar dat de gebieden donker rood (middellange termijn) en zandkleurig 
+(natuurlijk tempo) gearceerd zijn gemaakt op de kaart. 
+  
+
+  Lange termijn (2040-2050) of natuurlijk tempo 
+
+In de roze/zandkleurig gearceerde gebieden hangt het tempo af van de kans om aan te sluiten op een 
+klein  collectief  warmtenet.  Als  een  collectieve  oplossing  (klein  warmtenet)  de  meest  aantrekkelijke 
+oplossing  blijkt,  dan  zal  hier  mogelijk  voor  worden  gekozen.  Omdat  in  deze  gebieden  nog  geen 
+aanleidingen  zijn  om  te  starten,  gaan  die  buurten  op  lange  termijn  van  het  aardgas  af.  Als 
+gebouweigenaren  in  deze  buurten  individuele  oplossingen  kiezen,  wordt  er  een  natuurlijk  tempo 
+aangehouden.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+TVW gemeente Deurne 
+
+25 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figuur 11 De faseringskaart: hier wordt een globaal beeld gegeven van het tempo waarmee de 
+verschillende gebieden in gemeente Deurne van het aardgas af stappen. Tijdens de verkenningen die ná 
+vaststellen van de Transitievisie Warmte worden gestart, wordt deze fasering verder bepaald. Het gebied 
+waar we op korte termijn willen starten met een verdere verkenning is opgesplitst in drie gebieden. Voor 
+elk van deze gebieden, A, B en C wordt een ander alternatief voor aardgas onderzocht (zie paragraaf 5.1). 
+  
+
+ 
+
+ 
+
+ 
+
+TVW gemeente Deurne 
+
+26 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Multicriteria analyse om fasering te bepalen 
+We hebben in beeld wat globaal de best passende warmtevoorziening is voor de woningen en bedrijven 
+in  de  verschillende  buurten  van  gemeente  Deurne.  De  fasering  -  de  keuzes  over  wanneer  we  in  welke 
+buurt  aan  de  slag  gaan  -  hebben  we  bepaald  op  basis  van  meerdere  criteria.  Deze  zogenaamde 
+‘multicriteria-analyse’ is gebaseerd op de criteria keuze verkenningsbuurten en de hoofddoelstelling voor 
+een alternatieve warmtevoorziening (zie onderstaand).  
+ 
+
+Criteria keuze 
+verkenningsbuurten 
+Zie hoofdstuk 2 
+1. 
+2.  Percentage corporatiebezit 
+3.  Combinatie met andere 
+
+Laaghangend fruit 
+
+4. 
+
+werkzaamheden 
+Initiatief/interesse inwoners of 
+vastgoedeigenaren 
+
+5.  Eenvoud aanpak 
+6.  Collectieve systemen 
+7.  Schaalbaarheid 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eén van onze belangrijkste uitgangspunten, is dat we zoeken naar de optie met de laagste kosten. Voor 
+een  eerste  inschatting  van  de  totale  kosten  van  de  diverse  warmte-opties  gebruiken  we  de  Leidraad 
+Startanalyse  van  het  Expertise  Centrum  Warmte.  Hierin  wordt  de  oplossing  berekend  met  de  laagste 
+“nationale  kosten”:  de  totale  kosten  van  alle  maatregelen  die  nodig  zijn  voor  een  warmteoplossing, 
+ongeacht wie die kosten betaalt. Het is inclusief de kosten en baten van energiebesparing en alle kosten 
+en  investeringen  voor  de  opwek  en  distributie  van  stroom  en  warmte,  maar  exclusief  belastingen, 
+heffingen  en  subsidies.  Dit  wordt  gedaan  door  24  oplossingen  door  te  rekenen,  waaronder 
+warmtepompen  en  warmtenetten  met  diverse  bronnen  en  temperatuurniveaus.  Deze  worden  per  CBS 
+buurt berekend en geven dus nog geen beeld per straat of huis. Uit de Startanalyse Leidraad kwam naar 
+voren dat de kosten per gebied in gemeente Deurne niet sterk uitéén lopen. 
+ 
+Naast het onderzoek naar betaalbaarheid hebben we de volgende zaken meegewogen in de multicriteria 
+analyse:  
+-Kansen om een warmtenet in te zetten (collectieve systemen) 
+-Gebieden met eenzelfde temperatuur warmtevraag  
+-Gebieden met veel corporatiewoningen 
+-Gebieden met geïnteresseerde/actieve inwoners 
+-Gebieden waar gemeentelijke onderhoud gepland staat 
+-Gebieden waar werkzaamheden van de netbeheerder gepland zijn.  
+-Leefstijlen onderzoek  
+-Kennis  en 
+woningbouwcorporaties, etc.) 
+ 
+
+(inwoners,  beleidsmedewerkers,  netbeheerder, 
+
+inzichten  van  alle  betrokkenen 
+
+5.1 De verkenningsbuurten 
+De verkenningsbuurten kennen de begrenzing van CBS  niet. Redenen zijn de criteria zoals benoemd in 
+hoofdstuk 2. De buurten waar de eerste onderzoeken starten zijn:  
+
+- 
+- 
+- 
+
+Verkenningsbuurt A: betreft delen van CBS buurt Zeilberg;  
+Verkenningsbuurt B: betreft delen van CBS buurt Deurne centrum.  
+Verkenningsbuurt C: Omgeving Houtenhoek; 
+
+De  afbakening  van  de  onderzoeksgebieden  staan  op  de  volgende  bladzijden  weergegeven.  Deze 
+afbakening ligt nog niet vast. Dit wordt verder uitgewerkt tijdens de buurtverkenning.  
+ 
+ 
+
+ 
+
+TVW gemeente Deurne 
+
+27 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Wanneer? 
+Per  half  2021/begin  2022  zal  er  gestart  worden  met  een  onderzoek  naar  technische-  en  financiële 
+haalbaarheid in deze gebieden. Ook zal informatie worden gedeeld met inwoners en zal worden gepeild 
+hoe ze hier tegen aan kijken. Als blijkt dat de alternatieven voor aardgas technisch en financieel haalbaar 
+zijn, zal er eind 2022/begin 2023 getoetst worden of er ook interesse is onder inwoners en of het voor hen 
+ook  een  haalbare  stap  is.  Als  dit  ook  positief  blijkt,  wordt  de  buurt  een  officiële  ‘startbuurt’.  Inwoners 
+krijgen tenminste 8 jaar de tijd voordat het verkenningsgebied aardgasvrij wordt gemaakt. De insteek is 
+om in de 3 startgebieden tegelijkertijd te beginnen met onderzoek. Afhankelijk van de resultaten van de 
+onderzoeken wordt per buurt bekeken of en wanneer gestart wordt met de uitvoering.   
+ 
+Wat is het plan in verkenningsbuurt A? 
+Voor deze buurt starten we met een onderzoek naar de inzet van groen gas óf een kleinschalig collectief 
+systeem zoals een WKO met zonthermie of buurtwarmtepomp. Ook bekijken we de mogelijkheden om 
+de  gebouwen  in  dit  gebied  zover  te  isoleren  dat  ze  klaar  zijn  voor  inzet  van  een  aardgasalternatief 
+(daardoor zijn de gebouwen  aardgasvrij-ready). De haalbaarheid en financiële gevolgen van  de diverse 
+opties worden doorgerekend. Voor groen gas wordt met name bekeken wat de bereidheid is binnen de 
+gemeente en wat de mogelijkheden zijn om een biovergister te plaatsen. Ook wordt bekeken hoe groen 
+gas landelijk zal worden verdeeld en welke rol gemeente Deurne hierin kan spelen.  
+ 
+
+Waarom zouden we hier starten? 
+• Er is veel corporatiebezit van Bergopwaarts. Met steun 
+
+vanuit Bergopwaarts wordt organisatie van een 
+collectieve oplossing eenvoudiger. 
+
+• Er zijn onderhoudsplannen voor de openbare ruimte in 
+
+2024/25. Er zijn koppelkansen voor afstemming en 
+communicatie wanneer uitvoering van een alternatief 
+voor aardgas hier mogelijk blijkt.  
+
+• Groen gas komt hier zowel in de analyse van de 
+
+WarmteTransitieMakers als in de Startanalyse naar voren 
+als kansrijk en meest betaalbaar (zie bijlage E voor een 
+toelichting). 
+
+ 
+Kentallen verkenningsbuurt 
+Verblijfsobjecten: 431 
+424 woningen 
+7 utiliteitsgebouwen 
+
+- 
+- 
+
+Warmtevraag: 
+
+- 
+- 
+- 
+
+22 TJ huidige warmtevraag woningen 
+16 TJ toekomstige warmtevraag woningen 
+1 TJ inschatting huidige warmtevraag utiliteit 
+
+Kenmerken woningen: 
+
+3% meergezinswoningen 
+
+- 
+-  Meest voorkomende energielabels:  
+
+C: 31%, D: 25%, F: 17% en G: 10% 
+
+ 
+
+Mogelijke oplossing 
+•  Aansluiting op groen gas eventueel gecombineerd 
+
+• 
+
+met hybride warmtepompen 
+Kleinschalige collectieve warmtepomp of WKO-
+systeem 
+
+ 
+Wat zijn aandachtspunten? 
+• Veel huurders in deze buurt dus mogelijk minder 
+
+financiële draagkracht 
+
+• De diversiteit onder inwoners is erg groot (veel 
+
+nationaliteiten).  Dit kan nadelig werken voor de cohesie 
+en dus de bereidheid iets als collectief op te pakken. 
+
+TVW gemeente Deurne 
+
+28 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Wat is het plan in verkenningsbuurt B? 
+Voor deze buurt starten we met een onderzoek naar de inzet van een warmtenet. Ook bekijken we de 
+mogelijkheden om de gebouwen in dit gebied zover te isoleren dat ze klaar zijn voor inzet van een aardgas 
+alternatief  (aardgasvrij-ready).  De  haalbaarheid  en  het  financiële  plaatje  van  een  warmtenet  met 
+verschillende bron-opties worden doorgerekend. Het gebied dat (qua warmtevraag dichtheid) interessant 
+is voor inzet van een warmtenet is niet helemaal aanééngesloten. In de haalbaarheidsonderzoeken moet 
+worden onderzocht welke delen van het gebied uiteindelijk door een warmtenet kunnen worden bediend. 
+Eventueel is het ook mogelijk het bedrijventerrein Leemskuilen aan te laten sluiten.  
+ 
+
+ 
+
+ 
+
+Waarom zouden we hier starten? 
+• In dit gebied is dichtheid van de warmtevraag hoog. De 
+
+aanleg van een warmtenet is daarom rendabel.  
+
+• Bij aanleg van een warmtenet wordt veel werk uit handen 
+
+genomen van inwoners 
+
+• In verband met geplande rioolwerkzaamheden is 
+
+Onweerstaanbaar Koolhof opgezet: Inwoners denken mee 
+over de leefbaarheid in hun buurt op de lange termijn. De 
+energie die er is hierdoor, kan positief bijdragen aan 
+draagvlak. Dit betreft een klein deel van het gebied zoals op 
+de kaart links onderaan te zien.  
+
+• Er zijn meerdere potentiële warmtebronnen die kunnen 
+
+worden ingezet om het warmtenet te voeden. 
+
+• Veel corporatiebezit van Bergopwaarts. Met steun vanuit 
+
+Bergopwaarts wordt organisatie van een collectieve oplossing 
+eenvoudiger. 
+
+ 
+
+Kentallen verkenningsbuurt 
+Verblijfsobjecten: 4069 
+3711 woningen 
+358 utiliteit 
+
+- 
+- 
+
+Warmtevraag: 
+
+- 
+- 
+- 
+
+146 TJ huidige warmtevraag woningen 
+115 TJ toekomstige warmtevraag woningen 
+74 TJ inschatting huidige warmtevraag utiliteit 
+
+Kenmerken woningen: 
+
+27% meergezinswoningen 
+
+- 
+-  Meest voorkomende energielabels: 
+
+C: 51%, B: 16% en A: 15% 
+ 
+
+Mogelijke oplossing 
+• Warmtenet waarbij meerdere bronnen interessant kunnen zijn 
+zoals zonthermie, geothermie en restwarmte. Deze oplossing 
+komt naar voren als meest betaalbaar (zie bijlage E voor een 
+toelichting). 
+
+ 
+
+Wat zijn aandachtspunten? 
+• We willen goed uitzoeken welke (combinatie) van 
+
+warmtebronnen kan worden ingezet. 
+
+• Wanneer zonthermie (op veld) wordt ingezet, moet in meer 
+
+detail bekeken worden welke velden daarvoor beschikbaar zijn 
+en hoe betaalbaar inzet is.  
+
+• Het gebied is groot. Bij de verkenning moet worden gekeken 
+welke delen van het gebied het meest logische ‘start’ cluster 
+gaan vormen.  
+
+• Mogelijk is de financiële draagkracht laag vanwege vele 
+
+huurders en relatief goedkopere koopwoningen. 
+
+TVW gemeente Deurne 
+
+29 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Wat is het plan in verkenningsgebied C? 
+Voor  deze  buurt  starten  we  met  een  onderzoek  naar  de  inzet  van  één  of  meerdere  klein-collectieve 
+oplossingen. Ook bekijken we de betaalbaarheid om de gebouwen in dit gebied zover te isoleren dat ze 
+klaar  zijn  voor  inzet  van  een  aardgas  alternatief  (aardgasvrij-ready).  De  haalbaarheid  en  financiële 
+gevolgen van diverse opties worden doorgerekend. Bij klein-collectief kan gedacht worden aan de inzet 
+van een buurtwarmtepomp voor 5 tot 20 woningen. Ook de inzet van collectieve bodem warmtepompen 
+in  combinatie  van  warmte/koude  opslag  in  de  grond  kan  klein  (met  enkele  huizen)  of  groter  voor  een 
+huizenblok  worden  onderzocht.  Voor  de  huizen  in  dit  gebied  past  de  inzet  van  een  individuele 
+warmtepomp  of  een  kleinschalig  collectief  op  basis  van  warmtepompen  het  beste.  Dit  is  in 
+verkenningsgebied  C  de  meest  betaalbare  oplossing.  Dit  blijkt  uit  de  analyse  van  de 
+WarmteTransitieMakers en de Startanalyse Leidraad.  
+ 
+
+Waarom zouden we hier starten? 
+• Veel corporatiebezit van Bergopwaarts. Met steun 
+
+vanuit Bergopwaarts wordt organisatie van een 
+collectieve oplossing eenvoudiger. 
+
+• De kleinschalige collectieve aanpak biedt de 
+
+mogelijkheid om te starten met een kleine groep van 
+enthousiaste mensen. Blijkt er meer draagvlak, dan 
+kan er voor een iets groter collectief worden gekozen. 
+
+• Voor grotere delen van de gemeente is de 
+
+kleinschalige collectieve aanpak interessant. Door dit 
+in deze buurt samen met Bergopwaarts op te pakken, 
+geven we een goed voorbeeld en kunnen we 
+leerervaringen later op andere plekken in de 
+gemeente inzetten.  
+
+•  Inzet op warmtepomp-oplossingen komt zowel in de 
+
+analyse van de WarmteTransitieMakers als in de 
+Startanalyse naar voren als kansrijk. 
+
+ 
+Kentallen verkenningsbuurt 
+Verblijfsobjecten: 935 
+
+- 
+- 
+
+854 woningen 
+81 utiliteit 
+
+Warmtevraag: 
+
+- 
+- 
+- 
+
+40 TJ huidige warmtevraag woningen 
+28 TJ toekomstige warmtevraag woningen 
+4 TJ inschatting huidige warmtevraag utiliteit 
+
+Kenmerken woningen: 
+
+2% meergezinswoningen 
+
+- 
+-  Meest voorkomende energielabels: 
+
+D: 32%, C: 27%, E: 16%, F: 11% 
+
+ 
+
+Mogelijke oplossing 
+• 
+
+Buurtwarmtepomp of collectieve WKO waarbij de 
+schaalgrootte (enkele huizen tot een huizenblok) 
+nog verder moet worden onderzocht.  
+
+ 
+Wat zijn aandachtspunten? 
+• De inzet van WKO is afhankelijk van de 
+
+mogelijkheden in de ondergrond. Er lijken geen 
+restricties in dat gebied in de bodem (zie WKO-tool). 
+
+• Diversiteit aan inwoners. 
+
+ 
+
+ 
+ 
+  
+
+ 
+
+ 
+
+TVW gemeente Deurne 
+
+30 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+5.2 Overige buurten 
+
+Middellange termijn (2025-2040) 
+Op de middellange termijn gaan we onderzoek doen naar de gebieden in de gemeente die in aanmerking 
+komen voor de inzet van groen gas. Het gaat om de dorpskernen Vlierden en Neerkant en om delen van 
+de dorpskern Deurne.  
+ 
+Wanneer? 
+Op korte termijn (tussen 2022 en 2025) zal er worden gekeken naar de wenselijkheid om groen gas in te 
+zetten  in  gemeente  Deurne.  Daarna  kan  eventueel  worden  gestart  met  bouw  van  een  biovergister  en 
+groen gas levering. Zo’n installatie en de groengas levering aan het bestaande gasnet zal tussen 2030 en 
+2040 gerealiseerd kunnen zijn.  
+ 
+Wat?  
+De inzet van lokaal opgewekt groen gas. Er is veel potentie in de gemeente om afvalstromen (grotendeels 
+uit mest) te verwerken tot biogas. Dit biogas kan worden opgewaardeerd tot groen gas dat zonder verdere 
+aanpassing via het bestaande gasnet naar huizen kan worden toegevoerd. Wanneer het haalbaar blijkt om 
+groen  gas  te  produceren,  dan  kan  gestart  worden  met  de  bouw  van  een  vergistingsinstallatie  om  het 
+groene gas te produceren. Vanaf deze installatie wordt het groene gas geleverd aan het bestaande gasnet. 
+Dit betekent dat gebouwen in deze gebieden vanaf het moment van groen gas levering, zonder verdere 
+aanpassingen  aardgasvrij  verwarmd  zijn.  De  inzet  van  groen  gas  vormt  daarmee  een  heel  betaalbaar 
+alternatief vergeleken met aardgas. Voor de toekomst worden wel verhogingen van de gasprijs verwacht, 
+omdat  productie  van  groen  gas  duurder  is  dan  de  productie  van  aardgas.  Ook  is  groen  gas  landelijk 
+beperkt beschikbaar en moet het daarom worden ingezet in die huizen die niet op een warmtenet kunnen 
+of niet betaalbaar over kunnen stappen op een warmtepomp.  
+ 
+De gebieden in gemeente Deurne die in aanmerking komen voor groen gas zijn:  
+ 
+
+In dorpskern Deurne: 
+-Noordoostelijk 
+-Zuidoostelijk 
+-Centrum (west) 
+-Zuidwest 
+Dorpskern Vlierden 
+Dorpskern Neerkant 
+
+Aantal woningen 
+133 woningen 
+159 
+442  
+150 
+303 
+399 
+
+Warmtevraag in TJ na rendabel isoleren 
+5,2  
+6,8  
+22,1 
+5,6 
+13,7 
+16,7 
+
+ 
+Waarom deze buurten op de middellange termijn? 
+Óf groen gas zal worden ingezet is afhankelijk van de wensen vanuit de leveranciers van het groen gas 
+(veelal  agrarische  bedrijven  in  Deurne),  de  wensen  van  de  netbeheerder  en  de  wensen  qua  landelijke 
+verdeling  van  groen  gas.  Voor  een  aantal  agrarische  bedrijven  is  de  toekomst  onzeker  en  dus  ook  de 
+toekomstige  beschikbaarheid  van  restafval.  Voor  de  netbeheerder  is  het  momenteel  onzeker  waar  het 
+huidige gasnet blijft liggen na 2050. Daarnaast is er landelijk discussie over welke gebieden groen gas het 
+hardst  nodig  hebben.  Slechts  5  tot  10%  van  alle  huizen  in  Nederland  kunnen  er  namelijk  mee  worden 
+verwarmd. In lijn met urgenda gaan we uit van een krimpende veestapel, de potentie voor opwek is echter 
+zo hoog, dat we tóch voldoende kansen zien om groen gas te produceren en benutten. We willen niet te 
+lang wachten en aan tafel om mede te bepalen waar en of groen gas zal worden ingezet.  
+ 
+
+Lange termijn (2040-2050) 
+We verwachten dat de dorpen Helenaveen en Liessel als laatste de overstap naar aardgasvrij maken, of 
+dat de inwoners dat op hun individuele natuurlijke tempo doen.  
+ 
+Wat? 
+Inzetten op klein-collectieve systemen zoals buurtwarmtepompen en WKO’s. Ook een warmtepomp voor 
+2 of enkele huizen is een mogelijkheid. Daarnaast is het, aangezien de huizen redelijk ver uit elkaar staan, 
+
+ 
+
+TVW gemeente Deurne 
+
+31 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ook goed mogelijk individueel aan de slag te gaan als gebouweigenaar. Ook in deze gebieden kan meteen 
+al worden gestart met het (beter) isoleren van gebouwen.  
+ 
+Waarom deze dorpen als laatste? 
+In dorpskern Deurne starten we met het onderzoek naar de haalbaarheid van alternatieven voor aardgas. 
+Vrij kort daarna starten we ook het onderzoek naar inzet van groen gas uit lokaal geproduceerd biogas in 
+bepaalde gebieden in de gemeente. We wachten technologische ontwikkelingen en de ervaringen in de 
+deze buurten af voordat we aan de slag gaan in Helenaveen en Liessel. Als inwoners al eerder aan de slag 
+willen,  kunnen  we  vanuit  de  gemeente  daar  natuurlijk  bij  ondersteunen.  Waarschijnlijk  maken  in  deze 
+dorpen enkele inwoners ook individueel al wel de overstap naar aardgasvrij. Voor kleine collectieven kan 
+geleerd worden uit de ervaringen die we gaan op doen in het verkenningsgebied C in dorpskern Deurne.  
+
+Buurten met natuurlijk tempo (2020-2050) 
+De buitengebieden en dorpsranden hebben een lage bebouwingsdichtheid met veel vrijstaande huizen 
+of twee-onder-een-kap woningen. Hier liggen individuele oplossingen het meest voor de hand. In deze 
+buurten kiest daarom iedere individuele huiseigenaar voor een alternatief op basis van een eigen tempo. 
+Voor deze gebieden ontstaat dan een ‘natuurlijk tempo’: niet de hele buurt tegelijk, maar elk gebouw op 
+een logisch moment, bijvoorbeeld bij een verbouwing of verhuizing. Woningeigenaren kunnen stap voor 
+stap maatregelen nemen, bijvoorbeeld door eerst te isoleren en een paar jaar later een warmtepomp te 
+laten installeren. Het is belangrijk dat woningeigenaren natuurlijke momenten, zoals een verbouwing, wel 
+daadwerkelijk benutten. Daarom beginnen we vanaf nu met voorlichting geven aan  inwoners. Dit staat 
+verder toegelicht in het volgende hoofdstuk.  
+  
+
+ 
+
+ 
+
+TVW gemeente Deurne 
+
+32 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6. Uitvoeringsstrategie en vervolgstappen 
+
+De komende jaren zetten we de eerste stappen om uiteindelijk in 2050 een volledig aardgasvrije 
+gemeente te zijn. De activiteiten die de gemeente al organiseert en nog wil opzetten worden in dit 
+hoofdstuk uiteengezet.  
+ 
+Hoe  we  de  komende  jaren  te  werk  gaan,  beschrijven  we  op  hoofdlijnen  in  de  uitvoeringsstrategie.  De 
+programmaonderdelen  krijgen  vorm  binnen  het  instrumentarium  van  de  nieuwe  Omgevingswet.  De 
+uitvoeringsstrategie is opgesplitst in de volgende onderdelen: 
+ 
+
+Programmaonderdeel 
+ 
+1. Aanpak 
+verkenningsbuurten 
+
+2. Aanpak woningen 
+gemeentebreed: 
+-Inzetten op isoleren 
+-Ondersteunen diverse 
+doelgroepen 
+-Informatie- en participatie 
+middelen 
+3. Aanpak 
+bedrijventerreinen, utiliteit 
+en maatschappelijk vastgoed 
+
+4. Kansen voor inzet van 
+groen gas 
+
+5. Doorontwikkeling 
+Transitievisie Warmte 
+
+Periode 
+
+Toelichting 
+
+2021-2030 
+
+2021 en 
+verder 
+
+In de verkenningsbuurten starten we met nader 
+onderzoek. Denken we dat er een haalbaar alternatief 
+voor aardgas mogelijk is, dan stellen we in 
+samenwerking met inwoners en lokale partijen een 
+buurtuitvoeringsplan op. Zie paragraaf 6.1. 
+ 
+
+De gemeente ondersteunt inwoners die hun huis 
+willen verduurzamen met een breed pakket aan 
+maatregelen. Zo worden alvast de voorbereidingen 
+getroffen op aardgasvrij. Hoe inwoners aan de slag 
+kunnen of betrokken kunnen worden, informeren we 
+via diverse kanalen. Zie paragraaf 6.2 
+
+2021 en 
+verder 
+
+• 
+
+In de komende jaren stellen we een aanpak op 
+voor bedrijventerreinen en utiliteitsbouw. 
+
+•  De gemeente zet zelf stappen om het eigen 
+
+vastgoed te verduurzamen in hetzelfde tempo 
+als omliggende gebouwen.  
+ 
+
+2022-2025  Omdat er in gemeente Deurne een hoge potentie is 
+
+voor het produceren van groen gas, willen we de 
+haalbaarheid van deze optie apart onderzoeken.  
+ 
+
+2025 
+
+Nieuwe inzichten en ontwikkelingen nemen we mee 
+
+door de Transitievisie Warmte iedere 5 jaar te 
+
+actualiseren. Zo kunnen we inspelen op nieuwe 
+
+technologieën en ontwikkelingen in de prijsstelling 
+
+van de verschillende warmteoplossingen. 
+
+ 
+
+6.1 Aanpak verkenningsbuurten  
+In  de  loop  van  de  komende  decennia  zullen  we  voor  alle  buurten  in  gemeente  Deurne  een 
+buurtuitvoeringsplan  opstellen.  Dat  is  maatwerk.  Elke  buurt  heeft  specifieke  kenmerken  wat  betreft 
+technische  mogelijkheden,  aard  van  de  woningen,  eigendomssituatie  en/of  samenstelling  van  de 
+bevolking. De aanpak in buurten waar collectieve warmtenetten worden opgezet, zal er anders uitzien dan 
+een aanpak in een buurt waar individuele of kleinschalig-collectieve oplossingen reëel lijken.  
+ 
+Een buurtuitvoeringsplan komt altijd tot stand in nauwe samenwerking met inwoners en lokale partijen. 
+Ook is het nodig een gedetailleerde studie van de kosten en technische haalbaarheid uit te voeren. In de 
+periode van 2021 tot aan 2030 gaan we eerst van start met haalbaarheidsstudies en stellen we op basis 
+daarvan  de  uitvoeringsplannen  op  voor  de  verkenningsbuurten.  Wij,  de  gemeente,  organiseren  de 
+haalbaarheidsonderzoeken. 
+ 
+
+ 
+
+TVW gemeente Deurne 
+
+33 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+Hieronder een schets van wat er in deze periode gaat gebeuren: 
+ 
+
+               
+ 
+
+1 Samen starten. We brengen lokale partijen bij elkaar en vormen een 
+werkgroep en een klankbordgroep waarin lokale belanghebbenden zijn 
+vertegenwoordigd. Inwoners kunnen deelnemen in de klankbordgroep 
+om zo direct input te leveren. Eerst op de randvoorwaarden van de 
+haalbaarheidsstudie en daarna op de ontwikkeling van het 
+buurtuitvoeringsplan. We merkten tijdens een inwonersavond in januari 
+2021 dat er nog veel vragen zijn onder inwoners in de 
+verkenningsgebieden. De gemeente zorgt voor een procesbegeleider die 
+ook toeziet op het participatietraject met inwoners. Het verkennen van 
+de belangen en het beantwoorden van vragen, is een belangrijk 
+onderdeel in deze fase. 
+ 
+
+2 Buurtanalyse. Met de werkgroep brengen we in kaart wie in de buurt wonen, wat hun behoeften 
+zijn en hoe we inwoners het beste kunnen bereiken en betrekken. Parallel worden technische 
+gegevens over de woningen, beschikbare duurzame warmtebronnen en de aanwezige energie-
+infrastructuur in kaart gebracht. Voor de meest kansrijke warmteopties brengen we in detail in kaart 
+welke voordelen, nadelen, kosten en besparingen realistisch zijn. 
+ 
+3 Kiezen optimale warmteoplossing. Na stap 2 bepalen we in samenspraak met lokale 
+belanghebbenden welke warmteoplossing het best bij de buurt past. Met het afwegingskader (zie 
+hoofdstuk 2.3) wordt onderbouwd welke oplossing de voorkeur heeft. In deze fase betrekken we 
+inwoners, bedrijven en alle andere lokale betrokkenen intensief.  
+ 
+4 Onderbouwen van de haalbaarheid en financiën. Voor de gekozen optie werken we in detail de 
+kosten en baten uit voor referentiewoningen. De investeringskosten, eindgebruikerskosten en 
+energiekosten worden in detail in kaart gebracht. Zo nodig worden eerst in praktijk concepten 
+kleinschalig gerealiseerd om zeker te zijn van alle kosten en baten. Als vervolgens de haalbaarheid 
+toch twijfel oproept, dan gaan we een stap terug naar de vorige fase ‘keuze warmteoplossing’. We 
+werken daarna een concreet investeringsprogramma uit, waarbij ook ingezet wordt op subsidies en 
+financieringsvormen zodat de overstap haalbaar en betaalbaar is voor alle betrokkenen en alle 
+inwoners. 
+ 
+ 
+ 
+
+5 Besluitvorming (go/ no go). Om tot besluitvorming te komen is het 
+nodig om aan een aantal randvoorwaarden te voldoen. De lokale 
+partijen/werkgroep per buurt wordt pas gevraagd in te stemmen als 
+voldaan is aan onderstaande voorwaarden: 
+
+a.  de oplossing is duurzaam en technisch haalbaar  
+b. de oplossing is voor alle belanghebbenden in principe financierbaar  
+c.  er is draagvlak bij een ruime meerderheid van inwoners, bedrijven en 
+
+andere belanghebbende organisaties die nodig zijn voor de 
+realisatie 
+
+d. juridisch wordt voldaan aan alle wettelijke voorwaarden. 
+
+ 
+
+ 
+
+Als de werk- en klankbordgroep akkoord zijn, worden daarna afspraken gemaakt over de realisatiefase. 
+Deze afspraken worden in het buurtuitvoeringsplan opgenomen. Bijvoorbeeld afspraken over de 
+tijdplanning, rolverdeling, de benodigde aanpak van gebouwen en woningen en het contracteren van 
+partijen die verantwoordelijk zijn voor de bouw en aanleg van nieuwe infrastructuur. 
+Bij extra benodigde middelen vanuit de gemeente zal een besluit van de gemeenteraad nodig zijn. 
+ 
+ 
+ 
+ 
+
+ 
+
+TVW gemeente Deurne 
+
+34 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+6.2 Gemeentebrede aanpak woningen  
+ 
+Inzet op rendabel isoleren van de gebouwde omgeving 
+Inwoners zetten vaak al stappen om hun woning te isoleren. Maar er zijn ook nog extra isolatiestappen te 
+maken  in  veel  woningen.  Dit  is  vaak  ook  rendabel.  De  Transitievisie  Warmte  geeft  inwoners  en 
+ondernemers  een  richting:  welke  isolatiemaatregelen  kunnen  het  beste  genomen  worden.  Voor 
+warmtenetgebieden  is  namelijk  een  andere  (beperkte)  isolatie  vereist  dan  wanneer  een  warmtepomp 
+wordt  ingezet.  De  gemeente  wil  inwoners  hierbij  ondersteunen.  In  het  bijzonder  is  dit  belangrijk  in  de 
+gebieden  waar  individuele  oplossingen  het  meest  geschikt  zijn.  Gebouweigenaren  (eigenaar-bewoners, 
+lokale  ondernemers,  woningbouwcorporaties,  particuliere  verhuurders)  besluiten  in  deze  gebieden 
+namelijk zelf wanneer zij aan de slag gaan, en welke maatregelen ze  treffen. Maar ook in buurten waar 
+een  collectieve  oplossing  komt,  staat  het  woningeigenaren  en  bedrijven  vrij  om  zelf  een  individuele 
+oplossing voor hun woning of bedrijfspand te kiezen. Informatie over de verschillende isolatiematerialen 
+en methoden en informatie over financieringsmogelijkheden van isoleren, zijn in deze fase belangrijk. Ook 
+goede  ventilatie  van  goed  geïsoleerde  woningen  is  een  aandachtspunt.  De  gemeente  zal  deskundige 
+informatie inwinnen om inwoners in hun informatiebehoefte te voorzien.  
+ 
+Informatievoorziening 
+Er zijn altijd inwoners die al de stap willen zetten om hun woning aardgasvrij te verwarmen. De gemeente 
+biedt graag informatie voor deze koplopers. Voor deze mensen merken we dat de volgende informatie 
+vooral gemist wordt: 
+ 
+- Informatie over financieringsmogelijkheden 
+- Advies 
+- Garanties over werkzaamheid van oplossingen 
+ 
+Ook voor diegenen die zich nog aan het oriënteren zijn zal informatie hierover interessant zijn. Hoe we 
+iedereen op een passende manier van informatie voorzien, staat bij ‘communicatie en participatie’ verder 
+omschreven.  
+ 
+Informatie over financieringsmogelijkheden 
+Een gebouw aardgasvrij verwarmen vergt een aantal aanpassingen. De kosten hiervoor lopen uiteen van 
+€12.000,-  tot  zo’n  €35.000,-  euro  per  woning31.  Dit  is  een  behoorlijke  investering  en  voor  veel  mensen 
+(nog) niet te financieren. Het beschikbaar maken van subsidies en interessante financieringsvormen speelt 
+een  essentiële  rol 
+in  op  goede 
+informatievoorziening  over  welke  financieringsmogelijkheden  er  zijn  (zie  bijlage  F).  Ook  gaan  we 
+onderzoeken of het mogelijk is omgevingsfondsen in te zetten.  
+ 
+Advies en garanties over werkzaamheid van oplossingen 
+De afgelopen jaren zijn er veel nieuwe duurzame bouwmaterialen op de markt gekomen. Ook wordt er 
+steeds  meer  gewerkt  met  kierdichting  en  mechanische  ventilatie.  Om  deze  nieuwe  materialen  en 
+technieken  op  een  gebalanceerde  manier  in  te  zetten,  is  kennis  nodig.  De  gemeente  zet  in  op  het 
+verbreden van kennis onder installateurs in de gemeente. Op deze manier kunnen installateurs onderling 
+het werk ook beter overdragen. Zo veranderen innovatieve toepassingen sneller in ‘proven technology’ 
+en kunnen garanties makkelijker worden afgegeven. 
+ 
+Communicatie en participatie 
+Een belangrijke rol van de gemeente is de communicatie met inwoners over wat er op hen afkomt, en het 
+organiseren van de participatie. Belangrijke uitgangspunten voor de communicatie en participatie zijn: 
+• 
+
+In de communicatie hanteren we waar mogelijk drie niveaus: (1) eenvoudige informatie, voor 
+iedereen te begrijpen, (2) de mogelijkheid voor inwoners om zich verder te verdiepen, bijvoorbeeld 
+via het Energiehuis Slim Wonen. En (3) online beschikbaarheid van alle rapporten en onderzoeken 
+voor de inwoners die alles willen weten. 
+
+in  de  warmtetransitie.  Wij  als  gemeente  zetten  daarom 
+
+31 Indicaties volgens milieucentraal.  
+
+ 
+
+ 
+
+TVW gemeente Deurne 
+
+35 
+
+ 
+
+ 
+
+ 
+
+ 
+• 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Elke buurt is anders. De diversiteit van buurten vraagt om maatwerk in de communicatie: in het 
+soort informatie, keuze van de communicatiekanalen en de communicatie- en participatieaanpak. 
+We hebben een onderzoek uitgevoerd naar de verschillende communicatiestijlen die bij 
+verschillende mensen aansluiten32. We passen onze communicatie daar zoveel mogelijk op aan.  
+
+•  We zijn helder over de harde kaders, over wat er al vast staat en over wat we nog niet weten of 
+
+kunnen beloven. We zijn ook helder over rollen, verantwoordelijkheden, proces, planning, 
+dilemma’s, hinder, risico’s, mate van invloed van inwoners, en communiceren daar actief over. 
+
+•  We maken gebruik van bestaande netwerken en communicatiekanalen. We hanteren het liefst een 
+
+persoonlijke benadering: liever een gesprek dan een brief. 
+
+ 
+De gemeente organiseert daarom in ieder geval de volgende ondersteuning: 
+•  De mogelijkheid om op een fysieke locatie informatie en advies in te winnen. Energiehuis Slim 
+
+Wonen met daarbij een locatie bij de Ossenbeemd in Deurne zijn hiervoor de aangewezen locaties. 
+Dit zijn energieloketten waar inwoners en VvE’s terecht kunnen met vragen, en waar informatie te 
+vinden is over de verschillende isolatiemogelijkheden en aardgasvrije technieken die er zijn. Men 
+kan hier fysiek of online terecht voor advies over gunstige oplossingen voor hun woning en om 
+meer te weten te komen over financiering en subsidiemogelijkheden; 
+
+•  Website ‘Duurzaam Deurne’ (de precieze naam van de webpagina volgt): Uit een enquête onder 
+
+inwoners komt naar voren dat inwoners graag via de website op de hoogte willen worden 
+gehouden. De website wordt steeds voorzien van actuele en relevante informatie over de 
+warmtetransitie; 
+
+•  Webinars/Inwonersavonden: Inwoners vinden dit belangrijke communicatiemiddelen, zien we terug 
+
+in de inwonersenquête; 
+•  Weekblad voor Deurne; 
+•  Digitaal energieloket “Energiehuis Slim Wonen” 
+•  Overig.  
+
+ 
+
+Verder willen we de volgende zaken gaan onderzoeken: 
+ 
+•  Werken aan een breed communicatienetwerk (wijkambassadeurs) 
+• 
+
+Pilot aanpak verduurzamen woningen dorpskern Neerkant 
+
+6.3 Aanpak bedrijventerreinen, utiliteit en maatschappelijk 
+vastgoed 
+Gemeenten  zijn  het  bevoegd  gezag  bij  het  handhaven  van  de  CO2-besparingsplicht  voor  kleinere 
+bedrijven.  Een  deel  van  de  gemeenten  heeft  deze  taak  ondergebracht  bij  de  omgevingsdienst.  Een 
+‘buurtaanpak’  voor  bedrijventerreinen  is  denkbaar  maar  de  behoefte  daarin  moet  blijken  uit  verder 
+onderzoek.  
+ 
+Overige utiliteitsbouw omvat alle andere gebouwen die geen woonbestemming hebben, zoals  
+winkels  en  kantoren.  Hoewel  dit  een  groot  aantal  gebouwen  betreft,  is  de  inzet  van  gemeenten  hier 
+aanzienlijk  kleiner  dan  bij  woningen.  Dat  komt  omdat  in  het  Klimaatakkoord  is  afgesproken  dat  er  een 
+duidelijke norm voor CO2-arme utiliteitsbouw en maatschappelijk vastgoed komt, waardoor het initiatief 
+hier sterker bij gebouweigenaren komt en minder bij de gemeente. Bovendien is afgesproken dat het Rijk 
+de communicatie hierover verzorgt.  
+ 
+Als bij een verkenningsbuurt een positief besluit komt om tot uitvoering over te gaan, zal de gemeente 
+haar vastgoed binnen die buurt ook verduurzamen. Wel zal op natuurlijke vervangingsmomenten zoveel 
+mogelijk een afweging gemaakt worden of en hoe verduurzaming eerder kan plaatsvinden. De 
+gemeente maakt een planning om haar eigen vastgoed te verduurzamen. 
+ 
+ 
+
+32 Brand Strategy Research. Dit wetenschappelijke model ontrafelt de drijfveren van mensen: Met welke boodschap, 
+
+welke tone of voice en via welk kanaal worden mensen het meest betrokken.  
+
+ 
+
+ 
+
+TVW gemeente Deurne 
+
+36 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Maatschappelijk vastgoed omvat gebouwen met een publieke functie, zoals scholen, musea,  
+
+sportkantines en ziekenhuizen. De minimale inzet voor sportaccommodaties, basis- en middelbare 
+
+scholen is het meedenken en doen in bewustwordingscampagnes over de noodzaak van de 
+
+warmtetransitie. Afhankelijk van de rol die de gemeente per gebouw heeft zal daar een verdere 
+
+intensivering kunnen plaatsvinden. Dit zal in een uitvoeringsplan verder worden beschreven. 
+
+ 
+ 
+
+6.4 Onderzoek naar de inzet van biogas 
+ 
+
+Vanwege  de  grote  potentie  voor  biogasproductie  in  gemeente  Deurne  en  ook  omliggende 
+gemeenten,  is  extra  aandacht  voor  dit  onderwerp  nodig.  Al  tijdens  het  schrijven  van  deze 
+Transitievisie  Warmte  zijn  met  de  drie  gemeenten  Someren,  Gemert-Bakel  en  Deurne  en 
+belanghebbenden zoals ZLTO gesprekken opgestart. Het doel was om te inventariseren wat 
+de  mogelijkheden  zijn  om  de  biogaspotentie  te  benutten  en  hoe  hier  tegenaan  wordt  gekeken.  De 
+komende jaren zal op regionaal niveau verder worden uitgewerkt welke lokale partijen mee willen werken 
+aan de productie en levering van biogas. Ook landelijk wordt gekeken hoe biogas het beste kan worden 
+ingezet. Gemeente Deurne zal samen met omliggende gemeenten de rol op zich nemen om de strategie 
+voor  inzet  van  biogas  uit  te  werken.  Waar  mogelijk  speelt  de  gemeente  een  coördinerende  rol  tussen 
+eventuele leveranciers en afnemers. Dit zal in de komende jaren verder duidelijk worden.  
+ 
+ 
+ 
+
+6.5 Financiering  
+Onderzoek uitvoeringskosten klimaatakkoord 
+De uitvoering van de plannen vraagt  capaciteit (mensen en middelen) van de gemeente.  Het uitvoeren 
+van de plannen vraagt extra capaciteit van de gemeente. Met het artikel 2 onderzoek “Uitvoeringskosten 
+van het klimaatakkoord heeft de Raad voor Openbaar Bestuur” (ROB) uit laten zoeken dat een gemeente 
+als Deurne 13 fte nodig heeft om de extra taken uit het klimaatakkoord uit te voeren. Dit is een gemiddelde 
+raming als tussenstap naar macrocijfers.  
+Na  de  coalitieonderhandelingen  van  een  nieuw  kabinet  in  2021  wordt  bekend  of  en  zo  ja  hoeveel 
+capaciteit de gemeenten gecompenseerd krijgen voor deze  taken. Deze middelen voor extra capaciteit 
+zullen op zijn vroegst in 2022 ingezet kunnen worden. Het rapport van het artikel 2 onderzoek is hier te 
+vinden. 
+Het  rapport  omvat  meerder  thema’s  binnen  de  energietransitie  en  gaat  dus  verder  dan  de  benodigde 
+middelen voor de programmaonderdelen uit deze TVW.  
+ 
+Inzet en fte’s 
+De ambtelijke inzet en die van maatschappelijke partners en inwoners in deze paragraaf benoemde uren 
+is een indicatie. Afhankelijk van de vervolgstappen en de afspraken met maatschappelijke partners bij het 
+opstellen van de uitvoeringsplannen zal dit verder worden geconcretiseerd.  
+Alle  programmaonderdelen  zijn  een  coproductie  tussen  gemeente  en  maatschappelijke  partners  en/of 
+inwoners. Hierbij kunnen zij geld, capaciteit, creativiteit en ideeën inzetten. Al deze vormen van inzet wordt 
+per programmaonderdeel vertaald naar fte’s, aansluitend op het artikel 2 onderzoek van ROB.  
+ 
+Extra ambtelijke capaciteit 
+1 fte projectleider duurzaamheid is nodig om de programmaonderdelen te coördineren. Daarnaast zal 0,4 
+fte ondersteuning voor de projectleider nodig zijn. Totaal is 1,4 fte extra ambtelijke capaciteit nodig. Dit is 
+gedekt uit de begrotingssaldi 2020.  
+ 
+Disclaimer:  de  benoemde  fte’s  per  programmaonderdeel  gaan  niet  over  extra  benodigde  capaciteit 
+(exclusief  de  hierboven  benoemde  1,4  fte).  Het  opstellen  van  de  uitvoeringsplannen  wordt  door  de 
+meerderheid van de ambtenaren uitgevoerd onder reguliere werkzaamheden.  
+ 
+
+ 
+
+TVW gemeente Deurne 
+
+37 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Programmaonderdeel 1 
+Aanpak verkenningsbuurten/ opstellen buurtuitvoeringsplan 
+Het opstellen van buurtuitvoeringsplannen omvat de brede voorbereiding op de aanpak van een wijk. Dat 
+omvat veel afstemming, communicatie en participatie samen met bewoners. De ramingen gaan over de 
+inzet  van  projectleiders,  beleidsmedewerkers,  communicatie-  en  participatiemedewerkers  en  soms 
+deskundigen op het gebied van bouw, energie isolatie, financiën en dergelijke. We ramen een gemiddelde 
+inzet in schaal 11, zoals gehanteerd in het onderzoek van ROB. 
+ 
+Verdeling inzet (per jaar) 
+Wij  gaan  inzetten  op  een  3-deling  voor  de  verdeling  van  de  benodigde  kosten.  Hiervoor  worden  nog 
+concrete afspraken gemaakt met onze partners. 
+
+- 
+- 
+- 
+
+1,3 fte gevuld door ambtelijke inzet  
+1,3 fte inhuur gefinancierd door gemeente Deurne (met name technisch en financieel advies) 
+0,4 fte ingevuld door maatschappelijke partners en inwoners (energiecoöperatie, woningcoöperatie, 
+netbeheerder, werkgroep, bank, etc.) 
+
+ 
+Begrootte kosten 2020: 
+In de begroting van 2020 zijn middelen vrijgegeven voor het opstellen van de  buurtuitvoeringsplannen. 
+Naast de ambtelijke inzet is voor 
+
+- 
+- 
+
+2021 € 80.000-, geraamd 
+2022 € 80.000-, geraamd 
+
+ 
+De kosten voor het inhuren van technisch en financieel advies zijn gedekt in de begrotingssaldi 2020. 
+ 
+Toelichting ambtelijke inzet 
+Voor het opstellen van een buurtuitvoeringsplan is ambtelijke inzet nodig van verschillende teams binnen 
+de gemeentelijke organisatie. De aanpak voor een verkenningsbuurt vraagt om advisering, dit is in lijn met 
+reguliere werkzaamheden. 
+ 
+
+Team  
+Ruimte Ontwikkeling 
+
+BOR 
+
+Expertise/rollen  
+beleidsontwikkelaars, 
+projectleiders en medewerkers RO 
+Planningen  openbare  ruimte  en 
+advies op uitvoering  
+
+Capaciteit  
+1,15 fte 
+
+0,05 fte 
+
+Financiën,  Juridische  Zaken  en 
+Personeel 
+Informatiemanagement 
+Communicatie 
+
+en 
+
+inkoop  en 
+
+Juridisch, 
+advies 
+Communicatie  
+
+financieel 
+
+0,05 fte 
+
+0,05 fte 
+
+ 
+ 
+Uitvoeren van een buurtuitvoeringsplan  
+Bij  besluitvorming  (go/  no  go)  van  een  buurt  zal  in  het  buurtuitvoeringsplan  een  hoofdstuk  over  de 
+financiële uitvoerbaarheid worden opgenomen. In voorliggend rapport kunnen daarom geen uitspraken 
+over  de  benodigde  ambtelijke  capaciteit  en  de  kosten  worden  gedaan.  Daarvoor  is  verder  onderzoek 
+nodig middels de aanpak van de verkenningsbuurten.  
+ 
+Gemeenten geven in het onderzoek van ROB aan dat er ongeveer twee fte per buurt per jaar nodig is voor 
+de uitvoering van het buurtuitvoeringsplan. 
+
+Programmaonderdeel 2  
+Verzorgen gemeentebrede communicatie (inclusief energieloket)  
+Met ‘gemeentebreed’ wordt hier bedoeld dat een activiteit niet op een specifieke buurt gericht  is, maar 
+op  alle  inwoners  van  de  gemeente.  Zo  stelt  het  Klimaatakkoord  dat  er  een  energieloket  onder 
+verantwoordelijkheid  van  de  gemeente  moet  zijn.  Maar  ook  gemeentebrede  programma’s  om 
+
+ 
+
+TVW gemeente Deurne 
+
+38 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+bijvoorbeeld zonnepanelen op of verduurzamen van woningen  te stimuleren,  vallen onder deze taak. In 
+het rapport van ROB wordt de inzet benodigd voor communicatie berekend met een schaal 9 functie. 
+ 
+Verdeling inzet (per jaar) 
+Wij  gaan  inzetten  op  een  2-deling  voor  de  verdeling  van  de  benodigde  kosten.  Hiervoor  worden  nog 
+concrete afspraken gemaakt met onze partners. 
+
+- 
+- 
+
+0,5 fte gevuld door ambtelijke inzet  
+0,2 fte door Energiehuis Slim Wonen (met daarbij betaalde krachten en vrijwillige 
+energieambassadeurs) 
+ 
+
+Begrootte kosten 2020: 
+In de begroting van 2020 zijn middelen vrijgegeven voor het energieloket 
+
+- 
+- 
+
+2021 € 15.000-, geraamd 
+2022 € 15.000-, geraamd 
+
+ 
+De deelname in Energiehuis Slim Wonen wordt gedekt door de begrotingssaldi 2020.  
+ 
+Toelichting ambtelijke inzet 
+Een communicatieadviseur en projectleider zijn nodig voor de inzet in de gemeentebrede communicatie. 
+
+Programmaonderdeel 3  
+Aanpak bedrijventerreinen, utiliteit en maatschappelijk vastgoed  
+Van overheden wordt gevraagd dat zij het goede voorbeeld geven met het verduurzamen van hun eigen 
+vastgoed, zoals het gemeentehuis.  
+Bedrijven zijn nu al verplicht om energiebesparende maatregelen te treffen als die zichzelf binnen vijf jaar 
+terugverdienen. Hiervoor handhaven wij al op de CO2-besparingsplicht.  
+Bij  maatschappelijk  vastgoed  is  soms  de  gemeente  zelf  eigenaar  van  deze  gebouwen,    soms  heeft  de 
+gemeente  een  subsidierelatie  met  de  eigenaar,  en  soms  heeft  ze  nauwelijks  een  formele  relatie.  Hoe 
+directer de relatie, hoe meer inzet er van de gemeente nodig is.  
+In het rapport van ROB wordt de inzet benodigd voor dit programmaonderdeel berekend met een schaal 
+11 functie. 
+ 
+Verdeling inzet (per jaar) 
+Wij  gaan  inzetten  op  een  2-deling  voor  de  verdeling  van  de  benodigde  kosten.  Hiervoor  worden  nog 
+concrete afspraken gemaakt met onze partners. 
+
+- 
+- 
+
+0,2 fte gevuld door ambtelijke inzet  
+0,5 fte door bedrijven, maatschappelijke partners en ODZOB  
+ 
+
+Begrootte kosten 2020: 
+In de begroting van 2020 zijn middelen vrijgegeven voor verduurzamen gebouwde omgeving  
+
+- 
+- 
+
+2021 € 15.000-, geraamd 
+2022 € 15.000-, geraamd 
+
+ 
+De  middelen  benodigd  voor  realisatie  van  de  taken  in  programmaonderdeel  3  wordt  gedekt  door  de 
+begrotingssaldi 2020. In de werkvoorraad van ODZOB zit ook een deel van de uitvoering geborgd, zoals 
+de handhaving op CO2 besparingsplicht.  
+ 
+Toelichting ambtelijke inzet 
+De  coördinator  Onderhoud  &  Beheer  gemeentelijk  vastgoed,  projectleider,  medewerker  economische 
+zaken en beleidsmedewerker maatschappelijke voorzieningen zetten zich in voor programmaonderdeel 
+3.  
+
+Programmaonderdeel 4  
+Onderzoek naar de inzet van biogas 
+
+ 
+
+TVW gemeente Deurne 
+
+39 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Gemeente  Deurne  zal  samen  met  omliggende  gemeenten  de  rol  op  zich  nemen  om  de  strategie  voor 
+inzet van biogas uit te werken.  
+
+ 
+
+Begrootte kosten 2020: 
+In de begroting van 2020 zijn middelen vrijgegeven voor onderzoek naar biogas 
+
+- 
+- 
+
+2021 € 10.000-, geraamd 
+2022 € 10.000-, geraamd 
+
+ 
+De onderzoekskosten worden gedekt uit de begrotingssaldi 2020. 
+ 
+Toelichting ambtelijke inzet 
+De beleidsontwikkelaar duurzaamheid zet zich in als coördinator vanuit de gemeente Deurne. 
+
+Programmaonderdeel 5  
+Monitoren en herijken transitievisie warmte 
+De transitievisie warmte moet worden gemonitord, en regelmatig worden herijkt.39 Het herschrijven zelf 
+hoeft maar eens in de vijf jaar te gebeuren en vereist dus (gemiddeld over die vijf jaar) maar een beperkte 
+hoeveelheid werk. Monitoring rondom transitievisie warmte vraagt wel substantiële inzet. Veel gemeenten 
+zien de monitoring van de voortgang als een lichte vorm van programmamanagement van de hele pijler 
+gebouwde  omgeving.  In  het  rapport  van  ROB  wordt  de  inzet  benodigd  voor  dit  programmaonderdeel 
+berekend met een schaal 11 functie. 
+ 
+Verdeling inzet (per jaar) 
+
+- 
+
+0,05 fte gevuld door ambtelijke inzet  
+ 
+
+Begrootte kosten 2020: 
+In de begroting van 2020 zijn middelen vrijgegeven voor verduurzamen gebouwde omgeving  
+
+- 
+
+2021 € 10.000-, geraamd 
+
+ 
+De kosten voor de koppeling tussen de TVW en de uitvoering van de programmaonderdelen is gedekt in 
+de begrotingssaldi 2020.  
+ 
+Toelichting ambtelijke inzet 
+De beleidsontwikkelaar duurzaamheid zorgt voor de doorontwikkeling van de TVW. 
+ 
+
+ 
+
+TVW gemeente Deurne 
+
+40 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Bijlage A Overzicht betrokkenen en hun rollen 
+
+ 
+De Transitievisie Warmte moet gedragen worden door de hele gemeente. Daarom is er gekozen de 
+belangrijkste partijen allemaal op een passende manier te betrekken. Dit traject is samen met gemeente 
+Gemert-Bakel en Someren uitgevoerd, wat betekent dat sommige activiteiten gezamenlijk opgepakt zijn.  
+ 
+Er is gewerkt in een kernteam met projectleiders van de drie gemeenten en met adviseurs van de 
+WarmteTransitieMakers. Daarnaast zijn er workshops gehouden met professionele belanghebbenden. 
+De werkgroep bestond uit de beleidsadviseurs van de 3 gemeenten, de netbeheerder Enexis, de 
+woningcorporaties (voor Deurne: woningbouwvereniging Bergopwaarts), en de energie coöperaties 
+(voor Deurne: Energy Port Peelland). In de werkgroep is stap voor stap gewerkt om de Transitievisie 
+Warmte op te stellen. Inwoners en ondernemers zijn ook gevraagd om mee te denken. In twee 
+inwonersavonden en door inzet van een enquête zijn inwoners geïnformeerd over de Transitievisie 
+Warmte. Daar is opgehaald welke aandachtspunten en uitgangspunten belangrijk zijn. 
+Bedrijvenvertegenwoordigers, dorpsraden, het waterschap en andere belanghebbenden hebben ook 
+gelegenheid gekregen om feedback te geven op de Transitievisie Warmte. De gemeenteraad heeft de 
+verantwoordelijkheid om de Transitievisie Warmte vast te stellen en de wethouder moet de 
+gemeenteraad hierin adviseren. Gedurende het traject om te komen tot een definitieve versie zijn de 
+wethouder en de gemeenteraad daarom regelmatig geïnformeerd over de voortgang. 
+ 
+
+ 
+
+Figuur 12 Overzicht van betrokken partijen bij het opstellen van de Transitievisie Warmte.  
+ 
+Toelichting op de rol van de verschillende partijen  
+
+ 
+
+•  Gemeente Deurne: Wij, de gemeente, voeren de regie in het traject naar een TVW en daarna in de 
+realisatie van de warmtetransitie. We organiseren het proces en zorgen voor de projectcoördinatie. 
+We betrekken alle partijen, stellen projectbegeleiders aan en dragen inhoudelijk bij vanuit de doelen 
+en de rol die de gemeente speelt in gebieds- en wijkontwikkelingen. We leveren input en data aan 
+over  de  buurtkarakteristieken  en  ontwikkelplannen,  zoals  vervanging  van  riolering  en  andere 
+wijkontwikkelingen.  Ook  spelen  we  een  belangrijke  rol  in  de  communicatie  richting  bedrijven, 
+instellingen  en  inwoners.  In  de  toekomst  houden  we  ons  bezig  met  het  ontwikkelen  van 
+buurtuitvoeringsplannen.  We spelen, wanneer dit aan de orde is, in op buurtinitiatieven. De reeds 
+aangekondigde  nieuwe  Warmtewet  beschrijft  ook  een  rol  voor  de  gemeente  om  aan  te  (kunnen) 
+sturen op de ontwikkeling van warmtenetten. Welke rol we hierin in nemen hangt van verschillende 
+factoren af. De visie hierop zal in de komende jaren ontwikkeld worden. 
+
+•  Woningbouwvereniging Bergopwaarts: De woningbouwvereniging bezit ca 3000 woningen (10% 
+van  het  totaal  aantal  woningen)  in  Deurne.  In  de  werkgroep  draagt  ze  bij  door  de  ontwikkel-  en 
+renovatieplannen  en  de  visie  op  de  warmtetransitie  vanuit  hun  vastgoed  in  te  brengen.  Hierdoor 
+kunnen plannen over investeringen in infrastructuur en vastgoed op elkaar afgestemd worden. Ook 
+heeft de woningbouwvereniging veel kennis over kosten en haalbaarheid. Uiteindelijk resulteert dit 
+
+ 
+
+TVW gemeente Deurne 
+
+41 
+
+ 
+
+ 
+
+ 
+
+ 
+
+• 
+
+• 
+
+• 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+in een investeringsbesluit. Tot slot speelt ze een belangrijke rol in de communicatie richting inwoners. 
+Door  deelname  van  de  woningbouwvereniging  in  de  werkgroep  willen  we  zorgen  dat  de 
+communicatie naar eigenaren en huurders in de buurt eenduidig en goed op elkaar afgestemd is.  
+Energy  Port  Peelland:  Energy  Port  Peelland  geeft  ondersteuning  aan  individuele  inwoners  bij 
+verduurzaming van de woning. Ook ondersteunen ze bij het verduurzamen van de gebouwen van 
+bedrijven.  Ze  zijn  ook  betrokken  bij  het  Deurnense  energieloket  waarmee  de  inwoners  kunnen 
+onderzoeken hoe ze hun woning beter kunnen isoleren en hoe ze een energiescan kunnen uitvoeren. 
+Enexis:  Enexis  beheert  het  aardgas-  en  elektriciteitsnet  en  draagt  bij  met  haar  kennis  over 
+mogelijkheden voor (collectieve) energieoplossingen. Een belangrijk speerpunt daarbij is het bepalen 
+van  het  moment  waarop  geïnvesteerd  kan  worden  en  wanneer  (onder  welke  voorwaarden)  dit 
+wenselijk is. Ook kijkt Enexis naar de (on)mogelijkheden van het elektriciteitsnetwerk die er zijn om 
+elektrische warmtepompen op buurtniveau in te zetten. De lange termijn visie van Enexis is dat ze 
+het (aard)gasnetwerk gaan gebruiken voor duurzame gassen, zoals groengas, blauwe waterstof en 
+groene  waterstof.  Er  lopen  momenteel  allerlei  proeftuinen  en  pilots  om  te  kijken  hoe  deze 
+alternatieve gassen zich gedragen binnen het bestaande netwerk. 
+Inwoners/in  Deurne  gevestigde  kantoren:  Tijdens  het  opstellen  van  de  Transitievisie  Warmte 
+wordt  inwoners  gevraagd  om  hun  wensen  en  vragen.  Er  is  nog  geen  verplichte  rol  voor 
+inwoners/kantooreigenaren  tijdens  het  opstellen  van  de  transitievisie.  Wanneer  er  een  buurt 
+uitvoeringsplan wordt opgesteld, zullen gemeente en inwoners samen moeten optrekken om een 
+plan  te  maken  dat  aansluit  bij  de  eisen  en  wensen  van  inwoners.  Tijdens  de  uitvoering  bepalen 
+woningeigenaren op welke manier hun huis wordt geïsoleerd en met welke warmtevoorziening ze 
+gaan werken.  
+
+TVW gemeente Deurne 
+
+42 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Bijlage B Afwegingskader 
+
+ 
+Criteria aardgasvrije technieken 
+ 
+Bij  de  keuze  van  een  aardgasvrije  warmtevoorziening  wegen  allerlei  aspecten  mee,  zoals  kosten, 
+duurzaamheid en betrouwbaarheid. We maken de keuze op grond van de onderstaande criteria, die onder 
+de afbeelding verder worden toegelicht. 
+ 
+ 
+
+ 
+
+Duurzaamheid, milieu 
+Benodigde hoeveelheid primaire energie – Primaire energie wordt gedefinieerd als de energie die nodig 
+is  aan  de  bron  om  de  uiteindelijke  warmtevraag  te  dekken.  Er  wordt  dus  rekening  gehouden  met  de 
+energie  die  verloren  gaat  tijdens  transport,  opslag  en  conversiestappen  in  de  keten,  en  een  positieve 
+bijdrage vanuit omgevingswarmte. Een warmteoplossing met een lage primaire energievraag en goede 
+efficiëntie legt minder beslag op de (veelal schaarse) energie-/warmtebronnen. Voor de berekening wordt 
+aangesloten bij de definities uit de BENG-norm. 
+ 
+CO2-uitstoot – De totale uitstoot van CO2-equivalenten in het uiteindelijke warmteconcept. We bekijken 
+alleen de CO2-uitstoot van verwarming, koeling, warm tapwater en ventilatie. Voor de berekening wordt 
+aangesloten bij de aannames en definities uit Startanalyse Leidraad Transitievisie Warmte van het PBL. 
+ 
+Omgevingsimpact, ruimtebeslag – Hoeveel ruimte neemt de oplossing in beslag? Is er negatieve impact 
+op het landschap, of op de ruimtelijke kwaliteit in de buurt? 
+ 
+Kwaliteit lucht, water en bodem – Heeft de gekozen oplossing een positieve of negatieve impact op de 
+luchtkwaliteit, bodem- of waterkwaliteit? Hieronder vallen: 
+
+• 
+• 
+
+toepassing 
+
+Luchtkwaliteit: de uitstoot van onder andere fijn stof, roet en stikstofoxiden. 
+Bodemkwaliteit: 
+bodemenergie, of juist versnelde afbraak verontreinigde stoffen bij toepassing bodemenergie.  
+•  Waterkwaliteit: invloed (positief of negatief) op de waterkwaliteit en de biodiversiteit in het water 
+
+risico  op  verspreiding  van  bodemverontreinigingen  bij 
+
+ 
+Duurzaamheid  in  de  keten  –  Leidt  de  oplossing  tot  negatieve  milieu-impact  elders,  bijvoorbeeld 
+ontbossing, of uitputting van schaarse grondstoffen? 
+Sociaal 
+Draagvlak  –  Is  er  draagvlak/acceptatie  onder  de  inwoners  en  lokale  ondernemers  in  de  buurt  voor  de 
+gekozen oplossing?  
+ 
+Inpasbaarheid  &  wenselijkheid  in  de  woning  –  Hoe  goed  is  de  oplossing  inpasbaar  in  de  woning? 
+Neemt de oplossing veel ruimte in de woning in beslag? Is er een ingrijpende verbouwing nodig?  
+ 
+
+ 
+
+TVW gemeente Deurne 
+
+43 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Gezondheid, welzijn, leefbaarheid – Heeft de gekozen oplossing een positieve of negatieve impact op 
+de directe leefomgeving? Is er een effect op gezondheid of leefbaarheid? Hieronder vallen: 
+
+•  Geluidhinder: geeft de gekozen techniek geluidhinder binnen de woning of op de omgeving? 
+• 
+•  Comfort: verandert het comfort van de woning? (negatief dan wel positief) 
+
+Binnenklimaat: leidt de oplossing tot (on)gezondere lucht binnenshuis? 
+
+ 
+Overlast - Kunnen we de overlast beperkt houden?  
+ 
+Economisch 
+Nationale kosten - De totale kosten van alle maatregelen die nodig zijn om een warmteoplossing uit te 
+voeren,  ongeacht  wie  die  kosten  betaalt,  inclusief  de  baten  van  energiebesparing,  maar  exclusief 
+belastingen, heffingen en subsidies. Voor de berekening wordt aangesloten bij de Startanalyse Leidraad 
+Transitievisie Warmte van het PBL. 
+ 
+Kosten  voor  de  eindgebruiker  –  Alle  kosten  die  een  eindgebruiker  betaalt  voor  de  omschakeling  op 
+aardgasvrij  verwarmen.  Dat  zijn  zowel  de  maandelijkse  energielasten  als  kosten  voor  (het  gebruik  van) 
+installaties en isolatie. Alle subsidies en belastingen zijn hierin verwerkt. Eindgebruikers zijn huurders en 
+eigenaar-gebruikers van gebouwen (inwoners en ondernemers). 
+ 
+Kwaliteit business case – Een gezonde robuuste business case voor alle partijen zorgt dat investeringen 
+beschikbaar komen en vermindert het risico dat projecten niet van de grond komen of stil komen te liggen. 
+ 
+Onzekerheid in prijsstelling – Grote financiële risico’s worden zoveel mogelijk vermeden. Voor inwoners 
+moet duidelijk zijn wat hun lasten zullen worden. Kan gegarandeerd worden dat zij niet voor verrassingen 
+komen te staan, bijvoorbeeld door een elektriciteitsverbruik dat veel hoger blijkt dan voorspeld? 
+ 
+Juridisch kader – Moet er juridisch nog veel geregeld worden om deze oplossing mogelijk te maken? Is 
+de wet- en regelgeving al passend?  
+ 
+Technologisch 
+Beschikbaarheid bronnen – Is de bron in voldoende mate aanwezig?  Is de bron nu en in de toekomst 
+rendabel  te  exploiteren?  Het  optimaal  benutten  van  de  lokaal  beschikbare  (warmte)bronnen  heeft  de 
+voorkeur boven het importeren van energie van buiten de gemeente.  
+ 
+Onzekerheid in performance – Is het een bewezen techniek? Als het een nieuwe techniek is, wat kan er 
+gezegd worden over de performance?  
+  
+Veiligheid – Zijn er risico’s voor de (externe) veiligheid verbonden met de techniek? In hoeverre kunnen 
+deze risico’s worden beheerst? 
+ 
+Robuustheid, continuïteit – Leveringszekerheid van de warmtevoorziening is cruciaal. Brengt de gekozen 
+techniek een groter risico op uitval of storingen met zich mee, dan we van het huidige energiesysteem 
+gewend zijn? Als er iets uitvalt, is er dan een vervanging (back-up)?  
+ 
+Meekoppelkansen - Hoe goed sluit de oplossing aan bij andere ontwikkelingen in de buurt? Zijn er qua 
+timing meekoppelkansen, bijvoorbeeld met groot onderhoud, vervanging van riolering of asfalt of aanleg 
+van glasvezel? Maar ook: hoe goed past de oplossing bij de gebiedsontwikkeling? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+TVW gemeente Deurne 
+
+44 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Bijlage C Analyses, kaarten & kentallen  
+
+In Figuur 13 zien we de bouwjaren in gemeente Deurne op de kaart. 
+
+Figuur 13  Bouwjaren in gemeente Deurne en gemarkeerde locaties van bedrijventerreinen 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+TVW gemeente Deurne 
+
+45 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Toelichting toekomstige warmtevraag: 
+Onderstaande Tabel 2 geeft van de verschillende gebruikers de huidige warmtevraag aan in de middelste 
+kolom. De rechterkolom geeft de verwachte toekomstige warmtevraag.   
+ 
+Tabel 2 Warmtevraag in gemeente Deurne onderverdeeld in verschillende gebruikerscategorieën. Binnen 
+de Transitievisie Warmte richten we ons op de categorie ‘gebouwde omgeving’. Hieronder vallen 
+woningen, commerciële dienstverlening en publieke dienstverlening.  
+
+Categorie 
+
+Huidige 
+warmtevraag (TJ) 
+
+Toekomstige 
+warmtevraag (TJ) 
+
+Op basis van aardgasgebruik 
+-woningen 
+-Commerciële dienstverlening 
+-Publieke Dienstverlening 
+-Landbouw, Bosbouw en Visserij* 
+-Industrie, energie, water en afval 
+Hernieuwbare energie 
+-Houtkachels woningen 
+-Overige installaties 
+Totalen 
+-Gebouwde omgeving 
+-Gebouwde 
+hernieuwbaar 
+-Landbouw & industrie 
+
+omgeving 
+
+inclusief 
+
+1284 
+674 
+
+141 
+
+64 
+
+274 
+
+131 
+123 
+24 
+
+99 
+
+ 
+
+879 
+
+1.002 
+
+404 
+
+958 
+
+531 
+
+99 
+
+45 
+
+191 
+
+91 
+
+76 
+
+37 
+
+39 
+
+ 
+
+675 
+
+750 
+
+283 
+
+ 
+* Hieronder valt ook kassenbouw. Een opsplitsing in subcategorieën is niet openbaar beschikbaar.  
+ 
+Om een inschatting te maken van de verwachte energiebesparing, en dus de toekomstige warmtevraag, 
+van  woningen  tot  2050  is  een  analyse  gemaakt  die  rekening  houdt  met  de  woningvoorraad  in  Deurne 
+(bouwjaar,  energielabel,  oppervlakte  van  de  woningen).  De  labelstappen  die  gezet  kunnen  worden  zijn 
+ingeschat, waarbij economisch rendabele isolatie het uitgangspunt is. In Tabel 3 is te zien wat landelijk 
+gezien de verwachte energiebesparing is voor een huis uit een bepaalde bouwperiode. Huizen van voor 
+1920 bijvoorbeeld, zitten vaak op een energielabel G en zijn tot een energielabel C of D te isoleren. Deze 
+isolatiestap  betekent  een  energiebesparing  van  18%.  Voor  de  verschillende  bouwperiodes  gelden 
+verschillende rendabele labelstappen en besparingspotenties.  
+ 
+Tabel 3 Voorspelde energiebesparing en verbetering van het energielabel door isolatie. We gaan uit van 
+de isolatie die economisch rendabel is. De mogelijke besparing is berekend door (via kengetallen33) de 
+warmtevraag van het huidige en het toekomstige energielabel te vergelijken.  
+
+ 
+Op  de  volgende  pagina  is  de  warmtedichtheid  voor  bedrijven  in  beeld  gebracht.  In  de  Transitievisie 
+Warmte  kijken  we  naar  de  warmtevraag  om  een  beeld  te  krijgen  van  hierbij  passende  duurzame 
+warmtebronnen.  De  warmtevraagdichtheid  voor  bedrijven  is,  vanwege  de  grote  diversiteit  van 
+
+ 
+
+33 Bron: adviesbureau Greenvis 
+
+ 
+
+ 
+
+TVW gemeente Deurne 
+
+46 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+bedrijfsfuncties, niet heel nauwkeurig vast te stellen. De volgende figuur geeft toch een indicatie met een 
+onnauwkeurigheid van ca 30%.  
+
+ 
+
+Figuur 14 Warmtevraagdichtheid utiliteit. De warmtevraag voor utiliteit is gebaseerd op landelijke 
+gemiddeldes voor verschillende gebruiksdoeleinden. Deze getallen zijn minder robuust dan de kentallen 
+voor woningen. De kaart geeft wel een goede indicatie waar de utiliteit in de gemeente geclusterd is.  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+TVW gemeente Deurne 
+
+47 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Bijlage D Niet of beperkt aanwezige 
+warmtebronnen 
+
+ 
+In de warmtebronneninventarisatie zijn een aantal bronnen naar voren gekomen die op het eerste oog 
+niet kansrijk zijn voor gebouwde omgeving. Ter volledigheid zijn deze bronnen hieronder kort toegelicht. 
+ 
+
+Restwarmte Bedrijven 
+
+ 
+
+Aquathermie 
+ 
+
+Biomassa 
+
+ 
+
+In  gemeente  Deurne  bevinden  zich  een  aantal  supermarkten  die  een 
+relatief kleine potentie voor restwarmte( uit koeling) hebben (< 5 TJ). De 
+potentie is dusdanig klein en/of de locatie te ver (> 1 km) van gebieden 
+waar een collectieve oplossing  kansrijk is. Daarom zijn deze bronnen niet 
+opgenomen in de bronnenkaart. Het gaat om: 
+ 
+- 
+- 
+- 
+- 
+- 
+ 
+Daarnaast  is  er  een  grote  Kalkzandsteenfabriek  in  de  gemeente,  maar 
+deze ligt ver van de bebouwde kom. De restwarmte potentie hiervan is 
+onbekend. 
+ 
+
+Albert Heijn Deurne 
+Jan Linders Deurne 
+Jumbo Deurne 
+VOF Bouwmans-Janssen c1000 Deurne 
+Phicoop Kessel Neerkant 
+
+Voor de mogelijkheden voor de inzet van aquathermie is gekeken naar 
+oppervlaktewateren  die  dichtbij  de  bebouwde  kom  liggen  én  een 
+potentie  voor  warmtewinning  groter  dan  5  TJ  per  jaar  hebben.  Hierom 
+worden  kleine  sloten  en  plassen  niet  genoemd,  maar  op  heel  lokaal 
+niveau  (klein-collectief)  kan  oppervlaktewater  voor  een  rijtje  woningen 
+een mogelijkheid zijn. 
+ 
+Daarnaast is er een tweetal wateren die een potentie voor warmtewining 
+groter dan 5 TJ hebben, maar te ver van een mogelijk afzetgebied liggen. 
+Dat zijn: 
+ 
+- 
+Buntven (10 TJ) en 
+-  Helenavaart (9 TJ) 
+Nabij  dorpskern  Deurne  ligt  het  riviertje  de  Vlier  waarvan  nog  verder 
+onderzocht moet worden wat de ecologische draagkracht is om hieruit 
+warmte te onttrekken. 
+ 
+-  De Vlier (max.  9 TJ) 
+
+ 
+
+Bij  Hymerka  B.V. 
+is  een  SDE  subsidies  aangevraagd  voor  een 
+biomassaketel. Hier wordt vaste biomassa uit snoeithout ingezet voor de 
+productie van warmte. Hoewel de biomassa die hier gebruikt wordt, dus 
+niet ergens anders ook ingezet kan worden, is het waardevol om dit soort 
+bestaande projecten op de radar te hebben. 
+
+ 
+Opkomende technieken, nog niet beschikbaar 
+Waterstof 
+
+Waterstof is geen energiebron, maar een energiedrager. Om waterstof te maken wordt tot 
+nog toe meestal elektriciteit gebruikt uit fossiele gas- en kolencentrales (grijze waterstof). In 
+de warmtetransitie is het nodig om groene energie te gebruiken (groene waterstof). Groene 
+waterstof wordt gemaakt door groene stroom en water bij elkaar te brengen (elektrolyse). 
+Groene waterstof is vooralsnog duur en schaars, en zal dat voorlopig waarschijnlijk blijven. 
+
+ 
+
+TVW gemeente Deurne 
+
+48 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Waterstof is bij uitstek geschikt om hoge temperaturen warmte mee te maken. Het is dan ook het meest 
+logisch om waterstof in te zetten waar hoge temperaturen noodzakelijk zijn. In de meeste toekomstvisies 
+worden vooral de industrie, zwaar transport en de vliegtuigsector genoemd als de sectoren waar waterstof 
+het meeste bijdraagt aan verduurzaming. Ook wordt een rol van waterstof voorzien in het balanceren van 
+het elektriciteitsnet. Waterstof wordt opgeslagen om stroom te produceren als er tijdelijk minder zonne- 
+en windenergie wordt opgewekt. Er moet dus kritisch gekeken worden waar waterstof het meest logisch 
+is om in te zetten.  
+ 
+Een  voordeel  van  de  inzet  van  waterstof  is  dat  –  met  beperkte  aanpassingen  –  het  bestaande  gasnet 
+gebruikt kan blijven worden. Een overstap naar waterstof heeft daarom het voordeel dat het minder grote 
+ingrepen  in  de  openbare  ruimte  vraagt.  Ook  zijn  de  vereiste  ingrepen  in  de  woning  beperkt,  omdat 
+waterstof warmte kan leveren op hoge temperatuur. Omdat waterstof duur (veel duurder dan aardgas) is, 
+zal voldoende isolatie van de woning wenselijk blijven. De cv-ketel dient aangepast te worden, ook moet 
+per woning worden nagegaan of de leidingen in de woning veilig zijn voor toepassen van waterstof. In 
+Nederland wordt tot aan 2030 zeer beperkt ingezet op kleinschalige pilots. Ook omdat er (goedkopere) 
+alternatieven  voorhanden  zijn.  Maar  voor  lastig  te  verwarmen  gebouwen  zoals  monumenten  is  een 
+hybride oplossing met waterstof in de toekomst wellicht een optie.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+TVW gemeente Deurne 
+
+49 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Bijlage E Toelichting Startanalyse Leidraad 
+
+ 
+De startanalyse Leidraad is een rekentool die landelijk beschikbaar wordt gesteld. De tool geeft gemeenten 
+inzicht in de alternatieven voor aardgas per CBS buurt en geeft ook een indicatie van de kosten.  Er zijn 
+een aantal landelijke aannames/datasets gebruikt die op lokaal niveau mogelijk niet kloppen, daarom een 
+korte omschrijving van de werking van de Startanalyse Leidraad: 
+ 
+• 
+
+Er worden diverse informatiebronnen in het model gezet. Zo wordt er een inschatting gemaakt van 
+de grootte van potentie van warmtebronnen (Deze potentie is vaak te ruim ingeschat).  
+
+•  De Leidraad startanalyse geeft  op basis van alle input tot op woningniveau een inschatting van de 
+kosten per warmteoptie. Er worden meerdere scenario’s door gerekend. Het scenario met de laagste 
+kosten wordt zichtbaar gemaakt in een kaart. Scenario’s die nét iets slechter scoren, zijn niet zichtbaar, 
+maar mogelijk wel interessant bij nader onderzoek. 
+
+•  Het model brengt de resultaten niet per individueel huis in beeld, maar per CBS-wijk of buurt. Binnen 
+een  buurt  kunnen  er  verschillen  zijn  in  de  wenselijke  warmtevoorzieningen.  In  de  Leidraad  komen 
+alleen de gemiddelde van een buurt naar voren. Dit brengt verschillen binnen een CBS buurt dus niet 
+in beeld. De CBS buurt Deurne Centrum bevat bijvoorbeeld zowel gebieden waarvoor een individuele 
+aanpak  goed  werkt,  als  gebieden  waarvoor  een  warmtenet  of  groen  gas  passend  is.  Het 
+samenvattende eindbeeld van de Startanalyse Leidraad geeft het scenario ‘individuele oplossing’ als 
+best passend voor de gehele CBS buurt.  
+
+ 
+In  Figuur  16  is  de  uitkomst  van  de  Leidraad  van  het  Expertise  Centrum  Warmte  weergegeven  voor 
+gemeente Deurne. 
+
+Figuur 16 Weergave scenario’s met de laagste nationale kosten per gereduceerde ton CO2 uitstoot uit de 
+Leidraad voor gemeente Deurne. Een groot deel van de gemeente heeft een individuele elektrische 
+warmtepomp als goedkoopste oplossing.  
+ 
+
+ 
+
+ 
+
+TVW gemeente Deurne 
+
+50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+De  uitkomsten  van  de  startanalyse  Leidraad  zijn  naast  de  analyse  uitkomsten  van  de 
+WarmteTransitieMakers gelegd. Dit geeft het volgende beeld: 
+- 
+
+Voor grote delen van de gemeente is inzet van een individuele elektrische warmtepomp het meest 
+betaalbaar. Bij de analyse van de WarmteTransitieMakers is niet op CBS niveau samengevat maar per 
+logisch cluster gekeken. Het gebied waarin Liessel en Neerkant vallen is daar gedifferentieerd naar 
+deels groen gas en deels inzet op individuele warmtepompen. 
+
+-  De inzet van groen gas is meer aanwezig op de kaart van de Startanalyse Leidraad dan op de visiekaart 
+van  de  WarmteTransitieMakers.  Ook  dit  is  te  verklaren  door  de  samenvatting  op  CBS  buurtniveau 
+door de Startanalyse Leidraad. De CBS buurt Sint Jozef Parochie in Deurne, is geheel groen gas bij de 
+Startanalyse Leidraad. De WarmteTransitieMakers kenmerken een deel van dit gebied als groen gas 
+gebied.  
+Voor CBS buurt Deurne centrum is de uitkomst individuele elektrische warmtepompen. Wanneer we 
+ook kijken wat de verschillen zijn in betaalbaarheid van de andere scenario’s, zien we dat inzet van 
+een warmtenet ook bijna even betaalbaar is. Dit sluit aan bij de analyse van de WarmteTransitieMakers 
+dat een deel van deze buurt het beste kan worden voorzien van warmtepompen en een deel met een 
+warmtenet (Figuur 17).  
+
+- 
+
+ 
+
+Figuur 17 De nationale kosten per scenario voor CBS buurt Deurne. Scenario 1: inzet van individuele 
+warmtepompen is het goedkoopste in deze buurt. Inzet van Scenario 3 een warmtenet met lage 
+temperatuur bron, is nauwelijks duurder. Scenario 4 inzet van groen gas, is het meest betaalbaar, maar 
+wordt vanwege de beperkte beschikbaarheid niet aan deze buurt toegewezen.   
+ 
+Hieronder  is  per  buurt  te  zien  wat  de  extra  nationale  kosten  per  ton  CO2  en  per  WEQ  per  jaar  zijn  ten 
+opzichte  van  het  referentiescenario  in  2030  als  we  aardgas  zouden  blijven  gebruiken.  Alle  buurten  die 
+groen gas toegewezen krijgen, zijn goedkoper dan de buurten die een individuele oplossing toegewezen 
+krijgen.  Voor  inzet  van  groen  gas  zijn  namelijk  geen  aanpassingen  aan  radiatoren  nodig.  Ook  het 
+isolatieniveau hoeft minder hoog te zijn. Vanwege beperkte beschikbaarheid van groen gas, is nog niet 
+zeker of groen gas ook in alle groen gebieden kan worden ingezet.  
+ 
+
+Figuur 18 De extra nationale kosten per ton CO2 per CBS buurt. De kleuren corresponderen met de 
+strategie die voor de CBS buurt het goedkoopste is. In gemeente Deurne voorzien de startanalyse Leidraad 
+alleen Individuele-(paars) en Groen gas oplossingen (groen). 
+
+ 
+
+ 
+
+TVW gemeente Deurne 
+
+51 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figuur 19 De extra nationale kosten per woningequivalent (WEQ. De kleuren corresponderen met de 
+Individuele (paars) en Groen gas oplossingen (groen).  
+ 
+Voor de varianten die als goedkoopste oplossingen naar voren komen, is ook gekeken naar het het verschil 
+in  kosten  met  eerste  volgende  goedkoopste  alternatief.  In  Figuur  20  is  te  zien  dat  voor  de  Groen  gas 
+oplossingen de verschillen oplopen tot 100%.  Dit betekent dat de groen gas oplossing tot wel twee keer 
+goedkoper  is  dan  het  eerste  volgende  alternatief.  Het  eerst  volgende  alternatief  is  een  individuele 
+warmtepomp  óf  een  warmtenet  oplossing.  Het  is  niet  kenmerkend  voor  gemeente  Deurne  dat  de 
+verschillen bij Groen gas zo groot zijn; de Startanalyse houdt rekening met een beperkte beschikbaarheid 
+van  Groen  gas.  Hierdoor  krijgen  alleen  de  buurten  waar  Groen  gas  duidelijk/veel  goedkoper  is  dan  de 
+alternatieven ook daadwerkelijk Groen gas toegewezen. Wat wel kenmerkend is voor gemeente Deurne, 
+is dat er relatief veel buurten Groen gas toegewezen hebben gekregen. 
+ 
+Voor de buurten die een individuele oplossingen toegewezen hebben gekregen in de Startanalyse, is het 
+verschil in extra nationale kosten per ton CO2 relatief klein met het goedkoopste alternatief. Voor deze 
+buurten wordt Groen gas niet als alternatief gezien, vanwege de beperkte beschikbaarheid van Groen gas. 
+Dat betekent dat de paarse kolommen in onderstaande grafiek het verschil in extra nationale kosten laat 
+zien  tussen  een  individuele  oplossing  en  een  warmtenet  oplossing.  Dit  kan  zijn  een  hoge-  of  lage 
+temperatuur warmtenet oplossing. Bij de warmtenet oplossingen moet wel in acht genomen worden dat 
+niet (altijd) alle woningen op het warmtenet aangesloten worden in de CBS buurt waarvoor de strategie is 
+aangewezen. Zo is voor Deurne centrum het verschil tussen inzet op een individuele oplossing en inzetten 
+op een warmtenet erg klein. Dit is in lijn met het beeld wat we schetsen in hoofdstuk 3. Voor delen van 
+Deurne Centrum is inzet van een warmtenet interessant.  
+
+Figuur 20 Verschil in extra nationale kosten tussen de goedkoopste strategie en het goedkoopste 
+alternatief daarvan 
+ 
+
+ 
+
+ 
+
+TVW gemeente Deurne 
+
+52 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Bijlage 
+financieringsmogelijkheden 
+
+F 
+
+informatie 
+
+over 
+
+ 
+Subsidies 
+Als de besparing op de energielasten niet voldoende is om een investering binnen een redelijke termijn 
+terug te verdienen, spreken we van een ‘onrendabele top’. Subsidies zijn er met name om de onrendabele 
+top  af  te  dekken,  en  soms  ter  stimulering  van  een  nieuwe  techniek.  Het  Rijk  biedt  hier  verschillende 
+subsidies voor: 
+
+-  voor particulieren: voor isolatiemaatregelen of aanschaf van installaties (ISDE, SEEH) 
+
+-  voor woningcorporaties, institutionele beleggers en particuliere verhuurders:  de SAH voor het 
+
+aardgasvrij maken van woningen met warmtenetten en de Renovatieversneller om 
+
+corporatiebezit innovatief te verduurzamen. 
+
+-  voor energieproducenten: voor het produceren van duurzame energie (SDE+) 
+
+-  voor gemeenten: o.a. de RRE-regeling (2019) en de bijdrage vanuit het Programma Aardgasvrije 
+
+Wijken (PAW). Met deze rijksbijdrage kunnen de kosten voor een hele buurtaanpak 
+
+gecompenseerd worden, waardoor dit voor alle betrokken partijen voordeliger wordt. 
+
+ 
+Aanvullend zijn er periodiek specifieke provinciale regelingen waar bijvoorbeeld de gemeente of bedrijven 
+gebruik van kunnen maken.  
+ 
+Duurzaamheidsleningen 
+Duurzaamheidsleningen  maken  het  mogelijk  om  duurzame  maatregelen  te  treffen,  zonder  dat  iemand 
+daarvoor veel eigen geld hoeft te gebruiken. Een maatregel kan namelijk een voordelige keus zijn, maar 
+niet direct te financieren met eigen middelen (zoals spaargeld). Een duurzaamheidslening moet worden 
+terugbetaald, maar kent meestal een lage rente. Er zijn verschillende duurzaamheidsleningen, waaronder: 
+
+-  Het Nationaal Warmtefonds voor particulieren en VvE’s (nationaal) 
+
+-  Energiefondsen voor initiatieven/organisaties (regionaal) 
+
+ 
+
+ 
+ 
+ 
+  
+
+ 
+
+Rekenvoorbeeld Investeringsruimte 
+ 
+Stel:  Een  inwoner  kan  650  euro  per  jaar  op  de  energierekening  besparen  door  te  isoleren  en  een 
+warmtepomp te nemen, maar hij of zij heeft geen eigen geld om de investering te doen. Hoe kan een 
+financieringsconstructie dit oplossen? 
+ 
+De besparing van 650 euro per jaar, komt over een looptijd van 30 jaar (na rentelasten) neer op circa 
+18.000 euro. Dit noem je de investeringsruimte. Een goede financieringsconstructie maakt dit bedrag 
+vooraf beschikbaar, waarbij de maandlasten van inwoners gelijk blijven. De investering en de rentelast 
+worden dan dankzij de lagere energierekening in 30 jaar terugbetaald. 
+ 
+Via  diverse  subsidies  kan  een  aanvullende  bijdrage  van  circa  5.000,-  euro  per  woning  aangevraagd 
+worden.  In  dit  rekenvoorbeeld  is  het  daarom  mogelijk  om  ongeveer  23.000  euro  in  de  woning  te 
+investeren, waarbij de maandlasten van bewoners gelijk blijven.  
+
+TVW gemeente Deurne 
+
+53 
+
+ 
+
+

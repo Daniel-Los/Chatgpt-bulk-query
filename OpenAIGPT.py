@@ -63,7 +63,7 @@ class OpenAIGPT:
                             # {"role": "user", "content": chunck + '.'}
                         ],
 
-                        temperature = 0.5,  # higher more random
+                        temperature = 0.2,  # higher more random
                         # max_tokens = 2000,  # The maximum number of tokens to generate in the completion.
                         top_p = 0.8,  # So 0.1 means only the tokens comprising the top 10% probability mass are considered.
                         frequency_penalty = 0,  # decreasing the model's likelihood to repeat the same line verbatim.
@@ -123,14 +123,14 @@ class OpenAIGPT:
         #                     "'Industrie', 'Houtstook van particuliere huishoudens', 'Binnenvaart en havens', "
         #                     "'Landbouw', 'Participatie van burgers en bedrijven', 'Monitoring' en 'geen'."
         #                     "Hier zijn de zinnen:\n")
-        categorize_mode = str("Voeg deze teksten samen zodat ze een lopende tekst vormen. De teksten geeft een "
-                              "overzicht van een documentstudie dat in delen is gedaan. Zorg er voor dat je geen "
-                              "informatie verliest.")
+        summarize_mode = str("Voeg deze teksten samen zodat ze een lopende tekst vormen. De teksten geeft een "
+                              "overzicht van een documentstudie dat in delen is gedaan. Zorg er voor dat al de "
+                              " informatie terugkomt in deze tekst en je geen informatie verliest.")
 
         # This loops through every 'stitched' output from each document.
         #
         for docname, output in outputdict.items():
-            summarized = self.generate_text_with_prompt(prompt = str(output), mode = categorize_mode)
+            summarized = self.generate_text_with_prompt(prompt = str(output), mode = summarize_mode)
             summarized_dict.setdefault(docname, [])
             summarized_dict[docname].append(summarized)
 
