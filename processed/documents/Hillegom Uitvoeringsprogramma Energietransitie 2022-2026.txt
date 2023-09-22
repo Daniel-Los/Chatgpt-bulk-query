@@ -1,0 +1,1677 @@
+Postbus 32
+2180 AA Hillegom
+T 14 0252
+gemeente@hillegom.nl
+
+Uitvoeringsprogramma 
+Energietransitie 2022-2026
+
+Opgesteld door: Team Energietransitie
+                              Cato Overbeek
+                              Fia Sanders
+                              Ianthe Dickhoff
+                              Dirk Hogewoning
+                              Marijke Waterreus
+Datum: 15/09/2022
+Versie: Definitief (voor collegevergadering 27 september)
+
+Voorwoord
+Energieneutraal in 2050 is de ambitie van Hillegom. Ik wil alles op alles zetten om onze doelen te 
+behalen want ook onze kinderen en kleinkinderen moeten fijn kunnen wonen in Hillegom. De 
+klimaatproblemen worden steeds zichtbaarder met onze veel te warme en droge zomers en 
+extreme plensbuien en stormen die veel schade aanrichten. Daarbovenop is de oorlog in de 
+Oekraïne gekomen die allerlei uitdagingen met zich meebrengt, zoals hoge energieprijzen, tekort 
+aan gas, dure boodschappen. Veel mensen hebben moeite om het hoofd boven water te houden. 
+De noodzaak om energie te besparen en te isoleren is alleen maar groter geworden. 
+
+Alle reden dus om nu echt in actie te komen en meters te maken. Daarom ben ik blij dat er nu een 
+uitvoeringsprogramma ligt voor de LES (Lokale Energiestrategie) en de TVW (Transitievisie 
+Warmte). Het is een indrukwekkend programma geworden, de uitkomst van veel denkwerk, 
+onderzoek en gesprekken met allerlei belanghebbenden. We hebben veel te doen, een hele opgave
+voor onze kleine gemeente. Met het extra budget van de rijksoverheid en door krachten te 
+bundelen met Lisse en Teylingen kunnen we in ieder geval een goede start maken. 
+
+Ook onze kinderen en kleinkinderen moeten fijn kunnen wonen in Hillegom
+
+Niet alleen de gemeente moet aan de slag, ook inwoners, ondernemers en maatschappelijke 
+organisaties hebben een belangrijke rol. We moeten het samen doen. We zullen inwoners 
+stimuleren en ondersteunen waar we dat kunnen. Om onze doelen te bereiken hebben we 
+daarnaast partners in de regio nodig, de provincie en marktpartijen. In het uitvoeringsprogramma 
+ziet u dan ook dat we als lokale regievoerder de samenwerking zoeken op alle niveaus.
+
+In de afgelopen jaren zijn we al veel bezig geweest met de energietransitie en het is mij duidelijk 
+geworden dat het een enorm complex proces is. Transities gaan altijd gepaard met chaos en 
+onduidelijkheid. Er gebeurt veel en we hebben te maken met allerlei onverwachte ontwikkelingen. 
+Dat hoort erbij en daar moeten we onze weg in vinden. 
+
+De energietransitie is dus een fikse klus en we opereren in een grillige en complexe wereld. We 
+doen wat we kunnen met de kennis en mogelijkheden van dit moment. Ik zie het 
+uitvoeringsprogramma als een goede start, maar we zullen flexibel moeten zijn en steeds moeten 
+inspelen op de ontwikkelingen. De transitie kost tijd en moeite en we maken geheid fouten, maar 
+stap voor stap komen we er wel. 
+
+Karin Hoekstra
+Wethouder gemeente Hillegom
+
+2
+
+Inhoudsopgave
+Voorwoord...........................................................................................................................................2
+Inleiding......................................................................................................................5
+Samenvatting..............................................................................................................8
+1. Energie besparen...................................................................................................10
+Ambitie en doelen..............................................................................................................................10
+Wat gaan we doen om onze doelen te bereiken?..............................................................................11
+Bouwjarenaanpak........................................................................................................................12
+Ondersteunen lokale initiatieven (pilot)......................................................................................12
+Ondersteunen VvE’s....................................................................................................................12
+Ondersteunen inwoners met laag inkomen bij isolatie................................................................12
+Doelgroepen-afwegingskader ontwikkelen..................................................................................13
+Handelingsperspectief ontwikkelen.............................................................................................13
+Doorontwikkelen energiecoaches................................................................................................13
+Evalueren financiële instrumenten..............................................................................................14
+Regeling eenmalige subsidie energiebesparende acties.............................................................14
+Ontwikkelen aanpak hybride warmtepomp.................................................................................14
+2. Warmtetransitie.....................................................................................................15
+Ambitie en doelen..............................................................................................................................15
+Wat gaan we doen om onze doelen te bereiken?..............................................................................15
+Warmtescenario's uitwerken.......................................................................................................15
+3. Zonnepanelen op daken.........................................................................................17
+Ambitie en doelen..............................................................................................................................17
+Wat gaan we doen om onze doelen te bereiken?..............................................................................18
+Algemene inkoopactie.................................................................................................................19
+Stimuleren van zonnepanelen op daken van VvE’s.....................................................................19
+Woningcorporatie en particuliere (ver)huurders.........................................................................19
+Energiecoöperaties ondersteunen...............................................................................................19
+Overige dakprojecten & onderzoek.............................................................................................20
+4. Zonnevelden en windturbines.................................................................................21
+Ambitie en doelen..............................................................................................................................21
+Wat gaan we doen om onze doelen te bereiken?..............................................................................22
+Solar Parking Fioretti College......................................................................................................23
+Van zoekgebieden naar zoeklocaties..........................................................................................23
+Lobby voor zon langs spoor.........................................................................................................23
+Opstellen RES 2.0........................................................................................................................23
+Beleid lokaal eigendom...............................................................................................................24
+
+3
+
+Beleid kleine windturbines..........................................................................................................24
+5. Overige thema’s energietransitie............................................................................25
+Verduurzamen eigen en maatschappelijk vastgoed..........................................................................25
+Uitvoeringsplan 2021-2027 verduurzaming vastgoed Hillegom..................................................25
+Duurzame mobiliteit..........................................................................................................................26
+Ambitie en doelen.......................................................................................................................26
+Hoe staan we er nu voor?............................................................................................................26
+Hoe gaan we dat als gemeente aanpakken?...............................................................................27
+Verduurzamen bedrijfsleven..............................................................................................................28
+Waar zetten we nu al op in?........................................................................................................28
+Wat gaan we doen?.....................................................................................................................28
+Duurzame gebiedsontwikkeling.........................................................................................................30
+Methodes voor duurzaamheidsprestatie.....................................................................................30
+Aandachtspunten........................................................................................................................30
+Energiearmoede................................................................................................................................31
+Regelingen vanuit het Rijk die door de gemeente worden uitgevoerd........................................31
+6. Communiceren en participeren...............................................................................33
+Communicatie energietransitie...................................................................................................33
+Participatie doelen en kaders............................................................................................................33
+Inzet communicatieadviseur..............................................................................................................33
+Wat gaan we doen?...........................................................................................................................34
+Expertgroep opzetten..................................................................................................................34
+Interne communicatie.................................................................................................................34
+Vergroten kennis bij jongeren.....................................................................................................34
+Peilingen via digipanel.................................................................................................................34
+7. Monitoring.............................................................................................................35
+Project monitoringstool...............................................................................................................35
+Evaluatie.....................................................................................................................................35
+8. Bestuurlijk en ambtelijk verantwoordelijk...............................................................36
+9. Rol van de gemeente..............................................................................................37
+10. Begroting 2022-2024............................................................................................38
+11. Planning..............................................................................................................39
+
+Inleiding
+De gemeente Hillegom wil energieneutraal zijn in 2050. Dit betekent dat alle energie die we 
+gebruiken (gebouwde omgeving, industrie en landbouw) duurzaam opgewekt moet worden. De 
+energietransitie is een enorme opgave. Dit krijgen we niet 
+
+4
+
+alleen voor elkaar, dus zoeken we de samenwerking met onze inwoners, ondernemers en 
+organisaties.
+
+Dit uitvoeringsprogramma geeft concrete invulling aan onze ambities en doelen die in onze Lokale 
+Energiestrategie en Transitievisie Warmte staan beschreven, met de kennis van nu. Dit is belangrijk
+om aan te geven, want de praktijk haalt op diverse fronten beleid in. Dit programma speelt dan ook
+in op de actuele ontwikkelingen, de huidige stand van zaken én de vooruitzichten als het gaat om 
+energie.
+
+Dynamisch document
+Het uitvoeringsprogramma energietransitie 2022-2026 omvat de ambities, doelstellingen en acties 
+van en voor de gemeente Hillegom. Omdat de ontwikkelingen op het vlak van de energietransitie 
+zich snel opvolgen, is besloten om van dit uitvoeringsprogramma een levend document te maken, 
+dat jaarlijks wordt geëvalueerd en bijgewerkt. We hebben de acties voor 2022, 2023 en 2024 zo 
+concreet mogelijk omschreven. De acties voor 2025 en 2026 volgen in 2024 na evaluatie van het 
+programma. Het verder uitwerken van de acties wordt bij het oppakken van de projecten gedaan. 
+Dit zorgt voor een goede aansluiting op lopende of uitgevoerde acties, ontwikkelingen (zowel 
+landelijk, regionaal en gemeentelijk) en de geformuleerde doelen en ambities.
+
+Van visie naar uitvoering
+Gemeente Hillegom is al langere tijd bezig met energiebeleid, zowel op gemeente niveau als in 
+regionaal verband. Het uitvoeringsprogramma energietransitie 2022-2026 is de concrete uitwerking
+van lokaal en regionaal beleid, waaronder:
+
+- Regionale Energiestrategie (RES) vastgesteld door de gemeenteraad op 27 mei 2021 
+
+De 13 gemeenten uit de regio Holland Rijnland, provincie, waterschap en het energiebedrijf 
+hebben in de RES bepaald wat de regionale energiedoelen zijn en hoe we daar komen. Dit 
+gaat over 4 thema’s: 1) Energie besparen, 2) Op grote schaal elektriciteit opwekken met 
+windturbines en zonnepanelen op daken en velden, 3) Huizen en gebouwen duurzaam 
+verwarmen, 4) Duurzaam vervoer.
+
+- Lokale Energiestrategie (LES) vastgesteld door de gemeenteraad op 9 december 2021 
+Hierin hebben we onze route bepaald naar een energieneutrale gemeente in 2050. De 
+energiestrategie bestaat uit 5 sporen, namelijk; 1) Goede voorbeeld geven, 2) 
+Energiebesparing, 3) elektrisch verkeer en duurzame mobiliteit, 4) zonnepanelen op daken 
+en 5) opwekken van duurzame elektriciteit.
+
+5
+
+- Transitievisie Warmte (TVW) vastgesteld door de gemeenteraad op 14 oktober 2021
+In de TVW hebben we vastgelegd hoe wij de komende jaren aan de slag gaan met het 
+verkleinen van de warmtevraag. De route naar aardgasvrij in 2050 is in 4 sporen 
+weergegeven, namelijk: 1) Energie besparen, 2) Nader onderzoek warmtenetten, 3) 
+Onderzoek naar duurzaam gasnet en 4) denk vooruit!
+
+In de LES en TVW zijn verschillende tussentijdse doelen vastgesteld voor 2025 en 2030. Dit 
+uitvoeringsprogramma geeft invulling aan de verschillende sporen uit deze beleidsdocumenten. De 
+sporen hebben we teruggebracht naar 4 thema’s waar we met dit uitvoeringsprogramma uitvoering
+aan geven;
+
+1. Energie besparen
+2. Warmtetransitie
+3. Zonnepanelen op daken
+4. Zonnevelden en windturbines
+
+De verschillende projecten en activiteiten dragen bij aan het realiseren van onze doelen.
+
+Thema’s
+De energietransitie is een maatschappelijke opgave die naast onze inwoners, ondernemers en 
+organisaties ook onze ambtelijke organisatie raakt. Niet alleen team Duurzaamheid en Energie 
+moet ermee aan de slag, maar ook team Vastgoed, Mobiliteit, Wonen, Economie, Planvorming en 
+Maatschappelijke Ontwikkeling. Denk aan het verduurzamen van onze eigen gebouwen, het 
+faciliteren van de laadinfrastructuur, het bestrijden van energiearmoede en het ontwikkelen van 
+energieneutrale nieuwbouwwijken.
+
+De opgave die wij als gemeente hebben in deze energietransitie is groter dan de 4 thema’s die we 
+in dit programma hebben uitgewerkt. Om een beeld te geven van de totale opgave hebben we 
+onder het hoofdstuk ‘Overige thema’s’ inzichtelijk gemaakt waar en hoe er binnen onze organisatie 
+integraal gewerkt wordt aan de energietransitie. We gaan op zoek naar een programmamanager 
+die de verschillende thema’s, teams, opgaven en doelstellingen met elkaar kan verbinden en 
+stroomlijnen. 
+Daarnaast geven we speciale aandacht aan communicatie en participatie, monitoring en de 
+begroting. 
+
+Uitvoering en flexibiliteit
+Per thema wordt beschreven wat we gaan doen om onze doelen uit de LES en TVW te behalen. We 
+beschrijven diverse projecten met een korte omschrijving, reservering van geld en ambtelijke 
+capaciteit. Sommige projecten zitten nog in de fase van onderzoek, andere kunnen over tot actie. 
+Het uitvoeringsprogramma heeft een looptijd van 4 jaar, de verschillende projecten zijn nu over de 
+looptijd van 2,5 jaar verspreid, jaarlijks stellen we het uitvoeringsprogramma bij en daarmee ook de
+planning tot en met 2026. Bij de start van een project wordt eerst een projectopdracht op gesteld.
+
+Het programma is afgestemd op de beschikbare middelen en ambtelijke capaciteit die op het 
+moment van opstellen bekend was. Wanneer extra middelen, vanuit bijvoorbeeld het Rijk, 
+beschikbaar komen kunnen we de intensiteit van het programma verhogen.
+
+6
+
+Samenvatting
+De gemeente Hillegom heeft de ambitie om in 2050 energieneutraal te zijn. Alle energie die nodig 
+is wordt dan op eigen grondgebied geproduceerd en in de vraag naar warmte, elektriciteit en 
+mobiliteit wordt alleen voorzien met duurzame bronnen. Deze maatschappelijke opgave is 
+omvangrijk, ingrijpend en raakt ons allemaal. 
+
+De regionale doelen uit de Regionale Energiestrategie (RES 1.0) zijn verwerkt tot lokaal beleid. In 
+de Lokale Energiestrategie (LES) staat de route naar een energieneutrale gemeente. De 
+Transitievisie Warmte (TVW) beschrijft de route naar aardgasvrij in 2050. Voor de LES en TVW 
+hebben we tussentijdse doelen opgesteld voor 2025 en 2030. In dit uitvoeringsprogramma staat 
+wat we willen doen om deze doelen te bereiken. In het kort:
+
+- In 2030 15% energiebesparing in de gebouwde omgeving ten opzichte van 2014 en
+
+11% energiebesparing bij mobiliteit. We stimuleren en ondersteunen inwoners, 
+ondernemers en maatschappelijke organisaties om hier hun bijdrage aan te leveren. Met 
+energiebesparingsacties op maat maken we het hen gemakkelijk om in actie te komen. We 
+bieden eigenaren van huizen en gebouwen een duidelijk handelingsperspectief. We 
+organiseren zowel generieke acties als maatwerkacties. 
+
+- Een forse toename van de duurzame elektriciteitsproductie, het aandeel stijgt van 7,3% in 
+
+2019 naar circa 42,7% in het jaar 2030. Dit doen we door zoveel mogelijk elektriciteit op te 
+wekken op daken. Ook hiervoor stimuleren we inwoners en bedrijven en ondersteunen hen. 
+Waar mogelijk ondersteunen we ook energiecoöperaties.
+
+- Als we zoveel mogelijk energie besparen en zon op daken realiseren blijft er nog een opgave 
+
+over. In Hillegom willen we in 2030 48 TJ opwekken met zonnevelden en 
+windturbines. We treffen samen met de regio voorbereidingen en we vertalen de 
+zoekgebieden uit de RES naar zoeklocaties. Ook onderzoeken we de potentie en 
+haalbaarheid van locaties langs infrastructuur.
+
+- Het is onze ambitie om in 2050 de gebouwde omgeving aardgasvrij te verwarmen. 
+Het doel voor 2030  is om inzichtelijk te maken hoe kansrijk en wenselijk een warmtenet is 
+in de gemeente in (delen van) de bebouwde kom. Daarnaast willen we voor 2025 weten 
+welke warmteoplossing er in de buitengebieden mogelijk zijn. We werken, in samenwerking
+met inwoners en andere stakeholders, de scenario’s uit de TVW verder uit.
+
+De energietransitie is een opgave voor de hele organisatie. Buiten het team Duurzaamheid en 
+Energie zijn ook de teams Vastgoed, Mobiliteit, Wonen, Economie, Planvorming en Maatschappelijke
+Ontwikkeling betrokken. Denk aan het verduurzamen van gemeentelijk en maatschappelijk 
+vastgoed, het faciliteren van duurzame mobiliteit, energie neutrale nieuwbouwwijken en 
+energiearmoede. Deze thema’s zijn of worden verder uitgewerkt in aparte beleids- en 
+uitvoeringsplannen en staan alleen op hoofdlijnen beschreven in dit uitvoeringsprogramma.
+
+Communicatie speelt een grote rol in het uitvoeringsprogramma en helpt mensen in beweging te 
+krijgen. Participatie is een belangrijk onderdeel van het proces en zorgt ervoor dat plannen goed 
+aansluiten en belanghebbenden betrokken zijn. 
+
+7
+
+De energietransitie is in ontwikkeling. Kennis, overheidsbeleid en innovaties veranderen snel. Dit 
+vraagt om een dynamische aanpak. Het programma is qua middelen en capaciteiten afgestemd op 
+de kennis van nu. Wanneer extra middelen, Rijksbijdragen of subsidieregelingen ontstaan maken 
+we hier gebruik van. Door het continu monitoren van onze doelen en inzet stellen we het 
+uitvoeringsprogramma en bijbehorende begroting jaarlijks bij.
+
+De grotere projecten of projecten met grote politieke belangen in dit uitvoeringsprogramma krijgen 
+een eigen projectopdracht waarin doelen, plannen en planning worden uitgewerkt en waarin ook de
+rol van de gemeente wordt bepaald.
+
+8
+
+1. Energie besparen
+De eerste stap in de energietransitie is om het energiegebruik te verminderen, zo staat het zowel in
+de RES, de LES als de TVW. Want wat we niet verbruiken, hoeven we ook niet op te wekken. Zo is 
+er minder van onze schaarse ruimte nodig voor windmolens of zonnevelden. Ook vanuit het Rijk 
+krijgt energiebesparing steeds meer aandacht. Voor het stimuleren van energiebesparing voert het 
+Rijk verschillende campagnes en is er een Nationaal Isolatieprogramma in ontwikkeling.
+
+Energie die we niet verbruiken, hoeven we ook niet op te wekken
+
+Ambitie en doelen
+De ambitie van Hillegom sluit aan op de regionale ambitie om 15% minder energie te verbruiken in 
+2030 (t.o.v. 2014). Dit kunnen we met z’n allen bereiken door huizen en gebouwen beter te 
+isoleren, energiezuinigere systemen te gebruiken en ons gedrag te veranderen.
+
+Overzicht opgave en doelstellingen uit de TVW:
+
+Hillegom RES
+
+Gebouwde omgeving Aantal 
+
+Hoe staan we er nu voor:
+
+Energiebesparing tussen 2014 en
+2020
+
+  Hillegom
+
+5,3%
+
+Invulling van opgave
+
+Energie bespaardoelen t.o.v. 2014
+
+woningen
+Aantal andere 
+gebouwen
+Isoleren naar 
+'standaard'
+Hybride 
+warmtepomp
+2025
+2030
+
+7.000
+
+1.100
+
+55%
+
+30%
+
+10%
+15%
+
+15%
+
+9
+
+Wat gaan we doen om onze doelen te bereiken?
+Als gemeente helpen we inwoners, ondernemers en maatschappelijke organisaties om energie te 
+besparen in hun huizen en gebouwen. We willen hen in beweging brengen en hen helpen hun 
+gedrag duurzaam te veranderen. We ondersteunen, motiveren en informeren hen. Het meest 
+effectief is om hen zoveel mogelijk op maat te informeren en ondersteunen. Bijkomend voordeel is 
+dat zij door energiebesparing ook beter voorbereid zijn op de warmtetransitie. We bieden eigenaren
+van huizen en gebouwen graag het juiste handelingsperspectief zodat zij in de toekomst zonder 
+aardgas kunnen verwarmen. We proberen grote groepen te bereiken met de bouwjarenaanpak, 
+maar ook verfijnen we de doelgroepen verder om mensen gerichter en effectiever te kunnen 
+benaderen.
+
+We gaan een aantal concrete acties uitvoeren, daarnaast ontwikkelen we ook nieuwe aanpakken en
+beleid.
+
+Uitvoering: aan de slag met inwoners
+
+10
+
+Bouwjarenaanpak
+We organiseren informatiebijeenkomsten en inkoopacties voor inwoners met een woning uit een 
+specifiek bouwjaar. Het bouwjaar van een huis of gebouw bepaalt voor een belangrijk deel de wijze 
+waarop een huis geïsoleerd kan worden. Huizen uit een specifiek bouwjaar hebben doorgaans 
+dezelfde isolatieaanpak nodig. Op deze manier ontvangen huiseigenaren een advies op maat. Begin
+2022 hebben we de bouwjarenaanpak georganiseerd voor huiseigenaren met een woning uit de 
+jaren 50-60. Dit project gaan we evalueren en daarna starten we met een volgend bouwjaar. 
+
+Kosten: Per bouwjarenaanpak reserveren we € 12.000. De ambtelijke inzet wordt georganiseerd 
+met een vacature voor een projectmedewerker energietransitie.
+
+Ondersteunen lokale initiatieven (pilot)
+Lokale initiatieven kunnen vaak een steuntje in de rug gebruiken om goed van de grond te komen. 
+Hiervoor heeft bijvoorbeeld de maatschappelijke onderneming ‘Buurkracht’ kennis, ervaring en 
+tools in huis om inwoners samen te brengen en samen te laten werken aan de energietransitie in 
+hun buurt.
+
+Kosten: We reserveren € 30.000 voor zowel 2023 en 2024. De ambtelijke inzet wordt 
+georganiseerd met een vacature voor een projectmedewerker energietransitie.
+
+Ondersteunen VvE’s
+In samenwerking met het VvE-duurzaamheidsloket gaan we VvE-besturen helpen met het 
+verduurzamen van hun meerjarig onderhoudsplan (MJOP). De thema’s energiebesparing, isolatie en
+energie opwek staan hierbij centraal. Er wordt een informatieavond georganiseerd voor VvE-
+besturen en daarnaast komt er advies op maat beschikbaar.
+
+Kosten: We reserveren € 10.000 per jaar. De ambtelijke inzet wordt georganiseerd met een 
+vacature voor een projectmedewerker energietransitie.
+
+Ondersteunen inwoners met laag inkomen bij isolatie
+Het probleem van energiearmoede is door de gestegen energieprijzen alleen maar urgenter 
+geworden. Ook vanuit het Rijk wordt deze urgentie gevoeld. Zo heeft het Rijk in twee tranches de 
+specifieke uitkering ter bestrijding van energiearmoede aan gemeenten beschikbaar gesteld.
+
+Zoals in hoofdstuk 5 wordt beschreven, heeft het domein Maatschappelijke Ontwikkeling (MO) de 
+lead in de aanpak van energiearmoede. Voor de besteding van gelden uit de 1e tranche gaat de 
+aandacht in eerste instantie uit naar laagdrempelige energiebesparende maatregelen. Voor de 2e 
+tranche onderzoekt MO in samenwerking met team Energie de verschillende mogelijkheden om de 
+gelden in te zetten. Hierbij wordt gekeken naar een meer structurele aanpak om energiearmoede 
+te beperken, bijvoorbeeld door middel van spouwmuurisolatie, een witgoedregeling of de 
+collectieve inkoop van energie.
+
+Daarnaast neemt team Energie de groep inwoners met een laag inkomen mee in de communicatie 
+en in diverse acties.
+
+Kosten: MO reserveert de door het Rijk vrijgemaakte SPUK-middelen (2e tranche) van €161.696 voor 
+2022 en 2023.
+
+11
+
+Beleid en instrumenten ontwikkelen
+
+Doelgroepen-afwegingskader ontwikkelen
+Het is van belang om goed af te wegen wie wanneer benaderd worden met communicatie en acties
+en welke maatregelen het meest effectief zijn. Een onderbouwd afwegingskader is nodig om zo snel
+mogelijk grote stappen te kunnen maken en te bepalen welke doelgroepen het meest behoefte 
+hebben aan acties - omdat ze bijvoorbeeld hun energierekening niet meer kunnen betalen. We 
+maken dit kader mede op basis van data uit verschillende bronnen. Het gaat om data als 
+huur/koop, leeftijd, inkomen, opleiding, bouwjaar huis. Daarnaast gebruiken we data m.b.t. de 
+zogenaamde leefstijlen1. Hiermee weten we niet alleen welke informatie we het beste kunnen 
+aanbieden per doelgroep, maar ook hoe.
+
+Kosten: We maken voor 2022 een reservering van € 3.000 voor het opstellen van het 
+afwegingskader. De ambtelijke inzet is voorzien.
+
+Handelingsperspectief ontwikkelen
+Woning- en gebouweigenaren willen duidelijkheid hebben over wat ze moeten doen. We geven hen 
+handelingsperspectief in de vorm van een menukaart. De menukaart is gebaseerd op de 
+‘isolatiestandaard’ en financieringsopties en geeft aan welke opeenvolgende stappen nodig zijn om 
+de woning goed te isoleren en de warmtevraag te verkleinen. Deze menukaart is een tool die we 
+o.a. kunnen inzetten bij de bouwjarenaanpak.
+
+Kosten: We maken een reservering van € 3.000 voor opzetten van de isolatie-menukaart. De 
+ambtelijke inzet wordt georganiseerd met een vacature voor een projectmedewerker 
+energietransitie.
+
+Doorontwikkelen energiecoaches
+We professionaliseren en ontwikkelen de organisatie van de energiecoaches verder. We kijken wat 
+het beste past bij de vrijwillige energiecoaches en welke rol de gemeente hierin kan spelen. We 
+willen ook meer inzicht krijgen in de bijdrage van de energiecoaches aan onze doelen.
+
+Kosten: We reserveren € 10.000 per jaar voor de inzet van energiecoaches. Voor 2022 reserveren 
+we aanvullend € 8.000 voor de professionalisering van de organisatie. De ambtelijke inzet is 
+voorzien.
+
+1 MarketResponse identificeert 6 leefstijlen (doelgroepen) die verschillen in wensen, motieven en behoeften als
+het gaat om de energietransitie: calculerende individualisten, behoudende afwijzers, idealistische voortrekkers,
+volgende socialen, gemakzuchtige ontplooiers en sobere passieven.
+
+12
+
+Evalueren financiële instrumenten
+Sinds 2016 kunnen huiseigenaren uit Hillegom gebruik maken van de gemeentelijke 
+duurzaamheidslening. Sindsdien hebben de Rijksoverheid en markt diverse nieuwe 
+financieringsmogelijkheden geïntroduceerd. We gaan de financieringsmogelijkheden voor inwoners 
+inventariseren en de gemeentelijke duurzaamheidslening evalueren. Zo bepalen we welke 
+regelingen effectief en zinvol zijn en hoe we hier als gemeente het beste aan kunnen bijdragen.
+
+Kosten: De ambtelijke inzet wordt georganiseerd met een vacature voor een projectmedewerker 
+energietransitie. Verdere kosten zijn niet aan de orde.
+
+Regeling eenmalige subsidie energiebesparende acties
+Met deze regeling is het mogelijk om kleinschalige acties te ondersteunen. Dit kunnen acties zijn 
+vanuit inwoners die zich organiseren, maar ook een landelijke organisatie. Het doel van de regeling 
+is om snel en eenvoudig inwonersinitiatieven en organisaties te kunnen ondersteunen op het 
+gebied van energiebesparing. Een belangrijke voorwaarde is dat het bedrag lokaal besteed wordt. 
+Deze regeling ondersteunt waar bestaande regelingen geen mogelijkheden bieden.
+
+Kosten: Voor het opstellen van de regeling is de benodigde ambtelijke inzet voorzien. Voor 
+dergelijke initiatieven is nu nog geen budget gereserveerd.
+
+Ontwikkelen aanpak hybride warmtepomp
+Vooruitlopend op de wijzigingen in het bouwbesluit om vanaf 2026 bij vervanging van de cv-
+installatie over te stappen op een duurzamer alternatief (meestal hybride warmtepomp), gaan we 
+de komende jaren de hybride warmtepomp stimuleren. Hiervoor ontwikkelen we een eigen aanpak 
+in samenwerking met lokale installateurs. De hybride warmtepomp is ook onderdeel van de 
+bouwjarenaanpak en de communicatie.
+
+Kosten: We maken vanaf 2023 een reservering van € 5.000 voor het stimuleren van hybride 
+warmtepompen. De ambtelijk inzet is voorzien.
+
+13
+
+2. Warmtetransitie
+Het Rijk heeft de regierol voor de warmtetransitie bij de lokale overheid neergelegd. Vanuit het 
+Klimaatakkoord is iedere gemeente verplicht om een Transitievisie Warmte (TVW) op te stellen. In 
+Hillegom is de TVW op 14 oktober 2021 vastgesteld door de gemeenteraad. De TVW beschrijft hoe 
+we stap voor stap aan de slag gaan met het aardgasvrij maken van alle gebouwen in de gemeente. 
+Een belangrijk uitgangspunt, meegegeven door de raad, is dat de warmtetransitie realistisch en 
+betaalbaar is voor iedereen. Om aan dit uitgangspunt invulling te geven moet de gemeente zich 
+verdiepen in verschillende oplossingen voor het vervangen van aardgas, de zogenaamde 
+warmtescenario’s.
+
+De TVW beschrijft de verschillende oplossingen die er zijn om zonder aardgas te verwarmen. En in 
+de WAT-kaart worden kansrijke oplossingen gepresenteerd. Deze kaart geeft geen definitief 
+eindbeeld, we staan nog aan het begin van  de transitie. De kennis, inzichten en technieken 
+veranderen continue. De afgelopen tijd is er veel meer kennis verkregen over de grootschalige 
+mogelijkheden van aardwarmte in onze streek. Die maken bijvoorbeeld, de kansen voor 
+warmtenetten veel groter in onze gemeente.
+
+Een volgende stap die we moeten zetten, om een concreter beeld te krijgen van de wenselijke en 
+haalbare alternatieven van aardwarmte in de verschillende wijken/buurten van Hillegom, is het in 
+kaart brengen van warmtescenario’s. Omdat Lisse en Teylingen dezelfde opgave hebben gaan we 
+de krachten bundelen en samen optrekken.
+
+De warmtetransitie heeft veel impact op inwoners, tot ver achter hun voordeur
+
+Ambitie en doelen
+Het is onze ambitie om in 2050 de gebouwde omgeving aardgasvrij te verwarmen. In de TVW 
+hebben we vastgelegd hoe we de komende jaren aan deze opgave gaan werken. Het doel voor 
+2030  is om inzichtelijk te maken hoe kansrijk en wenselijk een warmtenet is in de gemeente in 
+(delen van) de bebouwde kom. Daarnaast maken we voor 2025 inzichtelijk welke warmteoplossing 
+er in de buitengebieden mogelijk zijn.
+
+Wat gaan we doen om onze doelen te bereiken?
+In dit deel van het programma zetten we samen met Lisse en Teylingen de volgende stappen in de 
+warmtetransitie voor de bebouwde kom en het buitengebied.
+
+Warmtescenario's uitwerken
+In de TVW is al een aantal scenario's op hoofdlijnen beschreven. We willen deze scenario's verder 
+uitwerken en daarbij ook de rol van de gemeente als regisseur van de lokale transitie meenemen.
+
+14
+
+Een van de dilemma's waar we tegenaanlopen is dat commerciële partijen geen aardwarmtebron 
+willen ontwikkelen zonder dat ze zeker weten dat er een afzetmarkt is. Datzelfde geldt voor 
+warmtenetwerken. Het is daarom van belang om als gemeente het aanbod goed in kaart te 
+brengen samen met inwoners en bedrijven. Anders komen de commerciële partijen ook niet in 
+beweging.
+
+Daarom stellen we verschillende scenario’s op, op wijk- en gemeenteniveau. Hierin nemen we de 
+volgende onderwerpen mee;
+
+ Wat is er technisch en juridisch haalbaar? 
+ Wat zijn de kosten?
+ Wat is het tijdspad?
+ Wat is de maatschappelijke impact?
+ Voor en nadelen?
+ Ervaringen met proeftuinen elders in het land?
+
+Daarnaast kijken we naar de mogelijke rol en positie van de gemeente per scenario.
+
+Participatie van inwoners en andere stakeholders is hierbij cruciaal. De warmtetransitie heeft veel 
+impact op inwoners, tot ver achter hun voordeur. Draagvlak is niet voldoende. We moeten samen 
+leren, samen denken en samen doen. Voor plannen die kans van slagen hebben. Zeggenschap van 
+inwoners is niet meer dan logisch en wordt ook landelijk gestimuleerd (rapport Brenninkmeijer).
+
+Het
+
+Wat is een warmtenet?
+Een warmtenet is een volledig nieuwe infrastructuur in de gemeente. Dit net kan 
+gevoed worden door verschillende bronnen uit de omgeving. Op den duur kunnen 
+netten met elkaar verbonden worden waardoor bewoners (net zoals bij een 
+elektriciteitsleverancier) kunnen kiezen welke warmte zij willen krijgen. Zo kunnen de 
+lokale warmtenetten (distributienetten) uitgroeien tot gemeentelijke netten 
+(transportnetten) en zelfs aansluiten op regionale warmtenetten met een open 
+regionaal energiesysteem.
+
+uitwerken van de scenario's en de analyse van de voor- en nadelen doen we samen met inwoners 
+en ons netwerk van stakeholders.  Inwoners krijgen veel ruimte om mee te denken en samen met 
+ons te leren. Uiteindelijk werken we toe naar de start van de warmtetransitie die goed is 
+onderbouwd en die aansluit op de omgeving. De resultaten kunnen we vastleggen in onze TVW 2.0.
+
+Kosten: Voor het uitwerken van de warmtescenario’s we een reservering van € 18.750 voor 2022. 
+We houden er rekening mee dat dit project kan uitlopen in 2023. Inzet van ambtelijke capaciteit is 
+voorzien.
+
+15
+
+3. Zonnepanelen op daken
+De traditionele energievoorziening is aan het veranderen. Het wordt steeds vanzelfsprekender dat 
+inwoners hun eigen energie opwekken. Zonnepanelen op daken kent een natuurlijke groei omdat 
+de investeringen rendabel zijn voor zowel particulieren als bedrijven. Niet alleen financiële 
+motieven spelen een rol, maar zeker ook maatschappelijke. Mensen vinden een duurzamere 
+toekomst belangrijk. Daarnaast helpt zon op daken van bedrijven om te voldoen aan wet- en 
+regelgeving, zoals de informatie- en energiebespaarplicht en energielabel C-eis voor kantoren. Als 
+zonnepanelen in beheer zijn van een energiecoöperatie draagt dat bovendien bij aan de RES-
+doelstelling van minimaal 50% lokaal eigendom. Waar mogelijk streven we naar een percentage 
+van 100%.
+
+De doelstellingen in de LES zijn een doorvertaling vanuit de RES. Via de RES zal gemonitord worden
+op de voortgang. Ook verkent de RES-regio opties om de potentie scherper te krijgen, zodat er 
+effectieve acties kunnen worden ontwikkeld in samenspraak met netbeheerders. In de RES-regio 
+worden de plannen van de gemeenten onderling gedeeld om kennis en leerervaringen uit te 
+wisselen. 
+
+De komende jaren kan een aantal ontwikkelingen van invloed zijn op de groei van zon op daken. 
+Ten eerste, de mogelijke afbouw van de salderingsregeling waardoor er op particuliere daken alleen
+panelen gelegd worden om het eigen verbruik af te dekken. Dit is vooralsnog uitgesteld tot eind 
+2024 en er zal dan stapsgewijs afgebouwd worden. Ten tweede, de mogelijke verplichting in de 
+omgevingswet voor zon op dak bij bedrijven. De gemeente moet dit opnemen in het omgevingsplan
+als we dit juridisch willen afdwingen. Tot slot is het van belang dat we voor de komende jaren goed 
+afstemmen met Liander over de netcapaciteit. We moeten voldoende inzicht hebben of de 
+teruglevering van zon op dak het bestaande elektriciteitsnet niet te veel belast waardoor nieuwe 
+(woning)bouwontwikkelingen niet meer mogelijk zijn. Naar verwachting zal Liander in 2028 een 
+nieuw 50 KV-station plaatsen in Hillegom.
+
+Ambitie en doelen
+Hillegom heeft de ambitie om zoveel mogelijk energie op daken op te wekken. Wel weten we al dat 
+we met zon op daken onze doelstellingen voor duurzame opwek niet geheel kunnen behalen. 
+
+Hoe meer we kunnen opwekken op onze daken des te minder hoeven we ons
+
+landschap hiervoor te gebruiken
+
+Overzicht opgave
+
+Doelstelling in TJ
+25 TJ
+38 TJ
+111 TJ
+260 TJ
+
+2019
+2020
+2030
+2050
+
+Behaald percentage t.o.v. doelstelling
+9,6%
+14,6%
+42,7%
+100%
+
+16
+
+Wat gaan we doen om onze doelen te bereiken?
+We stimuleren inwoners en ondernemers om zonnepanelen op de daken te leggen door te 
+communiceren en door acties te organiseren. Campagnematig gaan we hen ‘de weg wijzen’ door te
+informeren en te motiveren zonnepanelen op eigen dak te leggen. We informeren over de kosten-
+baten, duurzaamheid en recycling van zonnepanelen.  We wijzen het Duurzaam Bouwloket en 
+ontzorgen met inkoopacties in samenwerking met lokale leveranciers. We informeren eveneens 
+over de verschillende financiële mogelijkheden om zon op dak mogelijk te maken, zoals 
+duurzaamheidsleningen en acties van banken, hypotheekverstrekkers, verhuurders, etc. We nemen
+dit mee in de communicatie energietransitie uit hoofdstuk 6.
+
+Energiecoöperaties ondersteunen we waar mogelijk zodat zij hun bijdrage kunnen leveren aan de 
+energietransitie met zonnepanelen op grotere daken.
+
+17
+
+Algemene inkoopactie
+Vanuit de drie gemeenten proberen wij een samenwerking op te zetten met de lokale installateurs 
+en uitvoeringspartijen. Met hen willen we ieder voorjaar een inkoopactie organiseren, waarbij zowel 
+ondernemers als inwoners ontzorgd worden. Mochten zij hier geen interesse in hebben dan zullen 
+we onze inwoners op andere manieren informeren en meeliften op andere (mogelijk landelijke) 
+acties. Belangrijk onderwerp van de communicatie is de juiste volgorde van stappen, bijvoorbeeld 
+dat inwoners het beste eerst hun dak isoleren voordat ze zonnepanelen plaatsen. De acties om zon 
+op dak te stimuleren sluiten aan op de communicatie energietransitie, zoals beschreven in 
+hoofdstuk 6.
+
+Kosten: We reserveren € 5.000 voor het organiseren van een consortium. Per algemene 
+inkoopactie reserveren we € 17.500. De ambtelijke inzet wordt georganiseerd met een vacature 
+voor een projectmedewerker energietransitie.
+
+Stimuleren van zonnepanelen op daken van VvE’s
+Dit is onderdeel van de VvE-aanpak zoals beschreven in hoofdstuk 1.  Daarnaast stimuleren we 
+VvE’s, door hen de weg te wijzen en ondersteuning te bieden in de afstemming tussen markt, 
+netbeheerder, eventueel energiecoöperatie en gemeente.
+
+Kosten: Dit onderdeel is meegenomen in de reservering in hoofdstuk 1 onder het project 
+‘Ondersteunen VvE’s’.
+
+Woningcorporatie en particuliere (ver)huurders
+In samenwerking met cluster Wonen en woonstichting STEK zorgen we voor meer zonnepanelen op 
+daken van huurwoningen. Verder wijzen we particuliere verhuurders op de Subsidieregeling 
+Verduurzaming en Onderhoud Huurwoningen van de rijksoverheid. Particuliere (ver)huurders 
+bereiken we ook bij inkoopacties voor huiseigenaren waarbij wij brieven sturen naar alle adressen 
+van koopwoningen.
+
+Kosten: De benodigde ambtelijke inzet is voorzien. Verdere kosten zijn niet aan de orde.
+
+Energiecoöperaties ondersteunen
+We ondersteunen de energiecoöperaties en eigenaren van grote daken bij de ontwikkeling van 
+energieprojecten. Doel is kennis te ontwikkelen en projecten te realiseren. Maar ook ondersteunen 
+we hen in de communicatie en helpen hen in contact te komen met bedrijven met grote daken via 
+bedrijvencontactfunctionarissen.
+
+Kosten: We maken vanaf 2023 een reservering van € 5.000 per jaar voor het ondersteunen van 
+lokale energiecoöperaties.
+
+18
+
+Overige dakprojecten & onderzoek
+We reserveren budget voor acties zoals de Schooldakrevolutie. Vanuit de RES-regio wordt een tour 
+langs bedrijventerreinen ontwikkeld om zon op bedrijfsdaken te stimuleren. Daarnaast doen we 
+scan van dakpotentie van grote daken. De dakpotentiescan van grote daken brengt eigenaren met 
+onbenutte daken met potentie in beeld. Acties, zoals energiescans vanuit het Transitieloket 
+‘Zakelijk Zuinig’, kunnen ondernemers vervolgens ondersteunen om zonnedaken te helpen 
+realiseren. 
+
+Kosten: We maken een reservering van € 3.000 per jaar voor overige dakprojecten. Daarnaast € 
+2.000 voor de dakpotentiescan in 2022.
+
+19
+
+4. Zonnevelden en windturbines
+Er wordt op regionaal, sub-regionaal en lokaal niveau gewerkt aan het vraagstuk: zonnevelden en 
+windturbines. In de RES 1.0 hebben we onze regionale ambitie vastgelegd en is met de 
+zoekgebiedenkaart een begin gemaakt met de zoektocht naar geschikte ruimte voor grootschalige 
+opwek van zonne- en windenergie. In de LES zijn regionale doelen lokaal vertaald en is inzichtelijk 
+geworden welke opgave de gemeente heeft om in 2050 energieneutraal te kunnen zijn. Parallel aan
+de RES en LES heeft de Duin- en Bollenstreek haar Strategische Agenda en uitvoeringsprogramma 
+opgesteld met de energietransitie als regionaal vraagstuk. Ook LTO Noord is bezig met het 
+opstellen van een projectplan om kansen voor windenergie te onderzoeken. Daarnaast merken we 
+dat marktpartijen op zoek zijn naar locaties om projecten te realiseren. Het is daarom belangrijk dat
+de gemeente zich goed voorbereidt en een heldere visie heeft op waar wel en geen toekomst is 
+voor het ontwikkelen van zonne- en windenergieprojecten. Locaties die de gemeente geschikt vindt
+voor zonnevelden en windturbines moeten ook opgenomen worden in omgevingsvisie en -plan.
+
+Zonnevelden en windturbines vragen om een regionale visie en een
+
+(sub)regionale aanpak
+
+Ambitie en doelen
+Als we zoveel mogelijk energie besparen en zon op daken realiseren blijft er nog een opgave over. 
+Deze opgave moeten we met zonnevelden en windturbines invullen. In de LES hebben we daarom 
+onszelf de volgende doelen gesteld:
+
+Hillegom
+48 TJ
+199 TJ
+
+2030
+2050
+
+20
+
+Wat gaan we doen om onze doelen te bereiken?
+Het realiseren van zonnevelden en windturbines vraagt om een goede voorbereiding. We kijken 
+daarbij eerst naar opwek van duurzame energie langs infrastructuur. Om de mogelijke opbrengst 
+en haalbaarheid van deze locaties en projecten concreet te maken is aanvullend onderzoek nodig. 
+Tegelijkertijd gaan we onderzoeken hoe we van zoekgebieden2 naar zoeklocaties3 komen voor 
+zonnevelden en windturbines in onze gemeente.
+
+Om de juiste voorwaarden te creëren voor bewoners en ontwikkelaars en om zonnevelden en 
+windturbines te stimuleren is het belangrijk om spelregels vast te leggen in beleid.
+
+Solar Parking Fioretti College
+Twee jaar geleden is er een verkenning uitgevoerd door de gemeente naar de mogelijkheden van 
+solar parking op het parkeerterrein nabij het Fioretti College. Uit de verkenning is gebleken dat het 
+technisch gezien mogelijkheden zijn, naar de financiële haalbaarheid moet opnieuw bekeken 
+
+2 Zoekgebieden zijn grote gebieden waarbinnen we op zoek gaan naar kansen en mogelijkheden voor het 
+realiseren zonnevelden en windturbines. De zoekgebieden staan weergegeven in de zoekgebiedenkaart van de 
+RES 1.0.
+3 Zoeklocatie is een concretisering van de zoekgebieden. Zoeklocaties zijn specifieker van omvang en kunnen in 
+de omgevingsvisie en plan worden opgenomen.
+
+21
+
+worden. We gaan de verkenning actualiseren en de verschillende mogelijkheden tot realisatie 
+onderzoeken.
+
+Kosten: We reserveren € 10.000 voor haalbaarheidsstudies Solar Parking Fioretti College.
+
+Van zoekgebieden naar zoeklocaties
+We gaan de opgave voor duurzame opwek van elektriciteit in samenhang met andere ruimtevragen
+onderzoeken. Een volgende stap is om de zoekgebieden voor zonne- en windenergie in de Duin- en 
+Bollenstreek concreter te maken en te vertalen naar zoeklocaties. Dit onderzoek wordt uitgevoerd 
+vanuit het uitvoeringsprogramma van de Duin- en Bollenstreek, de activiteit “Actualisatie 
+Intergemeentelijke Structuurvisie Greenport en gezamenlijk keuzes voor (de ruimtevraag van) de 
+opwek van hernieuwbare energie”. Besluitvorming over mogelijke zoeklocaties vindt lokaal plaats.
+
+Kosten: Voor het uitvoeren van activiteiten uit het uitvoeringsprogramma Duin- en Bollenstreek is 
+geen budget beschikbaar gesteld. Omdat er nog geen zicht is op het benodigd budget maken we 
+een reservering van € 15.000 voor 2023. Inzet van ambtelijke capaciteit is voorzien.
+
+Lobby voor zon langs spoor
+Er zijn mogelijkheden voor het opwekken van zonne-energie langs spoor. De spoorlijnen 
+doorkruizen meerdere gemeenten in Holland Rijnland. Het is daarom wenselijk om gezamenlijk 
+onderzoek te doen naar mogelijkheden en de samenwerking met ProRail op te zoeken. Mocht er bij 
+de andere gemeenten in Holland Rijnland geen draagvlak zijn dan pakken we dit op met de HLT-
+gemeenten.
+
+Kosten: De benodigde ambtelijke inzet is voorzien. Verdere kosten zijn niet aan de orde.
+
+Ontwikkelen beleid
+Opstellen RES 2.0
+De RES 2.0 is een doorontwikkeling van de RES 1.0 en een volgende stap in het realiseren van de 
+opgave in 2030. De RES 2.0 moet uiterlijk 1 juli 2023 worden vastgesteld door de gemeenten. Deze
+afspraak komt voort uit het Klimaatakkoord. Vanuit Holland Rijnland wordt dit project 
+gecoördineerd.
+
+Kosten: Voor het opstellen, uitvoeren en actualiseren van de RES reserveren we vanaf 2023 € 
+21.644. Dit bedrag wordt alleen uitgegeven als daar binnen de RES over besloten wordt. Ambtelijke
+capaciteit is voorzien.
+
+22
+
+Beleid lokaal eigendom
+In het Klimaatakkoord is afgesproken dat voor grootschalige opwek van hernieuwbare elektriciteit 
+op land gestreefd wordt naar minimaal 50% lokaal eigendom bij het realiseren van zonne- en 
+windenergie.  Zo hebben inwoners en lokale bedrijven meer zeggenschap, profiteren ze mee en zijn
+ze gelijkwaardige gesprekpartners.
+
+Er zijn verschillende vormen van lokale participatie, zoals mede-eigenaarschap van inwoners en 
+lokale bedrijven, aandelen of obligaties, vergoedingen voor bewoners of een omgevingsfonds. In 
+samenspraak met inwoners willen we hierin keuzes maken en beleid opstellen zodat toekomstige 
+initiatiefnemers weten wat hun speelveld is. Het beleid kan ook onderdeel worden van de 
+omgevingsvisie.
+
+Kosten: We reserveren voor 2023 eenmalig € 10.000. Ambtelijke capaciteit is voorzien.
+
+Beleid kleine windturbines
+Kleine windturbines (max. 15 meter) beïnvloeden het landschap, maar zijn ook een belangrijke 
+bouwsteen in de energietransitie. We verwachten dat de vraag naar kleine windturbines de 
+komende jaren toeneemt. Om goed voorbereid te zijn op de vraag stellen we beleid op. Het heeft 
+de voorkeur om ook dit vraagstuk vanuit de sub regio Duin- en Bollenstreek op te pakken, mogelijk 
+in combinatie met het project “Actualisatie Intergemeentelijke Structuurvisie Greenport en 
+gezamenlijk keuzes voor (de ruimtevraag van) de opwek van hernieuwbare energie”.
+
+Kosten: Voor deze activiteit reserveren we geen apart budget maar gaat onderdeel uitmaken van 
+het project van zoekgebieden naar zoeklocaties.
+
+23
+
+5. Overige thema’s energietransitie
+De energietransitie heeft grote invloed op ons leven; hoe we wonen, hoe we reizen en werken. De 
+energietransitie heeft hierdoor ook veel invloed op onze gemeente en ambtelijke organisatie. De 
+energietransitie en het bredere begrip duurzaamheid is onderdeel van het werk van iedereen in 
+onze organisatie. Maar zoals dat gaat bij transities is dit niet van de een op de andere dag 
+georganiseerd, daar is tijd en ‘energie’ voor nodig. Er zijn al stappen gezet, maar er moeten er ook 
+nog veel gezet worden.
+
+In dit hoofdstuk zoomen we in op de onderdelen die door andere teams opgepakt worden en zelf 
+verantwoording afleggen. Gezamenlijk dragen alle teams bij aan een energieneutrale gemeente in 
+2050.
+
+De energietransitie en het bredere begrip duurzaamheid is onderdeel van het
+
+werk van iedereen in onze organisatie
+
+Verduurzamen eigen en maatschappelijk vastgoed
+Het is belangrijk om als gemeentelijke organisatie zelf het goede voorbeeld te geven met het 
+verduurzamen van ons eigen vastgoed en het besparen op ons energieverbruik. Als gemeentelijke 
+organisatie zijn we ons al langer bewust dat het belangrijk is om ons vastgoed te verduurzamen. De
+ambitie om in 2050 energieneutraal te zijn en 15% energie te besparen in onze gebouwde 
+omgeving heeft ook invloed op ons vastgoed. We hebben als gemeente specifieke ambities voor 
+het verduurzamen van ons vastgoed.
+
+Uitvoeringsplan 2021-2027 verduurzaming vastgoed Hillegom
+De gemeente heeft de ambitie om al haar eigen vastgoed in 2030 energieneutraal te hebben. 
+Vanuit het uitvoeringsplan 2021-2027 verduurzaming vastgoed Hillegom wordt invulling gegeven 
+aan de ambitie.
+
+Bij het vaststellen van het uitvoeringsplan is budget beschikbaar gesteld voor het verduurzamen 
+van de eerste twee gebouwen, de brandweerkazerne en sportcomplex de Vosse. Op dit moment 
+wordt dit uitgevoerd. Voor de volgende panden worden plannen opgesteld. Zo kunnen deze op 
+dezelfde manier verduurzaamd worden.
+
+24
+
+Duurzame mobiliteit
+Het verduurzamen van de mobiliteit heeft een grote impact op onze elektriciteitsvraag. De 
+ontwikkelingen in het beleidsveld mobiliteit gaan een grote rol spelen in de energietransitie. Tot 
+2030 moeten we 11% aan energie gaan besparen, dit gaan we bereiken door over te stappen naar 
+elektrisch vervoer. We gaan de komende jaren steeds meer elektrisch rijden en dat heeft gevolgen 
+voor onze elektriciteitsbehoefte. In 2021 heeft de gemeente een mobiliteitsvisie vastgesteld. Deze 
+visie sluit aan bij de doelen zoals deze in de LES (en RES) zijn vastgesteld.
+
+Ambitie en doelen
+Binnen de ambitie van duurzame mobiliteit voor een duurzame toekomst, is het doel op de eerste 
+plaats om het aantal gereden wegkilometers per auto binnen de gemeente te verlagen. Dit door in 
+te zetten op het stimuleren van lopen, fietsen en het openbaar vervoer. Daarnaast kunnen diverse 
+vormen van deelmobiliteit bijdragen aan de ambitie ten aanzien van duurzaamheid. Binnen het 
+aandeel wegvervoer is het doel om elektrisch vervoer te stimuleren. Elektrisch autorijden draagt bij 
+aan een vermindering van het gebruik van fossiele brandstoffen en aan de vermindering van de 
+uitstoot in de lokale omgeving. De gemeente stimuleert daarom het elektrisch vervoer breed: zowel
+de persoonlijke vervoersmiddelen als het logistieke- en openbare vervoer. De verschuiving naar 
+elektrisch rijden zal desondanks de ambitie ten aan zien van fietsen en lopen, onvermijdelijk leiden 
+tot een grotere elektriciteitsbehoefte.
+
+Hoe staan we er nu voor?
+Er zijn geen exacte gegevens bekend over het aandeel elektrische voertuigen binnen de gemeente,
+maar er is een toenemende vraag naar nieuwe aanvullende laadpalen waarneembaar. Een logisch 
+gevolg van een stijgend aandeel elektrische voertuigen. Afgelopen jaren is het aandeel volledig 
+elektrische voertuigen gestaag toegenomen, zowel bij zakelijke gebruikers als in particulier bezit. In
+2021 is het aandeel geëlektrificeerde personenauto’s binnen het nationale wagenpark gestegen 
+van 3,1% naar 4,3%. Dit omvat zowel volledig elektrische, als deels elektrische (hybride) 
+voertuigen. 
+
+Openbare laadinfrastructuur
+Voor de plaatsing, beheer en exploitatie van laadpalen gaat de gemeente een overeenkomst aan 
+met minimaal 1 laadexploitant. De gemeente voorziet in het proces rondom het vaststellen van 
+locaties en het nemen van de verkeersbesluiten om plekken toe te wijzen voor het alleen laden van
+elektrische voertuigen. 
+
+Verlengde Private Aansluitingen (VPA)
+Verlengde private aansluitingen (VPA) zijn laadvoorzieningen vanaf een eigen woning, waarbij 
+doormiddel van een verlengsnoer een voertuig op een openbare parkeergelegenheid wordt 
+bijgeladen. Deze vorm van opladen is momenteel niet toegestaan binnen de gemeente. Een 
+onderzoek naar de kansen en beperkingen van VPA is momenteel gaande. Hoewel VPA de vraag op 
+openbare laadinfrastructuur kunnen beperken, zijn er diverse juridische-, ruimtelijke- en 
+beheersvraagstukken rondom deze vorm van laadinfrastrcutuur. 
+
+Openbaar Vervoer
+De duurzaamheidsambities van samenwerkingspartners binnen het openbaar wegvervoer (bus) 
+vallen samen met de ambitie van de gemeente. Een toekomstig wagenpark van de vervoerder zal 
+naar verwachting vanaf 2025 nagenoeg volledig bestaan uit nulemissievoertuigen, waarbij het 
+
+25
+
+meeste vervoer verzorgd zal worden met volledig elektrische bussen en een deel met bussen 
+voorzien van brandstofcellen (waterstof). De verplichting tot de inzet van nulemissievoertuigen 
+gaat naar alle waarschijnlijkheid opgenomen worden in het Programma van Eisen voor de nieuwe 
+OV-concessie, die vastgesteld door de provincie Zuid-Holland als concessieverlener van het 
+openbare wegvervoer.
+
+Hoe gaan we dat als gemeente aanpakken?
+Waar mogelijk, met aandacht voor andere belangen en in participatie met belanghebbenden, zet de
+gemeente in op;
+• verbeteringen en aanpassingen van bestaande fiets- en wandelinfrastructuur
+• het uitbreiden van openbare laadvoorzieningen voor elektrische voertuigen.
+• faciliteren in mogelijkheden voor OV-bussen om bij te laden
+• deelmobiliteit (deelauto’s, deelfietsen) faciliteren binnen bestaande beleidskaders
+
+26
+
+Verduurzamen bedrijfsleven
+De totale energieconsumptie van bedrijven in de gemeente is ongeveer 30%4 (inclusief de 
+agrarische sector). Hier ligt dan ook een forse verduurzamingsopgave. Kantoren moeten 
+bijvoorbeeld beter geïsoleerd worden (verplichting label C) en ook bedrijven moeten nadenken over
+hun toekomstige warmtevoorziening. Ieder bedrijf heeft andere vragen en behoeften in deze 
+transitie.
+
+Waar zetten we nu al op in?
+Gemeente als handhaver
+
+De energietransitie bij ondernemingen komt in belangrijke mate tot stand via landelijke wet- 
+en regelgeving en landelijke subsidies. De wetgever heeft bijvoorbeeld voor bedrijven de 
+energiebesparingsverplichting opgenomen en de verplichting voor kantoren om te voldoen 
+aan energielabel C.
+
+De gemeente heeft de taak gekregen om op deze verplichtingen te handhaven. De 
+Omgevingsdienst West-Holland voert deze taken voor de gemeente uit. Via het beschikbaar 
+stellen van werkbudget aan de Omgevingsdienst stuurt de gemeente de mate waarin dit 
+gebeurt.
+
+Gemeente stimuleert
+
+Naast de rol van handhaver heeft de gemeente ook een stimulerende en informerende rol. In 
+deze rol heeft de gemeente de afgelopen jaren energiescans aan bedrijven aangeboden. Met 
+deze energiescans helpt de gemeente bedrijven inzicht te krijgen in de maatregelen die zij 
+kunnen nemen om energie te besparen en zelf energie op te wekken.
+
+Wat gaan we doen? 
+
+Het verduurzamen van het bedrijfsleven is een belangrijk onderdeel om in 2050 
+energieneutraal te zijn. We zetten daarom transitiebeleid op voor ondernemers om zo het 
+speelveld in kaart te brengen en duidelijke doelen te stellen. Voor de uitvoering en om 
+hiermee ook concreet ervaring op te doen wordt een virtueel transitieloket opgezet.
+
+Opstellen duurzaam economisch beleid
+
+In 2022-23 ontwikkelen we een duurzame economische agenda, beleidsmatig en uitvoerend. 
+Doel is om dit onderdeel te maken van regionaal beleid, omdat de vraagstukken bij de 
+individuele gemeenten zeer vergelijkbaar zijn. Gesprekken daarover vinden inmiddels plaats.
+
+4 aanname op basis van gegevens in de Klimaatmonitor
+
+27
+
+Opzetten transitieloket, een service-instrument ter ondersteuning van het 
+bedrijfsleven
+
+Gemeenten in de Duin- en Bollenstreek zetten gezamenlijk Serviceloket Zakelijk Zuiniger op 
+(het transitieloket voor het mkb in de bollenstreek). Het loket ondersteunt bedrijven en 
+ondernemers bij de energietransitie, bijvoorbeeld door een beter gebruik van landelijke 
+subsidies door ondernemers te stimuleren. Ook zorgt het loket voor een betere regionale 
+samenwerking tussen vragende en leverende bedrijven voor de energietransitie en 
+stimuleert het loket samenwerking van bedrijven op bijvoorbeeld bedrijventerreinen of op 
+sectorniveau (Greenport).
+Het totale budget voor dit project is € 400.000 voor de periode 2022-2023. Daarvan wordt 
+50% bijgedragen door de partners van Serviceloket Zakelijk Zuiniger en 50% door de 
+provincie in het kader van de regeling MKB-deals.
+
+Uitvoering doelgroepgerichte campagnes via het transitieloket
+
+Via het Serviceloket Zakelijk Zuiniger zullen we doelgroepgerichte, klein- en grootschalige 
+campagnes ontwikkelen om zoveel mogelijk bedrijven aan te zetten tot het nemen van 
+maatregelen. Dit doen we volgens de systematische aanpak van “kennis en bewustwording, 
+urgentiebesef, handelingsperspectief, actief aanzetten tot handelen, samen handelen”. 
+Daarbij streven we er ook naar om het “leverende” en het “vragende” bedrijfsleven van de 
+regio zoveel mogelijk met elkaar te verbinden voor de uitvoering van activiteiten, als bijdrage
+aan de lokale economie.
+
+28
+
+Duurzame gebiedsontwikkeling
+
+Voor het mogelijk maken van duurzame gebiedsontwikkeling en nieuwbouw is een integrale 
+benadering nodig. De gemeente heeft hierbij een regisserende rol en verbindt betrokkenen 
+bij het stellen van de juiste doelen. Hiervoor passen we instrumenten toe zoals de methode 
+DGO (Duurzame Gebiedsontwikkeling) en de Gemeentelijke Praktijk Richtlijn (GPR) Gebouw. 
+Deze methoden kijken breder dan de energievraagstukken. Zo zijn de thema’s mobiliteit, 
+water & klimaatadaptatie, materiaalgebruik, groen & biodiversiteit en gezondheid & welzijn 
+ook stukjes van de puzzel.
+
+Methodes voor duurzaamheidsprestatie
+Gemeentelijke Praktijkrichtlijn Gebouw (GPR)
+
+GPR gebouw meet en beoordeelt de duurzaamheidsprestatie van nieuwbouw. Een GPR-
+berekening neemt hierbij energie, milieu, gezondheid, gebruikskwaliteit en toekomstwaarde 
+onder de loep. Met deze methode wordt duidelijk wat de verbetermogelijkheden zijn. Een 
+GPR-score is een cijfer op een schaal van 1 tot 10. Met een GPR-score van 6 of hoger voldoet 
+een gebouw aan de minimum eisen in het Bouwbesluit. In de Omgevingsvisie van Hillegom is
+opgenomen dat bij nieuwbouw van woningen onderstaande GPR streefwaarden worden 
+gehanteerd:
+
+
+
+
+
+
+DuurzaamheidsPrestatie Gebouwen (DPG, combinatie van milieu en energie) 
+minimaal een 8;
+Gezondheid en gebruikskwaliteit minimaal een 8;
+Toekomstwaarde minimaal een 7.
+
+Duurzame Gebiedsontwikkeling (DGO)
+
+De methode DGO is in 2019 tot stand gekomen om bij ieder nieuwbouwproject toe te passen.
+Hiermee wordt bij een project het gesprek gefaciliteerd tussen de betrokkenen. Zo kunnen 
+gemeente en ontwikkelaar(s) gezamenlijke ambities vaststellen. Daarnaast heeft het een 
+controlerende en toetsende functie na realisatie, om te monitoren of de doelen zijn behaald.
+
+Aandachtspunten
+De invloed van nieuwe woningen
+
+Voor nieuwbouw is aardgas geen optie meer. Toch zien we tegengestelde ontwikkelingen op 
+het gebied van energie besparen. Als woningen ‘Nul op de Meter’ (NoM) gebouwd worden 
+neemt de energievraag door nieuwbouw niet toe. Dit type woningen zijn op jaarbasis 
+zelfvoorzienend in hun energievraag doordat zij standaard zonnepanelen op het dak hebben, 
+soms aangevuld met zonneboilers en in hun warmte voorzien met een warmtepomp. Als 
+nieuwbouw geen NoM woningen betreft, maar bijvoorbeeld ‘Bijna energieneutraal’ (BENG) 
+zijn, dan neemt de energievraag wel toe. Dit betekent een aanvullende opgave voor het 
+energieneutraal maken van de gemeente.
+
+29
+
+Energiearmoede
+Een onderzoek van TNO5 uit 2021 laat zien dat ongeveer 550.000 huishoudens in Nederland te 
+maken hebben met energiearmoede. Voor de gemeente Hillegom is dat ongeveer 2.75% van de 
+huishoudens (TNO, september 2021). Door de aanhoudende stijging van de energieprijzen ligt dit 
+percentage huishoudens waarschijnlijk hoger. Zij hebben hoge energiekosten of wonen in een 
+minder goed geïsoleerd huis en hebben een relatief laag inkomen.
+
+Gemeente  Aantal huishoudens5 
+Hillegom 
+
+ 329 
+
+Percentage 
+ 2.75% 
+
+(dit percentage is gebaseerd op cijfers van het CBS (rapport TNO, september 2021)). 
+
+Regelingen vanuit het Rijk die door de gemeente worden uitgevoerd
+Het Rijk heeft verschillende regelingen ingesteld om huishoudens die door de stijgende 
+energieprijzen in de knel zijn geraakt tegemoet te komen. Naast de generieke verlaging op de 
+energiebelasting, zijn er regelingen die via de gemeente worden uitgekeerd of uitgegeven.
+
+Eenmalige energietoeslag voor huishoudens met lage inkomens
+
+Dit gaat om een eenmalige tegemoetkoming van € 1.300. Deze regeling wordt in de 
+gemeente Hillegom uitgevoerd door ISD Bollenstreek. Zij betalen dit bedrag uit in 6 termijnen
+aan huishoudens met een gezinsinkomen wat maximaal 120% van de bijstandsnorm is. Dit 
+betekent vier termijnen van € 200 en twee termijnen van € 250. De eenmalige toeslag wordt 
+automatisch uitgekeerd aan inwoners die recht hebben op de categoriale bijzondere bijstand.
+Huishoudens met een laag inkomen die geen recht hebben op de categoriale bijstand kunnen
+via ISD Bollenstreek een aanvraag doen voor deze tegemoetkoming.
+
+Specifieke uitkering ter bestrijding van energiearmoede
+
+Het kabinet heeft 150 miljoen beschikbaar gesteld waarmee gemeenten huishoudens in 
+energiearmoede kunnen ondersteunen. De hoogte van de uitkering per gemeente is naar 
+rato via een verdeelsleutel vastgesteld. Met deze specifieke uitkering kunnen gemeenten zelf
+een aanpak opstellen om de huishoudens in energiearmoede te ondersteunen.
+
+Voor de gemeente Hillegom ontwikkelt het domein Maatschappelijke Ontwikkeling deze 
+aanpak. Energiearmoede vraagt, net als de gehele energietransitie, om een integrale 
+benadering in de (werk)organisatie en uitvoering. Omdat het een armoedevraagstuk is ligt de
+aanpak van energiearmoede primair bij het domein Maatschappelijke Ontwikkeling. Team 
+Energie is op inhoud aangehaakt en adviseert op de uitvoering van de energiearmoede-
+aanpak.
+
+5 De Feiten over energiearmoede in Nederland: Inzicht op Nationaal en Lokaal Niveau (TNO, september 2021)
+
+30
+
+Voor deze aanpak wordt de samenwerking gezocht met de lokale woningcorporatie Stek. Uit 
+onderzoek van het TNO blijkt namelijk dat 75% van de huishoudens die in energiearmoede 
+leven, in een corporatiehuurwoning woont.
+
+De aanpak richt zich op energiebesparend gedrag en op energiebesparende maatregelen. Via
+een wijkgerichte aanpak gaat een bespaardienst wijken in. Deze bespaardienst adviseert de 
+bewoners van corporatiewoningen op het gebied van energiebesparend gedrag. Tegelijkertijd
+kunnen zij, met toestemming van de bewoner, direct kleine energiebesparende maatregelen 
+uitvoeren, zoals ledlampen en radiatorfolie. Voor de uitvoer van deze aanpak wordt 
+samengewerkt met een uitvoerende partij, energiecoaches en een ROC. Naar verwachting 
+gaat de aanpak in Q4 van 2022 van start. De besteding van deze middelen voor de 
+gemeente moet uiterlijk 1 mei 2023 zijn afgerond.
+
+Kosten: We reserveren de door het Rijk vrijgemaakte SPUK-middelen van € 85.852 voor 
+2022 en 2023. 
+
+Additionele middelen:
+
+In de Kamerbrief van 11 maart 2022 heeft het kabinet € 150 miljoen extra beschikbaar 
+gemaakt voor energiebesparende maatregelen in huur- en koopwoningen. Dit bedrag wordt 
+samengevoegd met de € 68,5 miljoen die in het Nationaal Isolatieprogramma beschikbaar is 
+gesteld. Om zowel huishoudens in energiearmoede te ondersteunen, als de opstap naar een 
+meer structurele aanpak van isolatie te maken, worden de middelen verdeeld op basis van 
+verschillende criteria. De € 150 miljoen wordt opnieuw verdeeld op basis van het aantal 
+huishoudens in energiearmoede conform het onderzoek van TNO. De € 68,5 miljoen voor de 
+lokale isolatieaanpak wordt verdeeld op basis van het bouwjaar van woningen.
+
+In juni 2022 zijn we geïnformeerd over de hoogte en de voorwaarden van de tweede tranche.
+Hierbij is aanvullend € 161.696 toegewezen voor de bestrijding van energiearmoede. Voor de
+besteding wordt gekeken naar een meer structurele aanpak om energiearmoede te 
+beperken, bijvoorbeeld door middel van spouwmuurisolatie, een witgoedregeling of de 
+collectieve inkoop van energie.
+
+31
+
+6. Communiceren en participeren
+Communicatie en participatie dragen bij aan het behalen van de inhoudelijke doelen van het 
+programma en koppelen we daarom vooral aan de inhoud van de projecten. 
+
+Communicatie energietransitie
+We zorgen voor meer continuïteit en herkenbaarheid in onze communicatie. Thema’s van de 
+communicatie zijn de projecten t.b.v. energiebesparing, isolatie, zonnepanelen op daken en 
+financiering. Hiermee sluiten we aan op de communicatie die vanuit het Rijk wordt ingezet. De 
+primaire doelgroep van de communicatie is inwoners.
+
+Het spreekt voor zich dat we ons houden aan de algemene uitgangspunten voor communicatie van 
+HLT en de overheid. Denk aan eisen als begrijpelijkheid en toegankelijkheid. We gebruiken onze 
+vakkennis om alle mensen met verschillende denk- en communicatiestijlen te bereiken. Dus we 
+zullen een boodschap op verschillende manieren (teksten, plaatjes, video, etc) en via verschillende 
+kanalen verspreiden. Dus multimediaal, waarbij de middelen en kanalen elkaar versterken.
+
+Kosten: Voor het opzetten en uitvoeren van de communicatie reserveren we € 15.000 in 2022 
+(concept, ontwerp, middelen, inhuur voor uitvoering). In 2023 en 2024 reserveren we € 25.000 per 
+jaar voor middelen en inhuur uitvoering.
+
+Participatie doelen en kaders 
+De energietransitie heeft veel invloed op het leven van bewoners en zij hebben er zelf ook een 
+grote rol in. Het is dus logisch dat zij zeggenschap krijgen. Participatie is daarom een belangrijk 
+onderdeel van ons proces, zeker voor de warmtetransitie en projecten voor zonne- en windenergie. 
+Voor beleid en plannen die beter aansluiten op wat nodig is bij betrokkenen maar ook voor meer 
+betrokkenheid van mensen die zelf ook een rol hebben. 
+
+We werken in lijn met het participatiebeleid van de gemeente dat nog vastgesteld moet worden en 
+maken gebruiken van de toolbox die de gemeente voor participatie beschikbaar heeft. 
+
+We zorgen bovendien dat we naast de koplopers ook de middengroepen bereiken en op den duur 
+ook de laatbloeiers; door verschillende vormen naast elkaar aan te bieden, bijvoorbeeld door 
+flitspeilingen, swipocratie, bijeenkomsten en door naar de mensen toe te gaan via straatgesprekken
+of buurtteams.
+
+Inzet communicatieadviseur 
+Voor onderstaande projecten is inzet van een communicatieadviseur nodig. Voor 2023 en 2024 is 
+hierin nog niet voorzien. Er is geen structureel budget of formatie. De uitvoering van de 
+communicatie (onder het kopje communicatie energietransitie) is wel al begroot.
+
+Kosten: We reserveren voor 2023 € 7.500 voor een communicatieadviseur.
+
+32
+
+Wat gaan we doen? 
+
+Expertgroep opzetten
+Er zijn in de gemeente veel inwoners die zich verdiept hebben in de energietransitie. Zij hebben 
+bijvoorbeeld als koploper ervaring in het verduurzamen van hun eigen huis of zijn beroepsmatig 
+betrokken. Deze groep koplopers heeft zijn kennis al vaker aangeboden en daarom willen we hun 
+energie bundelen in een HLT-brede expertgroep. We nodigen hen uit en zetten in samenspraak met
+hen een structuur op en maken heldere afspraken over hun werkwijze en invloed. Het is participatie
+op het niveau van samen denken. De expertgroep kan ingezet worden op verschillende projecten 
+van de energietransitie, zoals de bouwjarenaanpak (hoe denkt u dat uw medebewoners het beste 
+geholpen kunnen worden? Hoofdstuk 1) of bij het uitwerken van de warmtescenario’s (hoofdstuk 2).
+
+Kosten: We reserveren € 1.500 per jaar. De ambtelijke inzet wordt georganiseerd met een 
+vacature voor een projectmedewerker energietransitie.
+
+Interne communicatie
+Het is belangrijk dat ook mensen in de organisatie en in de politiek goed op de hoogte zijn. De 
+materie is complex, ontwikkelingen volgen elkaar snel op en wetgeving verandert. Het is daarom 
+belangrijk om iedereen goed aangehaakt te houden bij de energietransitie.  Hiervoor willen we 
+verschillende instrumenten inzetten, zoals een periodieke nieuwsbrief en eventueel bijeenkomsten.
+
+Kosten: De ambtelijke inzet wordt georganiseerd met een vacature voor een projectmedewerker 
+energietransitie. Verdere kosten zijn niet aan de orde.
+
+Vergroten kennis bij jongeren
+We vinden het belangrijk dat de energietransitie ook bij jongeren leeft. We stimuleren en 
+ondersteunen bijvoorbeeld scholen om met de energietransitie aan de slag te gaan in hun 
+curriculum. Zodat leerlingen zich bewust worden van de opgave en geïnteresseerd raken als de 
+vakmensen van de toekomst. 
+
+Kosten: We reserveren € 1.500 voor zowel 2023 en 2024. De ambtelijk inzet is voorzien.
+
+Peilingen via digipanel
+Om regelmatig te peilen hoe inwoners in de energietransitie en/of energiebesparing staan willen we
+onderzoek doen via het digipanel.
+
+Kosten: We reserveren € 2.500 voor onderzoek per jaar voor het digipanel.
+
+33
+
+7. Monitoring
+Dit uitvoeringsprogramma geeft met de kennis van nu invulling aan de opgaven uit de LES en TVW.
+De energietransitie is een maatschappelijke opgave die constant in ontwikkeling is. Daarom is het 
+van belang dat we monitoren en bijsturen.
+
+Een belangrijk startpunt hierin is de basis aan informatievoorziening op orde krijgen en inzichtelijk 
+maken wat de huidige situatie is. Voor de RES-regio is een monitoringstool ontwikkeld waarmee we 
+inzicht krijgen in hoeverre we onze regionale doelen bereiken. Samen met taakveld Data krijgen we
+grip op onze lokale doelen.
+
+Project monitoringstool
+Als pilot gaan we in samenwerking met taakveld Data een instrument ontwikkelen waarmee de 
+energietransitie lokaal kan worden gemonitord. Hierbij brengen we de relevante en kritieke 
+indicatoren in kaart. Op basis hiervan kan dan worden gestuurd op de doelstellingen. Op deze 
+manier verwachten we tijdig te kunnen (bij)sturen wanneer nodig. Ook willen we verkennen welke 
+kansen data biedt en inspelen op die kansen om integraal en gebiedsgericht de warmtetransitie 
+vorm te geven.
+
+Kosten: We maken een reservering van € 5.000 per jaar voor de opzet, doorontwikkeling en het 
+actueel houden van de monitoringstool. De ambtelijk inzet uit taakveld Data is voorzien.
+
+Evaluatie
+In 2024 gaan we het uitvoeringsprogramma evalueren en stellen we op basis van de evaluatie het 
+uitvoeringsprogramma bij voor de opvolgende jaren.
+
+34
+
+8. Bestuurlijk en ambtelijk verantwoordelijk
+De energietransitie is van ons allemaal en dat betekent ook dat er op verschillende plekken in onze 
+organisatie aan de energietransitie wordt gewerkt. Dit uitvoeringsprogramma laat de verschillende 
+opgave waarvoor onze gemeente staat goed zien. Het wordt steeds meer een integraal onderdeel 
+van bestaand werk, afdelingen en portefeuilles. De energietransitie vraag daarmee om een 
+integrale aansturing, iets wat binnen de huidige organisatie niet vanzelfsprekend is. In de begroting
+hebben we daarom financiële ruimte gereserveerd om een programmamanager aan te kunnen 
+trekken.
+
+Ook bestuurlijk zijn de verschillende wethouders verantwoordelijk voor de energietransitie binnen 
+hun eigen portefeuilles en is één van de wethouders verantwoordelijk om ook de bestuurlijke 
+integraliteit te waarborgen. In onderstaand schema geven we de bestuurlijke en ambtelijke 
+verantwoordelijkheid weer;
+
+Zonnepanelen op daken
+
+Zonnevelden en windturbines
+
+Warmtetransitie
+
+Energie besparen
+
+Onderdeel Portefeuille
+Energietransitie
+Energietransitie
+Energietransitie
+Energietransitie
+Vastgoed6
+Duurzame mobiliteit Mobiliteit
+Economie
+
+Verduurzamen eigen en
+maatschappelijk vastgoed
+
+Verduurzamen bedrijfsleven
+
+Duurzame gebiedsontwikkeling Ruimtelijke 
+Ontwikkeling
+
+Communiceren en participeren
+
+Energiearmoede  Armoedebeleid
+Energietransitie
+Energietransitie
+
+Monitoring
+
+Team
+Beleid en 
+Advies
+Beleid en 
+Advies
+Beleid en 
+Advies
+Beleid en 
+Advies
+Beleid en 
+Advies
+Beleid en 
+Advies
+Beleid en 
+Advies
+Planvorming
+WMO en 
+Participatie
+Beleid en 
+Advies
+Beleid en 
+Advies
+
+Cluster
+Duurzaamheid en 
+Energie
+Duurzaamheid en 
+Energie
+Duurzaamheid en 
+Energie
+Duurzaamheid en 
+Energie
+Grondzaken en 
+Vastgoed
+Mobiliteit
+Economie
+Planvorming
+WMO en 
+Participatie
+Duurzaamheid en 
+Energie
+Duurzaamheid en 
+Energie
+
+6 De portefeuille vastgoed is verdeeld over meerder portefeuillehouders.
+
+35
+
+9. Rol van de gemeente
+De gemeente heeft verschillende rollen te vervullen in de energietransitie. Afhankelijk van het 
+vraagstuk kan de rol per project verschillen. Zo is er op het gebied van energiebesparing en 
+zonnepanelen op daken veel meer inzicht in de mogelijkheden dan bijvoorbeeld voor de 
+warmtetransitie. Voor de gemeente onderscheiden we momenteel vier rollen:
+
+1. Faciliterende rol: Lokale initiatieven kunnen een grote bijdrage leveren aan de ambities en 
+
+doelen van de gemeente. Maar om van de grond te komen zijn ze vaak gebaat bij 
+ondersteuning van de gemeente. Bijvoorbeeld ondersteuning in het proces of bij de 
+communicatie. Ook kan de gemeente haar netwerk inzetten om samenwerking te 
+faciliteren. 
+
+2. Stimulerende rol: Een belangrijk onderdeel van de energietransitie is het stimuleren van 
+
+bewoners en ondernemers om (energiebesparende) stappen te zetten. Met behulp van 
+(rijks)subsidies, garanties, borgstellingen en/of leningen kunnen initiatieven ondersteund 
+worden om tot ontwikkeling of realisatie te komen. Bij het merendeel van projecten heeft 
+de gemeente deze rol. Bijvoorbeeld bij het uitvoeren van een bouwjarenaanpak of het 
+stimuleren van zon op dak bij VvE’s. De gemeente pakt deze rol ook door een duidelijk 
+handelingsperspectief te bieden.
+
+3. Samenwerkingsrol: Soms is samenwerking met andere partijen nodig. Bijvoorbeeld met 
+private partijen,  overheden of nutsbedrijven. Hierbij hebben de partijen een gezamenlijk 
+belang en kunnen zij efficiënter opereren. Het kan bijvoorbeeld gaan om samenwerking met
+commerciële partijen in onderzoek naar energiebronnen of intergemeentelijke 
+samenwerking voor energiebesparingsacties. Maar ook kan de gemeente een 
+minderheidsaandeel nemen in projecten.
+
+4. Eigenaarsrol: De energietransitie is nog niet volledig geland in onze gemeente. Dit betekent
+dat voor bepaalde projecten vanuit de markt weinig of geen interesse is. Hierbij neemt de 
+gemeente opgaves voor eigen rekening. Dit kan uiteenlopen van (deelname in) risicovolle 
+ontwikkeling, tot (deelname in) exploitatie of het volledig inrichten en exploiteren van een 
+gemeentelijk energieproject of- bedrijf. Dit alles volledig in eigen regie.
+
+Om een project op te starten zal een startnotitie opgesteld worden. Hierin worden de contouren van
+het project beschreven, met wie wordt samengewerkt, hoe het project wordt uitgevoerd, welke 
+kosten en baten er zijn, wat de planning is. Op basis hiervan wordt bepaald welke rol de gemeente 
+vervult. Deze rol kan veranderen als blijkt dat dat nodig is.
+
+36
+
+10. Begroting 2022-2024
+Het uitvoeringsprogramma heeft een doorlooptijd van 5 jaar. Door onvoldoende inzicht in nog komende 
+rijksbijdragen hebben we de begroting tot en met 2024 opgesteld. Dit zal jaarlijks worden bijgesteld. Vanuit de 
+duurzaamheidsreserve (restant na 2022: €700.000) wordt jaarlijks €150.000 toegevoegd aan de begroting. Het 
+restant hiervan wordt verdeeld over 2025 en 2026. Projecten worden zo veel als mogelijk opgepakt met Lisse en 
+Teylingen. De verdeling van het budget hierbij betreft voor menskracht: 25% voor Hillegom, 25% voor Lisse en 
+50% voor Teylingen. Bij uitvoeringskosten kan deze verdeling verschillen per project. Voor een aantal projecten en 
+activiteiten is de ambtelijke capaciteit van de bestaande formatie onvoldoende om uit te voeren. Hiervoor wordt de
+formatie van team Energie uitgebreid met 2 projectmedewerkers. Daarnaast wordt vanuit communicatie voor 8 uur
+per week ondersteuning ingekocht. 
+
+Projectbegroting Hillegom
+
+Energie besparen
+
+Bouwjaren aanpak
+Ondersteunen Lokale initiatieven
+Ondersteunen VvE's
+Doelgroepen afwegingskader ontwikkelen
+Handelingsperspectief ontwikkelen
+Doorontwikkelen energiecoaches
+Ontwikkelen aanpak hybride warmtepomp
+
+Warmtetransitie
+
+Zon op daken
+
+Warmtescenario's uitwerken
+
+Algemene inkoopactie
+Energiecoöperaties ondersteunen
+Overige dakprojecten en onderzoek 
+
+Zonnevelden en windturbines
+
+Van zoekgebieden naar zoeklocaties
+Solar Parking Fioretti College
+Beleid lokaal eigendom
+Opstellen RES 2.0
+
+Communiceren en participeren
+
+Communicatie energietransitie
+Expertgroep opzetten
+Vergroten kennis bij jongeren
+Peilingen via digipanel
+
+Aanpak energiearmoede (MO)
+Monitoringstool (Taakveld Data)
+MKB transitieloket (Economie)
+
+Integrale thema’s
+
+Uitbreiding formatie energietransitie
+
+Adviseur communicatie
+Projectmedewerker Energietransitie
+Projectmedewerker Energietransitie
+
+2022
+
+Uitgaven
+
+€ 12.000 
+
+€ 10.000 
+€ 3.000 
+€ 3.000 
+€ 18.000 
+
+ 
+€ 18.750 
+ 
+
+€ 5.000 
+
+ 
+€ 15.000 
+€ 1.500
+€ 1.500
+€ 2.500
+ 
+€ 247.548 
+
+€ 21.000 
+ 
+
+2023
+
+2024
+
+Uitgaven
+
+Inkomsten
+
+Uitgaven
+
+Inkomsten
+
+Inkomsten 
+  
+
+€ 24.000 
+€ 30.000 
+€ 10.000 
+
+€ 10.000 
+€ 5.000 
+
+€ 22.500 
+€ 5.000 
+€ 5.000 
+
+€ 15.000 
+€ 10.000 
+€ 10.000 
+€ 21.644 
+
+€ 25.000 
+€ 1.500
+€ 1.500
+€ 2.500
+
+€ 5.000 
+€ 21.000 
+
+€ 7.500
+€ 29.250 
+€ 29.250 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+€ 24.000 
+€ 30.000 
+€ 10.000 
+
+€ 10.000 
+€ 5.000 
+
+€ 17.500 
+€ 5.000 
+€ 5.000 
+
+€ 21.644 
+
+€ 25.000 
+€ 1.500
+€ 1.500
+€ 2.500
+
+€ 5.000 
+
+€ 7.500
+€ 29.250 
+€ 29.250 
+
+Middelen
+Duurzaamheidsreserve (€700.000)
+Bijdrage Rijk uitvoering Klimaatakkoord
+Bijdrage Rijk t.b.v. Energiearmoede
+Overheveling
+Totaal
+Resultaat
+
+ 
+ 
+  
+
+€ 358.798
+
+ 
+€ 150.000 
+€ 192.088
+€ 247.548
+
+€ 589.636
+€ 230.838
+
+€ 150.000
+
+€ 150.000
+
+€ 290.644
+
+€ 230.838
+€ 380.838
+€   90.194
+
+€ 229.644
+
+€   90.194
+€ 240.194
+€   10. 431
+
+37
+
+11. Planning 
+Voor de uitvoerbaarheid van het programma hebben we in de planning rekening gehouden met beschikbare 
+ambtelijke capaciteit en gelden. Wanneer extra gelden beschikbaar komen kunnen we onze ambtelijke capaciteit 
+vergroten en meer projecten gelijktijdig oppakken of de intensiteit van de projecten vergroten. Voor de planning 
+geldt ook dat we deze tussentijds kunnen bijstellen wanneer de situatie daarom vraagt.
+
+2022
+
+2023
+
+2024
+
+Q3
+
+Q4
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+ 
+
+Project
+
+Energie besparen
+
+Warmtetransitie
+
+Zon op daken
+
+Bouwjarenaanpak
+Ondersteunen lokale initiatieven
+Ondersteunen VvE’s
+Ondersteunen inwoners met laag inkomen bij isolatie
+Doelgroepen-afwegingskader ontwikkelen
+Handelingsperspectief ontwikkelen
+Doorontwikkelen energiecoaches
+Evalueren financiële instrumenten
+Regeling eenmalige subsidie energiebesparende acties
+Ontwikkelen aanpak hybride warmtepomp
+
+Warmtescenario’s uitwerken
+
+Algemene inkoopactie
+Stimuleren zonnepanelen op daken van VvE’s
+Woningcorporatie en particuliere (ver)huurders
+Energiecoöperaties ondersteunen
+Overige dakprojecten & onderzoek
+
+Zonnevelden en windturbines
+
+Communiceren en participeren
+
+Monitoring
+
+Van zoekgebieden naar zoeklocaties
+Lobby zon langs spoor
+Solar Parking Fioretti College
+Opstellen RES 2.0
+Beleid lokaal eigendom
+Beleid kleine windturbines
+
+Communicatie energietransitie
+Expertgroep opzetten
+Interne communicatie
+Vergroten kennis bij jongeren
+Peilingen via digipanel
+
+Project monitoringstool
+
+Legenda
+
+Voorbereiding
+
+Uitvoering
+
+38
+
+

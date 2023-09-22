@@ -1,0 +1,2603 @@
+ 
+
+RAPPORT 
+
+Transitievisie Warmte gemeente 
+Noordwijk  
+
+  
+
+Klant: 
+
+Gemeente Noordwijk 
+
+Referentie:  Transitievisie Warmte Gemeente Noordwijk 
+
+Status: 
+
+S0/Document ter vaststelling 
+
+Datum: 
+
+19 oktober 2021 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+HASKONINGDHV NEDERLAND B.V. 
+ 
+
+Laan 1914 no.35 
+
+3818 EX  AMERSFOORT 
+ 
+Transport & Planning 
+
+Trade register number: 56515154 
+
++31 88 348 20 00 
+
+T 
+
++31 33 463 36 52 
+
+F 
+
+info@rhdhv.com 
+
+E 
+
+royalhaskoningdhv.com 
+
+W 
+
+ 
+
+Titel document:  Transitievisie Warmte gemeente Noordwijk  
+
+Referentie:  Transitievisie Warmte Gemeente Noordwijk 
+
+Status:  Document ter vaststelling/S0 
+Datum:  19 oktober 2021 
+Projectnaam:  TVW Noordwijk 
+
+Projectnummer:  BH8797 
+
+Auteur(s):  Karen Friele 
+
+Opgesteld door:  Anja Boekenoogen en Karen Friele 
+
+Gecontroleerd door:  Marco Plantema 
+
+Datum:  19-10-2021 
+
+Goedgekeurd door:  Marco Plantema 
+
+Datum:  19-10-2021 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+Behoudens andersluidende afspraken met de Opdrachtgever, mag niets uit dit document worden verveelvoudigd of 
+openbaar gemaakt of worden gebruikt voor een ander doel dan waarvoor het document is vervaardigd. 
+HaskoningDHV Nederland B.V. aanvaardt geen enkele verantwoordelijkheid of aansprakelijkheid voor dit document, 
+anders dan jegens de Opdrachtgever. 
+ 
+Let op: dit document bevat persoonsgegevens van medewerkers van HaskoningDHV Nederland B.V. en dient voor 
+publicatie of anderszins openbaar maken te worden geanonimiseerd. 
+
+19 oktober 2021 
+
+  
+
+ 
+
+Transitievisie Warmte Gemeente 
+Noordwijk 
+
+i   
+
+ 
+ 
+ 
+
+INHOUD 
+
+1 
+
+2 
+
+2.1 
+
+2.2 
+
+2.3 
+
+2.4 
+
+2.5 
+
+3 
+
+3.1 
+
+3.2 
+
+4 
+
+4.1 
+
+INLEIDING 
+
+ACHTERGROND 
+
+Plannen maken voor de energietransitie 
+
+Waarom een visie voor aardgasvrij? 
+
+In het kort: de totstandkoming 
+
+De Transitievisie Warmte als vertrekpunt 
+
+De Noordwijkse Energie Strategie (NES) 
+
+GEMEENTE NOORDWIJK 
+
+Warmtevraag 
+
+Wat vindt de gemeente Noordwijk belangrijk? 
+
+WARMTEOPLOSSINGEN 
+
+Wat zijn de oplossingen voor de gemeente Noordwijk? 
+
+4.1.1 
+4.1.2  Warmteopties als alternatief voor aardgas 
+
+Energiebesparing 
+
+4.2 
+
+Welke duurzame warmteoplossingen zijn er? 
+
+4.2.1 
+4.2.2 
+4.2.3 
+4.2.4  Warmtenet (collectief) 
+
+All-electric (individueel) 
+Hernieuwbaar gas (individueel) 
+Hybride (individueel) 
+
+4.3 
+
+4.3.1 
+4.3.2 
+4.3.3 
+4.3.4 
+
+4.4 
+
+5 
+
+5.1 
+
+5.2 
+
+5.3 
+
+6 
+
+7 
+
+7.1 
+
+7.2 
+
+7.3 
+
+Warmtebronnen in gemeente Noordwijk 
+
+Geothermie 
+Thermische energie uit oppervlaktewater (TEO) 
+Elektriciteitsbronnen 
+Andere bronnen 
+
+Keuze voor optimale warmteoplossing 
+
+VISIE 
+
+Visie 
+
+Vervolgstappen 
+
+Ontwikkeling collectieve warmteoplossingen 
+
+PROCESVOORSTEL WIJKUITVOERINGSPLAN (WUP) 
+
+WAT KUNNEN INWONERS AL DOEN? 
+
+Geen spijt maatregelen 
+
+Duurzaam Bouwloket 
+
+Duurzaamheidsregelingen 
+
+3 
+
+4 
+
+4 
+
+5 
+
+6 
+
+6 
+
+7 
+
+9 
+
+9 
+
+10 
+
+12 
+
+12 
+
+12 
+12 
+
+1 
+
+1 
+1 
+2 
+2 
+
+2 
+
+2 
+2 
+3 
+3 
+
+3 
+
+5 
+
+5 
+
+6 
+
+8 
+
+9 
+
+11 
+
+11 
+
+12 
+
+12 
+
+19 oktober 2021 
+
+  
+
+ 
+
+Transitievisie Warmte Gemeente Noordwijk 
+
+1   
+
+ 
+ 
+ 
+
+7.4 
+
+Meer informatie 
+
+12 
+
+ 
+
+ 
+
+ 
+
+19 oktober 2021 
+
+  
+
+ 
+
+Transitievisie Warmte Gemeente Noordwijk 
+
+2   
+
+ 
+ 
+ 
+
+  
+
+1  INLEIDING 
+
+Welkom bij de Transitievisie Warmte van de gemeente Noordwijk. Iedere gemeente in Nederland stelt voor 
+het eind van 2021 een transitievisie warmte (TVW) op. In deze Transitievisie Warmte maken wij inzichtelijk 
+welke stappen gezet moeten worden om gemeente Noordwijk in 2050 aardgasvrij te krijgen. Dat betekent 
+dat  we  in  2050  niet  meer  verwarmen  en  koken  met  aardgas,  maar  met  duurzame  warmtebronnen.  Dit 
+noemen wij de ‘warmtetransitie’. De warmtetransitie is een onderdeel van de energietransitie. 
+ 
+De Transitievisie Warmte gemeente Noordwijk bestaat uit de volgende hoofdstukken:  
+ 
+2. Achtergrond  
+Waarom hebben we een Transitievisie Warmte opgesteld? 
+ 
+3. Gemeente Noordwijk 
+Waar staan we nu en wat zijn onze ambities? 
+ 
+4. Warmteoplossingen  
+Welke oplossingen zijn mogelijk in de gemeente Noordwijk om onze huizen te verwarmen? 
+ 
+5. Visie 
+Onze visie op een aardgasvrij Noordwijk? Hier lichten we ook onze vervolgstappen toe.  
+ 
+6. Procesvoorstel Wijkuitvoeringsplan (WUP) 
+Hoe komen we tot een Wijkuitvoeringsplan met uitgewerkte stappen om te komen tot een duurzame 
+warmteoplossing voor een bepaald gebied? 
+ 
+7. Wat kunnen inwoners zelf al doen? 
+In dit hoofdstuk geven we informatie over maatregelen die bewoners in Noordwijk zelf kunnen nemen.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+19 oktober 2021 
+
+  
+
+ 
+
+Transitievisie Warmte Gemeente Noordwijk 
+
+3   
+
+ 
+ 
+ 
+
+2 
+
+ACHTERGROND 
+
+Het  klimaat  verandert;  het  wordt  steeds  warmer  op  de  aarde  en  extreme  weersomstandigheden  komen 
+steeds meer voor. Dit is het resultaat van steeds meer broeikasgassen – zoals CO2 – die in de lucht komen 
+door  bijvoorbeeld  de  industrie,  energieproductie  en  verwarming  van  onze  huizen.  De  opwarming  zorgt 
+ervoor dat het in sommige landen steeds droger wordt, terwijl op andere plekken meer overstromingen zijn 
+door extreem weer en het stijgen van de zeespiegel. Dit merken we ook in Nederland, met meer hittegolven 
+en droogte in de zomer en warmere, nattere winters.  
+ 
+In  Nederland  zijn  wij  voor verwarming  deels  afhankelijk  van  aardgas  uit  de  Groningse  bodem,  terwijl  de 
+gaswinning in Groningen schade veroorzaakt. Daarom wil Nederland vanaf 2022 geen gebruik meer maken 
+van Gronings aardgas. 
+ 
+Door  de  gebouwen  in  Nederland  aardgasvrij  te  maken  en  over  te  stappen  naar  duurzame  bronnen, 
+verminderen  we  uitstoot  van  CO2.  Zo  dragen  we  ons  steentje  bij  om  te  voorkomen  dat  de  aarde  verder 
+opwarmt.  
+ 
+
+2.1 
+
+Plannen maken voor de energietransitie  
+
+In 2016 hebben 196 verschillende landen het klimaatverdrag van Parijs getekend. Hierin hebben de landen 
+afgesproken  in  de  toekomst  minder  CO2  uit  te  stoten.  De  CO2-uitstoot  moet  in  2030  49%  minder  zijn 
+(vergeleken met  1990).  In  2050  mag  er  bijna  helemaal  geen  CO2-uitstoot  meer  zijn:  95% minder  dan  in 
+1990. Dit betekent dat we dingen moeten gaan veranderen; verduurzamen. Dat begint met het besparen 
+van energie, bijvoorbeeld door woningen te isoleren en op een andere manier te reizen. De energie die we 
+dan nog wel gebruiken, willen we duurzaam opwekken. Deze verandering noemen we de ‘energietransitie’. 
+ 
+De  energietransitie  is  een  grote  opdracht  en  daarom  doen  we  dit  natuurlijk  niet  alleen.  Op  nationaal, 
+regionaal en lokaal niveau maken overheden, bedrijven, organisaties en inwoners plannen om te voldoen 
+aan de ambities uit het klimaatverdrag van Parijs. Op nationaal niveau is in Nederland het Klimaatakkoord 
+ondertekend. Ook werkt de Rijksoverheid aan wet- en regelgeving en aan manieren om de energietransitie 
+te betalen.  
+ 
+Op regionaal niveau werken gemeenten, provincies, waterschappen en organisaties uit de energiesector 
+samen aan de Regionale Energie Strategie (RES). Al ruim 4 jaar werkt gemeente Noordwijk samen met 
+andere gemeenten in de regio Holland Rijnland om in 2050 energieneutraal en aardgasvrij te worden. We 
+doen dit omdat het een lastige opdracht is waarbij we elkaar nodig hebben.  Door samen te werken kun je 
+ook gebruikmaken van elkaars kennis en mogelijkheden. En omdat partijen de regio goed kennen, kunnen 
+we beter passende oplossingen bedenken. In de RES onderzoeken we waar en hoe duurzame elektriciteit 
+op land (wind en zon) opgewekt kan worden in de regio. De inzichten uit de RES worden benut voor de 
+lokale doorvertaling in de Noordwijkse Energiestrategie.  
+ 
+In de RES wordt ook gekeken naar vraag en aanbod van (duurzame) warmte. Dit onderdeel van de RES 
+heet de Regionale Structuur Warmte (RSW). Het gaat hier vooral om de kansen en vragen voor de gehele 
+regio.  Zo  wordt  er  nagedacht  over  de  ontwikkeling  van  een  regionaal  warmtenetwerk.  In  de  duin-  en 
+bollenstreek zijn kansen voor geothermie (aardwarmte). De Transitievisie Warmte van gemeente Noordwijk 
+sluit  aan  bij  deze  regionale  kansen  en  ontwikkelingen.  Wij  werken  de  warmtestrategie  verder  uit  binnen 
+onze gemeente.    
+ 
+De gemeente Noordwijk is ook al langer bezig met de energietransitie. Dit doet zij door haar inwoners met 
+advies 
+te  ondersteunen,  bijvoorbeeld  met  het  Duurzaam  Bouwloket,  duurzaamheidssubsidies, 
+energiescans, energiecoaches en duurzaamheidsleningen. Ook werkt de gemeente aan het verduurzamen 
+
+19 oktober 2021 
+
+  
+
+ 
+
+Transitievisie Warmte Gemeente Noordwijk 
+
+4   
+
+ 
+ 
+ 
+
+van  haar  gemeentelijke  vastgoed  en  ondersteunt  de  gemeente  de  warmtetransitie  via  normering  voor 
+nieuwbouw en handhaving van wettelijke eisen. 
+ 
+De uitkomsten van onze plannen krijgen te zijner tijd een plaats in de Omgevingsvisie en Omgevingsplannen 
+van de gemeente Noordwijk. In de Omgevingsvisie leggen we vast op welke manier we - met alle plannen 
+voor de openbare ruimte - een goede kwaliteit van onze leefomgeving behouden. 
+
+ 
+
+2.2  Waarom een visie voor aardgasvrij? 
+
+De Transitievisie Warmte geeft handvatten voor hoe we in de gemeente aan de slag gaan om woningen en 
+bedrijfsgebouwen  aardgasvrij  te  maken.  We  kennen  ons  einddoel  voor  2050,  maar  we  weten  nog  niet 
+precies hoe we er komen. In de Transitievisie Warmte doen we een eerste inventarisatie van de routes die 
+we kunnen nemen in de warmtetransitie.  
+ 
+
+Waar de Transitievisie Warmte niet over gaat 
+ 
+In de Transitievisie Warmte inventariseren we de routes voor het aardgasloos verwarmen van gebouwen zoals 
+huizen en bedrijfsgebouwen en kantoren, maar niet voor de industrie. De Transitievisie Warmte gaat daarnaast 
+alleen om gebouwen die voor het jaar 2018 zijn gebouwd. De meeste gebouwen die na 2018 zijn gebouwd, zijn 
+al (verplicht) aardgasvrij.  
+ 
+
+ 
+In de Transitievisie Warmte staat het volgende centraal: 
+ 
+Hoe kunnen we de gebouwen in de gemeente Noordwijk duurzaam verwarmen zonder aardgas?  
+Er zijn verschillende warmteoplossingen om huizen en gebouwen te verwarmen zonder daarbij gebruik te 
+maken van aardgas. Bijvoorbeeld door een warmtepomp, een warmtenet of door het gebruik van duurzame 
+gassen in ons gasnet. Dat ligt er maar net aan wat ter plaatse technisch kan, financieel haalbaar is en welke 
+initiatieven  gebouweneigenaren  (collectief  en  individueel)  nemen.  Op  een  zogeheten  ‘WAT-kaart’  (zie 
+4.1.2)  laten  we  voor  de  hele  gemeente  zien  wat  de  mogelijke  warmteoplossingen  zijn  om  gebouwen 
+duurzaam te verwarmen. 
+ 
+Wat is de visie van de gemeente Noordwijk voor een aardgasvrije gebouwde omgeving? 
+Het traject richting aardgasvrije gebouwen kan per wijk, huis, gebouw, kantoor of appartement verschillen. 
+Sommige wijken lenen zich voor een collectieve warmteoplossing, waar andere wijken alleen geschikt zijn 
+voor  individuele  oplossingen  (meer  informatie  in  hoofdstuk  4).  In  een  aantal  gebieden  zijn  voor  2030  al 
+gerichte  stappen  richting  aardgasvrij  gezet,  zoals  nader  onderzoek  naar  de  mogelijkheden  voor  een 
+warmtenet. In andere gebieden is nog niet duidelijk wat de beste alternatieve oplossing is voor aardgas en 
+gaat het op korte termijn vooral om het nemen van geen spijt maatregelen. Denk  aan het besparen van 
+energie en het isoleren van de woning. Door een Transitievisie Warmte op te stellen wordt duidelijk welke 
+stappen er voor welke wijk aankomende jaren mogelijk zijn om naar een aardgasvrije gebouwde omgeving 
+toe te ontwikkelen. 
+ 
+Het is wel belangrijk om goed voor ogen te houden dat er in de Transitievisie Warmte nog geen keuzes 
+gemaakt  worden  voor  een  definitieve  warmteoplossing.  Het  is  nadrukkelijk  een  visie  en  nog  geen 
+uitvoeringsplan.  Het  opstellen  van  uitvoeringsplannen  is  de  vervolgstap,  waarin  er  dieper  op  de  kansen, 
+(on)mogelijkheden en eigenschappen van een wijk of buurt wordt ingegaan. Zowel technisch, als financieel, 
+economisch  én  maatschappelijk.  De  Transitievisie  Warmte  brengt  focus  en  richting  aan,  zodat  we 
+gezamenlijk de juiste dingen op het juiste moment kunnen doen op weg naar een duurzaam verwarmde 
+gemeente.  
+ 
+
+19 oktober 2021 
+
+  
+
+ 
+
+Transitievisie Warmte Gemeente Noordwijk 
+
+5   
+
+ 
+ 
+ 
+
+2.3 
+
+In het kort: de totstandkoming 
+
+In april 2021 is gestart met het opstellen van de Transitievisie Warmte. Deze wordt in het najaar ter 
+vaststelling aangeboden aan de gemeenteraad.  
+ 
+
+Figuur 1 Totstandkoming Transitievisie Warmte 
+ 
+In onderstaande opsomming is te zien welk proces is doorlopen, en nog doorlopen moet worden om tot 
+een Transitievisie Warmte voor de gemeente Noordwijk te komen. 
+ 
+
+ 
+
+•  April  
+• 
+Juni  
+
+ 
+ 
+
+ 
+
+Juli  
+
+• 
+•  September 
+•  Oktober  
+•  Oktober  
+•  November 
+•  December  
+
+2021 
+2021 
+
+2021 
+2021 
+2021 
+2021 
+2021 
+2021 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+Startnotitie 
+Werksessie professionele belanghebbenden en  
+inwoners/participatiegroep 
+Presentatie gemeenteraad, Commissie Ruimte 
+Conceptversie TVW 
+Eerste bevindingen in gemeenteraad, Commissie Ruimte 
+Reviewronde kerngroep  
+Definitieve TVW 
+Besluitvorming Transitievisie Warmte 
+
+ 
+
+2.4 
+
+De Transitievisie Warmte als vertrekpunt 
+
+De warmtetransitie is niet van de één op de andere dag afgerond. Het is  een proces waar veel bij komt 
+kijken.  We  hebben  bijna  30  jaar  de  tijd  voor  dit  proces.  Het  jaar  2050  lijkt  weliswaar  nog  ver  weg,  toch 
+moeten er ook op korte termijn al maatregelen worden genomen. We zien de energietransitie als een reis. 
+We kennen onze bestemming, maar weten nog niet precies hoe we er zullen komen. Deze Transitievisie 
+Warmte is de eerste stap om hieraan te beginnen, ook al weten we nog niet alles zeker. Het staat vast dat 
+we onderweg nog veel gaan leren. Technieken, maar ook wet- en regelgeving zijn volop in ontwikkeling. De 
+Noordwijkse Energie Strategie, waar de Transitievisie Warmte onderdeel van is (zie hoofdstuk 2.5), wordt 
+daarom regelmatig geactualiseerd. Met deze  Transitievisie Warmte (2021)  gaan we aan  de  slag met de 
+eerste  stappen.  In  de  komende  jaren  worden  de  nieuwste  inzichten  en  ontwikkelingen  van  dat  moment 
+meegenomen. 
+
+De Noordwijkse Energie Strategie (met als onderdeel de Transitievisie Warmte) zal regelmatig worden 
+geactualiseerd om mee te gaan met ontwikkelingen in technieken en wet- en regelgeving. 
+
+ 
+De komende jaren werken we samen met inwoners en belanghebbenden de Transitievisie Warmte verder 
+uit in o.a. Wijkuitvoeringsplannen (WUP’s). Dit doen we onder meer via participatiesessies en verdiepende 
+onderzoeken. In de Wijkuitvoeringsplannen maken we duurzame warmteoplossingen concreet voor en met 
+
+19 oktober 2021 
+
+  
+
+ 
+
+Transitievisie Warmte Gemeente Noordwijk 
+
+6   
+
+ 
+ 
+ 
+
+onze bewoners.  Dat betekent niet dat we tot die tijd kunnen afwachten. Er moet nog veel gebeuren en we 
+gaan aan de slag met zoeken naar mogelijkheden om de samenleving te activeren om over te gaan tot het 
+besparen van energie. Dit werken we verder uit in onze visie (hoofdstuk 5). Schematisch kan het proces als 
+volgt worden weergegeven (zie figuur 2). 
+
+Transitievisie 
+
+Warmte
+
+(TVW)
+
+Wijk-
+
+uitvoerings-
+
+plannen
+
+(WUP)
+
+Ontwikkeling
+& realisatie
+
+Visievorming en
+
+strategie
+
+Haalbaarheid, 
+
+randvoorwaarden en
+
+plan van aanpak
+
+De eerste stappen in 
+de ontwikkeling naar
+
+een duurzaam
+
+verwarmde gemeente 
+
+Noordwijk
+
+ 
+
+Figuur 2 Van Transitievisie Warmte naar realisatie 
+
+2.5 
+
+De Noordwijkse Energie Strategie (NES) 
+
+Deze gemeentelijke visie over de aanpak richting aardgasvrij staat niet op zichzelf. De visie vormt 
+onderdeel van de brede aanpak richting een duurzame energievoorziening voor de gemeente Noordwijk 
+in 2050. 
+ 
+De Noordwijkse Energiestrategie (N.E.S.) wordt gevormd uit: 
+
+•  De Transitievisie Warmte: dit document. 
+•  De Lokale Energiestrategie: een doorvertaling van de Regionale energiestrategie (zie 2.1). In dit 
+stuk komt de energievraag, relevante ontwikkelingen en de kaders en ambities van de gemeente 
+Noordwijk terug.  
+
+ 
+
+Transitievisie
+
+Warmte
+Noordwijk
+
+Lokale
+Energie
+Strategie
+Noordwijk
+
+Noordwijkse
+
+Energie
+Strategie
+
+Figuur 3 Noordwijkse Energie Strategie (N.E.S.) 
+
+19 oktober 2021 
+
+  
+
+ 
+
+ 
+
+Transitievisie Warmte Gemeente Noordwijk 
+
+7   
+
+ 
+ 
+ 
+
+ 
+ 
+Naast genoemde beleidsdocumenten wordt rekening gehouden met ontwikkelingen die van invloed zijn op 
+de energiestrategie. Een actueel voorbeeld hiervan vormen de ontwikkelingen op het gebied van 
+geothermie. 
+ 
+Het gaat hier om een momentopname. De gemeente Noordwijk wil met dit document haar visie en 
+inzichten tonen op de wijze waarop Noordwijk zich in de komende jaren kan ontwikkelen tot een 
+gemeente die geen gebruik maakt van fossiele energie, maar van duurzame hernieuwbare 
+energiebronnen. Voor deze transitie worden doelen voor 2050 geformuleerd, waaraan de komende jaren 
+wordt gewerkt. Wat er daadwerkelijk gerealiseerd kan worden, is onder meer afhankelijk van de inzet van 
+de gemeente en haar inwoners, maar ook van financiële mogelijkheden, nieuwe technieken en 
+ontwikkelingen in de omgeving. Daarom wordt deze momentopname periodiek tegen het licht gehouden 
+en voorzien van nieuwe data en inzichten (zie ook hoofdstuk 2.4).  
+ 
+ 
+
+ 
+
+ 
+
+19 oktober 2021 
+
+  
+
+ 
+
+Transitievisie Warmte Gemeente Noordwijk 
+
+8   
+
+ 
+ 
+ 
+
+3 
+
+GEMEENTE NOORDWIJK 
+
+3.1  Warmtevraag 
+
+Het  totale  warmteverbruik  in  de  gemeente  Noordwijk  is  1.592  TerjJoules  (TJ).  Dit  gaat  dan  warmte  uit 
+aardgas, maar ook uit hernieuwbare bronnen. Dit komt uit de meest recente gegevens (2018) over het totale 
+warmteverbruik. De woningen van Noordwijk gebruikten in 2019 813 TJ aan aardgas. In figuur 4 is het totale 
+gasverbruik  van  woningen  o.b.v.  gemiddeld  verbruik  en  aantal  woningen  te  zien  van  omliggende 
+gemeenten. De gemiddelde gasvraag per woning in gemeente Noordwijk is 1.390 m3, dit is iets hoger dan 
+het Nederlandse gemiddelde van 1.310 m3.  
+Bovenstaande cijfers zijn zichtbaar in de ‘klimaatmonitor’ van de Rijksoverheid (opgehaald in oktober 2021). 
+ 
+De  ca  43.000  inwoners  van  onze  gemeente  wonen  samen  in  ruim  20.000  woningen.  In  onze  huizen  is 
+aardgas momenteel – net als in heel Nederland – nog steeds de voornaamste bron voor verwarming, koken 
+en warm water. Er wordt in de gemeente Noordwijk 39 TJ aan duurzame warmte gebruikt. Dit is 2,9% van 
+de totale warmtevraag in de gemeente Noordwijk (figuur 5).  
+
+ 
+
+ 
+
+Figuur 4 Gasverbruik (TJ) woningen van Noordwijk t.o.v. 
+gemeenten in Holland Rijnland 
+ 
+
+Figuur 5 Percentage bekende hernieuwbare warmte in de 
+gemeente Noordwijk t.o.v. gemeenten in Holland Rijnland 
+
+Onderstaande figuren laat zien welke energie labels de gebouwen in de gemeente Noordwijk nu hebben en 
+wanneer ze gebouwd zijn.  
+
+Energielabels gebouwen
+
+gemeente Noordwijk 
+
+6.000
+
+5.000
+
+4.000
+
+3.000
+
+2.000
+
+1.000
+
+0
+
+ 
+
+Figuur 7. Dit figuur laat de bouwjaren zien van woningen in de 
+gemeente Noordwijk 
+ 
+
+ 
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+ 
+
+Figuur 6.  Dit figuur laat het aantal woningen zien met 
+verschillende energie labels in de gemeente Noordwijk  
+
+ 
+
+19 oktober 2021 
+
+  
+
+ 
+
+Transitievisie Warmte Gemeente Noordwijk 
+
+9   
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+De warmtevraag is niet gelijkmatig verdeeld over de gemeente. De meeste vraag bevindt zich in grote 
+kernen. In de figuur hieronder zijn de concentraties van warmtevraag weergegeven. De grootste 
+concentraties zijn waar veel woningen dicht bij elkaar staan. Daarnaast vormen bedrijven op een 
+bedrijventerrein clusters van warmtevraag. In het buitengebied zijn de grote energievragers de 
+glastuinbouwbedrijven.  
+
+Figuur 8 Verdeling van warmtevraag over de gemeente Noordwijk verspreid over buurten. Blauw gemarkeerde gebieden laten een 
+warmtevraag zien. Hoe donkerder het gebied is gemarkeerd, hoe groter de warmtevraag. Bij een grote concentratie van de 
+warmtevraag is het gebied rond omlijnd.  
+
+ 
+
+3.2  Wat vindt de gemeente Noordwijk belangrijk? 
+
+Om een strategie te maken, hebben we eerst samen de uitgangspunten opgesteld voor het uitvoeren van 
+de warmtetransitie. De uitgangspunten sluiten aan bij de landelijke leidraad Transitievisie Warmte en zijn 
+aangevuld met de regionale uitgangspunten van de RES.  
+ 
+
+19 oktober 2021 
+
+  
+
+ 
+
+Transitievisie Warmte Gemeente Noordwijk 
+
+10   
+
+ 
+ 
+ 
+
+•  Duurzaam 
+
+We  vinden  het  belangrijk  dat  de  gebouwde  omgeving  CO2-neutraal  wordt.  Het  belangrijkste 
+uitgangspunt is daarom dat de oplossingen die worden gekozen duurzaam zijn.  
+
+•  Betrouwbaar 
+
+De warmtevoorziening in Nederland is op dit moment zeer betrouwbaar. De betrouwbaarheid van 
+de warmtevoorziening mag niet achteruitgaan in de warmtetransitie.  
+
+•  Betaalbaar 
+
+De warmtetransitie brengt investeringen met zich mee. Niet alle inwoners van Noordwijk hebben dit 
+geld op de plank liggen. Er moet kritisch worden nagedacht hoe de transitie betaalbaar kan worden 
+gemaakt voor iedereen.  
+
+Volgens het klimaatakkoord moeten in 2030 1,5 miljoen (ruim 20%) van de woningen verduurzaamd zijn. 
+De  RES  Holland  Rijnland  gaat  uit  van  een  energiebesparing  van  30%  in  2050  ten  opzichte  van  het 
+energiegebruik in 2014.  
+
+ 
+
+ 
+
+19 oktober 2021 
+
+  
+
+ 
+
+Transitievisie Warmte Gemeente Noordwijk 
+
+11   
+
+ 
+ 
+ 
+
+4 
+
+WARMTEOPLOSSINGEN  
+
+4.1  Wat zijn de oplossingen voor de gemeente Noordwijk? 
+
+4.1.1  Energiebesparing  
+
+Belangrijk is dat er eerst begonnen wordt met energie besparen. Door de gebouwen te isoleren hebben we 
+minder duurzame energie nodig. Ook het gebruik van zuinigere apparaten zorgt voor een besparing van 
+energie.  De  hoeveelheid  warmte  die  dan  nog  nodig  is  moet  duurzaam  ingevuld  worden,  dus  met 
+warmtebronnen  die  (bijna)  geen  CO2  uitstoten.  Hoe  goed  een  gebouw  geïsoleerd  is,  bepaalt  welke 
+duurzame oplossingen gebruikt kunnen worden (zie ook 4.2). 
+ 
+Als gemeente willen we op termijn alle gebouwen gereed krijgen voor een aardgasvrije warmteoplossing. 
+Dit noemen we aardgasvrij-ready. Maatregelen die hieraan bijdragen zijn onder andere spouwmuur-, vloer-
+, dakisolatie en HR++(+)glas. Hiermee kunnen gebouweigenaren direct aan de slag. Goede isolatie zal de 
+komende jaren steeds vanzelfsprekender worden. Het precieze isolatieniveau hangt af van de uiteindelijke 
+warmteoplossing.  Voor  een elektrische warmtepomp moet uw woning namelijk beter  geïsoleerd zijn  dan 
+wanneer  u  aangesloten  wordt  op  een  collectieve  oplossing.  Wat  het  ook  gaat  worden,  er  ligt  voor  de 
+gemeente Noordwijk een grote besparingsopgave.  
+ 
+
+De regionale energiestrategie (RES) Holland Rijnland heeft de doelstelling om in 2030 15% t.o.v. 2014 
+in de gebouwde omgeving te besparen. In de RES is als streven opgenomen dat in 2030 alle woningen 
+minimaal label D hebben en utiliteitsgebouwen label B. Om deze doelstelling te halen heeft Noordwijk als 
+doelstelling tot 2030 tenminste 20% van de gebouwen (woningen en utiliteitsgebouwen) te isoleren 
+en  van  een  alternatieve  warmtebron  te  voorzien.  Het  gaat  hier  om  verduurzaming  van  ca  4.000 
+woningen.  
+ 
+
+ 
+
+4.1.2  Warmteopties als alternatief voor aardgas 
+
+Welke oplossingen in onze gemeente kansrijk zijn, ziet u op onderstaande kaart. Deze komen voort uit een 
+modelberekening,  aangevuld  met  een  lokale  analyse  (waaronder  gesprekken  met  professionele 
+belanghebbenden en bewoners) (zie kader onder de kaart en 4.3). We maken nu nog geen keuzes, maar 
+geven wel een beeld van hoe het zou kunnen worden, met de kennis van nu. Deze kaart noemen wij de 
+‘WAT-kaart’ (figuur 9). Per buurt kunt u hierop zien wat de meest kansrijke mogelijkheid is. Ook deze WAT-
+kaart zal worden geactualiseerd na nieuwe inzichten en ontwikkelingen.  
+ 
+
+19 oktober 2021 
+
+  
+
+ 
+
+Transitievisie Warmte Gemeente Noordwijk 
+
+12   
+
+ 
+ 
+ 
+
+ 
+
+Figuur 9 WAT-kaart gemeente Noordwijk 
+ 
+Om de WAT-kaart goed te begrijpen is het belangrijk om het volgende in het achterhoofd te houden: 
+ 
+1.  Deze kaart is geen definitief eindbeeld. Het laat zien welke warmteoplossingen op dit moment in beeld 
+zijn. Er worden nu nog geen definitieve keuzes gemaakt voor een oplossing, dat gebeurt pas nadat er 
+nader  onderzoek  is  gedaan.  Ook  kunnen  de  kennis,  inzichten  en  technieken  nog  veranderen  in  de 
+komende jaren. Daarom zal de gemeente de Noordwijkse Energie Strategie periodiek bijstellen. 
+
+2.  De WAT-kaart betekent niet dat we altijd per wijk aan de slag gaan met de warmtetransitie. Soms kan 
+het handiger zijn om per buurt of per straat, of misschien wel met meerdere wijken tegelijk aan de slag 
+te gaan.  
+
+3.  De Transitievisie Warmte richt zich op de gebouwde omgeving. Dit zijn gebouwen zoals woningen en 
+kantoren.  Bedrijven  worden  meegenomen  in  de  Transitievisie  Warmte.  Echter,  de  warmtevraag  van 
+bedrijven is complex, omdat er soms ook warmte nodig is voor (industriële) processen. Deze (industriële) 
+processen  zijn  niet  meegenomen  in  de  Transitievisie  Warmte.  Hiervoor  is  maatwerk  nodig.  De 
+oplossingsrichtingen op de kaart hoeven dus niet te gelden voor specifieke bedrijven. 
+
+ 
+ 
+
+19 oktober 2021 
+
+  
+
+ 
+
+Transitievisie Warmte Gemeente Noordwijk 
+
+13   
+
+ 
+ 
+ 
+
+In de WAT-kaart komt informatie uit verschillende bronnen samen: landelijke gegevens en lokale 
+gegevens van de gemeente, netbeheerder, woningcorporatie, waterschap en andere betrokkenen.  
+De WAT-kaart laat zien welke duurzame warmteoplossingen het meest kansrijk zijn. Dit is bepaald aan 
+de hand van ‘maatschappelijke kosten’. Met maatschappelijke kosten bedoelen we de kosten voor de 
+maatschappij  als  geheel.  Dit  is  dus  een  optelsom  van  allerlei  aspecten,  zoals  het  benutten  van  de 
+warmtebron, het aanleggen of aanpassen van de benodigde infrastructuur en de kosten om de warmte 
+in  een  woning  te  gebruiken.  De  huidige  analyse  is  gebaseerd  op  de  oplossingen  die  de  laagste 
+maatschappelijke kosten met zich meebrengen: warmteoplossingen die voor de maatschappij als geheel 
+(dus overheden, organisaties en inwoners samen) het voordeligst zijn.  
+
+liggen  kunnen  namelijk  ook  al 
+
+ 
+Onderstaande tabel geeft de meest kansrijke warmteoplossing per buurt weer. Ook geeft de tabel aan wat 
+de  bewoners  van  deze  buurt  nu  al  kunnen  doen.  In  wijken  waar  er  mogelijkheden  voor  collectieve 
+oplossingen 
+individuele  maatregelen  worden  genomen,  zoals 
+energiebesparende maatregelen. In de tabel worden mogelijke maatregelen genoemd. Wat uiteindelijk de 
+beste maatregelen zijn voor een woning is maatwerk. Het blijft raadzaam om op de hoogte te zijn van de 
+ontwikkelingen in de wijk en om advies in te winnen over de mogelijkheden per woning.  De tabel en WAT-
+kaart zijn gebaseerd op de CBS wijkindeling; de naamgeving van wijken kan daardoor soms wat afwijken 
+van wat in de buurt gebruikelijk is. 
+ 
+We  merken  op  dat  bij  het  ingebruiknemen  van  een  hybride  warmtepomp  nog  steeds  sprake  is  van  een 
+afhankelijkheid  van  een  (collectief)  gasnet,  ook  al  zou  dat  op  termijn  met  groen  gas  worden  gevuld. 
+Huiseigenaren  moeten  zich 
+tussen  eindoplossingen  en 
+tussenoplossingen voor een woning. 
+
+rekenschap  geven  van  het  verschil 
+
+19 oktober 2021 
+
+  
+
+ 
+
+Transitievisie Warmte Gemeente Noordwijk 
+
+14   
+
+KERN  BUURT 
+
+Warmteoplossing  Duurzame eindoplossing 
+
+Wat gebeurt er nu al? 
+
+ 
+ 
+ 
+
+Villawijk-Zuid 
+
+Dorpskern 
+
+Individuele of 
+collectieve 
+oplossingen 
+
+De Noord 
+
+ 
+
+e
+e
+Z
+n
+a
+a
+
+ 
+
+ 
+k
+
+j
+i
+
+w
+d
+r
+o
+o
+N
+
+  Dit  betekent  dat  zowel 
+
+In deze buurten liggen de totale maatschappelijke 
+kosten  van  verschillende  oplossingen  dicht  bij 
+elkaar. 
+individuele 
+oplossingen  als  een  collectieve  oplossing  hier 
+geschikt zouden kunnen zijn. 
+ 
+1) Gebouwen staan dicht bij elkaar. Dit maakt een 
+collectieve oplossing mogelijk. Een lokale bron 
+is  geothermie.  Kleinere 
+met  grote  potentie 
+bronnen 
+uit 
+oppervlaktewater.   
+ 
+2)  Individuele  oplossingen  per  gebouw  zijn 
+echter ook een geschikte mogelijkheid.  
+ 
+Welke oplossing uiteindelijk het meest geschikt is 
+moet nog blijken uit nader onderzoek. 
+ 
+ 
+
+zijn  WKO 
+
+en 
+
+warmte 
+
+Gemeente 
+Enkele marktpartijen onderzoeken de potentie van 
+een collectieve oplossing op basis van geothermie in 
+dit gebied. Dit onderzoek loopt. 
+ 
+Bewoners 
+U  kunt  uw  vloer,  muur  en  dak  isoleren  en  HR-glas 
+plaatsen,  om  uw  woning  tot  tenminste  schillabel  C  te 
+krijgen.  Uw  energierekening  zal  meteen  omlaaggaan 
+en  de  kosten  van  deze  maatregelen  heeft  u  vaak 
+binnen een aantal jaren weer terugverdiend. 
+ 
+Als uw gasketel vervangen moet worden kunt u een 
+gasketel of hybride warmtepomp met een 
+zogenaamde "gas los" of "gasloos" garantie kopen of 
+huren. Hiermee wordt de ketel kosteloos verwijderd en 
+krijgt u een vergoeding wanneer u uw ketel gekocht 
+heeft. Dit is verstandig wanneer het nog onzeker is of 
+u in de toekomst op een warmtenet aangesloten 
+wordt. 
+ 
+Bij een hybride warmtepomp is nog steeds sprake van 
+een afhankelijkheid van een (collectief) gasnet. Een 
+hybride warmtepomp vormt een aantrekkelijke 
+tussenoplossing, maar is geen eindoplossing voor 
+aardgasvrij.  
+
+Verspreide 
+huizen 
+Langeveld 
+
+Sancta Maria 
+
+Individuele 
+oplossingen 
+
+ 
+Een individuele oplossing in de vorm van een all-
+electric warmtepomp voor woningen die 
+momenteel schillabel B of beter hebben. Een 
+andere optie is een hybride warmtepomp met 
+hernieuwbaar gas voor relatief oudere woningen 
+die momenteel schillabel D of beter hebben. Het 
+
+Gemeente 
+Buurten waarbij individuele oplossingen de laagste 
+totale maatschappelijke laten zien zullen pas na 2030 
+volledig aardgasvrij worden. 
+ 
+Bewoners 
+
+19 oktober 2021 
+
+  
+
+ 
+
+Transitievisie Warmte Gemeente Noordwijk 
+
+1   
+
+KERN  BUURT 
+
+Warmteoplossing  Duurzame eindoplossing 
+
+Wat gebeurt er nu al? 
+
+ 
+ 
+ 
+
+gaat dan om woningen waarbij het te duur of niet 
+mogelijk is om tot schillabel B te isoleren. 
+
+aantal 
+
+jaren  weer 
+
+Om  uw  woning  geschikt 
+te  maken  voor  een 
+(hybride)warmtepomp is het belangrijk dat deze goed 
+geïsoleerd is. 
+ 
+U  kunt  uw  vloer,  muur  en  dak  isoleren  en  HR-glas 
+plaatsen. De kosten van deze maatregelen heeft u over 
+een 
+terugverdiend.  Uw 
+energierekening  zal  meteen  omlaaggaan.  Wanneer  u 
+gaat verbouwen, kunt u vloerverwarming aanleggen en 
+het dak nóg verder te isoleren 
+ 
+Als uw gasketel aan vervanging toe is, kunt u deze 
+vervangen voor een hybride warmtepomp met een 
+gasketel op aardgas. Hiermee kunt u flink besparen 
+op uw aardgasverbruik en energierekening zonder dat 
+verregaande isolatie al nodig is zoals bij een volledig 
+elektrische warmtepomp. 
+ 
+Bij deze hybride warmtepomp is nog steeds sprake 
+van een afhankelijkheid van een (collectief) gasnet. 
+Een hybride warmtepomp vormt een aantrekkelijke 
+tussenoplossing, maar is geen eindoplossing voor 
+aardgasvrij. 
+
+Individuele 
+oplossingen 
+
+Een individuele oplossing in de vorm van een all-
+electric warmtepomp voor woningen die 
+momenteel schillabel B of beter hebben. Een 
+andere optie is een hybride warmtepomp met 
+hernieuwbaar gas voor relatief oudere woningen 
+die momenteel schillabel D of beter hebben. Het 
+gaat dan om woningen waarbij het te duur of niet 
+mogelijk is om tot schillabel B te isoleren. 
+
+Gemeente 
+Buurten waarbij individuele oplossingen de laagste 
+totale maatschappelijke laten zien zullen pas na 2030 
+volledig aardgasvrij worden. 
+ 
+Bewoners 
+Om  uw  woning  geschikt 
+te  maken  voor  een 
+(hybride)warmtepomp is het belangrijk dat deze goed 
+geïsoleerd is. 
+ 
+
+Transitievisie Warmte Gemeente Noordwijk 
+
+2   
+
+Verspreide 
+huizen Zuiden 
+en Oosten 
+
+ 
+
+n
+e
+n
+n
+b
+
+i
+
+ 
+k
+
+j
+i
+
+w
+d
+r
+o
+o
+N
+
+Dr. Mr. W. van 
+den Bergh-
+stichting 
+
+19 oktober 2021 
+
+  
+
+ 
+
+KERN  BUURT 
+
+Warmteoplossing  Duurzame eindoplossing 
+
+Wat gebeurt er nu al? 
+
+ 
+ 
+ 
+
+aantal 
+
+jaren  weer 
+
+U  kunt  uw  vloer,  muur  en  dak  isoleren  en  HR-glas 
+plaatsen. De kosten van deze maatregelen heeft u over 
+een 
+terugverdiend.  Uw 
+energierekening  zal  meteen  omlaaggaan.  Wanneer  u 
+gaat verbouwen kunt u vloerverwarming aanleggen en 
+het dak nóg verder te isoleren. 
+ 
+Als uw gasketel aan vervanging toe is kunt u deze 
+vervangen voor een hybride warmtepomp met een 
+gasketel op aardgas. Hiermee kunt u flink besparen 
+op uw aardgasverbruik en energierekening zonder dat 
+verregaande isolatie al nodig is zoals bij een volledig 
+elektrische warmtepomp. 
+ 
+Bij deze hybride warmtepomp is nog steeds sprake 
+van een afhankelijkheid van een (collectief) gasnet. 
+Een hybride warmtepomp vormt een aantrekkelijke 
+tussenoplossing, maar is geen eindoplossing voor 
+aardgasvrij. 
+
+Beeklaan-
+kwartier 
+
+Dorpskern 
+
+Individuele of 
+collectieve 
+oplossingen 
+
+Boerenburg en 
+Grashoek 
+
+  Dit  betekent  dat  zowel 
+
+In deze buurten liggen de totale maatschappelijke 
+kosten  van  verschillende  oplossingen  dicht  bij 
+elkaar. 
+individuele 
+oplossingen  als  een  collectieve  oplossing  hier 
+geschikt zouden kunnen zijn. 
+ 
+ 
+1) Doordat in deze wijken de gebouwen dicht bij 
+elkaar  staan  is  er  een  collectieve  oplossing 
+mogelijk.  Dit  zorgt  er  namelijk  voor  dat  een 
+collectieve  oplossing  efficient  kan  worden 
+ingericht  en  niet 
+te  grote  afstanden  moet 
+overbruggen. Ieder warmtenet heeft een bron van 
+warmte nodig. In Noordwijk en de wijken rondom 
+
+Gemeente 
+Enkele marktpartijen onderzoeken de potentie van 
+een collectieve oplossing op basis van geothermie in 
+dit gebied. Dit onderzoek loopt. 
+In Boerenburg vind tussen 2025 en 2030 groot 
+onderhoud plaats omdat veel leidingen vervangen 
+moeten worden. Dit is een meekoppelkans voor de 
+start van een collectief systeem. 
+ 
+Bewoners 
+U  kunt  uw  vloer,  muur  en  dak  isoleren  en  HR-glas 
+plaatsen tot tenminste schillabel C. De kosten van deze 
+maatregelen  heeft  u  over  een  aantal  jaren  weer 
+
+19 oktober 2021 
+
+  
+
+ 
+
+Transitievisie Warmte Gemeente Noordwijk 
+
+3   
+
+KERN  BUURT 
+
+Warmteoplossing  Duurzame eindoplossing 
+
+Wat gebeurt er nu al? 
+
+ 
+ 
+ 
+
+Noordwijk  is  grote  potentie  voor  geothermie. 
+Deze  bron  wordt  verder  onderzocht.  Daarnaast 
+zijn  er  nog  een  aantal  kleinere  bronnen,  zoals 
+WKO en warmte uit oppervlaktewater mogelijk.   
+ 
+2) Individuele oplossingen per gebouw zijn 
+echter ook een geschikte mogelijkheid.  
+ 
+Welke oplossing uiteindelijk het meest geschikt 
+is moet nog blijken uit nader onderzoek. 
+
+Verspreide 
+huizen ten 
+zuiden van de 
+gemeente 
+
+Noordwijkerhout 
+
+Verspreide 
+huizen in het 
+centrum 
+
+ 
+t
+
+u
+o
+h
+r
+e
+k
+
+j
+i
+
+w
+d
+r
+o
+o
+N
+
+Individuele of 
+collectieve 
+oplossingen 
+
+  Dit  betekent  dat  zowel 
+
+In deze buurten liggen de totale maatschappelijke 
+kosten  van  verschillende  oplossingen  dicht  bij 
+elkaar. 
+individuele 
+oplossingen  als  een  collectieve  oplossing  hier 
+geschikt zouden kunnen zijn. 
+ 
+1)  Doordat  er  veel  gebouwen  op  kleine  afstand 
+van  elkaar  staan  in  Noordwijkerhout  is  een 
+collectieve  oplossing  mogelijk.  Dit  zorgt  er 
+namelijk  voor  dat  een  collectieve  oplossing 
+efficient  kan  worden  ingericht  en  niet  te  grote 
+Kleinere 
+afstanden  moet 
+warmtenetten 
+uit 
+oppervlaktewater, 
+het 
+Oosterduinse  meer  zijn  een  mogelijkheid.  Ook 
+
+overbruggen. 
+
+op  WKO 
+
+of  warmte 
+
+bijvoorbeeld 
+
+uit 
+
+terugverdiend.  Uw  energierekening  zal  meteen 
+omlaaggaan. 
+ 
+Als uw gasketel vervangen moet worden kunt u een 
+gasketel of hybride warmtepomp met een 
+zogenaamde "gas los" of "gasloos" garantie kopen of 
+huren. Hiermee wordt de ketel kosteloos verwijderd en 
+krijgt u een vergoeding wanneer u uw ketel gekocht 
+heeft. Dit is verstandig wanneer het nog onzeker is of 
+u in de toekomst op een warmtenet aangesloten 
+wordt. 
+ 
+Bij een hybride warmtepomp is nog steeds sprake van 
+een afhankelijkheid van een (collectief) gasnet. Een 
+hybride warmtepomp vormt een aantrekkelijke 
+tussenoplossing, maar is geen eindoplossing voor 
+aardgasvrij. 
+
+Gemeente 
+Enkele marktpartijen onderzoeken de potentie van 
+een collectieve oplossing op basis van geothermie in 
+dit gebied. Dit onderzoek loopt. 
+ 
+Bewoners 
+U  kunt  uw  vloer,  muur  en  dak  isoleren  en  HR-glas 
+plaatsen tot tenminste schillabel C. De kosten van deze 
+maatregelen  heeft  u  over  een  aantal  jaren  weer 
+terugverdiend.  Uw  energierekening  zal  meteen 
+omlaaggaan. 
+ 
+Als uw gasketel vervangen moet worden kunt u een 
+gasketel of hybride warmtepomp met een 
+zogenaamde "gas los" of "gasloos" garantie kopen of 
+huren. Hiermee wordt de ketel kosteloos verwijderd en 
+
+19 oktober 2021 
+
+  
+
+ 
+
+Transitievisie Warmte Gemeente Noordwijk 
+
+4   
+
+KERN  BUURT 
+
+Warmteoplossing  Duurzame eindoplossing 
+
+Wat gebeurt er nu al? 
+
+ 
+ 
+ 
+
+een warmtenet op basis van geothermie voor het 
+gehele dorp zou kunnen.  
+ 
+2)  Individuele  oplossingen  per  gebouw  zijn 
+echter ook een geschikte mogelijkheid.  
+ 
+Welke oplossing uiteindelijk het meest geschikt is 
+moet nog blijken uit nader onderzoek. 
+
+Een individuele oplossing in de vorm van een all-
+electric  warmtepomp 
+voor  woningen  die 
+momenteel  schillabel  B  of  beter  hebben.  Een 
+andere  optie  is  een  hybride  warmtepomp  met 
+hernieuwbaar gas voor relatief oudere woningen 
+die momenteel schillabel D of beter hebben. Het 
+gaat dan om woningen waarbij het te duur of niet 
+mogelijk is om tot schillabel B te isoleren. 
+
+Kleine Zilk 
+
+Individuele 
+oplossingen 
+
+Grote Zilk 
+
+ 
+
+krijgt u een vergoeding wanneer u uw ketel gekocht 
+heeft. Dit is verstandig wanneer het nog onzeker is of 
+u in de toekomst op een warmtenet aangesloten 
+wordt. 
+
+Gemeente 
+Buurten waarbij individuele oplossingen de laagste 
+totale maatschappelijke laten zien zullen pas na 2030 
+volledig aardgasvrij worden. 
+ 
+Bewoners 
+te  maken  voor  een 
+Om  uw  woning  geschikt 
+(hybride)warmtepomp is het belangrijk dat deze goed 
+geïsoleerd is. 
+ 
+U  kunt  uw  vloer,  muur  en  dak  isoleren  en  HR-glas 
+plaatsen. De kosten van deze maatregelen heeft u over 
+een 
+terugverdiend.  Uw 
+energierekening  zal  meteen  omlaaggaan.  Wanneer  u 
+gaat verbouwen kunt u vloerverwarming aanleggen en 
+het dak nóg verder te isoleren. 
+ 
+Als uw gasketel aan vervanging toe is kunt u deze 
+vervangen voor een hybride warmtepomp met een 
+gasketel op aardgas. Hiermee kunt u flink besparen 
+op uw aardgasverbruik en energierekening zonder dat 
+verregaande isolatie al nodig is zoals bij een volledig 
+elektrische warmtepomp. 
+
+jaren  weer 
+
+aantal 
+
+19 oktober 2021 
+
+  
+
+ 
+
+Transitievisie Warmte Gemeente Noordwijk 
+
+5   
+
+ 
+ 
+ 
+
+ 
+
+4.2  Welke duurzame warmteoplossingen zijn er? 
+
+Er  zijn  verschillende  mogelijkheden  om  op  een 
+duurzame manier onze gebouwen te verwarmen 
+(zie figuur 10). Een individuele oplossing betekent 
+dat er per gebouw een eigen warmtevoorziening 
+komt.  Elke  gebouweigenaar  kan  deze  zelf 
+installeren. Oplossingen – zoals een warmtenet – 
+zijn  collectief.  Daar  wordt  een  warmtebron 
+gedeeld met de hele straat, wijk of dorp.  
+
+4.2.1  All-electric (individueel)  
+
+gebouwen 
+
+gebruiken 
+
+All-electric 
+alleen 
+elektriciteit  voor  verwarming,  koken  en  warm 
+water. Dit gebeurt meestal met een warmtepomp. 
+Met  een  elektrische  warmtepomp  wordt  warmte 
+uit  de  bodem  of  buitenlucht  gehaald  om  het 
+gebouw  mee  te  verwarmen.  Dit  is  een  lagere 
+temperatuur dan uit een CV-ketel, daarom vraagt 
+all-electric  om  zeer  goede 
+isolatie,  wat 
+overeenkomt  met  minimaal  schillabel 1  B.  Voor 
+oudere gebouwen is dit soms lastig haalbaar.  
+Een risico van all-electric oplossingen is dat er meer elektriciteit nodig is en het elektriciteitsnet daar niet 
+altijd  op  berekend  is.  Als  iedereen  in  een  buurt  overgaat  op  all-electric,  moet  in  veel  gevallen  het 
+elektriciteitsnetwerk verzwaard worden.  
+ 
+
+Figuur 10 Type warmteoplossingen 
+
+Het elektriciteitsnet in het buitengebied is momenteel niet geschikt om nu grote stappen te zetten naar 
+all-electric oplossingen. Hiervoor dient een nieuw onderstation te worden gerealiseerd. Hiervoor zijn 
+Liander (de netbeheerder) en de gemeente al plannen aan het maken. De verwachting is dat dit over 5 
+jaar (2026) zal zijn gerealiseerd.  
+ 
+
+ 
+
+4.2.2  Hernieuwbaar gas (individueel)  
+
+Bij een oplossing met hernieuwbaar gas, worden gebouwen nog steeds verwarmd via een eigen CV-ketel. 
+Het  verschil  met  de  huidige  situatie  is  dan  dat  er  geen  aardgas  meer  door  het  gasnet  gaat,  maar  een 
+hernieuwbaar gas. Hernieuwbare gassen zijn groen gas (wat ontstaat door planten te vergisten) of waterstof 
+(wat  gemaakt  kan  worden  met  behulp  van  elektriciteit).  Hernieuwbare  gassen  zijn  echter  maar  beperkt 
+beschikbaar:  in  Nederland  zal  niet  voldoende  groen  gas  of  waterstof  beschikbaar  komen  om  ons  totale 
+aardgasverbruik te vervangen. Bij gebruik van hernieuwbaar gas verminderen we daarom eerst de vraag 
+naar warmte door isolatie en hybride warmtepompen (zie hierna). Het ligt voor de hand dat hernieuwbaar 
+gas  alleen  wordt  gebruikt  voor  gebouwen  die  deze  warmteoplossingen  het  hardst  nodig  hebben,  zoals 
+monumenten en gebouwen van voor 1940. Het is op dit moment nog niet bekend hoeveel en wanneer er in 
+onze gemeente hernieuwbaar gas beschikbaar komt. 
+ 
+
+1 Een schillabel is het energielabel van een gebouw zonder maatregelen voor het opwekken van duurzame energie, bijvoorbeeld via 
+zonnepanelen. 
+
+ 
+
+19 oktober 2021 
+
+  
+
+ 
+
+Transitievisie Warmte Gemeente Noordwijk 
+
+1   
+
+ 
+ 
+ 
+
+4.2.3  Hybride (individueel)  
+
+Een hybride oplossing maakt voor de verwarming van het gebouw gebruik van zowel elektriciteit (via een 
+warmtepomp) als gas (via de CV-ketel). De warmtepomp levert de meeste warmtevraag, maar bij een hoge 
+vraag (bijvoorbeeld op een erg koude dag) springt de CV-ketel bij. Wanneer het gasnet nog gevoed wordt 
+door aardgas is dit nog geen volledig duurzame oplossing. Wel wordt er dan al veel minder CO2 uitgestoten 
+dan met een reguliere CV-ketel. Op termijn kan dit aardgas dan vervangen worden door hernieuwbaar gas. 
+Bij een hybride oplossing is het wel verstandig om extra te isoleren, maar dit hoeft niet zo intensief als bij 
+de all-electric variant. 
+
+4.2.4  Warmtenet (collectief)  
+
+Een  warmtenet  is  een  collectieve  oplossing:  hier  worden  meerdere  gebouwen  op  één  warmtebron 
+aangesloten, zoals een hele buurt of dorp. In de gemeente is momenteel nog geen warmtenet. Het systeem 
+van  een  warmtenet  bestaat  uit  buizen  met  warm  water,  die  onder  de  grond  op  de  gebouwen  zijn 
+aangesloten. Een warmtenet heeft wel een warmtebron nodig, zoals geothermie (aardwarmte uit de diepe 
+ondergrond),  restwarmte  van  een  fabriek  of  water  (bijvoorbeeld  uit  het  Oosterduinse  meer).  Dit  laatste 
+noemen  we  ook  wel  aquathermie.  Warmtebronnen  hebben  weer  verschillende  temperaturen.  In  het 
+algemeen  wordt  er  onderscheid  gemaakt  tussen  hoge  en  lage  temperatuurwarmtebronnen.  Bij  lage 
+temperatuurwarmtebronnen is weer een warmtepomp nodig om de temperatuur te verhogen. Hierdoor stijgt 
+ook de vraag naar elektriciteit en is de capaciteit van het elektriciteitsnet een belangrijk aandachtspunt. Het 
+aanpassen van het elektriciteitsnet is kostbaar en duurt meerdere jaren. 
+
+4.3  Warmtebronnen in gemeente Noordwijk 
+
+In de gemeente Noordwijk zijn verschillende bronnen kansrijk. Deze staan in de warmteatlas.  
+
+4.3.1  Geothermie 
+
+Rondom Noordwijk en Katwijk is de potentie voor geothermie hoog. De bodem lijkt hier geschikt voor en er 
+loopt  een  initiatief  om  dit  verder  te  onderzoeken  (zie  ook  hoofdstuk  5.2).  Dit  initiatief  onderzoekt  wat  de 
+totale potentie van de geothermiebron is. Eén doublet van 10 MWth zou 4.000 woningen kunnen worden 
+verwarmd  (op  basis  van  aannames).  Als  dit  doublet  gecombineerd  wordt  met  andere  bronnen  voor  de 
+pieklast kunnen  circa 9.500 woningen van warmte voorzien worden (op basis van aannames).  Er is nog 
+weinig  bekend  over  de  levensduur  van  een  geothermie  bron.  Deze  zal  tussen  de  20  en  50  jaar  liggen. 
+Daarna is een rustperiode nodig zodat de bron kan herstellen. Vervolgens zou de bron weer gebruikt kunnen 
+worden. Voor continuïteit op de lange termijn is meer dan één geothermiebron gewenst en/of een mix met 
+andere bronnen. Andere vormen van bodemenergie (met open en gesloten warmte- en koudeopslag (WKO) 
+zijn ook mogelijk. 
+
+4.3.2  Thermische energie uit oppervlaktewater (TEO) 
+
+Warmte kan ook uit oppervlaktewater gewonnen worden. De watergangen in de gemeente hebben te weinig 
+warmtepotentie voor  grootschalige oplossingen, maar  er kan wel op  kleine schaal  warmte uit gewonnen 
+worden.  Het  Oosterduinse  Meer  is  het  enige  oppervlaktewater  waar  een  flinke  hoeveelheid  warmte  uit 
+gewonnen kan worden voor een collectieve oplossing. Bij benadering kunnen 20.000 woningen van warmte 
+uit het Oosterduinse Meer voorzien worden (630 TJ in totaal). Dit is ruim 40% van de totale warmtevraag. 
+Er is weinig restwarmte uit industrie of bedrijven beschikbaar. Er zijn een paar bakkerijen en koelhuizen met 
+restwarmte, deze zijn alleen op kleine schaal bruikbaar (een kleine groep gebouwen, zoals een straat).  
+Uit  de  Rioolwaterzuiveringsinstallatie  (RWZI)  in  Noordwijk  kan  ook  warmte  gewonnen  worden.  Deze  ligt 
+echter op afstand van bebouwing, waardoor deze warmte over lange afstand getransporteerd moet worden 
+en hierdoor relatief duur is.   
+
+19 oktober 2021 
+
+  
+
+ 
+
+Transitievisie Warmte Gemeente Noordwijk 
+
+2   
+
+ 
+ 
+ 
+
+4.3.3  Elektriciteitsbronnen 
+
+Voor  all-electric  oplossingen  is  duurzaam  opgewekte  elektriciteit nodig.  In  het meest  gunstige  geval  kan 
+circa  50%  van  de  gemeente  Noordwijk  overstappen  op  een  collectieve  oplossing  en  circa  50%  op  een 
+individuele oplossing. Om deze individuele oplossingen van voldoende elektriciteit te voorzien is circa 30 
+ha zonnepanelen nodig of 3 windturbines van 3 MWe.  
+
+4.3.4  Andere bronnen 
+
+Hoewel  bovengenoemde  oplossingen  de  meest  gangbare  individuele  oplossingen  zijn,  bestaan  er  ook 
+minder  conventionele  mogelijkheden  die,  zeker  in  geval  van  de  gemeente  Noordwijk,  benoemd  moeten 
+worden:  
+ 
+Zonthermie  
+Bij zonthermie worden zonnecollectoren gebruikt om energie om te zetten in warmte. Zeker voor gemeenten 
+met kleinere kernen en veel buitengebied is zonthermie een mogelijkheid. Zonthermie kan echter vanwege 
+het ruimtebeslag concurreren in de zoekgebieden voor de opwek van duurzame elektriciteit middels zon- 
+en windenergie. Tevens geldt ook voor zonthermie dat voor het gebruik van deze warmtetechnologie een 
+opslagsysteem noodzakelijk is.  
+ 
+Energie uit de Noordzee 
+Er  is  tot  nu  toe  nog  weinig  bekend  over  het  halen  van  energie  uit  de  Noordzee.  Technisch  gezien  is  er 
+voldoende warmte uit de zee om te winnen. Er zitten wel een paar haken en ogen aan: de systemen moeten 
+zoutbestendig gemaakt worden en de afstand van zee tot bebouwing is erg groot. Of een dergelijk systeem 
+financieel haalbaar is, is de hamvraag. Met de huidige technologie denken wij dat dit nu (te) kostbaar is. 
+Ontwikkelingen in deze technologie zullen worden meegenomen in het vervolg.  
+
+4.4 
+
+Keuze voor optimale warmteoplossing 
+
+Welke oplossing het meest aantrekkelijk is, dat is per gebied en soms zelfs per gebouw anders. Het hangt 
+onder meer af van: 
+
+•  De beschikbaarheid van warmtebronnen in de omgeving;  
+•  Het type gebouw en het bouwjaar; 
+•  De gebouwdichtheid; 
+•  De geschiktheid van het elektriciteitsnetwerk en/of gasnetwerk; 
+•  Het huidige energielabel van het gebouw en de potentie om het energielabel te verhogen; 
+•  De beschikbare duurzame warmteoplossingen – de technieken – en de kosten daarvan. 
+•  De verwarmingstechniek van de woning, zoals type radiatoren, luchtsystemen of vloerverwarming. 
+
+ 
+Tot slot hangt de keuze voor een duurzame warmteoplossing natuurlijk ook sterk af van de initiatieven van 
+onze inwoners, eigenaren van gebouwen en andere betrokkenen. Omdat dit voor iedereen anders is, is het 
+belangrijk om hier met elkaar over in gesprek te gaan en te blijven. Dit doen we in de uitvoeringsplannen 
+die uiteindelijk per gebied worden opgesteld.  
+
+19 oktober 2021 
+
+  
+
+ 
+
+Transitievisie Warmte Gemeente Noordwijk 
+
+3   
+
+ 
+ 
+ 
+
+terwijl 
+
+Kanttekeningen bij keuzes voor duurzame warmteoplossingen 
+ 
+Dubbele infrastructuur 
+Omdat  we  in  Noordwijk  de  warmtetransitie  haalbaar  en  betaalbaar  willen  houden,  proberen  we  een 
+dubbele infrastructuur zoveel mogelijk te vermijden. We willen voorkomen dat er in één gebied een 
+warmtenetwerk  komt, 
+tegelijkertijd  veel  gebouweigenaren  overstappen  op  elektrische 
+warmtepompen.  Ook  de  situatie  waarin  de  meeste  mensen  overgestapt  zijn  op  bijvoorbeeld 
+warmtepompen, terwijl een paar gebouwen nog op het aardgas blijven, willen we voorkomen. Er moet 
+dan  een  groot  (gas)netwerk  beheerd  worden  voor  een  kleine  groep  gebruikers.  Dit  maakt  de 
+warmtetransitie uiteindelijk voor iedereen onnodig duur. 
+ 
+Netcapaciteit 
+Verder  vragen  sommige  duurzame  warmteoplossingen  om  extra  elektriciteit,  zoals  individuele 
+warmtepompen en een warmtenet met lage temperatuur warmtebronnen. Het elektriciteitsnetwerk moet 
+dit wel aankunnen.  Als grote delen van de bebouwde kom overstappen op individuele warmtepompen 
+of een warmtenet met lage temperatuur warmtebronnen, dan is er netverzwaring nodig. Dit is duur en 
+kost enkele jaren. Bij het kiezen van de meest geschikte warmteoplossing en het moment van realisatie 
+van de oplossing speelt de netcapaciteit daarom een belangrijke rol. 
+ 
+Uit de analyse blijkt dat in de buurt ‘Verspreide huizen Langeveld’ nog ruimte is op het elektriciteitsnet 
+voor  all-electric  oplossingen.  In  de  buurten  Dr.  Mr.  W.  van  den  Berghstichting  en  verspreide  huizen 
+Zuiden en Oosten lijkt het elektriciteitsnet voldoende geschikt om de overstap naar all-electric te maken. 
+Voor  de  overige  gebieden  zal  de  geschiktheid  van  het  elektriciteitsnet  voor  all-electric  oplossingen 
+verder onderzocht moeten worden.  
+ 
+Groengas en waterstof 
+Tot  slot  is  er  in  Nederland  onvoldoende  groen  gas  of  waterstof  beschikbaar  om  de  totale 
+aardgasvraag te vervangen. Er is simpelweg niet genoeg plantaardig afval (om groen gas te maken) of 
+duurzame elektriciteit (voor het maken van waterstof) beschikbaar. Het is nog niet bekend of er in de 
+toekomst  hernieuwbare  gassen  beschikbaar  komen  in  de  gemeente  en  of  onze  gebouwen  er  dan 
+gebruik  van  kunnen  maken.  Wel  staat  vast  dat  als  deze  gassen  er  komen,  we  hier  zuinig  mee  om 
+moeten gaan. In het geval van groen gas of waterstof blijft een gasnet noodzakelijk. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+19 oktober 2021 
+
+  
+
+ 
+
+Transitievisie Warmte Gemeente Noordwijk 
+
+4   
+
+ 
+ 
+ 
+
+5 
+
+VISIE 
+
+5.1 
+
+Visie 
+
+De  gemeente  Noordwijk  vindt  het  belangrijk  om  grote  stappen  te  zetten  binnen  de  warmtetransitie.  De 
+gemeente moet keuzes maken. Daarom focussen wij ons in de gemeente op een efficiënte oplossing waar 
+we grote stappen mee kunnen zetten binnen de warmtetransitie. Een warmtenet op basis van geothermie 
+heeft  potentie  in  de  gemeente  Noordwijk.  In  de  dichtbebouwde  stukken  kunnen  we  hiermee  een 
+grootschalige  oplossing  bieden  (in  de  kern  van  Noordwijk  en  eventueel  uitbouwen  naar  de  kern  van 
+Noordwijkerhout).  Voor  minder  dichtbebouwde  gebieden  zijn  individuele  oplossingen  of  kleinschalige 
+collectieve oplossingen in combinatie met energiebesparing het meest kansrijk. Voor deze oplossingen gaat 
+de gemeente meer aan de zijlijn staan: we zetten onze inspanningen vanuit het duurzaamheidsloket voort, 
+maar gaan vooralsnog geen extra maatregelen nemen. 
+ 
+We gaan voortvarend aan de slag, maar we blijven adaptief. Er moet nog veel duidelijk worden: er komen 
+kaders vanuit het rijk, zoals de warmtewet 2.0 en nieuwe subsidie/financieringsmogelijkheden. Daarnaast 
+ontwikkelt de techniek zich snel en leren we steeds meer over de toepassingen van duurzame warmte. We 
+starten deze visie, maar we blijven alert en sturen bij als dat nodig is.  
+Naast  vervolgonderzoek  naar  de  toepassing  van  geothermie  gaan  we  door  met  onze  inspanningen  op 
+besparing  en  individuele  oplossingen  vanuit  het  duurzaam  bouwloket  en  duurzaamheidsregelingen. 
+Periodiek kijken we weer waar we staan en bepalen we wat de vervolgstappen moeten zijn.  
+ 
+
+In 2019 is er onder het huidige beleid 2% warmte bespaard ten opzichte van 2014. Als we deze trend 
+doortrekken komen we in 2030 op een besparing van slechts 6,4%. Om de doelstelling uit de RES te 
+realiseren zal dit percentage omhoog moeten naar een totaal van 15% warmtebesparing in 2030. Dat 
+betekent dat er voor 2030 nog aanvullende maatregelen moeten worden genomen op het gebied van 
+warmtebesparing.  De  gemeente  onderzoekt  op  welke  wijze  zij  nog  meer  kan  en  wil  stimuleren  en/of 
+faciliteren  om  een  grotere  energiebesparing  te  realiseren.  Periodiek  zal  de  strategie  op  basis  van  de 
+technische ontwikkelingen en ontwikkelingen in wet- en regelgeving worden geactualiseerd. 
+ 
+
+ 
+
+ 
+ 
+
+19 oktober 2021 
+
+  
+
+ 
+
+Transitievisie Warmte Gemeente Noordwijk 
+
+5   
+
+ 
+ 
+ 
+
+Onze visie in drie verschillende sporen: 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Collectieve oplossingen 
+
+Inzetten op energiebesparing 
+
+Ondersteunen individuele 
+
+aanjagen 
+
+en isolatie  
+
+De kernen Noordwijk en 
+Noordwijkerhout hebben 
+potentie voor grootschalige 
+collectieve oplossingen.  
+ 
+We werken samen met 
+marktpartijen en houden een 
+vinger aan de pols. 
+We organiseren capaciteit en 
+middelen om adequaat en 
+proactief op de ontwikkelingen 
+te kunnen reageren. 
+ 
+ 
+
+Ter ondersteuning van 
+energiebesparing zijn er het 
+duurzaam bouwloket en 
+bestaande duurzaamheids-
+regelingen, deze worden 
+voortgezet.  
+ 
+Het nemen van 
+besparingsmaatregelen is aan 
+de gebouweigenaren. 
+ 
+ 
+ 
+ 
+
+oplossingen 
+
+ 
+
+Voor de individuele en 
+kleinschalige oplossingen ligt het 
+initiatief bij de gebouweigenaren 
+zelf  
+ 
+De gemeente blijft bewoners 
+stimuleren en ondersteunen via 
+het energieloket en 
+subsidieregelingen.  
+ 
+ 
+ 
+
+We volgen de ontwikkelingen (op het gebied van beleid, financiering, innovatie en techniek) en stellen 
+
+ons adaptief op. 
+
+Figuur 11 Visie gemeente Noordwijk in drie verschillende sporen 
+ 
+
+5.2 
+
+Vervolgstappen  
+
+Niet alle buurten kunnen meteen van het aardgas af, dit gaan we doen in weloverwogen stappen. Tot 2050 
+zullen de wijken om de beurt van het aardgas afstappen. In een aantal wijken beginnen we al voor 2030 
+met een aanpak, en andere wijken komen pas later aan de beurt.  
+ 
+Om invulling te geven aan de visie hebben we de vervolgstappen geschetst in de tijd (figuur 12). We zetten 
+in  op  gerichte  stappen  in  een  tempo  dat  past  bij  de  huidige  mogelijkheden.  De  oplossingen  zijn 
+gebiedsgericht  en  zetten  in  op  zowel  individuele  als  collectieve  warmteoplossingen.  Met  deze 
+vervolgstappen  willen  we  zoveel  mogelijk  recht  doen  aan  enerzijds  onze  ambities  en  doelstellingen,  en 
+anderzijds  de  technische  (on)mogelijkheden,  inbreng  vanuit  de  samenleving,  belanghebbenden  en  de 
+gemeente. Deze vervolgstappen zijn in afwachting van goedkeuring van de gemeenteraad. Besluiten en/of 
+voortschrijdende inzichten zullen verwerkt worden in volgende stappen in de Noordwijkse Energie Strategie. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+19 oktober 2021 
+
+  
+
+ 
+
+Transitievisie Warmte Gemeente Noordwijk 
+
+6   
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Collectieve oplossingen 
+
+Inzetten op energiebesparing 
+
+Ondersteunen individuele 
+
+aanjagen  
+
+ 
+
+en isolatie  
+
+  
+
+oplossingen  
+
+2021 
+
+• 
+
+Actief inzetten op het 
+uitwerken van de kansen 
+voor geothermie en een 
+warmtenet in Noordwijk 
+
+•  Doorgaan met informeren en 
+ondersteunen via duurzaam 
+bouwloket en bestaande 
+duurzaamheidsregelingen 
+
+•  Doorgaan met informeren en 
+ondersteunen via duurzaam 
+bouwloket en bestaande 
+duurzaamheidsregelingen 
+
+•  Meewerken aan 
+
+onderzoek geothermie 
+door marktpartijen en 
+uitvoeren analyses voor 
+kansen voor Noordwijk 
+ 
+
+2022 
+
+•  Quick scan voor een 
+
+startgebied (uitwerking en 
+eerste inzicht in 
+gebruikerskosten voor 
+inwoners)  
+
+•  Onderzoek mogelijkheden 
+
+• 
+
+• 
+
+• 
+
+voor collectieve 
+warmtesystemen 
+Indien positief resultaat uit 
+onderzoeken: starten met 
+het opstellen van de 
+Wijkuitvoeringsplannen  
+Faciliteren van onderzoek 
+geothermie in Noordwijk 
+en omliggende buurten. 
+ 
+
+Invulling geven aan 
+actieplan verduurzamen 
+eigen vastgoed gemeente  
+
+•  Uitgeven 
+
+warmteconcessie(s) 
+(indien positief resultaat 
+uit onderzoeken) 
+ 
+
+Na 
+2022 
+
+Na 
+2025 
+
+•  Realisatie warmtenet 
+
+(indien positieve 
+haalbaarheid) door 
+marktpartijen 
+
+•  Nieuwe aanpak 
+
+formuleren/ herijken op 
+grond van actuele 
+inzichten 
+
+Figuur 12 Vervolgstappen gemeente Noordwijk 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+ 
+
+• 
+
+• 
+
+Aanmoedigen/ faciliteren 
+bewonersinitiatieven 
+Energiebesparing en isolatie 
+aanmoedigen door middel van 
+bouwloket en bestaande 
+duurzaamheids-maatregelen 
+Informeren en ondersteunen 
+via duurzaam bouwloket 
+
+Invulling geven aan actieplan 
+verduurzamen eigen vastgoed 
+Energiebesparing en isolatie 
+aanmoedigen door middel van 
+bouwloket en bestaande 
+duurzaamheidsmaatregelen 
+Adaptief omgaan met 
+ontwikkelen vanuit het rijk om 
+warmtetransitie in gemeente 
+Noordwijk te versnellen 
+ 
+Energiebesparing en isolatie 
+aanmoedigen door middel van 
+bouwloket en bestaande 
+duurzaamheidsmaatregelen 
+Adaptief omgaan met 
+ontwikkelen vanuit het rijk om 
+warmtetransitie in gemeente 
+Noordwijk te versnellen 
+ 
+
+•  Onderzoeken mogelijkheden 
+
+• 
+
+• 
+
+• 
+
+• 
+
+voor ondersteuning van 
+specifieke buurten voor 
+aardgasvrij maken.  
+Start wijk-uitvoeringsplannen 
+voor buurten die potentie 
+hebben om aardgasvrij te 
+worden (op basis van 
+bovenstaand onderzoek) 
+Voortzetting van de 
+participatiebijeenkomsten en 
+aanmoedigen/ faciliteren 
+bewonersinitiatieven 
+ 
+
+Invulling geven aan actieplan 
+verduurzamen eigen vastgoed 
+gemeente  
+Starten met opstellen en 
+uitwerken wijk-
+uitvoeringsplannen voor nader 
+vast te stellen wijken  
+
+•  Onderzoek netcapaciteit 
+
+individuele wijken  
+
+ 
+
+• 
+
+Stapsgewijze aanpak van de 
+individuele woningen in het 
+buitengebied 
+
+•  Wijk- of buurtgerichte aanpak 
+in de kernen voor die buurten 
+die niet collectief worden 
+verwarmd  
+
+19 oktober 2021 
+
+  
+
+ 
+
+Transitievisie Warmte Gemeente Noordwijk 
+
+7   
+
+ 
+ 
+ 
+
+5.3 
+
+Ontwikkeling collectieve warmteoplossingen  
+
+De kernen Noordwijk en Noordwijkerhout zijn op basis van bebouwing en infrastructuur kansrijk voor een 
+collectieve  oplossing  via  een  warmtenet.  In  deze  gebieden  liggen  de  maatschappelijke  kosten  voor  een 
+warmtenet dicht bij de kosten voor individuele oplossingen. Met een collectieve oplossing kan in één keer 
+een grote stap genomen worden, daarom is het de moeite waard om de haalbaarheid van een warmtenet 
+in beide kernen nader te onderzoeken. Dit betekent niet dat er hoe dan ook een warmtenet gaat komen, 
+maar wel dat we deze optie de komende jaren concreet in beeld gaan brengen.  
+Enkele  marktpartijen  maken  met  een  haalbaarheidsonderzoek  inzichtelijk  of  potentiële  warmtebronnen 
+inderdaad beschikbaar, betrouwbaar en (beter) betaalbaar zijn. Uiteraard doen we dit in nauw overleg met 
+inwoners en stakeholders, waarbij we continu afwegen of een warmtenet haalbaar is en blijft. Belangrijk is 
+dat de komende jaren duidelijk wordt welke warmteoplossing uiteindelijk per buurt beschikbaar zal komen. 
+Zo heeft iedereen ruim de tijd om zich hierop voor te bereiden en tot het juiste niveau isolatiemaatregelen 
+te treffen. Omdat dit een traject is dat jaren duurt en waar landelijk nog weinig ervaring mee is, sluiten we 
+aan bij momenten waarop we in deze gebieden toch al aan de slag gaan met de gebouwde omgeving.  
+ 
+
+1.  Shell,  Firan  en  D4  hebben  een  opsporingsvergunning  gekregen  voor  het  onderzoeken  van  de 
+potentie voor geothermie in deze regio. De bron zal waarschijnlijk ten oosten van de kern Noordwijk 
+komen. Uit onderzoek moet blijken of een geothermische put hier Noordwijk en Noordwijkerhout 
+van voldoende energie kan voorzien. Een grove inschatting geeft aan dat een geothermiebron 4.000 
+(iets  meer  als  de  helft  van  de  kern  Noordwijk)  tot  9.500  (kern  Noordwijk  +  Noordwijkerhout) 
+woningen van warmte kan voorzien. Het initiatief ligt bij de marktpartijen, de gemeente wordt hier 
+over geconsulteerd. De gemeente zal deze ontwikkeling actief volgen en ondersteunen, aangezien 
+het  een  belangrijk  aandeel  kan  hebben  in  de  totaaloplossing.  Bij  het  onderzoeken  van  de 
+haalbaarheid  van  een  warmtenet 
+is  het  belangrijk  om  de  planning  van 
+onderhoudswerkzaamheden  in  het  gebied  mee  te  nemen.  Zo  moeten  de  waterleidingen  in 
+Boerenburg  binnen  10  jaar  vervangen  worden.  Of  dit  een  meekoppelkans  vormt  voor  het 
+warmtenet, moet worden onderzocht.  
+
+in  Noordwijk 
+
+2.  Het  lijkt  zinvol  om  een  quick  scan  te  doen  voor  een  collectieve  oplossing  als  een  warmtenet  in 
+Noordwijkerhout. Volgens de eerste analyse zou een warmtenet op basis van aquathermie of met 
+WKO kansrijk zijn. Dit zou voor een substantieel gedeelte van de kern in de warmtevraag kunnen 
+voorzien (40%). In een haalbaarheidsonderzoek kan deze potentie verder onderzocht worden en 
+worden  vergeleken  met  alternatieven.  De  wijk  Zeeburg  wordt  in  de  periode  van  2022  t/m  2025 
+grootschalig opgeknapt. Ook liggen er in het zuiden van Noordwijkerhout grondroeringsgevoelige 
+leidingen die gesaneerd zullen worden in 2023 en  2025. Dit is op te korte termijn om ook direct 
+stappen  te  zetten  voor  een  warmtenet,  maar  in  de  ontwikkelingen  kan  er  waar  mogelijk  al  wel 
+rekening  mee  gehouden  worden.  Bijvoorbeeld  door  in  de  ondergrond  ruimte  te  reserveren.  Om 
+deze reden is het voorstel om op korte termijn (2022) een warmtenet in Noordwijkerhout verder te 
+onderzoeken. 
+
+ 
+
+ 
+
+ 
+
+19 oktober 2021 
+
+  
+
+ 
+
+Transitievisie Warmte Gemeente Noordwijk 
+
+8   
+
+ 
+ 
+ 
+
+6 
+
+PROCESVOORSTEL WIJKUITVOERINGSPLAN (WUP) 
+
+ 
+In  een  Wijkuitvoeringsplan  (WUP)  worden  de  stappen  uitgewerkt  die  nodig  zijn  om  te  komen  tot  een 
+duurzame warmteoplossing voor een bepaald gebied, zoals een wijk of een buurt. In deze TVW schetsen 
+we de route, in een WUP wordt deze verder uitgewerkt en worden keuzes gemaakt voor een warmtebron 
+en  -systeem.  Het  uitvoeringsplan  wordt  opgesteld  samen  met  de  inwoners  van  het  gebied  en  andere 
+belanghebbenden. Daarmee is het WUP een gebiedsgerichte concretisering van de Transitievisie Warmte 
+(TVW), dat de basis vormt voor daadwerkelijke implementatie van een duurzame warmteoplossing.  
+ 
+Het WUP bestaat op hoofdlijnen uit drie parallelle sporen: 
+
+1.  Technisch-economische uitwerking van de mogelijke warmteoplossingen;  
+2.  Participatietraject met inwoners en betrokken organisaties; 
+3.  Organisatorisch traject om keuzes te maken en te beslissen hoe het plan uitgevoerd kan worden 
+
+en wie hier verantwoordelijk voor zijn.  
+
+ 
+Om hier vorm aan te geven volgt de WUP de volgende onderdelen: 
+ 
+1. Wijktoets 
+De succesvolle implementatie van een duurzaam warmtesysteem staat of valt bij een gedragen oplossing. 
+Een uitvoeringsplan start daarom met een wijktoets – een verdiepende kwalitatieve analyse van de wijk. 
+Welke  sociale  en  maatschappelijke  uitdagingen  en  kansen  spelen  in  een  wijk?  Met  welke  economische 
+randvoorwaarden hebben bewoners te maken? En is deze wijk geschikt voor een wijkgerichte aanpak? De 
+uitkomst van de wijktoets bepaalt hoe we de volgende stappen praktisch en haalbaar zetten. 
+ 
+2. Technisch-economische mogelijkheden 
+Elk  gebied  is  uniek  en  vergt  maatwerk.  In  deze  transitievisie  staat  al  een  voorzet  van  mogelijke 
+warmtebronnen.  In  de  WUP  moet  dit  verder  uitgewerkt  worden  in  een  technische  schets  van  een 
+warmtesysteem. Vraag en aanbod in de tijd worden hierin aan elkaar gekoppeld. Door een paar mogelijke 
+alternatieven te kiezen kunnen deze uitgewerkt worden, maar ook in het participatietraject meegenomen 
+worden.  
+ 
+3. Participatie 
+De  warmteoplossing  moet  uiteindelijk  ook  een  oplossing  zijn  voor  bewoners  en  gebouweigenaren.  Het 
+participatieproces is daarom een belangrijk onderdeel van de aanpak. De WUP richt zich op verschillende 
+doelgroepen:  inwoners,  bedrijven  en  andere  relevante  organisaties,  zoals  de  netbeheerder  en  de 
+woningcorporatie.  
+Voor  deze  groepen  kijken  we  wat  passende  gedragsveranderingen  zijn  en  bouwen  we  het  netwerk  van 
+inwoners  en  bedrijven  uit.  Dankzij  een  zorgvuldig  proces  zorgen  we  voor  betrokkenheid  van  deze 
+doelgroepen. 
+ 
+4. Keuze warmteoplossing 
+Op basis van de uitwerking van verschillende alternatieven en participatie kan de beste oplossing gekozen 
+worden.  
+ 
+5. Uitwerking warmteoplossing en organisatie  
+Als  er  gekozen  is  voor  een  warmteoplossing  kan  deze  in  detail  uitgewerkt  worden.  Hier  hoort  ook  de 
+businesscase bij en inzicht in de kosten voor ontwikkelaar en eindgebruiker.  
+ 
+6. Opstellen van praktisch uitvoerbaar plan  
+In het uitvoeringsplan wordt uiteindelijk beschreven welke randvoorwaarden, processtappen en besluiten 
+nodig zijn om tot de succesvolle realisatie van het duurzame warmtesysteem te komen. In het plan komen 
+
+19 oktober 2021 
+
+  
+
+ 
+
+Transitievisie Warmte Gemeente Noordwijk 
+
+9   
+
+ 
+ 
+ 
+
+de technische uitwerking en de wensen en eisen van de stakeholders. In het plan wordt ook breder gekeken 
+dan  alleen  warmte,  er  wordt  beschreven  hoe  andere  opgaven  in  het  proces  een  plek  krijgen,  zoals 
+leefbaarheid, armoede of klimaatadaptatie. Uiteindelijk neemt de gemeenteraad hier een besluit over. 
+ 
+
+ 
+
+19 oktober 2021 
+
+  
+
+ 
+
+Transitievisie Warmte Gemeente Noordwijk 
+
+10   
+
+ 
+ 
+ 
+
+7 
+
+WAT KUNNEN INWONERS AL DOEN? 
+
+De manier waarop een woning straks zonder aardgas wordt verwarmd, verschilt per gebied en per gebouw. 
+We hebben tot 2050 om stappen te zetten om daar te komen. De keuze die de eigenaar van een gebouw 
+daarin maakt, moet passen binnen de mogelijkheden die de energie-infrastructuur – elektriciteitsnet, gasnet 
+of warmtenet – biedt. Het zal nog even duren voordat helemaal duidelijk is wat voor iedereen de optimale 
+oplossing is.  
+ 
+
+ 
+
+Figuur 13 Wat past bij mijn woning? 
+
+ 
+
+7.1 
+
+Geen spijt maatregelen 
+
+Het  verwijderen  van  de  cv-ketel  is  over  het  algemeen  pas  de  laatste  stap  in  de  verduurzaming  van  een 
+gebouw. Tot die tijd kunnen inwoners verbetermaatregelen toepassen waar ze geen spijt van krijgen. Dit 
+zijn maatregelen die – los van de uiteindelijke warmteoplossing – altijd verstandig zijn om te nemen richting 
+een energie neutrale toekomst. Denk aan dak-, vloer-, spouwmuurisolatie en HR++glas, maar ook kleinere 
+(en minder kostbare) maatregelen als radiatorfolie, tochtstrippen, korter douchen en het verlagen van de 
+watertemperatuur.  Bij  een  verbouwing  kunnen  bewoners  ook  nadenken  over  vloerverwarming  of 
+laagtemperatuurradiatoren. Naast een lagere energierekening dragen de ‘geen spijt maatregelen’ ook bij 
+aan het wooncomfort of een lagere energierekening. De kosten en opbrengsten van deze maatregelen zijn 
+normaalgesproken  voor  de  gebouweigenaar.  Dit  kan  worden  meegenomen  in  het  normale  proces  van 
+onderhoud en verbeteringen aan gebouwen, zoals verbouwingen en vervangingen. Wel zijn er regelmatig 
+subsidies of laagrentende leningen beschikbaar. Via het Duurzaam Bouwloket helpen wij bewoners graag 
+om verstandige keuzes te maken. 
+ 
+Dus heeft u, als bewoners van de gemeente Noordwijk, plannen om uw keuken te verbouwen of uw fornuis 
+te vervangen? Kies dan voor koken op inductie in plaats van een gasfornuis. Bent u van plan om uw huis 
+
+19 oktober 2021 
+
+  
+
+ 
+
+Transitievisie Warmte Gemeente Noordwijk 
+
+11   
+
+ 
+ 
+ 
+
+te verbouwen? Neem dan ook meteen isolatiemaatregelen, bijvoorbeeld bij aan uw vloer, muren, ramen 
+en/of het dak. U kunt ervan uitgaan dat u minimaal tot schillabel D moet isoleren, maar bij voorkeur gaat u 
+tot schillabel C of B. Wat uiteindelijk minimaal nodig is, hangt samen met de duurzame warmteoplossing 
+voor het gebied waar u woont (zie ook hoofdstuk 4.1.2). Vanuit het Rijk wordt gewerkt aan een ‘standaard’ 
+die gebouweigenaren inzicht geeft welk isolatieniveau nodig is voor een duurzame toekomst. De voorlopige 
+versie van de Isolatiestandaard is hier beschikbaar. Ook kunt u zonnepanelen en een zonneboiler op uw 
+dak plaatsen om uw eigen stroom en warmte op te wekken.  
+
+7.2 
+
+Duurzaam Bouwloket 
+
+Meer  informatie  en  besparingstips  zijn  te  vinden  via  het  Duurzaam  Bouwloket:  Duurzaam  Bouwloket  | 
+Noordwijk. 
+ 
+Het  Duurzaam  Bouwloket  vormt  het  energieloket  van  de  gemeente  Noordwijk.  Hier  kunnen  bewoners 
+terecht voor vragen over duurzaam (ver)bouwen, subsidies, energiebesparing en energie opwekken. 
+
+7.3 
+
+Duurzaamheidsregelingen 
+
+Om verduurzaming van de bestaande woningvoorraad  aan  te moedigen heeft gemeente Noordwijk geld 
+beschikbaar gesteld. U kunt subsidies en laagrentende leningen krijgen voor duurzaamheidsmaatregelen 
+aan uw eigen woning.  
+ 
+Woningeigenaren kunnen subsidie aanvragen voor energiebesparende maatregelen en klimaatbestendige 
+maatregelen  aan  hun  woning.  Ook  kunnen  woningeigenaren  een 
+lening  aanvragen  voor 
+duurzaamheidsmaatregelen aan hun woning. Tot slot kunnen maatschappelijke organisaties, Verenigingen  
+ 
+van Eigenaren en scholen een lening aanvragen voor duurzaamheidsmaatregelen aan hun woning. Voor 
+meer informatie kijkt u op: Duurzaamheidsregelingen - Gemeente Noordwijk. 
+
+7.4  Meer informatie 
+
+Op deze websites vindt u meer informatie over hoe u zelf aan de slag kunt met het verduurzamen van uw 
+woning of woonomgeving:  
+ 
+- 
+- 
+- 
+ 
+
+www.winstuitjewoning.nl  
+www.milieucentraal.nl 
+https://www.rvo.nl/subsidie-en-financieringswijzer 
+
+19 oktober 2021 
+
+  
+
+ 
+
+Transitievisie Warmte Gemeente Noordwijk 
+
+12   
+
+

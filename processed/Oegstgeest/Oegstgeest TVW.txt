@@ -1,0 +1,4947 @@
+w   
+ 
+  
+  
+ 
+ 
+
+ 
+
+Transitievisie Warmte 
+
+ 
+
+Oegstgeest 
+
+ 
+
+Inhoudsopgave  
+
+ 
+
+Inhoudsopgave 
+
+1. Inleiding 
+1.1 Landelijke en regionale ambities 
+1.2 Lokale ambities 
+1.3 Wie hebben er meegedacht? 
+1.4 Leeswijzer 
+
+2. Gezamenlijke uitgangspunten 
+
+3. De warmtetransitie in Oegstgeest 
+3.1 Inzicht in de opgave 
+3.2 Toekomstbestendige infrastructuur 
+3.3 Inzet op duurzame bronnen 
+
+4. Waar gaan we naar toe? 
+4.1 Beeld voor de gemeente Oegstgeest 
+4.2 Criteria wijkselectie 
+4.3 Prioritering en startwijken 
+4.4 Financiën 
+
+5. Tussentijdse oplossingen en doelen 
+5.1 Inzet op vraagbeperking, verlagen temperatuurbehoefte en CO2 
+besparing 
+5.2 Richting transitiegereed 
+
+6. Participatie en vraagstukken op weg naar het 
+uitvoeringsprogramma 
+6.1 Samenwerken in de warmtetransitie 
+6.2 Programmatisch werken in Oegstgeest 
+6.3 Benodigde capaciteit 
+Bijlage A Warmte-opties 
+
+ 
+
+3 
+3 
+4 
+5 
+5 
+
+6 
+
+8 
+8 
+10 
+11 
+
+13 
+13 
+14 
+15 
+19 
+
+23 
+
+23 
+25 
+
+27 
+27 
+28 
+29 
+31 
+
+1. 
+1.1 
+1.2 
+1.3 
+1.4 
+
+2. 
+
+3. 
+3.1 
+3.2 
+3.3 
+
+4. 
+4.1 
+4.2 
+4.3 
+4.4 
+
+5. 
+5.1 
+
+5.2 
+
+6. 
+
+6.1 
+6.2 
+6.3 
+6.4 
+
+2 
+ 
+
+6.5 
+Bijlage B Warmte Transitie Model 
+6.6 
+2.1 Modelontwerp 
+6.7 
+2.2 Brondata 
+6.8 
+2.3 Kengetallen 
+6.9 
+Bijlage C Warmte-kaart 
+6.10  1. Woningaanpassingen 
+6.11  2. Welke warmteopties zijn afgewogen? 
+6.12  3. Modelleren van het afwegingskader 
+6.13  Bijlage D Kansen-kaart 
+6.14  1. Selectie van kansrijke gebouwen 
+6.15  2. Clustering tot potentie-eilanden 
+ 
+
+37 
+38 
+38 
+39 
+40 
+40 
+42 
+43 
+46 
+46 
+46 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1. Inleiding 
+
+In  2019  hebben  we  ons  gecommitteerd  aan  het  Klimaatakkoord  waarin  onder 
+andere afspraken staan over de reductie van CO2 uitstoot. De Nederlandse CO2-
+uitstoot moet  in  het  jaar  2030  met  49%  verlaagd  zijn  ten  opzichte  van  1990.    In 
+2050 moet de wereld zijn uitstoot vrijwel naar nul hebben teruggebracht. De opgave 
+ligt  in  het  creëren  van  een  duurzame  warmtevoorziening  als  alternatief  voor  het 
+gebruik van aardgas. We noemen dat ook wel de ‘warmtetransitie’. Op dit moment 
+is 95% van de gebouwde omgeving nog afhankelijk van aardgas voor verwarming 
+en om te koken. In de uitvoering van de warmtetransitie heeft de gemeente vanuit 
+de rijksoverheid de regierol toegekend gekregen.  
+ 
+De gemeente heeft de taak om uiterlijk voor eind 2021 voor elke wijk een plan te 
+maken  om  van  het  gas  af  te  gaan,  de  transitievisie  warmte  (TVW). Met  de 
+voorliggende TVW geven we inzicht in de totale opgave, in kansrijke oplossingen 
+en in een logische volgorde en tempo voor het aardgasvrij maken van alle wijken 
+in Oegstgeest. Deze TVW is geen eindpunt en dient op basis van ontwikkelingen 
+herijkt te worden. De TVW zal daarom minimaal eens in de 5 jaar geactualiseerd 
+worden,  gebaseerd  op  de  ervaringen  die  we  opdoen.  Zo  is  het  mogelijk  om 
+periodiek de voortgang te volgen en tijdig bij te sturen als blijkt dat het einddoel of 
+de tussendoelen buiten beeld raken. 
+ 
+Ook  zullen  wij  ons  de  komende 
+laagdrempelige 
+energietransitie  voor  onze  bewoners.  Onderdeel  daarvan  is  dat  we  samen  met 
+bewoners  kijken  welke  besparende  maatregelen  er  tussentijds  kunnen  worden 
+genomen  waarbij  geen  onnodige  investeringen  worden  gedaan.  Bijkomend 
+voordeel  van  bijvoorbeeld  isoleren  is  niet  alleen  een  tussentijdse  CO2  reductie, 
+maar  levert  in  veel  gevallen  ook  verhoogd  comfort  op  voor  de  bewoner.  De 
+gemeente zal hierin een regisserende en ondersteunende rol op zich nemen.  
+ 
+In  de  daaropvolgende  wijkuitvoeringsplannen  wordt  voor  de  desbetreffende  wijk 
+verder onderzocht welke warmteoplossing het meest geschikt is voor de wijk. We 
+zullen hierin intensief samenwerken met bewoners en andere stakeholders. Hierbij 
+wordt  ten aanzien  van  de  toekomstige  warmteoplossing  rekening gehouden met 
+investeringsplannen van de bewoners en stakeholders.  
+ 
+
+focussen  op  een 
+
+tijd 
+
+3 
+ 
+
+ 
+
+Het verduurzamen van onze mobiliteit, de industrie en de agrarische sector moet 
+uiteraard ook gebeuren, maar wordt in de TVW buiten beschouwing gelaten. Deze 
+onderwerpen komen in ieder geval voor in de Regionale Energiestrategie (RES). 
+ 
+
+1.1  Landelijke en regionale ambities  
+
+In  december  2015  heeft  Nederland  in  Parijs  ingestemd  met  een  nieuw  VN 
+Klimaatakkoord.  Het  akkoord  heeft  als  doel  om  de  opwarming  van  de  aarde  te 
+beperken  tot  ruim  onder  2  graden  Celsius.  Om  de  afspraken  van  het  Parijs 
+Klimaatakkoord te realiseren is een forse inspanning op energiebesparing en het 
+gebruik  van  alternatieve  energiebronnen  nodig.  Het  kabinet  heeft  in  het 
+regeerakkoord  aangegeven  dat  ze  de  uitstoot  van  broeikasgassen  in  2030  met 
+49%  wil  verminderen  ten  opzichte  van  1990,  doorrekenend  betekend  dat  dat  er 
+voor 2030 1,5 miljoen woningen van het aardgas afgesloten moeten worden, zoals 
+ook  is  opgenomen  in  het  Klimaatakkoord  en  moeten  worden  voorzien  van  een 
+alternatieve warmtebron, met een installatie- en isolatieniveau passend bij deze het 
+alternatief. Ook douchen en koken gaan we doen zonder aardgas. 
+
+ 
+Plannen op drie niveaus 
+
+ 
+
+ 
+
+ 
+
+Gemeenten  hebben  een  belangrijke  rol  in  deze  transitie  naar  een  aardgasvrije 
+omgeving. In lijn met het door het kabinet gepresenteerde Klimaatakkoord werken 
+we aan plannen op drie niveaus:  
+
+1.  Regionaal  doen  we  dat  in  de  vorm  van  de  Regionale  Energiestrategie 
+(RES) waarin we duurzame energiebronnen in de regio in kaart brengen 
+en  koppelen  aan  de  vraag  naar  energie  in  alle  gemeenten.  Ook  op 
+regionaal niveau werken we aan de Regionale Warmtevisie, waarmee we 
+de regionale kansen en uitdagingen op het gebied van de warmtetransitie 
+in beeld brengen. Die visie wordt uiteindelijk onderdeel van de RES, in de 
+vorm  van  de  Regionale  Structuur  Warmte (RSW).  In  de  eerste  helft van 
+2021  wordt  de  RES  1.0  opgeleverd.  De  RES  zal  elke  twee  jaar  worden 
+herijkt.  
+
+2.  Op gemeentelijk  niveau doen  we  dat  met deze transitievisie warmte. De 
+TVW beschrijft hoe we als gemeente samen met onze stakeholders onze 
+warmtevraag  op  een  aardgasvrije  en  duurzame  manier  kunnen  gaan 
+invullen. De TVW is een beleidsdocument heeft een focus op de periode 
+tot 2030 en wordt minimaal elke 5 jaar herijkt.1 In de TVW wordt een eerste 
+tijdspad aangegeven om de gebouwde omgeving te isoleren en aardgasvrij 
+te maken.  Daarbij wordt voor de wijken waar de transitie voor 2030 staat 
+gepland ingegaan op welke toekomstige energievoorziening in welke wijk 
+het meest kansrijk lijkt op basis van de huidige stand der techniek. De TVW 
+biedt 
+netbeheerder, 
+gebouweigenaren,  energiepartijen  en  andere  organisaties  een 
+gezamenlijke  verantwoordelijkheid  zien  en 
+investeringsbeslissingen 
+kunnen  nemen.  De TVW  kan  gebruikt  worden  als  input voor  de  RES  en 
+RSW en andersom  geldt dit  ook.  Naast de lokale TVW wordt het op het 
+moment ook gewerkt aan een TVW voor de Leidse regio om te dienen al 
+leidraad  voor  warmteoplossingen  die  in  subregionaal  verband  worden 
+opgepakt.   
+
+kader  waarbinnen 
+
+het 
+
+de 
+
+gemeente, 
+
+3.  Voor  alle  wijken  die  we  in  deze  TVW  hebben  geselecteerd als  kansrijke 
+wijken om op korte termijn aan de slag te gaan, zullen we vervolgens op 
+wijkniveau  een  concreet  plan  van  aanpak  opstellen,  een  zogenaamd 
+wijkuitvoeringsplan  (WUP).  Per  wijk  zal  samen  met  bewoners  en 
+stakeholders  onderzocht  worden  welke  warmteoplossing  het  meest 
+geschikt is. In de WUP wordt ook duidelijk of dit voor een hele wijk geldt, 
+
+1 Uiterlijk in 2022 evalueren VNG en Rijk of deze actualisatietermijn van iedere 5 jaar de juiste is. 
+
+ 
+
+4 
+ 
+
+ 
+
+met  bijvoorbeeld een  warmtenet,  of dat er  individuele oplossingen  nodig 
+zijn.  
+
+Programma,  Omgevingsplan, 
+
+ 
+Op 1 januari 2022 treedt de Omgevingswet in werking. De Omgevingswet kent 6 
+kerninstrumenten  waar  al  het  beleid  van  de  gemeente  voor  de  fysieke 
+leefomgeving  zal  worden  ondergebracht.  Deze  kerninstrumenten  betreffen; 
+Omgevingsvisie, 
+Algemene  Rijksregels, 
+Omgevingsvergunning en projectbesluit. De TVW is naast de RES ook een van de 
+bouwstenen  voor  de  Omgevingsvisie.  De  Rijksoverheid  werkt  bovendien  aan 
+wetgeving  om  de  TVW  als  programma  te  verankeren  onder  de  Omgevingswet. 
+Hiermee  wordt  de  positie  van  bewoners  en  belanghebbenden  geborgd.  Tot  de 
+inwerkingtreding van de wet kunnen gemeenten de TVW vaststellen op basis van 
+hun autonome bevoegdheid tot het vaststellen van beleidsplannen.  
+ 
+ 
+
+1.2  Lokale ambities 
+
+De verkregen regierol in de warmtetransitie betekent dat gemeenten de overstap 
+naar  een  aardgasvrije  gebouwde  omgeving  in  goede  banen  moeten  leiden. 
+Oegstgeest wil in 2050 een energieneutrale gemeente zijn. Voor warmte betekent 
+dit dat we in 2050 geen CO2 meer uitstoten. De ambities en doelstellingen hebben 
+we meegenomen bij de uitgangspunten van deze visie. 
+ 
+Op basis van de Warmte Transitie Atlas (WTA) uit 2017, de voorzet Warmtevisie 
+van APPM en CE Delft uit 2018 en de recente WTA van de provincie Zuid-Holland, 
+is een validatie uitgevoerd om gedegen en goed onderbouwd kansrijke wijken te 
+kunnen signaleren en voor deze wijken een tijdspad op te kunnen stellen waarin 
+we  de  wijken  in  gaan  en  kansen  verder  verkennen.  Op  die  manier  kunnen  we 
+samen met bewoners en met professionele stakeholders concreet aan de slag in 
+de eerste gebieden.  
+ 
+
+ 
+
+ 
+
+1.3  Wie hebben er meegedacht?  
+
+De warmtetransitie heeft impact op de hele gemeente. De gemeente Oegstgeest 
+staat hier dan ook niet  alleen voor. We werken samen met  bewoners en andere 
+belangrijke  partners  die  een  rol  spelen  in  deze  transitie.  Zo  kunnen  we 
+investeringsplanningen  op  elkaar  afstemmen,  schaalgrootte  behalen,  leren  van 
+elkaar en gezamenlijk de transitie versnellen. De partners die hebben meegedacht 
+en input hebben geleverd bij het maken van deze visie zijn: Stichting MeerWonen 
+Holland  Rijnland,  Vattenfall,  Liander,  Hoogheemraadschap  van  Rijnland  en 
+Dunea,.  
+ 
+Deze  partijen  vormden  samen  de  projectgroep  waarmee  we  deze  visie  en  de 
+aanpak  die  erin  beschreven  staat  hebben  ontwikkeld.  Ook  binnen  de  gemeente 
+hebben  verschillende  afdelingen  op  het  gebied  van  openbare  ruimte,  wonen, 
+beheer en onderhoud en communicatie meegewerkt. In vijf bijeenkomsten is input 
+opgehaald bij de projectgroep en zijn we samen tot een keuze van de wijken en de 
+bijbehorende aanpak gekomen.  
+ 
+Zoals aangegeven staat de gemeente er niet alleen voor en zullen we de inzet van 
+bewoners hard nodig hebben om de doelstellingen te halen. We zetten daarom in 
+op  een  intensieve  samenwerking  met  bewoners  om  niet  alleen  te  kijken  welke 
+toekomstige  warmteoplossing  het  meest  geschikt  en  wenselijk  is,  maar  om  ook 
+tussentijds  niet  stil  te  blijven  staan.  We  gaan  daarom  verder  met  isolatie  en 
+zonnepanelen inkoopacties en zetten in op actieve communicatie.  
+ 
+Via een enquête en webinars hebben we bewoners, huurders en ondernemers uit 
+de verschillende wijken  de vraag voorgelegd hoe zij geïnformeerd willen worden 
+en  betrokken  willen  worden  we  met  hen  aan  de  slag  gaan  aan  de 
+wijkuitvoeringsplannen.  Daarnaast  zijn  er  in  het  kader  van  de  RES  ook  al 
+gesprekken  geweest  met  inwoners  als  het  gaat  om  besparing  en  opwek  van 
+duurzame energie. In hoofdstuk zes wordt hier nader op in gegaan. 
+
+ 
+
+1.4  Leeswijzer 
+
+In  hoofdstuk  2  worden  de  gezamenlijke  uitgangspunten  waarop  deze  TVW 
+gebaseerd is toegelicht. Vervolgens wordt in hoofdstuk 3 ingegaan op de transitie 
+naar  aardgasvrij  en  bespreken  we  de  verschillende  oplossingen  voor  het 
+
+5 
+ 
+
+ 
+
+aardgasvrij  maken  van  woningen  en  gebieden.  In  hoofdstuk  4  geven  we  een 
+richting voor een  aardgasvrij  Oegstgeest  in 2050 en  zoomen we  in op de wijken 
+waar  we  de  komende  jaren  van  start  willen  gaan  met  de  warmtetransitie.  In  
+hoofdstuk 5 gaan we verder in op welke stappen we de komende tijd gaan zetten 
+om tussentijds tot CO2 besparing te komen en de huizen voor te bereiden op het 
+alternatief voor aardgas. Tot slot gaan we in hoofdstuk zes in op participatie en de 
+stappen om te komen tot een programmatische aanpak van de warmtetransitie in 
+Oegstgeest.  
+ 
+
+ 
+
+ 
+
+ 
+
+2. Gezamenlijke uitgangspunten 
+
+Met  de  vertegenwoordigers  van  de  partijen  uit  de  projectgroep  hebben  we  een 
+aantal  uitgangspunten  opgesteld  die  aan  de  basis  liggen  van  deze  TVW  en  de 
+uitvoering ervan:  
+ 
+We  hebben  oog  voor  de  eindgebruiker.  De  transitie  naar  een 
+klimaatneutrale gemeente met een aardgasvrije gebouwde omgeving kost tijd. We 
+hebben  tot  en  met  2050  en  die  tijd  willen  we  gebruiken  om  de  beste  keuzes  te 
+kunnen  maken.  Afwegingen  en  keuzes  zullen  we  zoveel  mogelijk  transparant 
+maken naar inwoners toe. Tegelijkertijd willen we niet tot 2050 blijven hangen in de 
+planvorming. Daarom pakken we kansen waar die zich voordoen voor collectieve 
+oplossingen  en  zetten  we  tussentijds  in  op  een  laagdrempelige  energietransitie 
+waarbij we onder andere kijken naar besparingsmogelijkheden die geen onnodige 
+investeringen vergen en waarbij bewoners zelf handelingsperspectief hebben om 
+hun  woning  (nu  al)  te  verduurzamen  door  de  installatie  van  een  (hybride) 
+warmtepomp.  
+ 
+Keuzevrijheid voor bewoners blijft mogelijk. We streven naar een 
+breed draagvlak onder bewoners, bedrijven en andere belanghebbenden. Om dat 
+te  bereiken  zorgen  we  ervoor  dat  bewoners  goed  geïnformeerd  zijn  en  de  tijd 
+hebben om over te gaan op een alternatieve warmtevoorziening. De huiseigenaar 
+heeft altijd een keuze in de manier waarop hij zijn woning aardgasvrij maakt, maar 
+het geniet wel de voorkeur alle bewoners in het gebied gebruik te laten maken van 
+de  gekozen  warmte-optie(s)  omdat  dat  de  haalbaarheid  en  betaalbaarheid  ten 
+goede komt.  
+
+ 
+We  streven  naar  een  betaalbare  aardgasvrije  oplossing 
+binnen de kaders die we hebben. De warmtetransitie brengt kosten 
+met zich mee, maar niets doen is zo mogelijk nog kostbaarder. Om ervoor te zorgen 
+dat we in deze beginfase de juiste keuzes maken, starten we op de plekken waar 
+de maatschappelijke kosten het laagst zijn en waar de keuze voor een alternatief 
+voor aardgas het meest voor de hand ligt.  
+ 
+
+6 
+ 
+
+ 
+
+Laagste maatschappelijke kosten 
+ 
+In  deze  verkenning 
+is  een  analyse  gedaan  naar  de  alternatieve 
+warmteoplossing  met  de  laagste  maatschappelijke  kosten  per  CBS-buurt. 
+Onder maatschappelijke kosten worden de totale kosten voor het realiseren 
+van een aardgasvrije energievoorziening in een buurt verstaan: 
+ 
+
+▪  Kosten voor het aanpassen van de woningen (transitiegereed maken 
+
+met isolatie, ventilatie en elektrisch koken) 
+
+▪  Kosten voor het aanpassen van de energie-infrastructuur 
+▪  Kosten voor de productie en levering van warmte/elektriciteit/gas 
+
+buurtniveau 
+
+zijn 
+
+zowel 
+
+stakeholders 
+
+gezamenlijk.  Op 
+
+Op basis van deze analyse is een beeld gevormd van de totale kosten van 
+de 
+de 
+investeringskosten  per  woning  inzichtelijk  gemaakt  als  de  onrendabele  top 
+over een periode van  dertig jaar.  De  optie met de laagste onrendabele top 
+heeft de laagste maatschappelijke transitiekosten, op basis van de kennis van 
+nu. 
+ 
+Het  minimaliseren  van  maatschappelijke  kosten  draagt  bij  aan  de 
+gezamenlijke betaalbaarheid, maar  geeft  geen inzicht  in  de betaalbaarheid 
+voor  individuele  stakeholders.  In  de  wijkuitvoeringsplannen  volgend  op  de 
+Transitievisie warmte wordt verkend welke warmtealternatieven er  mogelijk 
+zijn. Zolang onzeker is hoe de kostenontwikkeling van die warmteoplossing 
+zal plaatsvinden zal er ook focus worden gelegd op no-regret maatregelen en 
+andere tussentijdse maatregelen die leiden tot CO2 besparing.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+We  streven  naar  een  duurzame  energievoorziening.  We 
+streven  naar  een  CO2-neutrale  energievoorziening  voor  Oegstgeest,  waar  een 
+aardgasvrije gebouwde omgeving onderdeel van is. Dit is in lijn met de landelijke 
+klimaatdoelstellingen. Energiebesparing, met name door isolatie van de bestaande 
+woningvoorraad, is daarbij van essentieel belang. We zijn ons bewust dat we soms 
+tijdelijk transitiebronnen nodig hebben zoals hybride warmtepompen, zodat we een 
+start kunnen maken. 
+
+ 
+integrale  bril  en  stemmen  af  om 
+We  hebben  een 
+werkzaamheden  te  combineren.  We  streven  naar  een  optimale 
+
+ 
+
+ 
+
+onderhoud 
+
+als 
+
+en 
+
+grootschalig 
+
+afstemming van de investeringen van corporaties, gemeente,  nuts-infrabedrijven 
+en woningeigenaren. We houden waar mogelijk rekening met andere opgaven als 
+klimaatadaptatie 
+leidingvervanging, 
+verleggingskosten  en  drukte  in  de  ondergrond.  Het  afstemmen  geldt  voor 
+planningen, maar ook voor de communicatie richting  bewoners en de omgeving. 
+Straten gaan open om de infrastructuur aan te passen en dat brengt overlast met 
+zich mee. Door planningen op elkaar af te stemmen wanneer mogelijk, proberen 
+we dit zoveel mogelijk te beperken. In de wijkplannen betrekken we alle betrokken 
+energiegebruikers.  
+ 
+We  willen  meters  maken.  De  opgave  wacht  niet.  Door  de 
+maatschappelijke urgentie bij de betrokken partners intern de benodigde aandacht 
+te geven,  willen we  samen  concreet  aan  de  slag  met  de  warmtetransitie  en  met 
+deze TVW als duidelijk en gedragen kader zodat alle betrokkenen weten wat hun 
+te wachten staat.   
+Randvoorwaarden  voor  een  succesvolle  start  van  de  warmtetransitie 
+Oegstgeest: 
+
+in 
+
+>  Capaciteit  en  middelen  bij  zowel  de  gemeente  als  de  stakeholders  en 
+uitvoerende  partijen  zijn  nodig  om  na  het  vaststellen  van  de  transitievisie 
+warmte tempo te kunnen maken. Er ligt een gedeelde verantwoordelijkheid 
+in de financiering van de warmtetransitie. 
+
+>  Een  passend  aanbod  aan  bronnen  is  nodig  om  de  transitie  naar  een 
+aardgasvrije en op termijn duurzame warmtevoorziening mogelijk te maken. 
+Daarom  wordt  afgestemd  met  het  RES-traject.  Met  het  opstellen  van  de 
+Regionale  Structuur  Warmte  (RSW)  wordt  het  (potentiële)  aanbod  aan 
+duurzame warmte in de regio in kaart gebracht. Landelijke data over bronnen 
+als  aquathermie  en  geothermie  worden  opgenomen 
+regionale 
+energiepotentieanalyses en in de RSW aangevuld met restwarmtebronnen.   
+
+in 
+
+ 
+ 
+
+7 
+ 
+
+ 
+
+ 
+
+De  warmtetransitie  in  de  route  naar  een  energieneutraal  Oegstgeest  in 
+2050 
+ 
+De  transitie  naar  een  aardgasvrije  gebouwde  omgeving  is  een  belangrijk 
+onderdeel van de weg naar een energieneutrale gemeente. Maar om volledig 
+energieneutraal te worden, moeten we in 2050 alle energie die we verbruiken 
+ook  duurzaam  opwekken.  In  deze  transitievisie  warmte  gaan  we  al  in  op 
+bronnen  voor  lokale  duurzame  warmte  als  geothermie  en  oppervlaktewater. 
+Met de toename van het elektrisch verwarmen van woningen, meer elektrisch 
+vervoer  en  de  elektrificatie  van  andere  processen,  moeten  we  ons  ook 
+voorbereiden op een flinke uitbreiding in de opwek van duurzame elektriciteit.  
+We gaan kijken hoe we zon, wind en op termijn ook innovatieve technieken met 
+waterstof,  kunnen  gebruiken  om  te  komen  tot  een  volledig  duurzame 
+energiemix.  Dat  doen  we  niet  alleen,  want  veel  bronnen  overschrijden  de 
+gemeentegrenzen.  Elke 
+in  2021  een  Regionale 
+Energiestrategie (RES) opstellen, waarbij de beschikbare energiebronnen in de 
+regio worden gekoppeld aan de energievraag per gemeente. Binnen de regio 
+wordt  gewerkt  aan  die  regionale  energiestrategie  (RES)  1.0.  Deze  strategie 
+draagt  bij  aan  een  betaalbare,  betrouwbare,  schone  en  veilige 
+energievoorziening voor iedereen in de regio in 2050. We stemmen dus af met 
+de  gemeenten  binnen  Holland  Rijnland  en  onderzoeken  welke  plekken  in  de 
+regio  het  meest  geschikt  zijn  voor  welke  manier  van  energie-opwek.  Daarbij 
+nemen we deze transitievisie warmte mee als belangrijke input. Zo komen we 
+tot een strategie om energieneutraal te worden op een manier die realistisch is 
+en ook ruimtelijk ingepast kan worden.   
+
+regio  moet  uiterlijk 
+
+ 
+ 
+
+ 
+
+ 
+
+3. De warmtetransitie in Oegstgeest 
+
+In dit hoofdstuk gaan we eerst in op de opgave waar de gemeente Oegstgeest voor 
+staat. We bekijken hoeveel gebouwen er zijn aangesloten op het aardgasnet, welk 
+verbruik  daarbij  hoort  en  door  welk  type  woningen  de  gemeente  zich  laat 
+kenmerken.  Vervolgens  gaan  we  in  op  de  transitie  die  zal  moeten  worden 
+doorlopen  om  deze  gebouwen  zonder  aardgas  van  warmte  en  warm  water  te 
+voorzien. Al in 2018 heeft de gemeente Oegstgeest een voorzet Warmtevisie laten 
+opstellen door APPM en CE Delft. Daarbij is een eerste verkenning gedaan naar 
+welke  wijken  in Oegstgeest  kansrijk  zijn  om  te  starten met  de  transitie naar  een 
+aardgasvrije gemeente.  Deze uitkomsten zijn  meegenomen  bij  het  opstellen  van 
+deze warmtevisie.  
+ 
+
+3.1  Inzicht in de opgave 
+
+Oegstgeest ligt in een van de vroegst bewoonde delen van het kustgebied en heeft 
+een oppervlakte van 7,75 km². Inmiddels telt Oegstgeest 24.840 inwoners2. Binnen 
+de  gemeentegrenzen  liggen  geen  andere  kernen.  Over  12  wijken3  liggen  zo’n 
+10.500 woningen verdeeld. Een hoog percentage,  ruim 85%, van de woningen is 
+na 1945 gebouwd  en het gemiddelde aan geregistreerde energielabels is een vrij 
+hoge  label  C.  Zeventig  procent  van  de  woningen  is  in  particulier  eigendom.  De 
+grootste woningcorporatie is MeerWonen.  
+ 
+Als we de gegevens van het jaar 2018 uit de Klimaatmonitor raadplegen, zien we 
+dat de gebouwde omgeving in Oegstgeest de grootste sector is ten aanzien van 
+energiegebruik. 
+
+ 
+
+ 
+
+Van het energiegebruik van woningen, blijkt het grootste deel uit het gebruik van 
+aardgas te bestaan.  
+
+2 CBS, 1 januari 2020. 
+
+4 https://klimaatmonitor.databank.nl/dashboard/Dashboard/Energiegebruik/. 
+
+ 
+
+ 
+
+4 
+
+ 
+
+3 De Morsebel, Haaswijk-West, Haaswijk-Oost, Bloemenbuurt, Oudenhof, Voscuyl, Oranje Nassau, 
+
+Poelgeest, Buitenlust, Rhijngeest, Nieuw Rhijngeest (Rijnfront), Buitengebied. 
+
+8 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Het grootste gedeelte van de woningen in Oegstgeest is dan ook aangesloten op 
+het  aardgasnet.  Een  kleine  1.000  woningen  (in  Poelgeest)  hebben  geen 
+aardgasaansluiting,  maar  worden  door  een  warmtenet  voorzien  van  warmte  en 
+warm  tapwater.  Dit  warmtenet  staat  niet  op  zich,  maar  maakt  deel  uit  van  het 
+warmtenet  van  Leiden.  De  warmteleverancier  en  -distributeur  in  Poelgeest  is 
+Vattenfall.  Vattenfall  neemt 
+restwarmte  af  van  een  aardgasgestookte 
+elektriciteitscentrale  in  Leiden  en  er  wordt  daarnaast  een  aardgasgestookte 
+piekketel ingezet voor de productie van warmte5. Vattenfall onderzoekt samen met 
+Burgerinitiatief  Coöperatie  Energiek  Poelgeest  of  door  middel  van  de  inzet  van 
+kansrijke  aquathermiebronnen    het  mogelijk  is  om  Poelgeest  versneld  van  een 
+duurzamere warmtebron te voorzien.  Met de plannen  voor de warmterotonde en 
+de  warmtetransportleiding  vanuit  Rotterdam  (via  Den  Haag/Rijswijk)  zal  in  de 
+toekomst ‘havenwarmte’ mogelijk een nieuwe bron zijn. Vattenfall is voornemens 
+de bronnen van het warmtenet steeds verder te vergroenen. 
+ 
+
+ 
+ 
+ 
+De uitgangssituatie 
+
+ 
+
+Het  grootste  deel  van  onze  woningvoorraad  gebruikt  nu  voor  de 
+verwarming een CV-ketel. Een huishouden in Oegstgeest verbruikt 
+gemiddeld 1.280 m3 aardgas per jaar7. 
+ 
+
+De  CV-ketel  kan  water  tot  ongeveer  90°C  verwarmen.  Dit 
+verwarmde  water  stroomt  vervolgens  door  de  radiatoren  en 
+verwarmt de woning. Met deze hoge temperatuur kunnen ook slecht 
+geïsoleerde huizen met radiatoren verwarmd worden.  
+ 
+Ongeveer 80% van het aardgas in een woning wordt gebruikt voor 
+het verwarmen van de woning.  
+ 
+ 
+
+15% wordt gebruikt voor warm water, met name douchen. 
+ 
+ 
+ 
+
+Voor  koken  wordt  maar  een  heel  klein  deel  van  het  aardgas 
+gebruikt, minder dan 5%. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5 De Stevenshof centrale en de Uniper centrale aan de Langegracht in Leiden.  
+
+6 
+
+ 
+
+ 
+
+9 
+ 
+
+ 
+
+ 
+
+ 
+In  Nederland  zullen  voor  2050  alle  8  miljoen  woningen  en  gebouwen  moeten 
+overstappen op een alternatieve warmtevoorziening. Voor 2030 ligt het aantal op 
+1,5 miljoen woningen. Daarbij wordt een versnelling in tempo verwacht waardoor 
+het aantal woningen dat overstapt op een alternatief van 50.000 per jaar in 2021, 
+groeit naar meer dan 200.000 per jaar in 2030. Ook in Oegstgeest zal geen sprake 
+
+ 
+
+6 https://klimaatmonitor.databank.nl/dashboard/dashboard/woningen/. 
+
+7 https://klimaatmonitor.databank.nl/Jive. 
+
+ 
+
+ 
+
+zijn van een lineaire groei in het aantal woningen dat per jaar van het aardgas af 
+zal gaan, maar wordt, door mogelijkheden van opschaling, een snellere curve, later 
+in de tijd gezien.  
+
+ 
+
+ 
+Om in 2050 aardgasvrij te zijn, moeten we de komende jaren toewerken naar een 
+tempo van zo’n 320 aardgasvrije woningen per jaar.  
+ 
+Om comfortabel te leven én de warmtetransitie te realiseren, zullen er maatregelen 
+genomen moeten worden, zodat: 
+▪  de warmtevraag afneemt; 
+▪  de energie-infrastructuur in wijken toekomstbestendig is; 
+▪  potentiële energiebronnen worden gerealiseerd en kunnen worden benut; 
+▪  warmte tijdelijk kan worden opgeslagen, zodat de vraag naar energie en 
+het aanbod van duurzame bronnen beter op elkaar kan wordt afgestemd. 
+
+10 
+ 
+
+ 
+
+3.2  Toekomstbestendige infrastructuur 
+
+Bijna  alle  woningen  in  de  gemeente  Oegstgeest  zijn  aangesloten  op  het 
+aardgasnet.  Met  het besluit  om  de  gastoevoer  vanuit  Groningen  te  beperken  en 
+uiteindelijk  geheel  te  beëindigen,  zal  het  gebruik  van  aardgas  in  Nederland 
+uitgefaseerd  worden.  Het  is  (vooralsnog)  ook  niet  aannemelijk  dat  er  voor  2030 
+voldoende  duurzame  vormen  van  hernieuwbaar  gas,  zoals  waterstof  of  biogas, 
+beschikbaar  zullen  komen  voor  het  verwarmen van  de gebouwde omgeving  (zie 
+ook bijlage A). Het bestaande aardgasnet zal de komende jaren dus voor een groot 
+deel  vervangen  moeten  worden  door  een  alternatieve  energie-infrastructuur.  Zo 
+moet het elektriciteitsnet verzwaard worden en komen er warmtenetten in bepaalde 
+wijken.  
+ 
+De keuze voor de infrastructuur in een wijk is afhankelijk van veel factoren, zoals 
+bouwjaar,  gebouwtype,  gebouwfunctie,  bebouwingsdichtheid,  het  eigendom,  de 
+schaal en de beschikbaarheid van bronnen. De keuze voor de infrastructuur in een 
+wijk heeft invloed op: 
+▪  de  techniek  in  en  aanpassingen  aan  de  woning  die  nodig  zijn  om  de  woning 
+
+comfortabel te kunnen verwarmen;  
+
+▪  de energiebronnen, die kunnen worden ontsloten; 
+▪  de (on)mogelijkheid om warmte op te slaan; 
+▪  het tempo dat gehaald kan worden om de gebouwde omgeving aardgasvrij te 
+
+maken. 
+
+ 
+
+Het aardgasvrij maken van woningen en andere gebouwen kan met verschillende 
+technieken  en  met  verschillende  temperaturen.  De  ene  techniek  vraagt  meer 
+aanpassingen aan de gebouwen in de wijk dan de andere. We maken onderscheid 
+in collectieve oplossingen en individuele oplossingen.  
+ 
+Bij collectieve oplossingen is het een voorwaarde dat meer dan één woning, vaak 
+meerdere  gebouwen  en  soms  een  heel  gebied  op  een  bepaalde  technologie 
+overstapt. Een warmtenet is zo’n collectieve oplossing die gevoed kan worden door 
+diverse  warmtebronnen.  Individuele  oplossingen  kunnen  voor  iedere  woning  los 
+worden  toegepast.  Een  voorbeeld  van  een  individuele  oplossing  is  elektrisch 
+verwarmen  door  middel  van  een  warmtepomp  in  de  woning.  Hiervoor  is  het 
+noodzakelijk dat de woning goed geïsoleerd is. De verschillende alternatieven voor 
+aardgas verschillen in temperatuur waarmee de woning verwarmd kan worden. De 
+
+ 
+
+ 
+
+vuistregel daarbij is: hoe lager de temperatuur van de warmte waarmee je een huis 
+gaat verwarmen, hoe meer je de woning moet isoleren. Ook is het belangrijk dat 
+woningen  en  bedrijfspanden  goed  geïsoleerd  zijn,  immers  de  meest  duurzame 
+energie, is de energie die we niet verbruiken.  
+ 
+Voor het verwarmen van de gebouwde omgeving zonder aardgas kennen we vier 
+categorieën (ingedeeld op basis van type warmte-infrastructuur): 
+ 
+
+1  Warmtenetten:  netwerken  van  warm  water  waarmee  gebouwen  worden 
+verwarmd.  Het  water  in  de  warmtenetten  wordt  verwarmd  door  duurzame 
+warmtebronnen zoals bijvoorbeeld geothermie en vormen van aquathermie 
+zoals warmte uit oppervlaktewater. Ook restwarmte kan gebruikt worden om 
+warmtenetten mee te voeden. 
+ 
+
+2  Elektriciteitsnetten:  hiermee  kunnen  woningen,  vaak  met  behulp  van  een 
+warmtepomp,  elektrisch  worden  verwarmd.  Ook  het  elektriciteitsnet  zal 
+gevoed  moeten  worden  met  duurzame  bronnen.  Bij  de  opwekking  van 
+elektriciteit gaat het dan met name om zon en wind.  
+
+ 
+
+ 
+
+3  Gasnetten:  via  gasnetten  kunnen  duurzame,  hernieuwbare  gassen  als 
+
+biogas of waterstof worden vervoerd.  
+
+4  Toekomstige oplossingen: innovaties op het gebied van warmtetechnieken 
+
+kunnen op termijn zorgen voor nieuwe oplossingen. 
+
+ 
+In  de  onderstaande 
+temperatuurniveaus, inividueel/collectief en bijbehorende isolatie-opgave.  
+
+verwarmingsopties 
+
+ingedeeld  naar 
+
+figuur 
+
+zijn 
+
+8 Warmteoplossingen ingedeeld naar temperatuurniveaus en isolatie-opgave. 
+
+ 
+
+11 
+ 
+
+ 
+
+8 
+
+ 
+
+3.3  Inzet op duurzame bronnen 
+
+Bij  iedere  energie-infrastructuur  hoort  een  andere  energiedrager.  Dit  zijn 
+respectievelijk gas (gasnet), elektriciteit (elektriciteitsnet) en/of water (warmtenet). 
+De energiedragers kunnen vanuit verschillende bronnen worden gevoed. De keuze 
+voor energiebron, -drager en -infrastructuur is afhankelijk van de schaalgrootte van 
+de energievraag vanuit het vastgoed, de aanwezigheid en nabijheid van een bron 
+en de staat van de infrastructuur. 
+ 
+In de energietransitie zijn we in elk scenario en bij elke infrastructuur voorlopig nog 
+afhankelijk van fossiele bronnen. Geleidelijk zullen we eerst afscheid nemen van 
+kolen en daarna ook van aardgas. Deze uitfasering kost tijd. Bij de keuze voor een 
+nieuwe  energie-infrastructuur  is  het  van  belang  dat  er  voldoende  en  bewezen 
+alternatieven beschikbaar zijn, zodat de fossiele bronnen zo snel als mogelijk, maar 
+met  vertrouwen,  uitgefaseerd  kunnen  worden.  Belangrijk  is  dat  er  door  de  juiste 
+keuze  te  maken,  minder  fossiele  brandstoffen  nodig  zijn  en  de  afhankelijkheid 
+ervan zoveel als mogelijk beperkt wordt.  
+Bij  de  keuze  voor  een  individuele  all-electric  oplossing  zullen  warmtepompen 
+worden ingezet. Warmtepompen maken gebruik van bodemenergie, zonthermie of 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+gebruiken de buitenlucht als bron. Daarnaast gebruikt de warmtepomp elektriciteit 
+om  de  temperatuur  van  de  bron  naar  het  gewenste  niveau  te  brengen.  De 
+elektriciteit  die  benodigd  is  voor  de  inzet  van  warmtepompen  vraagt  (op  termijn) 
+dus  om  voldoende  duurzame  elektriciteitsproductie  om  een  werkelijk  duurzaam 
+alternatief  te  kunnen  zijn.  Duurzame  elektriciteit  kunnen  we  opwekken  met 
+grootschalige  zon-  en  windenergie.  Windenergie  past  het  beste  bij  het 
+elektragebruik  van  warmtepompen  omdat  in  de  koudere  periodes,  wanneer  de 
+warmtevraag het hoogste ligt, er meer elektriciteit opgewekt kan worden met wind- 
+dan met zonne-energie. Door het moment van opwek en gebruik zoveel mogelijk 
+overeen te laten komen, zal er minder behoefte aan energieopslag zijn. 
+ 
+Concluderend 
+
+Om goed voorbereid te zijn op de warmtetransitie is het van belang om: 
+▪  de warmtevraag en verwarmingstemperatuur in gebouwen te verlagen: om over 
+te  kunnen  gaan  op  alternatieven  voor  aardgas  met  lagere  temperaturen  is 
+isolatie  en  het  juiste  verwarmingssysteem  een  randvoorwaarde.  Bovendien 
+geldt: energie die niet verloren gaat, hoeft ook niet opgewekt te worden. 
+ 
+
+▪  een geschikte energie-infrastructuur te kiezen: we maken onderscheid tussen 
+de verschillende infrastructuren die in een wijk kunnen liggen om de verwarming 
+van  woningen  mogelijk  te  maken  (warmtenet,  elektriciteitsnet  en  gasnet). 
+Meerdere  netten  naast  elkaar,  maken  de  (maatschappelijke)  kosten  onnodig 
+hoog. 
+
+ 
+▪  de overstap te maken naar duurzame energiebronnen:  Bij de keuze voor een 
+nieuwe energie-infrastructuur is het van belang dat er voldoende en bewezen 
+alternatieven bronnen beschikbaar zijn of komen, zodat de fossiele bronnen zo 
+snel als mogelijk uit gefaseerd kunnen worden.  
+
+ 
+In  bijlage  A  geven  we  een  uitgebreide  beschrijving  van  de  verschillende 
+aardgasvrije  warmteoplossingen  en  de  bijbehorende  bronnen.  In  deze  bijlage 
+worden  warmtenetten,  warmtebronnen 
+(o.a.  geothermie,  aquathermie  en 
+biomassa),  all-electric,  hernieuwbaar  gas  en  toekomstige  innovaties  nader 
+toegelicht.  
+ 
+Onderstaande figuur geeft een overzicht van de warmtetransitie in een notendop. 
+Goede  organisatie  en  fasering  is  nodig  om  optimale  keuzes  te  maken  in 
+oplossingen en volgordelijkheid van stappen. 
+
+12 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4. Waar gaan we naar toe? 
+
+4.1  Beeld voor de gemeente Oegstgeest 
+
+In dit  hoofdstuk  gaan we dieper in op de kansrijke alternatieven voor  aardgas in 
+Oegstgeest, uitgesplitst naar wijkniveau. We geven aan een aantal wijken prioriteit 
+voor het met de inwoners samen opstellen van een wijkuitvoeringsplan. Daarbij is 
+gekozen voor wijken die of een lange doorlooptijd hebben omdat het bijvoorbeeld 
+individuele all-electric oplossingen betreft of wijken die op de korte tot middellange 
+termijn theoretisch de grootste slaagkans hebben gebaseerd op de combinatie van 
+laagste maatschappelijke kosten en beschikbaarheid van warmtealternatieven.  
+ 
+De  analyses  die  ten  grondslag  liggen  aan  deze  TVW  zijn  op  verschillende 
+momenten  gemaakt  en  gebaseerd  op  verschillende  modellen.  In  2018  hebben 
+APPM  en  CE  Delft  een  voorzet  voor  de  warmtevisie  gemaakt  waarbij  de 
+mogelijkheden voor de gemeente Oegstgeest zijn onderzocht en een voorstel voor 
+een  wijkselectie  is  gemaakt.  Ook  heeft  Over  Morgen  eerder  in  opdracht  van  de 
+provincie Zuid-Holland voor de gehele provincie een analyse gemaakt aan de hand 
+van  een  warmte  transitie  atlas.  Deze  analyses  zijn  nu  gevalideerd  met  het 
+Warmtetransitiemodel (WTM) van Over Morgen.  
+ 
+Het WTM is een ruimtelijk model dat gebaseerd is op GIS en dat inzicht geeft in de 
+mogelijkheden  voor  een  aardgasvrije  gebouwde  omgeving.  Het  WTM  weegt  de 
+verschillende  warmteopties  op  basis  van  de 
+laagste  maatschappelijke 
+transitiekosten per buurt of wijk, en op basis van vastgoedkenmerken. Zo worden 
+wijken  of  buurten,  die  kansrijk  zijn  voor  het  starten  van  een  collectieve 
+warmtevoorziening in een gebied (potentie-eilanden), geselecteerd. We focussen 
+op bewezen oplossingen op basis van de huidige stand der techniek, waarbij ook 
+ingegaan  wordt  op  de  innovaties  die  nodig  zijn  om  deze  technieken  breed 
+toepasbaar te maken. In bijlagen B, C en D is desgewenst meer toelichting op het 
+model  te  vinden.    We  hebben  eerst  geanalyseerd  welk  aardgasvrij  systeem  het 
+beste past bij de kenmerken van het vastgoed in Oegstgeest, zoals de leeftijd van 
+gebouwen,  de  mate  van  isolatie  en  de  mate  van  dichtheid  van  de  bebouwing 
+(gestapeld  of  grondgebonden).  Vervolgens  hebben  we  gekeken  welke  bronnen 
+beschikbaar zijn om de systemen te voeden en waar deze ingezet kunnen worden. 
+Zo zijn we gekomen tot een mogelijke invulling van een  aardgasvrij  Oegstgeest. 
+Daarbij  wijken we  niet in grote  mate af van  de  eerder  gemaakte wijkindeling,  en 
+voelen we ons gesterkt door de validatie en aanvullende toepassing met het WTM.  
+ 
+
+13 
+ 
+
+ 
+
+Onderstaande warmtekaart (figuur) laat per wijk de alternatieve warmteopties zien 
+op basis van de voorzet warmtevisie van CE Delft en APPM en een nieuwe analyse 
+met  het  Warmte  Transitie  Model,  met  kennis  van  de  stand  der  techniek  van 
+vandaag  en  met  de  input  vanuit  de  projectgroep  ten  aanzien  van  bestaande 
+wijkinitiatieven,  of  andere  relevante  zaken  die  betrekking  hebben  op  de  transitie 
+van een wijk. De kaart werkt op basis van waarschijnlijkheid. Voor de wijken die het 
+meest duidelijk inkleuren kan met de grootste zekerheid de voorkeurs-warmteoptie 
+worden vastgesteld. Het is uiteraard mogelijk dat op basis van nieuwe inzichten en 
+innovaties  het  eindresultaat  van  de  warmtetransitie  er  uiteindelijk  anders  uit  zal 
+zien. Dit beeld is daarom niet in beton gegoten en zal minimaal eens in de vijf jaar 
+moeten worden herijkt. De kaart geeft wel een duidelijke richting weer en laat zien 
+waar de keuze voor een aardgasvrij alternatief het meest zeker is. We starten op 
+de plekken waar die zekerheid het grootst is.  
+ 
+We  kiezen  in  de  warmtetransitie  voor  een  gebiedsgerichte  aanpak,  dus  wijken, 
+combinaties  van  wijken  of  juist  delen  van  wijken,  staan  centraal.  Dit  betekent 
+natuurlijk  niet  dat  de  aanpak  ophoudt  bij  de  grens  van  een  wijk,  of  dat  een 
+bewonersinitiatief  altijd  maar  in  één  wijk  mag  plaatsvinden.  De  wijkgrenzen  zijn 
+daarom ook niet beperkend. Ze kunnen wel helpen om richting te geven en gebruikt 
+worden om de communicatie en een nadere verkenning van de mogelijkheden te 
+starten. 
+ 
+We  zullen  de  komende  tijd  starten  met  een  aantal  pilots  energiebesparing  op 
+straatniveau. Daarbij gaan we actief met een aantal bewoners aan de slag met no-
+regret isolatiemaatregelen. Het doel van deze pilots is om te onderzoeken hoe we 
+bewoners het beste kunnen ondersteunen en waar bepaalde knelpunten zitten in 
+het zetten van stappen richting een aardgasvrije omgeving. De resultaten van deze 
+pilots  zullen  we  gebruiken  om  daarna  op  grotere  schaal  wijkgerichte  aanpakken 
+vorm te geven.  
+ 
+Waar we starten met de warmtetransitie, is een samenspel van de warmtekaart en 
+de ontwikkelingen die gaande zijn in de gemeente en bij de betrokken stakeholders. 
+We  gaan  eerst  in  op  de  criteria  die  zijn  vastgelegd  met  de  stakeholders  om  te 
+bepalen in welke wijken we starten. Vervolgens bespreken we de resultaten van 
+de warmtekaart en de keuze voor wijken aan de hand van de criteria. 
+
+ 
+
+ 
+
+9 Overzicht van de meest waarschijnlijke warmteoplossing per wijk. 
+
+ 
+
+14 
+ 
+
+ 
+
+4.2  Criteria wijkselectie 
+
+We kunnen niet  heel  Oegstgeest  in één keer  aardgasvrij  maken.  Dat is  ook  niet 
+nodig, want we hebben tot 2050 de tijd. Wel willen we starten op de plekken waar 
+aan de slag gaan op dit moment al kansrijk is. Daarom hebben we samen met de 
+stakeholders wijken geselecteerd die wij als kansrijk zien om in de periode tot 2030 
+aan de slag te gaan. In deze wijken willen we de komende jaren, gefaseerd, starten 
+met de warmtetransitie.  We laten zien in welke wijken al op korte termijn  gestart 
+worden en koppelen dit aan het soort oplossing en een jaartal met een planning tot 
+en met 2030.  
+ 
+Samen met de betrokken stakeholders hebben we gesteld dat een wijk kansrijk is 
+om op korte termijn aardgasvrij te worden, wanneer er tenminste sprake is van één 
+van de onderstaande criteria:   
+ 
+Een  betaalbaar  alternatief.  We  kiezen  voor 
+technisch  haalbare 
+warmteoplossingen  tegen  redelijke kosten.  Waarbij  we proberen  te starten  in  de 
+wijken  waar  de  maatschappelijke  kosten  voor  het  overstappen  naar  één  van  de 
+alternatieven voor aardgas, nu het laagst zijn. We geven daarom aandacht aan de 
+laagste maatschappelijke kosten. Op die manier houden we de warmtetransitie zo 
+betaalbaar mogelijk voor iedereen.  
+ 
+Natuurlijke vervangingsmomenten  doordat er bijvoorbeeld verhuisd 
+wordt  in  wijken  en  een  nieuwe  generatie  bewoners  de  woningen  mogelijk  gaat 
+aanpassen. Ook woningen waarbij bijvoorbeeld de CV-ketel aan vervanging toe is, 
+of  er  een  andere  aanpassing  of  verbouwing  plaatsvindt  die  invloed  op  de 
+energiehuishouding, zijn natuurlijke momenten.  
+ 
+Schaal.  Daar  waar  schaalgrootte  is,  bijvoorbeeld  door  een  hoog  percentage 
+corporatiebezit  in  een  wijk,  of  door  een  andere  hoge  mate  van  uniformiteit 
+(bouwjaar, energielabel) in het vastgoed, en/of grotere vastgoedeigenaren stappen 
+kunnen of willen zetten in de warmtetransitie, kan momentum worden gevonden. 
+ 
+
+ 
+
+9 
+
+ 
+
+ 
+
+Draagvlak.  We  willen  aanwezige  koplopers  bij  iedereen  onder  de  aandacht 
+brengen  en  gemotiveerde  inwoners  belonen.  Draagvlak  ontstaat  bijvoorbeeld 
+onder  bewoners  omdat  er  een  bewonersinitiatief  actief  is.  Ambitie  vanuit  de 
+samenleving versterkt een bredere acceptatie van de warmtetransitie en motiveert 
+andere inwoners om ook mee te doen. 
+
+ 
+Koppelkansen.  We  proberen  werk  met  werk  maken.  We  zijn  bereid  om 
+planningen  ten  aanzien  van  grootschalig  onderhoud  als  leidingvervanging, 
+verleggingskosten,  maar  ook  andere  opgaven  als 
+klimaatadaptatie, 
+stadsvernieuwingsplanningen en het aanpakken van de drukte in de ondergrond, 
+te  herzien  en  werkzaamheden  af  te  stemmen.  Het  afstemmen  van  al  deze 
+planningen zorgt ervoor dat waar mogelijk onnodige investeringen en overlast voor 
+bewoners  worden  voorkomen  en  kan  daarmee  deels  het  tempo  van  de 
+warmtetransitie bepalen. Daar waar koppelkansen niet mogelijk zijn zal draagvlak 
+onder bewoners worden meewogen in de keuze daar toch aan de slag te gaan. 
+    
+De  aanwezigheid  van  een  duurzame bron.  Indien  er  reeds  een 
+duurzame bron in de nabijheid aanwezig is, of op de korte termijn beschikbaar zal 
+komen,  biedt dit extra reden om  deze te benutten. Ook wijken aangrenzend aan 
+een (toekomstig) warmtenet worden gezien als kansrijk om op termijn ook aan te 
+sluiten. De keuze voor een warmte-infrastructuur in de wijken moet overeenkomen 
+met  de  bronnen  om  die  infrastructuur  (in  de  toekomst)  te  voeden  en  de 
+verwarmingstemperatuur die past bij de bronnen.  
+ 
+
+4.3  Prioritering en startwijken 
+
+De  Rijksoverheid  heeft  ter  doel  gesteld  om  in  2030  1,5  miljoen  woning  van  het 
+aardgas  af  te  hebben  gehaald.  Ook  de  woningen  die  we  in  Oegstgeest  kunnen 
+bewegen tot  een overstap, tellen  mee naar dit totaal. De TVW dient als leidraad 
+voor een toekomstige aardgasvrije omgeving. Onderdeel van deze leidraad is ook 
+dat  we  niet  alleen kijken  naar  de  loskoppeling  van  wijken  van  het  aardgas  maar 
+ook tussentijds al focussen op CO2 besparing door middel van isolatie en andere 
+tussentijdse maatregelen.  
+ 
+Samen  met  de  stakeholders  in  de  projectgroep  hebben  wij  op  basis  van  de 
+uitkomsten van het WTM en de bovenstaande selectiecriteria een keuze gemaakt 
+
+15 
+ 
+
+ 
+
+voor de wijken die we als kansrijk zien om de komende periode mee aan de slag 
+te gaan. De overige wijken komen pas na 2030 aan bod. De wijkprioritering en de 
+bijbehorende warmteoplossingen die we beschrijven geven een voorkeursrichting 
+aan waar we ons gezamenlijk voor in willen zetten om zo de warmtetransitie voor 
+iedereen betaalbaar en uitvoerbaar te kunnen houden.  
+ 
+Door de combinatie van de data-analyse met de wijkcriteria zijn we uitgekomen op 
+de onderstaande volgorde om wijken mee te nemen in de warmtetransitie: 
+ 
+
+ 
+
+   Wijken 
+Nieuw Rhijngeest 
+(Rijnfront) 
+
+  Aanpak 
+Individuele all-electric 
+oplossing 
+
+  Omvang 
++/- 785 woningen  2022-
+2050 
+
+  Periode 
+
+Bloemenbuurt 
+
+Collectieve warmte 
+
++/- 1800 
+woningen 
+
+2025 -
+2030 
+
+Morsebel 
+
+Individuele all-electric 
+oplossing 
+
++/- 337 woningen  2025 -
+2050 
+
+Haaswijk Oost en West  Collectieve warmte, 
+
+Voscuyl 
+
+retourleiding van HT net 
+uit andere wijk 
+Collectieve warmte 
+
+Oranje Nassau 
+
+Collectieve warmte 
+
++/- 2200 
+woningen  
+
++/- 1700 
+woningen 
+
++/- 1900 
+woningen 
+
+2030 - 
+2035 
+
+2035 - 
+2040 
+
+2040 - 
+2045 
+
+Rhijngeest 
+
+Buitenlust 
+
+Collectieve 
+warmte/Individuele all-
+electric oplossing voor 
+recente woningen 
+Collectieve warmte 
+
++/- 269 woningen  2045 - 
+
+2050 
+
++/- 355 woningen  2045 - 
+
+Oudenhof 
+
+Collectieve warmte  
+
++/- 1200 
+woningen 
+
+2050 
+
+2045 - 
+2050 
+
+ 
+
+ 
+
+Poelgeest10 
+
+Collectief warmtenet 
+
++/- 1050 
+woningen 
+
+ 
+Uit de bovenstaande lijst zullen we de  eerste vier wijken aanwijzen als startwijken.  
+Dit  betekent dat  we  hier  samen  met  de  betrokken  stakeholders  in gesprek  gaan 
+met  inwoners  en  gaan  beginnen  met  het  maken  van  wijkuitvoeringsplannen.  Dit 
+doen  we  door  bijvoorbeeld  het  uitvoeren  van  een  haalbaarheidsstudie  om  de 
+kansen  voor  het  aardgasvrij  maken  van  woningen  en  ander  vastgoed in die wijk 
+verder te verkennen.  
+
+ 
+4.3.1 Wijk 1: Nieuw Rhijngeest (Rijnfront), start in 2022 
+
+• Bouwperiode na 2006
+• Grotendeels gasloze 
+
+nieuwbouw
+
+• Bouwjaar overige 
+
+woningen indicatief voor 
+individuele oplossing
+
+• Individuele all-electric 
+
+oplossing
+
+• Particuliere 
+
+woningeigenaren
+
+• 8% woningcorporatie
+
+• Actieve 
+
+bewonersvereniging 
+aanwezig: 
+Bewonersvereniging 
+Oegstgeest aan de Rijn
+
+2050 
+
+Opties en aandachtpunten voor deze wijk 
+
+-  Er is een klein deel (8%) corporatiebezit aanwezig in de wijk. 
+-  Het gros van de woningen heeft vanuit de bouw geen gasaansluiting meer, 
+
+er is echter een klein deel dat dat nog wel heeft. 
+
+-  Gezien de individuele oplossing moet rekening worden gehouden met een 
+
+langere doorlooptijd ten opzichte van een collectieve oplossing. 
+
+-  Er  zal  met  Liander  moeten  worden gecoördineerd of  verzwaring  van het 
+elektriciteitsnet noodzakelijk is om de elektriciteitsvraag van de additionele 
+woningen aan te kunnen. 
+
+ 
+ 
+4.3.2 Wijk 2: Bloemenbuurt, start in 2025 
+
+• Bouwperiode 1950-1975
+• Corporatiebezit als 
+
+startmotor 
+
+• Gestapelde woningen
+• Potentieel 1.400 
+
+woningen
+
+ 
+
+• In basis collectief 
+
+warmtenet (Leiden, of 
+vanuit Den Haag?)
+
+• Door organiseren vraag 
+kan hiermee de afstand 
+tot bestaand warmtenet 
+worden overbrugd 
+• Eerst voeden met 
+
+transitiebron
+
+• Particuliere 
+
+woningeigenaren
+
+• Woningstichting Mooiland, 
+
+Meerwonen
+
+• Inzetten / aanvragen 
+
+BZK-wijk
+
+Eigenschappen
+
+Kansrijke techniek
+
+Wie?
+
+Overig
+
+Eigenschappen
+
+Kansrijke techniek
+
+Wie?
+
+Overig
+
+ 
+Wat maakt deze wijk kansrijk? 
+
+  Criterium 
+1  Een betaalbaar 
+
+alternatief 
+
+2  Schaal 
+
+ 
+
+Toelichting 
+Het  gros  van  de  woningen  in  deze  wijk  zijn 
+gebouwd na 2006. Een groot deel heeft vanuit de 
+bouw  ook  geen gasaansluiting.  De  isolatiegraad 
+van  de  woningen  op  basis  van  het  bouwjaar  is 
+indicatief  voor  een 
+individuele  all-electric 
+oplossing  voor  die  huizen  die  nog  een 
+gasaansluiting hebben.  
+Dit  is  een redelijk  homogene  buurt  in de  zin dat 
+de  huizen  veelal 
+in  dezelfde  periode  zijn 
+gebouwd.  Er  is  nog  een  klein  aantal  huizen  dat 
+beschikt over een gasaansluiting.   
+
+10 De woningen in Poelgeest zijn al aangesloten op een collectief warmtenet. 
+
+ 
+
+16 
+ 
+
+ 
+
+ 
+ 
+Wat maakt deze wijk kansrijk? 
+
+ 
+
+  Criterium 
+1  Een betaalbaar 
+
+alternatief 
+
+2  Schaal 
+
+Toelichting 
+De maatschappelijke  kosten voor een collectieve 
+warmteoplossing liggen in de Bloemenbuurt naar 
+verwachting  10-30% 
+lager  dan  de  andere 
+alternatieven.  
+De  Bloemenbuurt  zou  in  aanmerking  kunnen 
+komen voor een proeftuin subsidie. 
+De  aanwezigheid  van  corporatiebezit  (23%) 
+maakt  het  mogelijk  om 
+in  een  keer  een 
+woningblok aan te sluiten op een warmtenet om 
+daarmee  de  benodigde  schaal  te  realiseren  om 
+
+ 
+
+ 
+
+3  De aanwezigheid van 
+
+een duurzame bron 
+
+kosteneffectief de aanpassingen te kunnen doen 
+en het warmtenet te kunnen financieren.  
+De  Bloemenbuurt  kenmerkt  zich  door  een,  voor 
+Oegstgeest,  hoge  dichtheid  aan  gestapelde 
+woningbouw. Dit gebied is interessant, aangezien 
+de warmtevraag voldoende dicht bij elkaar ligt om 
+een  business  case  voor  een  lokaal  warmtenet 
+financieel haalbaar te maken.  
+Dit  lokale  warmtenet  kan  op  termijn  worden 
+aangesloten  op  de  hoofdinfrastructuur  van  het 
+warmtenet van Leiden, of de mogelijkheden voor 
+een  warmteleiding  die  vanuit  Den  Haag  worden 
+onderzocht.  
+
+ 
+ 
+Opties en aandachtpunten voor deze wijk 
+
+-  Er 
+
+is  een  galerijflat  met  een  hoge  warmtevraag  die  met  grote 
+waarschijnlijkheid  voorzien  is  van  blokverwarming.  De  potentie  voor  een 
+collectieve warmteoplossing is bij daarom in deze wijk groot. 
+
+-  Rioleringswerkzaamheden zijn recent uitgevoerd. Inwoners zullen minder 
+
+welwillend tegenover nieuwe werkzaamheden in het straatbeeld staan. 
+
+-  Beperkte  investeringsmogelijkheden  van  de  bewoners  en  door  de 
+projectgroep  zijn  uitdagingen  op  het  gebied  van  communicatie 
+gesignaleerd. 
+
+-  Een  aansluiting  op  een  hoge  of  midden 
+
+temperatuur  warmtenet, 
+gecombineerd  met  een  minimaal  of  basis  pakket  aan  isolerende 
+maatregelen 
+kosteneffectieve 
+warmteoplossing.  
+
+is  maatschappelijk 
+
+de  meest 
+
+-  De wijk ligt op enige afstand tot de hoofdinfrastructuur van het bestaande 
+warmtenet.  De  mogelijkheden  voor  een  warmteleiding  vanuit  Den  Haag 
+bevinden zich nog in de onderzoekfase. Er kan eventueel gestart worden 
+met een tijdelijke wijkwarmtecentrale die gestookt wordt op aardgas, mits 
+afgesproken  wordt  dat  deze  op  termijn  vervangen  zal  worden  door  een 
+duurzame bron.  
+
+ 
+
+ 
+
+17 
+ 
+
+ 
+
+4.3.3 Wijk 3: Morsebel, start in 2025 
+
+• Bouwperiode >1990 en 
+
+daarmee met de laagste 
+investeringen en 
+maatschappelijke kosten 
+aardgasvrij te maken.
+
+• In basis all-electric
+gebaseerd op een 
+individuele warmtepomp 
+en (gedeelde) 
+bodemlussen
+
+• Collectief bodemsysteem 
+
+icm. aquathermie
+(Klinkerbergerplas)
+
+• Retour WN Haaswijk, dan 
+
+start 2026?
+
+ 
+
+•
+
+•
+
+Particuliere 
+woningeigenaren
+Energiek Poelgeest 
+betrekken als 
+voorbeeld
+
+•
+
+•
+
+Koppelkans verkenning 
+warmte uit water 
+Poelgeest, leren van 
+Energiek Poelgeest
+Ruimtelijke reservering 
+MS-net (Liander)
+
+Eigenschappen
+
+Kansrijke techniek
+
+Wie?
+
+Overig
+
+ 
+
+ 
+
+ 
+Wat maakt deze wijk kansrijk? 
+
+Criterium 
+
+ 
+1  Een betaalbaar 
+
+alternatief 
+
+2  Natuurlijke 
+
+vervangingsmomenten 
+
+Toelichting 
+De 
+investeringen  voor  een  overgang  naar 
+aardgasvrij liggen in deze wijk het laagst vanwege 
+de 
+recente  bouw  en  daarmee  een  hoog 
+gemiddeld  isolatieniveau.  De  maatschappelijke 
+kosten  in  Morsebel  voor  all-electric  maatregelen 
+liggen 10% tot meer dan 30% lager dan de kosten 
+voor  een  van  de  andere  alternatieven.  Middels 
+een  aanpak  bedoeld  voor  de  woningen  met  de 
+laagste start- en de laagste totale kosten, kan nu 
+een begin worden gemaakt met een aardgasvrije 
+warmteoplossing.  
+Vanwege  de  leeftijd  van  het  vastgoed  zullen 
+natuurlijke  momenten  zich  voordoen  door 
+bijvoorbeeld  vervanging  van  CV-ketels  bij 
+particuliere  eigenaren.  Er  hoeven  relatief  weinig 
+aanvullende maatregelen genomen te worden in 
+deze  woningen  om  verwarming  met  een  all-
+electric  oplossing  mogelijk  te  maken.  Mogelijk 
+moeten  wel  de  afgiftesystemen  (radiotoren) 
+vervangen  worden  voor 
+temperatuur 
+afgiftesystemen. Door combinatie te zoeken met 
+natuurlijke renovatiemomenten worden de initiële 
+investeringen beperkt. 
+
+lage 
+
+ 
+
+ 
+
+3  Schaal 
+
+ 
+
+Ook  vanuit  het  aanwezige  corporatie  vastgoed 
+kan  een  stimulans  tot  verduurzaming  worden 
+gegeven binnen de wijk. 
+
+Wat maakt deze wijk kansrijk? 
+
+Criterium 
+
+ 
+1  Een betaalbaar 
+
+alternatief 
+
+2  Schaal 
+
+3  Koppelkansen 
+
+4  De aanwezigheid van 
+
+een duurzame bron 
+
+Opties en aandachtpunten voor deze wijk 
+
+-  Verduurzaming via natuurlijke momenten bij particuliere eigenaren is een 
+langdurig traject waar voldoende tijd voor gereserveerd  moet worden. Via 
+transitiegereed kan worden toegewerkt naar aardgasvrij. Een gefaseerde 
+aanpak ligt voor de hand en om die reden is een doorlooptijd aangehouden 
+van 20 jaar waarbinnen iedere woning een natuurlijk renovatiemoment zal 
+meemaken mbt. een CV-ketelvervanging of woningverbetering. 
+
+-  Gemiddeld  is  een  individuele  all-electric  warmteoplossing  het  meest 
+kosteneffectief  voor  de  Morsebel.  Als  er  echter  voldoende  warmtevraag 
+(denk aan 200 woningen) geconcentreerd en in één periode ontsloten kan 
+worden,  zijn  kleinschalige  initiatieven  o.b.v.  een  wijkwarmtepomp  ook 
+haalbaar.  Mocht  er  door  bewoners  een  initiatief  tot  collectiviteit  worden 
+gevormd, wordt aanbevolen om deze optie mee te wegen.  
+
+-  Meerdere  woningen  kunnen  ook  samen  een  bodemsysteem  delen  of 
+gezamenlijk  aanbesteden.  Dit  zal  een  positieve  impact  hebben  op  de 
+kosten  alsook  op  de  mogelijkheid  om  professioneel  advies  in  te  kunnen 
+winnen bij de voorbereiding van dergelijke systemen.  
+
+-  Er  zal  bij  Liander  moeten  worden  nagevraagd  of verzwaring  van het  net 
+noodzakelijk is om deze woningen in elektriciteitsvraag te kunnen voorzien 
+en wanneer die verzwaring zou kunnen plaatsvinden. 
+
+ 
+
+ 
+
+4.3.4 Wijk 4: Haaswijk Oost en West, start in 2030 
+
+• Bouwperiode 1975-1990
+• Corporatiebezit als 
+
+startmotor  (25%)
+
+• Geplande riolering 
+
+vervanging (Oost)
+
+• Energietransitiegereed 
+maken initieel kostbaar
+• 800 + 1.300 woningen
+• Panden met collectieve 
+
+ketels als startmotor
+
+•
+
+•
+
+In basis collectieve MT 
+warmtenet (eventueel 
+retour Oudenhof)
+Eventueel 
+bodemenergie 
+aangevuld met 
+aquathermie (kanaal)
+
+• Particuliere 
+
+woningeigenaren
+
+• Woningstichting Mooiland, 
+
+Meerwonen en DuWo
+
+•
+
+•
+
+•
+
+•
+
+AIternatief naar 
+aardgasloos middels 
+het transitie 
+gereedmaken (70 
+graden ready) van de 
+woningen
+Kostenvoordeel inkoop 
+corporaties
+Let op: Ruimtelijk 
+inpassing MS-ruimten
+Royal Flora Holland als 
+potentiële bron
+
+Eigenschappen
+
+Kansrijke techniek
+
+Wie?
+
+Overig
+
+ 
+
+18 
+ 
+
+ 
+
+kan 
+
+onderzocht  worden 
+
+Toelichting 
+De gasinfrastructuur is voor 80% afgeschreven. 
+De maatschappelijke kosten voor een collectieve 
+warmteoplossing  liggen  naar  verwachting  10-
+30% lager dan de andere alternatieven. 
+Het aandeel corporatiebezit is geconcentreerd en 
+ligt  op  25%  en  kan  daarmee  als  startmotor 
+fungeren  om  de  benodigde  schaal  realiseren. 
+Gelijktijdig 
+hoe 
+particulieren hierin mee kunnen doen. 
+In  Haaswijk  West  en  Oost  is  een  koppelkans  te 
+vinden  met  de  rioleringsvervangingen.  Door  het 
+organiseren  van  afstemming  en  samenloop  in 
+werkzaamheden kan overlast worden beperkt en 
+kunnen mogelijk kosten worden bespaard. 
+Een  mogelijkheid 
+is  cascadering  van  hoge 
+temperatuur  net  vanuit  Oudenhof  naar  midden 
+temperatuur in Haaswijk. Met Flora Holland is er 
+een  mogelijke  duurzame  bron  in  de  nabijheid. 
+Ook  kan  het  nabijgelegen  kanaal  onderzocht 
+worden als duurzame bron.  
+
+ 
+ 
+Opties en aandachtpunten voor deze wijk 
+
+tot  verregaand 
+
+-  Haaswijk kenmerkt zich door een groot aantal vergelijkbare woningen die 
+een  basis 
+isolatiemaatregelenpakket  nodig  hebben 
+alvorens  met  een  midden  temperatuur  kan  worden  verwarmd.  Door  een 
+focus op een collectieve warmtevoorziening waarmee een hogere (>70°C) 
+temperatuur  kan  worden  gerealiseerd,  kan  op  de  totale  kosten  worden 
+bespaard.  
+
+-  Als alternatief kunnen de mogelijkheden van een wijkwarmtepomp verder 
+worden  onderzocht  (eventueel  aangevuld  met  aquathermie  vanuit  het 
+naastgelegen kanaal als bron).  
+
+ 
+De  wijkprioritering  en  de  bijbehorende  warmteoplossingen  die  we  beschrijven 
+geven de voorkeursrichting aan waar we ons gezamenlijk voor in willen zetten om 
+
+ 
+
+ 
+
+zo de warmtetransitie voor iedereen betaalbaar en uitvoerbaar te kunnen houden. 
+Het jaar dat is aangeduid om te starten, betekent dat we met de voorbereidingen 
+gaan beginnen om toe te werken naar wonen zonder aardgas, niet dat in dat jaar 
+de overstap naar aardgasvrij al gemaakt zal worden. Starten betekent in dit geval 
+samen met de belangrijke stakeholders in de wijk beginnen met het uitvoeren van 
+een  haalbaarheidsstudie  of  het  opstellen  van  wijkuitvoeringsplannen  om  de 
+mogelijkheden voor het aardgasvrij maken van woningen en ander vastgoed in die 
+wijk verder te verkennen. Bewoners in de wijk worden daarbij betrokken.  
+ 
+
+4.3.5 Overige wijken en gemeentebreed 
+
+We kunnen niet overal tegelijk beginnen. De gestelde criteria helpen om te 
+selecteren waar en wanneer het beste moment is om aan de slag te gaan met het 
+creëren van een aardgasvrije samenleving. Voor wijken waar het technisch en 
+tegen lagere maatschappelijke kosten  haalbaar is om eerder dan de op blz. 15 
+en 16 vermelde prioritering over te gaan op een duurzamere levering van warmte, 
+medewerking vanuit de gemeente te verlenen om dit te bereiken. De 
+bijbehorende maatschappelijke kosten en baten spelen daar een grote rol in 
+omdat we niet willen starten daar waar de transitie het meest kostbaar is of waar 
+het nu nog de vraag is wat technisch haalbaar is. Het totale proces naar een 
+aardgasvrije wijk kan vijf à tien jaar en soms zelfs langer duren afhankelijk van de 
+complexiteit en de daaraan gekoppelde benodigde acties en investeringen en de 
+grootte van het gebied. Deze visie gaat daarom uit van wat we op dit moment 
+weten. Hoe meer geïsoleerd moet worden voordat een aardgasvrije technologie 
+kan worden toegepast, hoe langer het over het algemeen zal duren voordat de 
+wijk aardgasvrij kan zijn. De complexiteit kan ook toenemen als er in een wijk veel  
+verschillende vastgoedeigenaren aanwezig zijn, die allemaal op een voor hen 
+natuurlijk moment in hun woning willen investeren. Dit is ook voor Oegstgeest een 
+specifiek aandachtspunt omdat hier (verhoudingsgewijs met andere gemeenten) 
+een groot aandeel particulier bezit aanwezig is.  
+ 
+Waar we starten met de warmtetransitie, is een samenspel van de warmtekaart en 
+de  ontwikkelingen  die  lopen  bij  de  gemeente  en  betrokken  stakeholders  (denk 
+bijvoorbeeld aan herstructureringsplannen of geplande investeringen).  
+
+ 
+
+4.4  Financiën  
+
+De  oplossingen  om  woningen  aardgasvrij  te  maken  zijn  niet  kosteloos.  De 
+warmtetransitie  is  een  ingrijpend  proces  waarbij  geïnvesteerd  moet  worden.  
+Investeringen  in  gebouw,  infrastructuur  en  bronnen  moeten  door  stakeholders 
+
+19 
+ 
+
+ 
+
+worden gedragen. Hoe die kosten verdeeld worden en hoe we ervoor zorgen dat 
+de transitie naar aardgasvrij voor iedereen betaalbaar is, zijn vraagstukken die voor 
+
+Innovaties en de Transitievisie Warmte 
+ 
+Deze visie gaat uit van wat we op dit moment weten. Het idee is om de TVW 
+minimaal eens in de vijf jaar te herijken, want de techniek ontwikkelt zich 
+razendsnel. Er zijn diverse veelbelovende innovaties die in de toekomst een 
+belangrijke rol kunnen gaan spelen in de warmtetransitie. Allereerst worden 
+we steeds beter in het isoleren van onze woningen en komen er steeds betere 
+materialen beschikbaar waarmee ook moeilijker te isoleren huizen aan bod 
+komen. Daarnaast valt te denken aan hoge temperatuur warmtepompen. 
+Vanwege de hogere temperatuur is minder isolatie nodig om de woning 
+comfortabel te verwarmen. En we zien nu al dat naast de buitenlucht en 
+warmte uit de bodem, ook zonthermie als bron voor warmtepompen ingezet 
+kan worden. Ook zien we nieuwe duurzame bronnen voor warmtenetten in 
+opkomst. Thermische energie uit drinkwater en uit asfalt zijn hier voorbeelden 
+van. En ook geothermie (aardwarmte) lijkt een kansrijke bron te gaan worden 
+in onze regio waarmee een deel van de warmtevraag kan worden 
+opgevangen. En hoewel waterstof nu nog schaars is en van aardgas wordt 
+gemaakt, zou deze energiedrager in de toekomst (naar verwachting na 2030) 
+mogelijk inzetbaar kunnen zijn in monumentale panden of oudere panden 
+zonder spouwmuur. De innovatie van opslagsystemen ligt ook in het 
+verschiet, wat noodzakelijk is voor het opslaan van elektriciteit en warmte. Om 
+te zorgen dat we in de huidige versie van de Transitievisie Warmte geen 
+keuzes maken waar we later spijt van krijgen, maken we keuzes voor 
+infrastructuur in de gebouwde omgeving in plaats een keuze voor specifieke 
+systemen en bronnen.  
+ 
+ 
+
+een groot deel op landelijk niveau moeten worden opgelost. Zo wordt verwacht dat 
+opschaling, innovatie en een grotere mate van efficiëntie tot kostenreductie zullen 
+leiden.  Daarnaast  wordt  onderzocht  hoe  beprijzing  ingezet  kan  worden  door 
+energiebelasting  aan  te  passen,  hoe  door  aantrekkelijke  financieringsvormen 
+investeringen mogelijk gemaakt kunnen worden, hoe subsidie efficiënt ingezet kan 
+worden om een blijvende onrendabele top te dekken.  
+ 
+Het instrumentarium wat voor deze visie is toegepast, biedt kaders voor de transitie 
+en geeft aan welke warmte-infrastructuur in welke wijk het meest voor de hand ligt, 
+op basis van de laagste maatschappelijke kosten. Daarmee kunnen we op kleine 
+
+ 
+
+ 
+
+schaal starten en leren door als vervolg op deze TVW voor elk van kansrijke wijken 
+de  kosten  en  onrendabele  top  (het  deel  van  de  investering  dat  niet  kan  worden 
+terugverdiend  met  de  inkomsten  en  besparingen  van  de  investering)  in  kaart  te 
+brengen.  
+ 
+De gemeente vindt het belangrijk dat iedereen mee kan doen met de transitie naar 
+aardgasvrij.  In  het  Nationaal  Klimaatakkoord  is  bovendien  aangegeven  dat  de 
+transitie woonlastenneutraal moet zijn. Een eerste stap in het nastreven van deze 
+regionale  en  landelijke  uitgangspunten  is  om  inzicht  te  krijgen  in  de  verwachte 
+kosten en baten van de transitie naar aardgasvrij, voor de gemeente in zijn geheel 
+en voor verschillende stakeholders. 
+
+ 
+De investeringen voor de warmtetransitie bestaan voor woningen uit de volgende 
+drie onderdelen: 
+▪  Aanpassingen om een woning transitiegereed te maken:  
+
+> 
+
+isolatie,  ventilatie,  kierdichting,  elektrisch  koken  en  het  vervangen  van 
+radiatoren  
+
+>  kosten  voor  het  vervangen  van  de  aardgasketel  door  een  alternatieve 
+warmtevoorziening, inclusief het afsluiten van  de  aardgasaansluiting.  Voor 
+all-electric  betekent  dit  de  overstap  naar  een  warmtepomp  en  ook  de 
+bijbehorende elektriciteitsrekening 
+
+>  Duurzame  energieopwek  bijvoorbeeld  door  middel  van  zonnepanelen  op 
+
+daken 
+
+ 
+▪  Wijzigingen aan de energie-infrastructuur:  
+
+>  Elektriciteitsnet:  als  gevolg  van  de  toename  in  vermogensvraag  door 
+elektrisch koken en eventuele toepassing van warmtepompen is er een kans 
+dat het elektriciteitsnet verzwaard moet worden  
+
+>  Warmtenet:  dit  houdt  in  de  aanleg  van  de  hoofdleiding  naar  de  wijk,  de 
+wijkinfrastructuur en regelstations en het aansluiten van de woning inclusief 
+het  plaatsen  van  een  warmte-afleverset.  Deze  investeringen  kunnen  sterk 
+verschillen  per  wijk  en  zijn  voor  een  groot  deel  afhankelijk  van  het  type 
+bebouwing en de dichtheid van de bebouwing. Voor het aansluiten van een 
+woning  vraagt  een  warmtebedrijf  een  Bijdrage  Aansluitkosten  (BAK).  De 
+BAK is de sluitpost voor de bedrijfsvoering van een warmtebedrijf. Een klein 
+deel    wordt  over  de looptijd van  de  warmtelevering terugverdiend  door  de 
+inkomsten uit de exploitatie. Als een warmtebedrijf meer infrastructuur moet 
+
+20 
+ 
+
+ 
+
+aanleggen door grotere afstanden tussen de woningen, dan wordt de BAK 
+hoger  
+
+>  Gasnet:  het  niet  hoeven  te  vervangen  van  gasleiding  betekent  vermeden 
+
+herinvesteringen voor Liander 
+
+ 
+
+▪  De inpassing van nieuwe en vooral duurzame bronnen: 
+
+energiedragers 
+
+Bij  iedere  energie-infrastructuur  hoort  een  andere  energiedrager.  Bij  de 
+verschillende 
+en 
+(on)mogelijkheden om energie, die nodig is voor het verwarmen van woningen 
+en gebouwen, op te slaan. Daarnaast is de meest geschikte bron en bijhorende 
+energie-infrastructuur  ook  sterk  afhankelijk  van  de  schaalgrootte,  die  kan 
+worden gerealiseerd.  
+
+bronnen 
+
+horen 
+
+verschillende 
+
+ 
+In de bijlagen is nadere informatie opgenomen. 
+ 
+
+4.5.1 Financieringsopties 
+
+De kosten voor warmtetransitie zijn aanzienlijk en kunnen enorm verschillen van 
+woning  tot  woning  of  van  gebouw  tot  gebouw.  Daarom  is  het  belangrijk  om  een 
+manier  te  vinden  om  tot  een  eerlijke  verdeling  van  kosten  tussen  alle  betrokken 
+partijen en bewoners te komen. Bovendien zijn nieuwe manieren van financiering 
+nodig om ervoor te zorgen dat iedereen de stap naar een aardgasvrije woning of 
+gebouw kan maken. 
+ 
+Hoe  die  kosten  verdeeld  worden  en  hoe  we  ervoor  zorgen  dat  de  transitie  naar 
+aardgasvrij voor iedereen betaalbaar is, zijn vraagstukken die voor een groot deel 
+op  landelijk  niveau  moeten  worden  opgelost.  Wel  kunnen  we  op  kleine  schaal 
+starten  en  leren  door  als  vervolg  op  deze  transitievisie  warmte  voor  elk  van 
+bovenstaande wijken de kosten en onrendabele top (het deel van de investering 
+dat  niet  kan  worden  terugverdiend  met  de  inkomsten  en  besparingen  van  de 
+investering) in kaart brengen. Ook zal de gemeente  en de  mogelijkheden op  het 
+gebied van financiering te gaan onderzoeken. Daarbij houden we rekening met de 
+volgende instrumenten die beschikbaar zijn en ontwikkelingen die verwacht worden 
+op het gebied van financiering: 
+ 
+Subsidies 
+▪  BZK  proeftuinen  aardgasvrij:  In  2018  is  120  miljoen  euro  verdeeld  over  27 
+wijken. In een volgende tranche kunnen nieuwe wijken worden aangedragen. 
+
+ 
+
+ 
+
+Op 1 december 2019 gaat nog een nieuwe ronde open waarbij gemeenten tot 
+1 april 2020 een proeftuinwijk kunnen aanmelden.  Deze kan worden gebruikt 
+om (deels) de onrendabele top in de wijk af te dekken en zo over te gaan op 
+realisatie. 
+
+▪ 
+
+▪  Subsidies  van  o.a.  Provincie  Zuid-Holland  en  Europese  subsidies  kunnen 
+ondersteuning bieden in de vorm van procesgeld of subsidie voor aanleg van 
+nieuwe  infrastructuur.  Voorbeeld  hiervan  is  de  ELENA  faciliteit.  Op  regionaal 
+niveau worden kansen verkend en inschrijvingen gecoördineerd. 
+Investeringssubsidie  duurzame  energie  (ISDE):  Particuliere  huishoudens  en 
+zakelijke  gebruikers  (waaronder  VvE's)  die  zelf  duurzame  energie  willen 
+opwekken  kunnen  subsidie  aanvragen  voor  zonneboilers, 
+(hybride) 
+warmtepompen,  biomassaketels  en  pelletkachels.  De  subsidie  is  afhankelijk 
+van de gekozen maatregel. De looptijd en het beschikbare budget is te vinden 
+op de website van de Rijksdienst voor Ondernemend Nederland (www.rvo.nl). 
+▪  Voor  VvE’s  is  er  subsidie  beschikbaar  voor  een  energieadvies  en  eventueel 
+procesbegeleiding  en  een  energieadvies  in  combinatie  met  Meer  Jaren 
+Onderhoudsplan en eventueel procesbegeleiding. 
+ 
+
+Leningen 
+▪  Het  Nationaal  Energiebespaar  Fonds  (NEF)  biedt  energiebesparingsleningen 
+tegen  lage  rente  voor  VvE’s  en  particuliere  eigenaren.  Stimuleringsfonds 
+Volkshuisvesting Nederlandse gemeenten (SVn) is fondsmanager van het NEF. 
+▪  Met het warmtefond kunnen huiseigenaren maximaal 25.000 euro lenen van de 
+overheid om hun huis duurzamer te maken. De lage 2 procent rente krijg je bij 
+geen enkele bank maar dus we bij de overheid. Het geld gaat naar een speciale 
+rekening  waar  de  aannemer  geld  uit  mag  putten.  Wie  door  de  huidige 
+leennormen moeilijk of geen financiering kan krijgen, kan hier terecht.   
+
+▪  Hypothecaire  leningen:  deze  zijn  rendabel  vanaf  €15.000,-  vanwege  de 
+
+bijbehorende administratie- en advieskosten. 
+
+▪  Naar  verwachting  komt  er  in  2021  vanuit  het  Nationaal  Warmtefonds  een 
+Energiebespaarhypotheek beschikbaar waarbij bewoners met weinig tot geen 
+leenruimte  het  mogelijk  wordt  gemaakt  om  verduurzamingsmaatregelen  te 
+financieren zolang deze worden uitgevoerd in het kader van een gemeentelijke 
+wijkaanpak.  De  financiële  positie  van  de  aanvragende  bewoner  bepaalt  met 
+welk  maandbedrag  de  hypotheek  maandelijks  moet  worden  terugbetaald. 
+
+Mocht er  nog een restschuld zijn bij verkoop van de  woning  of aan het einde 
+van de looptijd van de hypotheek dan wordt deze kwijtgescholden.11 
+ 
+
+Overig 
+▪  Collectieve  inkoop  acties  (o.a.  via  het  Regionaal  Energieloket)  zorgen  voor 
+
+lagere kosten per maatregel, zoals isolatie en zonnepanelen. 
+
+▪  Gebouwgebonden  financiering  (GGF)  is  nu  nog  niet  mogelijk,  maar  de 
+mogelijkheden  om  het  Burgerlijk  Wetboek  aan  te  passen  en  leningen 
+overdraagbaar te maken, worden op nationaal niveau onderzocht. De intentie 
+bestaat om de aanpassing in 2022 gereed te hebben.12 GGF is een methode 
+om  leningen  te  verstrekken  voor  maatregelen  waarmee  warmte  kan  worden 
+bespaard.  De  besparing  op  energiegebruik,  zal  ook  een  financiële  besparing 
+opleveren waarmee de lening na een periode afgelost kan worden. De lening 
+wordt aan het gebouw gekoppeld, niet aan de bewoners, en kan daarom voor 
+een langere periode worden aangegaan en doorgegeven worden aan nieuwe 
+bewoners.  Analyses  tonen  aan  dat  dit  voor  enkele  isolatiemaatregelen 
+interessant  kan  zijn,  maar  dat  het  volledig  transitiegereed  maken  van  een 
+woning (uitgaande van 70°C) niet met GGF mogelijk zal zijn. Naast GGF zullen 
+dus ook andere middelen nodig. Zo wordt oa. ook gekeken naar mogelijkheden 
+rond vrijwillige erfpacht. 
+
+ 
+Deze hulpmiddelen zijn belangrijk om in te zetten, maar duidelijk wordt ook dat ze 
+nog  niet  toereikend  zijn  om  bewoners  financieel  volledig  te  ondersteunen  in  het 
+aardgasvrij maken van de woning. De vraag is echter of dat ook zal gaan gebeuren. 
+Duurzame,  toekomstbestendige  en  comfortabel  verwarmde  woningen  worden 
+steeds  hoger  gewaardeerd,  dus  er  zijn  naast  besparing  op  de  energierekening 
+meer financiële voordelen aanwezig.  
+ 
+
+11 Kamerbrief over Nationaal Isolatieprogramma en Warmtefonds van 01-03-2021 
+
+12 Klimaatakkoord. 
+
+ 
+
+21 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Houd het volgende in gedachten  
+ 
+Een wijk of gebied is niet van de ene op de andere dag aardgasvrij 
+Met de transitievisie warmte wordt een tijdsaanduiding geschetst voor de eerste wijken waarin we starten met de warmtetransitie. Let wel, het jaar dat is aangeduid om te starten is het jaar 
+dat we met de voorbereidingen gaan beginnen om toe te werken naar wonen zonder aardgas. Dit betekent niet dat in dat jaar de overstap naar aardgasvrij al gemaakt wordt. Starten 
+betekent in dit geval samen met de belangrijke stakeholders in de wijk te beginnen met het opstellen van een concreet plan van aanpak voor de wijk. Daarbij worden ook bewoners in de 
+wijk betrokken. In het plan van aanpak worden keuzes gemaakt over de techniek, de organisatie, de financiering, de koppeling  met andere opgaven in de wijk en de communicatie- en 
+participatieaanpak. Het totale proces naar een aardgasvrije wijk kan vijf á tien jaar en soms zelfs langer duren, afhankelijk van de complexiteit en de daaraan gekoppelde benodigde acties 
+en investeringen en de grootte van het gebied. Hoe meer er geïsoleerd moet worden voordat een aardgasvrije technologie kan worden toegepast, hoe langer het over het algemeen zal 
+duren voordat de wijk aardgasvrij is. De complexiteit kan ook toenemen als er in een wijk veel verschillende vastgoedeigenaren aanwezig zijn, die allemaal op een voor  hen natuurlijk 
+moment in hun woning willen investeren. Daarnaast kan de overstap versneld worden als de Rijksoverheid ruimte creëert op het gebied van financiering en juridische mogelijkheden.  
+ 
+Grenzen liggen niet vast 
+We kiezen in de warmtetransitie voor een gebiedsgerichte aanpak, dus wijken, combinaties van wijken of juist delen van wijken staan centraal. Dit betekent natuurlijk niet dat de aanpak 
+ophoudt bij de grens van een wijk, of dat een bewonersinitiatief altijd maar in één wijk mag plaatsvinden. De wijkgrenzen mogen daarom ook niet beperkend zijn. Ze kunnen wel helpen 
+om richting te geven en kunnen gebruikt worden om de communicatie op te starten.  
+ 
+Diversiteit binnen wijken is mogelijk 
+Het feit dat een wijk is aangeduid als kansrijk voor een warmtenet, betekent niet dat elk gebouw in de wijk op een warmtenet  aangesloten wordt. Wijken zijn niet altijd homogeen en het 
+kan dus zijn dat in delen van een wijk andere oplossingen kostenefficiënter zijn. Er zal binnen de wijkuitvoeringsplannen nader worden onderzocht welke warmtealternatieven er voor die 
+wijk zijn en of dat ook voor de hele wijk geldt. Zo zijn nieuwere woningen beter geïsoleerd en kunnen met een lagere temperatuur verwarmd worden dan oudere woningen. We kijken per 
+fase  of  particulieren  en  andere  eigenaren  mee  kunnen  en  willen  doen.  Het  is  daarbij  van  belang  dat  er  voldoende  schaalgrootte  is  om  te  kunnen  starten  in  een  wijk.  De  minimale 
+schaalgrootte die nodig is, is afhankelijk van de gekozen warmteoplossing. 
+ 
+De route naar aardgasvrij is niet in beton gegoten 
+De fasering die in deze kaart is aangegeven is een visie. Deze ligt dus niet vast. Wat zeker is, is dat we de komende jaren eerst beginnen in de wijken die als groen zijn gemarkeerd. De 
+warmtetransitie is een proces van ervaring opdoen en leren in de eerste wijken. Initiatief nemen en rekening houden met flexibiliteit in de uitvoering en fasering zijn daarbij belangrijk. Ook 
+vinden we het belangrijk om initiatieven in de gemeente, die passen binnen de uitgangspunten van deze transitievisie te stimuleren. Het kan dus ook zo zijn dat er in wijken die nu nog niet 
+zijn aangegeven om voor 2025 te starten, toch al stappen worden gezet richting aardgasvrij. 
+ 
+Er is keuzevrijheid, maar wel onder voorwaarden 
+Voor particuliere woningeigenaren geldt dat zij in principe zelf mogen kiezen welke warmteoplossing ze willen toepassen. De praktijk zal echter ook uitwijzen dat er niet altijd keuze is. Zo 
+is duurzaam gas maar beperkt beschikbaar, zal er niet in alle wijken een warmtenet mogelijk zijn en zal all-electric soms vragen om een netverzwaring die niet is voorzien. Daarnaast is 
+het ook goed om er rekening mee te houden dat het maatschappelijk niet kosteneffectief is om een dubbele energie-infrastructuur aan te leggen. We zullen daarom in een wijk waar een 
+collectieve warmteoplossing is gepland, particulieren niet aanmoedigen om te kiezen voor een individuele warmtepomp. De wijkprioritering en de bijbehorende warmteoplossingen die we 
+beschrijven, geven de voorkeursrichting aan waar we ons gezamenlijk voor in willen zetten om zo de warmtetransitie voor iedereen betaalbaar en uitvoerbaar te kunnen houden.  
+Daarnaast is het ook goed om er rekening mee te houden dat het maatschappelijk niet kosteneffectief is om een warmtenet aan te leggen, waar maar een beperkt deel van de woningen, 
+verspreid over de wijk, op aansluit.  
+ 
+Niet ingekleurd betekent niet niks doen 
+De noodzaak van het verbeteren van woningen door te isoleren, geldt voor alle woningen in alle wijken. De wijken die nu zijn aangemerkt als startwijken zijn daarom niet de enige wijken 
+waar iets staat te gebeuren voor 2030. Individuele gebouweigenaren kunnen er altijd voor kiezen om zelf toe te werken naar de overstap om de woning aardgasvrij te maken. 
+ 
+
+ 
+
+ 
+
+ 
+
+22 
+ 
+
+ 
+
+ 
+
+5. Tussentijdse oplossingen en doelen 
+
+In de delen van Oegstgeest die nog niet worden benoemd als kansrijke wijken om 
+in  te  starten  voor  2030,  hoeft  echter  niet  stilgezeten  te  worden.  Minder 
+energieverbruik binnen de gehele gemeente is essentieel  om de warmtetransitie 
+een stap verder te brengen. Immers, wat je niet nodig hebt, hoef je ook niet op te 
+wekken.  Dat  iedere  huizenbezitter  start  met  het  nemen  van  een  aantal  warmte 
+besparende  maatregelen 
+is  noodzakelijk.  Alle  natuurlijke  momenten  van 
+onderhoud, verbouwing en verhuizing moeten worden benut, zodat de kosten zo 
+laag mogelijk blijven. Alleen dan kunnen zoveel als mogelijk woningen in 10 tot 20 
+jaar op het niveau komen dat deze efficiënt, comfortabel en duurzaam verwarmd 
+kunnen worden. 
+ 
+Gezien  de  grote  diversiteit  van  de  bebouwing  en  bijbehorende  eigenaren 
+(grotendeels  particulier  bezit)  in  onze  gemeente  is  energiebesparing  een  thema 
+waar veel winst te boeken is. Om het vastgoed voor te bereiden op een aardgasvrije 
+toekomst en tussentijds al CO2 te gaan besparen is het altijd aan te bevelen om te 
+kijken naar isolatiemaatregelen, duurzame opwek met zonnepanelen op daken en 
+mogelijk een hybride warmtepomp als de CV-ketel aan vervanging toe is. Daarmee 
+wordt  de  woning  bovendien  toekomstbestendiger.  Daarom  zet  de  gemeente  de 
+komende tijd in op energiebesparende inkoopacties en zonnepanelen. De woning 
+kan op een later moment overgaan op het verwarmen met een duurzame bron. De 
+woning kan uiteraard ook direct geschikt worden gemaakt voor het verwarmen op 
+een lagere temperatuur, maar dit vergt hogere investeringen in een basis of hoog 
+niveau van isoleren.  
+
+ 
+
+5.1  Inzet op vraagbeperking, verlagen 
+
+temperatuurbehoefte en CO2 besparing 
+
+Om  over  te  stappen  op  andere  verwarmingssystemen  en  maximaal  gebruik  te 
+kunnen  maken  van duurzame  bronnen  die vaak  een  lagere  temperatuur  leveren 
+dan de CV-ketel, is het nodig dat we onze huizen daar gereed voor maken. Daarom 
+is het belangrijk dat woningen en gebouwen goed geïsoleerd worden en zullen in 
+sommige  gevallen  ook  de  bestaande  radiatoren  of  de  gehele  bestaande 
+verwarmingsinstallatie vervangen moeten worden. Isolatie helpt bovendien om de 
+warmtevraag te beperken, wat helpt om de opgave te verminderen. Ook hebben 
+
+23 
+ 
+
+ 
+
+goed  geïsoleerde  woningen  een  hoger  niveau  van  comfort.  Isoleren  tot  op  een 
+bepaald  niveau  kan  daarom  als  een  'no  regret'  of  ‘spijtvrije’  maatregel  worden 
+gezien.  Het  is  no  regret  omdat,  onafhankelijk  van  de  toekomstige  energie-
+infrastructuur in de wijk, de woning wordt voorbereid op een aardgasvrije toekomst. 
+Dit  noemen  we  ook  wel  ‘transitiegereed’.  Belangrijk  is  wel  om  na  te  gaan  welke 
+voorlopige warmteoplossing er voor bepaalde wijken  staat ingetekend. Mocht de 
+wijk  staan  ingetekend  voor  een  warmtenet  waardoor  hoge  temperatuur  warmte 
+wordt aangevoerd, dan is er minder uitvoerige isolatie nodig en kan te veel isoleren 
+leiden tot een onnodige investering die pas over lange tijd wordt terugverdient.  
+ 
+Andere opties om de woning transitiegereed te maken zijn bijvoorbeeld duurzame 
+opwek van energie door zonnepanelen op daken te plaatsen. Door zelf een deel 
+van de benodigde energie op te wekken blijft weer meer energie over daar waar 
+dat niet kan. Daarnaast zorgt dat ervoor dat er minder windmolens en zonnevelden 
+hoeven worden gebouwd in de omgeving waar weinig vrije ruimte beschikbaar is. 
+Een volgend aspect van het transitiegereed maken van de woning is het vervangen 
+van de CV-ketel voor een hybride warmtepomp. Deze warmtepomp maakt gebruik 
+van  een minimaal  gedeelte  gas  om met  name  piekvraag op te vangen  en  levert 
+daarom tussentijds al CO2 besparing op, zeker als het gaat om huizen waarbij het 
+gasverbruik nog steeds hoog is. Een hybride warmtepomp gaat ongeveer 15 jaar 
+mee en is daarmee een rendabele tussenoplossing als er in die wijk gedurende die 
+tijd nog niet wordt gekeken naar een alternatief voor aardgas.  
+
+ 
+
+ 
+
+ 
+
+Transitiegereed en 70°C ready 
+ 
+We  noemen  een  woning  ‘transitiegereed’  als  deze  klaar  is  voor  de 
+warmtetransitie en geen grote maatregelen meer  nodig heeft tot 2050. In die 
+woningen zijn isolatiemaatregelen toegepast die nodig zijn voor het aardgasvrij 
+maken  van  de  woning.  Deze  maatregelen  staan  los  van  de  uiteindelijke 
+energie-infrastructuur die in de wijk aangelegd gaat worden. 
+Het niveau transitiegereed kan stapsgewijs worden bereikt. Bijvoorbeeld door 
+op  natuurlijke  momenten  als  een  verbouwing  of  verhuizing  het 
+minimumisolatieniveau (65-80 kWh/m2) aan te brengen. Op dit niveau kan de 
+woningen in veel gevallen verwarmd worden met midden temperatuur warmte 
+en is daarmee dus ‘70°C ready’. In een vervolgstap (of direct) kan de woning 
+transitiegereed  worden  gemaakt.  De  woning  kan  dan  ook  met  temperaturen 
+tussen de 40 en 70°C comfortabel worden verwarmd. (50-65 kWh/m2). 
+
+ 
+Om de kosten van het transitiegereed maken te beperken, kan aanbevolen worden 
+om  deze  te  combineren  met  natuurlijke  momenten  van  onderhoud,  zoals  een 
+verbouwing  of  verhuizing.  Bijlage  B  geeft  een  toelichting  van  verschillende 
+isolatieniveaus en bijbehorende maatregelen. De vuistregel daarbij is: hoe lager de 
+temperatuur van de warmte waarmee je een huis kunt verwarmen, hoe meer je de 
+woning moet isoleren. 
+ 
+De bestaande woningenvoorraad in Oegstgeest kunnen we grofweg opdelen in vier 
+niveaus van isolatie:  
+ 
+
+1  Woningen met slechte of onvoldoende isolatie (80 kWh/m2 of hoger). Er is 
+een hoge temperatuur van circa 90°C nodig om ook op de koudste dagen 
+deze woningen comfortabel warm te stoken. De meeste woningen gebouwd 
+vóór 1990 zitten op dit niveau. 
+ 
+
+2  Woningen  met  een  minimumisolatieniveau  (65-80  kWh/m2).  Bij  het 
+minimumniveau kunnen  woningen comfortabel  verwarmd  worden  met een 
+maximumtemperatuur  van  70°C  (midden  temperatuur).  Het  kan  wel 
+voorkomen  dat  er  een  aantal  radiatoren  vervangen  moet  worden  voordat 
+deze  woningen  daadwerkelijk  met  70°C  kunnen  worden  verwarmd.  De 
+
+24 
+ 
+
+ 
+
+woning  is dus 70°C ready. Bijna  alle woningen gebouwd na 1990 voldoen 
+aan dit niveau. 
+ 
+
+3  Woningen met een basisisolatieniveau (50-65 kWh/m2). Bij een basisniveau 
+kan  de  woning  zowel  comfortabel  worden  verwarmd  met  een 
+maximumtemperatuur  van  70°C  als  met  40°C  (laagtemperatuur).  Voor 
+laagtemperatuur  zullen  wel  alle  radiatoren  vervangen  moeten  worden.  De 
+woning is daarmee toekomstbestendig omdat hij geschikt is voor meerdere 
+alternatieve verwarmingstechnieken. De woning is dus transitiegereed. 
+ 
+
+4  Woningen met een hoog isolatieniveau en voorzien van een energiezuinig 
+ventilatiesysteem  (20-50  kWh/m2).  Deze  woningen  zijn  daarmee  zeer 
+geschikt om comfortabel te verwarmen met een maximumtemperatuur van 
+40°C.  Dit  zijn  recent  gebouwde  woningen  en  woningen  die  nog  gebouwd 
+gaan worden in de komende jaren. Bij aanpassing van de bestaande bouw 
+tot dit niveau moeten vaak de radiatoren worden vervangen.   
+
+in  kilowattuur  per  vierkante  meter 
+
+Warmtevraag  uitgedrukt 
+woonoppervlak (kWh/m2) 
+ 
+Het kilowattuur (kWh) is een hoeveelheid energie. De meeste mensen 
+associëren  kWh  met  elektriciteit.  Als  je  een  lamp  met  een  vermogen 
+van 1 kW één uur laat werken heeft die lamp 1 kWh stroom gebruikt. In 
+Europa is de afspraak gemaakt om zoveel als mogelijk alle vormen van 
+energie uit te drukken in kWh. Zo kunnen verschillende soorten energie 
+beter  met  elkaar  vergeleken  worden.  Zo  ook  de  warmtevraag.  Door 
+deze  uit  te  drukken  in  kWh  per  vierkante  meter  woonoppervlak 
+(kWh/m2)  kan  de  warmtevraag  van  verschillende  woningtypes  en 
+woninggroottes goed met elkaar vergeleken worden. Het maakt daarbij 
+niet uit of deze verwarmd worden met gas, met een warmtenet, of met 
+een warmtepomp.  
+De gemiddelde warmtevraag voor ruimteverwarming van een woning in 
+Nederland  is  circa  80  kWh/m2.  Bij  niet  geïsoleerde  woningen  kan  de 
+gemiddelde  warmtevraag  oplopen tot boven de  130  kWh/m2.  Bij  zeer 
+goed  geïsoleerde  nieuwbouw  kan  het  gemiddelde  naar  onder  de  30 
+kWh/m2. 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+Warm tapwater 
+Naast warmte voor ruimteverwarming is er in een woning ook warm tapwater 
+nodig. Warm tapwater heeft een energievraag tussen de 15 en 20 kWh/m2. Om 
+warm tapwater veilig te kunnen gebruiken geldt dat er met de huidige stand der 
+techniek  en  regelgeving  een  temperatuur  van  minimaal  55°C  bij  het  tappunt 
+nodig is. Om deze temperatuur te kunnen garanderen moet het opweksysteem 
+in  praktijk  een 
+leveren.  Als  de 
+aanvoertemperatuur  onvoldoende  hoog  is,  moet  er  dus  een  aanvullende 
+voorziening  komen  in  de  woning  voor  het  opwekken  of  het  boosten  van  de 
+warmte voor warm tapwater.  
+ 
+
+temperatuur  van  60-70°C  kunnen 
+
+Hoe zit het met koeling? 
+Klimaatverandering  betekent  dat  het  ook  in  Nederland  warmer  zal  worden. 
+Bovendien gaan we volop isoleren en is de nieuwbouw al heel goed geïsoleerd. 
+Dat betekent dat ook de warmte beter wordt vastgehouden. Kortom, de vraag 
+om koeling zal ook blijven stijgen. 
+Er  zijn  diverse  opties  om  te  koelen.  Een  individuele  warmtepomp  biedt 
+standaard  de  mogelijkheid  om  te  koelen  door  koudere  vloeistof  door  de 
+leidingen te laten lopen (passief koelen) of warmte aan de woning te onttrekken 
+(actief koelen). Ook bij collectieve oplossingen met een lagere temperatuurbron 
+zoals oppervlaktewater is het mogelijk om te koelen.  
+Ten slotte kun je er uiteraard voor kiezen om een aparte airconditioning in de 
+woning te installeren. Belangrijke kanttekening hierbij is dat daar extra 
+elektriciteit voor nodig is die ook weer duurzaam opgewekt zal moeten 
+worden. 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+5.2  Richting transitiegereed 
+
+Wanneer  een  woning 
+transitiegereed  wordt  gemaakt,  worden  meerdere 
+maatregelen uitgevoerd. De bundeling van verschillende maatregelen (afhankelijk 
+van bijvoorbeeld woningtype en bouwjaar), noemen we een maatregelpakket.  
+
+ 
+De  kosten  van  de  maatregelpakketten  zijn  gebaseerd  op  de  benodigde 
+aanpassingen  om  een  kwaliteitsniveau  te  halen  dat  nodig  is  om  te  kunnen 
+verwarmen met een temperatuur die hoort bij een (midden temperatuur) warmtenet 
+op  70°C  en  voor  all-electric  oplossingen.  De  temperatuur  van  70°C  is  belangrijk 
+omdat  collectieve  (warmtenet)technieken  zoals  een  grote  (wijk)warmtepomp, 
+omgevingswarmte  (denk  aan  bodemenergie  of  energie  uit  oppervlakte  water), 
+maximaal tot deze temperatuur kosteneffectief kunnen opwaarderen.  
+ 
+Daarnaast  blijkt  dat  de  meeste  woningen  die  nog  radiatoren  hebben  voor  hoge 
+temperatuur en voorzien zijn van minimaal isolerende maatregelen, ook met 70°C 
+verwarmd  kunnen  worden.  Individuele  warmtepompen  zijn  nog  niet  in  staat  om 
+kosteneffectief  een  temperatuur  van  70°C  te  behalen.  Om  de  woning  met  een 
+lagere  temperatuur  comfortabel  te  kunnen  verwarmen  zal  daarom  een  hoger 
+isolatieniveau en mogelijke aanpassing van radiatoren, nodig zijn.  
+ 
+
+is.  Dus  hoe 
+
+recenter  het  bouwjaar,  hoe 
+
+Als de woning al voldoet aan een bepaald kwaliteitsniveau worden deze kosten niet 
+meegenomen.  Een  wijk  waar  het  gemiddeld  isolatieniveau  al  hoog  is,  betekent 
+kansen voor een snelle overgang naar aardgasvrij, omdat de kosten om de woning 
+van  het  aardgas  af  te  halen meevallen  in  vergelijking  tot  een  woning  die minder 
+goed  geïsoleerd 
+lager  de 
+investeringskosten. Omdat het niet hard gesteld kan worden welke maatregelen er 
+per  woning  genomen  moeten  worden,  zijn  er  twee  niveaus  aangehouden  per 
+warmteoplossing.  Per  variant  worden  daarom  de  te  nemen  maatregelen, 
+investeringen en besparingen als een bandbreedte gepresenteerd waarbinnen de 
+meeste woningen zullen vallen.  
+ 
+ 
+Onderstaande tabel geeft een voorbeeld van de maatregelenpakketten horende bij 
+een  eengezinswoning  uit  1950-1975,  het  meest  voorkomende  woningtype  in 
+Nederland:  
+ 
+
+25 
+ 
+
+ 
+
+ 
+
+Isolatie minimaal  
++ warmtenet 70 
+
+Isolatie basis  
++ warmtenet 70 
+
+Isolatie basis  
++ all-electric (50 
+
+Isolatie hoog 
+
++ all-electric (50 
+
+°C 
+
+Geen 
+
+°C) 
+
+Geen 
+
+°C) 
+
+Nieuw 
+
+aanpassingen 
+
+aanpassingen 
+
+HR++ 
+
+Isolatie 
+
+HR++ 
+
+HR++/ HR+++ 
+
+Isolatie 
+
+binnenzijde 
+
+Nieuwe 
+
+geïsoleerde 
+
+panelen 
+
+aanpassingen 
+
+binnenzijde 
+
+Spouwisolatie 
+
+Spouwisolatie 
+
+Spouwisolatie 
+
+Spouwisolatie 
+
+Geen 
+
+Dak geïsoleerd 
+
+Dak geïsoleerd 
+
+Dak geïsoleerd 
+
+Vloer / 
+
+bodemisolatie 
+Mechanisch 
+afzuiging met 
+roosters in de 
+
+gevel 
+Geen 
+
+Vloer / 
+
+bodemisolatie 
+Mechanisch 
+afzuiging met 
+roosters in de 
+
+gevel 
+
+Vloer / 
+
+bodemisolatie 
+Mechanisch 
+afzuiging met 
+roosters in de 
+
+gevel 
+
+▪  de  maandelijkse  kosten  voor  woningen  die  een  hoog  isolatieniveau  vereisen 
+voor de toepassing van bijvoorbeeld een warmtepomp hoger kunnen zijn dan 
+men nu gewend is 
+
+▪  de  onrendabele  kosten  van  de  maatregelpakketten  ‘minimaal’  en  ‘basis’ 
+mogelijk  kunnen  worden  gedekt  doordat  de  woning  stijgt  in  waarde  tov. 
+woningen met een lager isolatieniveau en/of de afhankelijkheid van aardgas  
+
+Eengezinswoning 1950-
+1975 
+
+ Totale investeringen 
+
+NCW corporatie 
+
+Jaarlijkse kosten jaar 1; 
+
+corporatie 
+
+Huidig 
+niveau 
+
+98 kWh/m2 
+
+n.v.t. 
+
+n.v.t. 
+
+€ 200 
+
+Minimaal 
+
+niveau 
+
+70 kWh/m2 
+ € 11.000  
+
+ € 11.000  
+
+Basisniveau 
+50 kWh/m2 
+
+Hoog niveau 
+40 kWh/m2 
+
+ € 22.000  
+
+ € 22.000  
+
+ € 38.500  
+
+ € 38.500  
+
+€ 200 
+
+€ 200 
+
+€ 200 
+
+Jaarlijkse kosten jaar 1; 
+
+ € 2.136  
+
+ € 1.823  
+
+ € 1.604  
+
+ € 1.495  
+
+huurder 
+
+NCW woningeigenaar 
+
+n.v.t. 
+
+ € 2.303  
+
+€ 7.476  
+
+€ 21.063  
+
+Jaarlijkse kosten jaar 1; 
+
+€ 2.951 
+
+ € 2.481  
+
+ € 2.721  
+
+ € 3.298  
+
+ 
+
+ 
+ 
+
+Maatregelen  
+Eengezinswoning 
+1950-1975 
+Kozijnen 
+
+Beglazing 
+
+Gevelpanelen 
+
+Gevel 
+
+Dak 
+
+Vloer 
+
+Ventilatie 
+
+Radiatoren 
+
+Koken 
+
+°C 
+
+Geen 
+
+aanpassingen 
+Dubbelglas / 
+
+HR++ 
+Geen 
+
+aanpassingen 
+
+Vloer / 
+
+bodemisolatie 
+
+Geen 
+
+aanpassingen 
+
+Radiatoren 
+
+deels vervangen 
+
+Ombouw naar 
+
+E-koken 
+
+Vervangen naar 
+
+Vervangen naar 
+
+woningeigenaar 
+
+aanpassingen 
+Ombouw naar 
+
+E-koken 
+
+LT 
+
+LT 
+
+Ombouw naar 
+
+Ombouw naar 
+
+E-koken 
+
+E-koken 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Om het effect van isolatie en andere gebouwgebonden maatregelen te duiden, zijn 
+de varianten berekend voor het transitiegereed maken van het meest voorkomende 
+woningtype  in  Oegstgeest:  de  eengezinswoning  uit  1950-1975.  De  tabel  op  de 
+volgende  pagina  geeft  de  kosten  en  NCW13  weer  voor  het  voorbereiden  van  de 
+woning op een aardgasvrije verwarmingstechniek (isolatie, ventilatie en elektrisch 
+koken) waarbij de CV-ketel behouden blijft.  
+ 
+Hieruit blijkt dat: 
+▪  de maatregelen in de minimale en basis variant lagere maandlasten opleveren, 
+maar  zich  niet  laten  ‘terugverdienen’  binnen  de  voor  deze  berekening 
+aangehouden doorlooptijd van 30 jaar 
+
+▪  een basis of hoog isolatieniveau voorwaardelijk is voor een warmtepomp  
+
+13 De Netto Contante Waarde (NCW) ontstaat door de contante kosten (huidige waarde van toekomstige 
+
+kosten) af te trekken van de contante opbrengsten (huidige waarde van toekomstige opbrengsten). 
+
+ 
+
+26 
+ 
+
+ 
+
+ 
+Voor  de  woningen  waar  voor  een  individuele  warmtepomp  wordt  gekozen,  geldt 
+geen  algemeen  advies.  Hier  dient  per  woning  bekeken  te  worden  in  welke 
+combinatie een aardgasvrije verwarming mogelijk kan worden. Denk daarbij aan: 
+▪  comfortverhoging  door  het  isoleren  te  combineren  met  het  uitbreiden  van  de 
+
+woning 
+
+▪  de mogelijkheid te benutten van het koelen van de woning 
+▪  het  plaatsen  van  zonnepanelen  om  het  pakket  aan  maatregelen  terug  te 
+
+verdienen  
+
+▪  het  combineren  van  het  uitvoeringsmoment  met  geplande  natuurlijke 
+
+vervangingsmomenten  
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+6. Participatie en vraagstukken op weg 
+
+6.1  Samenwerken in de warmtetransitie  
+
+naar het uitvoeringsprogramma 
+
+In  deze  transitievisie  warmte  zijn  de  eerste  stappen  gezet  om  de  kaders  en  de 
+mogelijkheden  van  de  warmtetransitie  in  Oegstgeest  te  schetsen.  In  het  vorige 
+hoofdstuk zijn een aantal kansrijke wijken benoemd waar gestart kan worden met 
+de warmtetransitie in Oegstgeest. In dit hoofdstuk gaan we verder in op de eerste 
+stappen richting de uitvoering, en de zaken waar we als gemeente rekening moeten 
+houden om de komende jaren samen met onze partners verder te kunnen werken 
+aan  de  overstap  naar  een  aardgasvrije  gebouwde  omgeving.  Het  duurzaam 
+verwarmen van Oegstgeest gaat alleen lukken als we daar gezamenlijk aan blijven 
+bouwen.  
+ 
+Om  de  stap  te  maken  naar  de  uitvoering  hebben  we  iedereen  in  de  gemeente 
+Oegstgeest nodig. De warmtetransitie is een complex proces dat vraagt een solide 
+samenwerking.  Voor  de  verschillende  wijken  zullen  we  wijkuitvoeringsplannen 
+opstellen samen met de organisaties, partijen en bewoners die actief zijn in de wijk. 
+In de wijkuitvoeringsplannen maken we concrete afspraken op wijkniveau over de 
+belangrijkste onderwerpen in de warmtetransitie om de overstap naar aardgasvrij 
+te  kunnen  maken.  Dit  doen  we  bijvoorbeeld  door  het  uitvoeren  van  een 
+haalbaarheidsstudie om de kansen voor het aardgasvrij maken van woningen en 
+ander vastgoed in die wijk verder te verkennen. Er zijn ook veel dingen die we nog 
+niet  weten  en  waar  we  de  komende  periode  veel  over  bij  willen  leren.  Daarom 
+beginnen  we  met de stappen waarvan we  nu al zien dat ze in ieder geval  nodig 
+zullen zijn, bijvoorbeeld goede voorlichting over wat bewoners zelf kunnen doen.  
+ 
+Samen met de leden van de projectgroep hebben we de allereerste stappen  die 
+we de komende periode verder zullen moeten uitwerken, besproken. We hebben 
+hierbij  gesproken over  het  formuleren van de  (tussentijdse)  doelen  en  acties  die 
+nodig zijn om te starten in de eerste wijken: 
+ 
+
+1.  Samenwerken in de warmtetransitie 
+2.  Programmatisch werken 
+3.  Benodigde capaciteit  
+
+27 
+ 
+
+ 
+
+De  warmtetransitie  is  ingewikkeld  en  wordt  niet  van  de  ene  op  de  andere  dag 
+uitgevoerd.  In  de  voorgaande  hoofdstukken  hebben  we  gezien  dat  het  om 
+veranderingen aan gebouwen en infrastructuur gaat, dat er energiebronnen nodig 
+zijn, en dat er grote investeringen bij komen kijken. Deze transitie vraagt ook om 
+nieuwe vormen van samenwerken met gebouweigenaren, met bewoners en  met 
+het bedrijfsleven. En om veranderingen binnen de gemeentelijke organisatie.  
+ 
+Samenwerken in de warmtetransitie betekent meer dan het naast elkaar uitvoeren 
+van de projecten van de individuele stakeholders. Om de warmtetransitie in goede 
+banen te leiden en tegelijkertijd aan te sluiten bij andere thema’s in de gemeente 
+en de wijken, zoals klimaatbestendigheid, het verbeteren van de openbare ruimte, 
+het verhogen van de leefbaarheid en het versterken van de sociale cohesie dient 
+er  enerzijds  gebiedsgerichte  coördinatie  te  zijn  op  de  (samenhang  tussen)  de 
+specifieke projecten en opgaven. Anderzijds liggen er stevige uitdagingen op het 
+vlak van samenwerking, strategie, communicatie & participatie en financiering.  
+ 
+De gemeente is regisseur van de warmtetransitie en zal als vervolg op deze TVW, 
+samen met de belangrijkste partners in de gemeente en in de regio, een meerjarige 
+programmastructuur moeten inrichten met bijbehorende uitvoeringsorganisatie, om 
+de  ambities  in  de  visie  te  kunnen  realiseren.  Om  daadkrachtig  aan  de  eerste 
+projecten in de wijken te kunnen beginnen en hier leerervaringen uit te trekken voor 
+het vervolgproces is een programma-aanpak met programmasturing nodig. 
+
+ 
+6.1.1 Participatie bewoners  
+
+ 
+Naast  het  betrekken  van  partners  en  stakeholders  hebben  we  ook  de  bewoners 
+van  Oegstgeest  betrokken  bij  de  totstandkoming  van  deze  transitievisie  warmte. 
+Zoals  in  de  inleiding  en  verderop  in  deze  visie  genoemd  is  dit  document  een 
+leidraad aan  de hand waarvan  we  verder  werken  aan  wijkuitvoeringsplannen. In 
+deze  wijkuitvoeringsplannen  gaan  we  dieper  in  gesprek  met  de  desbetreffende 
+bewoners,  publiekgroepen  en  belanghebbenden.  Zodoende  hebben  we  de 
+participatie voor deze visie deels gericht op die tweede stap  en  langs de sporen 
+informeren en raadplegen ingezet. Als onderdeel van het spoor informeren hebben 
+we  gezorgd  voor  voldoende  informatievoorzieningen  in  de  vorm  van  een 
+webpagina  met  infographic  over  de  transitievisie  warmte.  Daarnaast  hebben  we 
+
+ 
+
+ 
+
+voor bewoners en ondernemers aparte webinars verzorgd om hen mee te nemen 
+in  de  transitievisie  zelf  en  hoe  deze  visie  staat  ten  opzichte  van  regionale 
+documenten  zoals  de  RES.  Voor  de  raad  hebben  we  een  masterclass 
+georganiseerd waarin zij onder andere zijn meegenomen in de Warmte Transitie 
+Atlas,  waarin  geanalyseerde  data  een  beeld  geeft  van  de  verschillende 
+warmteoplossingen.  
+ 
+In het spoor raadplegen hebben we een enquête uitgezet binnen heel Oegstgeest. 
+Hierin werd onder andere gepeild in hoeverre bewoners op de hoogte zijn van de 
+concept  transitievisie warmte en  de grotere  energietransitie.  We hebben  in deze 
+enquête een voorschot genomen op de komende wijkuitvoeringsplannen, daarom 
+hebben  we  vragen  gesteld  met  betrekking  tot  bereidheid  om  mee  te  gaan  in  de 
+transitie  en  op  welke  termijn  die  zou  moeten  plaatsvinden.  Ook  hebben  we 
+gevraagd hoe bewoners betrokken zouden willen worden en wat voor hen de beste 
+informatiekanalen zijn.  
+ 
+De enquête is ingevuld door 154 bewoners verdeeld over alle wijken in Oegstgeest. 
+De respondenten bestaan voornamelijk uit de groep 51- 70 jaar (43,5%) en 31-50 
+jaar  (28,6%).  Een  ruime  meerderheid  van  de  respondenten  (88%)  beschikt  over 
+een koopwoning.  
+ 
+We zien  dat  een  kwart  van de respondenten  al  maatregelen  heeft  genomen  om 
+aardgasvrij te wonen of is van plan dit op korte termijn te doen. Hiervan woont 4,5% 
+al aardgasvrij. Een derde van de respondenten heeft zich wel in aardgasvrij wonen 
+verdiept  maar  (nog)  niets  gedaan  of  gepland.  Ook  zien  we  dat  veel  huurders 
+(76,4%)  het  belangrijk  vinden  om  te  verduurzamen.  Van  deze  groep  beschikt 
+41,2% niet over financiële middelen en een kwart is bereid hier meer huur voor te 
+betalen.  
+ 
+Een groot deel van de respondenten vindt het met name belangrijk voor het milieu 
+om stappen te zetten richting aardgasvrij. De respondenten zijn wel verdeeld over 
+wanneer  het  wenselijk  is  voor  hun  wijk  om  van  het  gas  af  te  gaan.  De  grootste 
+groep (23,4%) wil dit op middellange termijn (10-20 jaar). 22,7% vindt korte termijn 
+(0-10 jaar) wenselijk, terwijl een andere groep (19,5%) het liever op langere termijn 
+ziet gebeuren. Daarnaast geeft 11,7% aan dat de gemeente dit zelf moet bepalen 
+en geeft 1,3% aan het helemaal niet wenselijk te vinden.  
+ 
+Een groot deel van de respondenten wil graag betrokken worden bij de overgang 
+naar aardgasvrij. De helft (52,2%) wil bij een concreet plan voor hun buurt kunnen 
+
+28 
+ 
+
+ 
+
+reageren of vooraf mee kunnen denken  over de oplossing in hun  buurt (42,2%). 
+Een  kwart  wil  enkel  geïnformeerd  worden  en  niet  reageren  (16,9%).  Een  kleine 
+groep (7,8%) wil pas betrokken worden als het over hun buurt gaat en 12,8% geeft 
+aan het niet te weten of niet van het gas af te willen.  
+Daarnaast  geven  de  respondenten  aan  de  voorkeur  te  geven  aan  de  digitale 
+nieuwsbrief  om  geïnformeerd 
+te  worden.  Ook  de  Oegstgeester  Courant, 
+gemeentelijke website en digitale bijeenkomsten zijn gewenste informatiekanalen 
+onder  de respondenten. Een kleinere groep wil  ook  geïnformeerd worden via de 
+Goed website en sociale media.  
+ 
+In  de  wijkuitvoeringsplannen  die  volgen  op  de  Transitievisie  Warmte  staan 
+bewoners  centraal.  We  zullen  dan  ook  uitvoerig  met  bewoners  in  gesprek  gaan 
+over de mogelijkheden en keuzes voor hun wijk.  
+ 
+
+6.2  Programmatisch werken in Oegstgeest 
+
+De  warmtetransitie  is  geen  op  zichzelf  staande  opgave.  Het  is  belangrijk  dat 
+ambities  en  plannen  worden  afgestemd  met  de  ambities  en  plannen  op  andere 
+thema’s.  Het  warmtetransitie  programma  wordt  opgebouwd  uit  een  aantal 
+projecten.  Dit  zijn  zowel  gebiedsgerichte  planmatige  aanpakken,  waarin  verder 
+wordt gewerkt  aan wijkuitvoeringsplannen,  als  ook  projecten  die  gemeentebreed 
+nodig zijn om ook de rest van Oegstgeest voor te bereiden op de warmtetransitie. 
+Daarom  stellen  we  ons  voor  om  programmatisch  te  werken  op  twee  sporen, 
+namelijk de gemeentebrede aanpak en de planaanpak voor de kansrijke wijken.  
+ 
+ 
+
+6.2.1 Communicatie en participatie  
+
+Per  wijkuitvoeringsplan,  maar  ook  gemeentebreed  dient  een  communicatie-  en 
+participatielijn  opgesteld  te  worden.  Gemeentebreed  wordt  ingezet  op  een 
+communicatiestrategie die gericht is op het creëren van bewustwording en inzicht 
+biedt zodat mensen weten wat komen gaat.  
+ 
+Er  moeten  veel  maatregelen  getroffen  worden  en  tussenstappen  gezet  om  een 
+woning  aardgasvrij  te  maken.  Denk  aan  isolatie  en  goede  ventilatie,  hybride 
+warmtepompen  bij  vervanging  van  de  CV-ketel,  zonnepanelen  op  dak  voor 
+duurzame  energieopwek,  het  uitbreiden  van  groepenkasten,  elektrisch  gaan 
+koken,  etc.  Het  Duurzaam  Bouwloket  zal  worden  ingezet  om  inwoners  te 
+
+ 
+
+ 
+
+informeren over maatregelen die passen in het toekomstbeeld van Oegstgeest in 
+2050, zowel op technisch gebied als op het gebied van subsidies.  
+ 
+We  zullen  aan  de  slag  gaan  met  een  ambassadeursstrategie.  Een  netwerk  van 
+ambassadeurs  dat  ingezet  kan  worden  om  inzicht  te  geven  in  wat  de  minimale 
+benodigde  maatregelen  zijn,  wat  de  voordelen  ervan  inhouden  en  welke 
+financieringsmogelijkheden er bestaan. Daarnaast zoeken we een samenwerking 
+met  partners  die  dichtbij  de  doelgroepen  staan.  Denk  hierbij  aan  onze 
+energiecoaches,  makelaars,  VvE’s,  zorginstellingen  en  de  wijk-  en 
+buurtverenigingen. 
+ 
+Per  wijkuitvoeringsplan  is  het  vervolgens  nodig  om  op  wijkniveau  een  eigen 
+communicatie- en participatieplan op te stellen.   
+ 
+
+6.2.2 Gemeentebreed programma 
+
+Uiteindelijk  dient  de  hele  gebouwde  omgeving  in  Oegstgeest  aardgasvrij  te  zijn. 
+Alle woningen en ander vastgoed moet daarom op termijn worden voorbereid op 
+de energietransitie. Dat is een grote klus waarbij het belangrijk is om eigenaren en 
+bewoners zo goed mogelijk te ondersteunen. We zien een kans in het opzetten van 
+een “natuurlijke momenten campagne” om woningen in stappen transitiegereed te 
+maken. Het inzetten van de ambassadeurs en makelaars helpt om eigenaren en 
+bewoners op die natuurlijke momenten de juiste keuzes te laten maken. Vanuit de 
+gemeente wordt een duidelijk kader en planning geschetst wanneer verwacht wordt 
+dat  woningen  geïsoleerd  zijn.  Met  het  aanpassen  van  het  maatschappelijk 
+vastgoed  geven  we  een  goed  voorbeeld  en  in  de  prestatieafspraken  met  de 
+woningcorporaties wordt een percentage transitiegereed vastgoed opgenomen.  
+ 
+Op het gebied van de financiën zal de gemeente subsidiemogelijkheden uitlichten 
+om het aantrekkelijker te maken om woningen transitiegereed te maken om zo de 
+kosten voor particulieren te verminderen. 
+ 
+Naast de betaalbaarheid, zien we het bereiken van VvE’s in deze aanpak als een 
+punt van zorg. 
+ 
+
+29 
+ 
+
+ 
+
+6.3  Benodigde capaciteit 
+
+Zowel  bij  de  gemeente  Oegstgeest  als  bij  de  betrokken  stakeholders  en 
+uitvoerende  partijen  geldt  de  randvoorwaarde  dat  er  voldoende  capaciteit  en 
+middelen beschikbaar komen om tempo te kunnen maken nadat de TVW door de 
+gemeenteraad is vastgesteld.  
+Bovenstaand  wordt  al  gezinspeeld  op  enkele  aanvullende  capaciteit  die  de 
+gemeente  nodig  zal  hebben  om  van  start  te  gaan  met  de  warmtetransitie. 
+Gebaseerd op ervaringen met wijkuitvoeringsplannen in andere gemeentes, geeft 
+onderstaande tabel een overzicht: 
+ 
+
+Indicatie benodigde FTE’s voor uitvoering warmtetransitie 
+Programmamanagement 
+Projectmanagement 
+Projectmedewerkers op 
+onderdelen: 
+
+0,5 
+1,0 
+
+ 
+
+Projectondersteuning 
+Communicatie & 
+participatie 
+Realisatie & beheer 
+Welzijn 
+Financiën / 
+subsidieadviseur 
+
+Totaal 
+
+0,5 
+0,5 
+
+0,3 
+0,2 
+0,2 
+
+3,2 
+
+ 
+Een  aantal  van  deze  fte’s  zijn  in  te  vullen  met  huidige  capaciteit.  Voor  de  totale 
+activiteiten om de warmtetransitie te kunnen uitvoeren in een realistisch tempo, is 
+naar verwachting minimaal 3 fte aan extra capaciteit nodig vanaf halverwege 2021. 
+Het is belangrijk rekening te houden met deze extra inzet bij het voorbereiden van 
+de gemeentelijke begroting. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+  
+  
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Bijlagen 
+
+ 
+
+Bijlage A 
+Warmte-
+opties 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+1. Energie-infrastructuren 
+Er  zijn  vier  verschillende  energie-infrastructuren  denkbaar  om  de  gebouwde 
+omgeving te kunnen verwarmen: 
+
+1.  Gasnet 
+2.  All-electric  
+3.  Bronnet 
+4.  Warmtenet 
+
+ 
+
+1.1.  Gasnet 
+
+In veel wijken zal het gasnet nog wel even blijven liggen. Indien gekozen wordt om 
+het bestaande gasnet te laten liggen, is het van belang om duidelijkheid te geven 
+aan vastgoedeigenaren hoelang dit nog het geval zal zijn. Zo krijgen eigenaren de 
+tijd om de noodzakelijke maatregelen te nemen.  
+
+ 
+Als het gasnet voorlopig nog blijft liggen kan er eventueel naast de individuele HR-
+ketel  ook  een  hybride  warmtepomp  geplaatst  worden  in  de  woning  om  het 
+gasgebruik te beperken. Voorwaarde is wel dat de woning het basisisolatieniveau 
+bereikt heeft, zodat de warmtepomp optimaal kan functioneren. 
+ 
+
+1.2.  All-electric 
+
+All-electric  betekent  dat  er  alleen  een  elektriciteitsnet  naar  de  wijk  toe  komt. 
+Woningen  en  gebouwen  hebben  een  warmte-opwekinstallatie  die  alleen 
+elektriciteit  gebruikt.  Omdat  de  warmte  in  de  woning  wordt  opgewekt  met 
+bijvoorbeeld een warmtepomp of infrarood zal de vraag naar elektriciteit op koude 
+dagen  sterk  toenemen  in  de  wijk.  De  (over)capaciteit  in  het  bestaande 
+elektriciteitsnet  is  echter  beperkt  en  deze  is  bijvoorbeeld  ook  nodig  voor  de 
+realisatie  van  laadpalen  voor  elektrische  mobiliteit.  Het  elektriciteitsnet  zal  dus 
+
+31 
+ 
+
+ 
+
+verzwaard moeten worden, niet alleen op wijkniveau, maar ook op gemeentelijk, 
+regionaal, nationaal en internationaal niveau.  
+Vaak  bestaan  er  echter  beperkingen  om  het  elektriciteitsnet  te  verzwaren. 
+Rekening houdend met het feit dat we in de toekomst warmte kunnen gaan opslaan 
+in woningen, is het ook sterk de vraag of het verstandig is om  op korte termijn al 
+hele wijken gelijktijdig elektrisch te gaan verwarmen. Netverzwaring op wijkniveau 
+vergt hoge investeringen, die in de toekomst mogelijk niet nodig blijken. All-electric 
+is daarom een alternatief dat zich meer leent om organisch te ontwikkelen verspreid 
+in  een  gemeente.  Met  name  voor 
+over  meerdere  buurten  en  wijken 
+eengezinswoningen  en  gebouwen 
+in  buurten  waar  een 
+collectieve 
+warmteoplossing  geen  logische  oplossing  is  en  waarvan  de  woningen  al  goed 
+geïsoleerd zijn, of bij kleinschalige nieuwbouwprojecten. 
+ 
+Uitgaande van de huidige stand van de techniek kan alleen met warmtepompen of 
+infrarood verwarmd worden als de woningen minimaal tot het basisisolatieniveau 
+zijn aangepast, waarbij de warmtevraag voor ruimteverwarming 65 kWh/m2 of lager 
+is. Bij warmtepompen moeten dan vaak ook de radiatoren vervangen worden door 
+laagtemperatuur radiatoren.  
+ 
+Er bestaan verschillende typen warmtepompen:  
+-lucht-water-warmtepompen gebruiken de buitenlucht als warmtebron 
+-water-water-warmtepompen gebruiken water (WKO of bodemlus) als warmtebron 
+-een combinatie met zonthermie  
+ 
+Voor  het  benutten  van  energie  uit  buitenlucht  is  een  buitenunit  nodig.  Voor  het 
+benutten van warmte uit de bodem moet er een bodemlus geboord worden onder 
+de  woning  of  in  de  tuin.  Grotere  gebouwen  kunnen  ook  gebruik  maken van  een 
+eigen  warmte-  en  koude  opslaginstallatie  (WKO)  om  gebruik  te  maken  van 
+bodemenergie  als  warmtebron.  Voor  het  benutten  van  zonthermie  moeten  er 
+thermische zonnepanelen geplaats worden op het dak van de woning. 
+ 
+Naast de warmtepomp of de infraroodpanelen komt er een boilervat van minimaal 
+150  liter  voor  warm  tapwater  in  de  woning.  Bij  de  keuze  voor  een  all-electric 
+systeem moet deze ruimte dus wel beschikbaar zijn. Bij infraroodpanelen en lucht-
+water-warmtepomp zal het elektriciteitsnet meer verzwaard moeten worden dan bij 
+water-water-warmtepompen. 
+ 
+
+ 
+
+ 
+
+Efficiëntie van warmtepompen en infraroodpanelen 
+Een warmtepomp gebruikt de temperatuur van de omgeving als bron. Dat zorgt 
+ervoor dat er meer energie in de vorm van warmte wordt opgewekt dan dat er 
+aan elektriciteit wordt gebruikt. Van 1 kWh elektriciteit kan een warmtepomp 3-
+6 kWh aan warmte produceren (COP van 3-6).  
+ 
+Bij infraroodpanelen is de omzetting van elektriciteit naar warmte één staat tot 
+één, veel minder efficiënt  dus. Infraroodpanelen hebben wel het voordeel dat 
+ze alleen aan hoeven te staan op het moment dat er een persoon aanwezig is 
+in de ruimte (in tegenstelling tot andere technieken) waardoor ze in praktijk wel 
+wat  efficiënter  zijn  dan  doet  vermoeden.  Infraroodpanelen  kunnen  in  de 
+toekomst  niet  gecombineerd  worden  met  een  warmtebatterij  in  de  woning, 
+waardoor grootschalige toepassing lastig zal worden. 
+
+ 
+ 
+Nieuwe generatie warmtepompen 
+Er komen steeds meer nieuwe generatie warmtepompen op de markt die een 
+grotere temperatuursprong kunnen maken door gebruik te maken van andere 
+koudemiddelen, zoals ammoniak (NH3) en CO2.  
+ 
+De  nieuwe  generatie  warmtepompen  zijn  ontwikkeld  voor  de  industrie  en 
+worden daar al jaren toegepast. Het is dus al een bewezen techniek. Dit type 
+warmtepompen is daarom uitermate geschikt voor het leveren van warmte aan 
+een collectieve installatie in gebouwen of aan warmtenetten in wijken.  
+
+ 
+Speciaal voor woningen is er nu ook een individuele lucht-water-warmtepomp 
+op  de  markt  met  als  koudemiddel  CO2,  die  zonder  problemen  70°C  kan 
+produceren.  Voordeel  is  dat  de  bestaande  radiatoren  dan  niet  vervangen 
+hoeven  te  worden.  Nadeel  is  dat  ze  minder  energie-efficiënt  zijn.  De 
+verwachting  is  dat  er  ook  water-water-warmtepompen  voor  woningen  op  de 
+markt  zullen  komen  met  dezelfde  eigenschappen.  Om  op  grotere  schaal 
+individuele  warmtepompen  in  wijken  toe  te  passen  is  het  van  belang  dat  er 
+technieken komen om warmte compact in de woning op de slaan. Dat vraagt 
+de nodige innovatie en extra ruimte in de woning. 
+ 
+
+  
+
+32 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+Zonthermie als bron voor een warmtepomp 
+Met de nieuwe generatie zonthermische panelen wordt er, óók als er geen zon 
+is, warmte geproduceerd. Dit kan doordat het paneel behalve uit zon- en daglicht 
+ook heel goed warmte kan winnen uit de buitenlucht. Hierdoor kan ook ‘s nachts 
+en  in  de  winter  voldoende  warmte  geleverd  worden  aan  een  water-water-
+warmtepomp,  zodat  deze  net  zo  efficiënt  warmte  kan  produceren  als  een 
+warmtepomp  met  een  bodemlus.  Voordeel  is  dat  deze  oplossing  veel 
+eenvoudiger te installeren is dan het boren van een bodemlus. De zonthermische 
+panelen kunnen  gecombineerd worden  met  zonnepanelen  voor  het  opwekken 
+van elektriciteit. 
+
+ 
+ 
+Individuele oplossingen 
+Naast  all-electric  oplossingen,  kan  gekozen  worden  voor  andere  individuele 
+oplossingen. Als er geen gasnet is en ook geen warmtenet in de wijk ligt, bestaat 
+het  risico  dat  huiseigenaren  de  keuze  maken  om  houtachtige  biomassa  te 
+gebruiken, bijvoorbeeld voor een pelletkachel. Deze oplossing moet echter niet 
+gestimuleerd  worden  in  verband  met  de  risico’s  op  uitstoot  van  fijnstof  en 
+schaarste en de betaalbaarheid van houtpellets op de langere termijn. 
+
+ 
+
+ 
+
+1.3.  Bronnet 
+
+is  een  aanvulling  op  all-electric.  Een  bronnet 
+
+Een  bronnet 
+transporteert 
+laagwaardige  warmte  naar  meerdere  woningen  en  gebouwen  als  bron  voor  een 
+warmtepomp  in  de  woning  of  het  gebouw.  Ook  bij  deze  infrastructuur  moet  de 
+capaciteit van het elektriciteitsnet in de wijk dus worden verhoogd.  
+ 
+Aangezien een warmtepomp ook op woning- of gebouwniveau in veel gevallen een 
+efficiënte bron kan hebben, zal een bronnet voor woningen in de meeste gevallen 
+geen  logische  optie  zijn.  In  wijken  waar  in  hoge  dichtheid  gebouwd  is,  kan  er 
+mogelijk  beperkt  ruimte  zijn  voor  potentiele  bronnen,  waardoor  een  bronnet  een 
+oplossing kan  bieden. Echter is in dat geval vaak een warmtenet een logischere 
+keuze.  De  verwachting  is  daarom  dat  een  bronnet  met  name  ingezet  zal  gaan 
+worden als bron voor warmtepompen, die warmte leveren aan een warmtenet in 
+een wijk of op een bedrijventerrein. 
+ 
+
+1.4.  Warmtenet 
+
+Een warmtenet  is een infrastructuur van ondergrondse leidingen die warm water 
+vervoeren  naar  meerdere  gebouwen  tegelijkertijd.  Er  is  dan  sprake  van  een 
+collectieve warmtevoorziening. Aansluitingen op een warmtenet worden met name 
+gerealiseerd  op  het  moment  dat  woningen  worden  gebouwd.  Er  is  nog  weinig 
+ervaring met het aansluiten van bestaande woningen. 
+ 
+Bestaande warmtenetten in oudere wijken leveren een temperatuur van maximaal 
+90°C aan de woningen en gebouwen (hoge temperatuur). Woningen in recentere 
+wijken  zijn  beter  geïsoleerd  en  dan  kan  volstaan  worden  met  een 
+aanvoertemperatuur  die  lager ligt, circa 70°C (midden temperatuur).  Bij nieuw te 
+bouwen  wijken  kan  worden  overwogen  om  de  aanvoertemperatuur  verder  te 
+verlagen naar 40°C (laagtemperatuur). In woningen moet dan wel een aanvullende 
+boostervoorziening geplaats worden voor warm tapwater. In de praktijk zien we dat 
+daarom  vaak  ook  bij  nieuwbouwwoningen  wordt  gekozen  voor  een  midden 
+temperatuur warmtenet.  
+ 
+Om  in  een  bestaande  wijk  een  warmtenet  te  realiseren  is  er  voldoende 
+schaalgrootte  en  dichtheid  van  gebouwen  nodig. Hoe  hoger  de temperatuur,  die 
+met  de  beschikbare  warmtebron  kan  worden  geleverd,  hoe  eenvoudiger  de 
+schaalgrootte kan worden bereikt, omdat woningen snelle geschikt zijn om aan te 
+kunnen  sluiten.  Woningcorporaties  kunnen  vanwege  geclusterd  bezit  en  een 
+
+33 
+ 
+
+ 
+
+bepaalde mate van schaal, helpen om de slaagkans van een warmtenet in een wijk 
+te  vergroten 
+in  vergelijking  met  wijken  waar  voornamelijk  particuliere 
+woningeigenaren wonen.  
+ 
+Bij  een  warmtenet  komt  er  per  gebouw  of  cluster  van  eengezinswoningen  of 
+kleinere gebouwen een afleverstation. Hier kan de temperatuur worden geregeld. 
+De  temperatuur  van  het  net  kan  dus  lokaal  worden  verlaagd  als  een  gebouw 
+daarvoor geschikt is. 
+ 
+2. Energiebronnen  
+Bij 
+is 
+respectievelijk  gas  (gasnet),  elektriciteit  (E-net)  en/of  water  (warmtenet).  Bij  de 
+verschillende  energiedragers  horen  verschillende  bronnen  en  (on)mogelijkheden 
+om energie, die nodig is voor het verwarmen van woningen en gebouwen, op te 
+slaan. Daarnaast is de meest geschikte bron en bijhorende energie-infrastructuur 
+ook sterk afhankelijk van de schaalgrootte, die kan worden gerealiseerd.  
+
+iedere  energie-infrastructuur  hoort  een  andere  energiedrager.  Dit 
+
+ 
+
+2.1.  Fossiele bronnen 
+
+Tijdens de energietransitie blijven we afhankelijk van fossiele bronnen. Een goed 
+voorbeeld van deze afhankelijkheid is een woning die zonnepanelen heeft liggen 
+op het dak. Het grootste deel van de energie die wordt opgewekt door de panelen 
+kan niet gelijktijdig worden gebruikt in de woning en wordt dus terug geleverd aan 
+het elektriciteitsnet en elders gebruikt. Als het donker is of bewolkt en de panelen 
+niet  of  nauwelijks  elektriciteit  produceren,  wordt  er  elektriciteit  uit  het 
+elektriciteitsnet  gebruikt.  Deze  elektriciteit  wordt  centraal  opgewekt  met  een  mix 
+van bronnen, nu nog circa 80% fossiel (aardgas en kolen). Dat neemt niet weg dat 
+het goed is dat er zonnepanelen op daken worden geplaatst. Al het dakoppervlak 
+in  Nederland  moet  namelijk  zoveel  als  mogelijk  benut  worden  voor  de  productie 
+van hernieuwbare elektriciteit. 
+
+ 
+
+2.2.  Alternatieve bronnen voor aardgas 
+
+De alternatieve bronnen voor aardgas zijn beperkt, zeker voor de grote hoeveelheid 
+aardgas,  die  nu  in  Nederland  en  de  rest  van  de  wereld  gebruikt  wordt.  Naast 
+biogas/groen  gas  wordt  waterstof  vaak  genoemd  als  alternatief  voor  aardgas. 
+Waterstof is geen bron maar een energiedrager en wordt gemaakt van aardgas of 
+van elektriciteit. Het is in ieder geval tot 2030 niet te verwachten dat waterstof een 
+grote rol gaat spelen als energiedrager in de gebouwde omgeving. Uiteraard wel 
+
+ 
+
+ 
+
+als  grondstof  voor  de  industrie  en  mogelijk  als  energiebron  voor  (zwaarder) 
+transport en de industrie. Als we dus niet starten met het uitfaseren van gasnetten 
+in de bestaande gebouwde omgeving is de kans heel groot dat dit een lock-in is op 
+aardgas.  
+
+ 
+
+2.3.  Alternatieve bronnen voor elektriciteit 
+
+Net als in alle sectoren, gaat ook voor het verwarmen van de gebouwde omgeving, 
+elektriciteit  een  nog  grotere  rol  spelen  dan  nu  het  geval  is.  Met  name  voor  het 
+opwekken van warmte met warmtepompen in woningen, gebouwen en wijken zal 
+de  vraag  naar  elektriciteit  stijgen.  Voor  een  volledig  duurzame  samenleving  zal 
+deze elektriciteit dan wel verduurzaamd moeten worden. In Nederland zijn zon en 
+wind daarvoor de meest logische bronnen op dit moment. Verduurzaming  is een 
+hele grote opgave. De huidige elektriciteitsmix in Nederland bestaat namelijk nog 
+voor circa 80% uit fossiele bronnen. 
+Daarnaast  zijn  we  gewend  dat  elektriciteit  altijd  beschikbaar  is,  omdat  kolen-  en 
+gascentrales het gehele jaar door kunnen leveren op basis van de vraag. Maar in 
+de  toekomst  zal  het  elektriciteitsaanbod  veel  minder  constant  en  ook  deels 
+seizoensafhankelijk  zijn  door  een  groter  aandeel  van  zonne-energie  en 
+windenergie in de energiemix. Het opslaan van energie (elektriciteit en  warmte) is 
+dus noodzakelijk. Bij de keuze voor de energie-infrastructuur is het daarom nodig 
+om  meer  rekening  te  houden  met  de  (on)mogelijkheid  om  energie  op  te  slaan. 
+Belangrijk  daarbij  is  te  vermelden  dat  voor  het  voeden  van  warmtepompen 
+elektriciteit uit windenergie veel meer geschikt is dan zonne-energie, omdat in het 
+stookseizoen het aanbod van wind vele malen hoger ligt. 
+
+ 
+
+2.4.  Restwarmte 
+
+restwarmte  met  ook  verschillende 
+
+Restwarmte  komt  vrij  bij  een  productieproces.  Er  zijn  vele  verschillende  soorten 
+van 
+temperaturen.  Voor  bestaande 
+warmtenetten is restwarmte de meest voorkomende bron. Een mogelijk nadeel van 
+restwarmte is de beschikbaarheid. Er zijn maar een beperkt aantal locaties waar 
+restwarmte benut kan worden voor het verwarmen van de gebouwde omgeving en 
+het is in sommige gevallen onzeker hoe lang de warmte beschikbaar blijft. Omdat 
+restwarmte  een  relatief  goedkope  bron  is,  moet  het  daar  waar  mogelijk  worden 
+benut voor de ontwikkeling van warmtenetten. Het is dan wel van belang dat er een 
+alternatieve  duurzame  warmtebron  op 
+is,  zodat  de 
+leveringszekerheid van warmte kan worden gegarandeerd voor een zeer lange tijd.  
+
+locatie  beschikbaar 
+
+ 
+
+34 
+ 
+
+ 
+
+2.5.  Biomassa 
+
+Van biomassa in de vorm van bijvoorbeeld hout, bermgras, mest, slib, zeewier en 
+mogelijk  ook  algen  kan  energie  geproduceerd  worden.  De  energie  kan 
+geproduceerd  worden  voor  alle  energiedragers  en  dus  in  alle  sectoren,  dus  ook 
+voor  industrie  en  transport,  worden  ingezet.  Biomassa  is  echter  schaars.  Voor 
+biomassa geldt nog meer dan voor restwarmte dat de beschikbaarheid op langere 
+termijn onzeker is. Als warmtebron voor de gebouwde omgeving moet er daarom 
+zeer zorgvuldig mee omgegaan worden.  Bovendien  is het de vraag of biomassa 
+direct  ingezet  moet  worden  als  energiebron.  Vaak  zijn  er  andere  routes  waarin 
+biomassa een hogere waarde heeft. 
+
+ 
+Belangrijk is om de schaarse biomassa alleen in te zetten als transitiebron bij de 
+ontwikkeling  van  nieuwe  warmtenetten  in  de  bestaande  gebouwde  omgeving 
+eventueel  in  combinatie  met  nieuwbouw.  En  dan  met  name  daar  waar  er  geen 
+alternatieve bron, zoals restwarmte beschikbaar is. Het is dan wel van belang dat 
+er  een  alternatieve  duurzame  warmtebron  op  locatie  beschikbaar  is,  zodat  de 
+leveringszekerheid van warmte gegarandeerd kan worden. De lokale warmtenetten 
+op  biomassa  moeten  daarom  toewerken  naar  een  aanvoertemperatuur  van 
+maximaal  70°C.  Bij  een  hogere  aanvoertemperatuur  is  het  advies  om  goede 
+afspraken  te  maken  met  de  vastgoedeigenaren,  zodat  de  temperatuur  voor  het 
+einde  van  de  exploitatieduur  van  de  biomassawarmtecentrale  verlaagd  kan 
+worden.  
+Het verbranden van hout of houtpellets in woningen is niet efficiënt en moet daarom 
+voorkomen  worden.  Ook  het  inzetten  van  biomassa  bij  de  ontwikkeling  van  een 
+warmtenet voor een nieuwbouwwijk moet niet gestimuleerd worden.  
+
+ 
+
+2.6.  Energie uit de bodem en diepere aardlagen 
+
+Uit  de  bodem  en  uit  diepere  aardlagen  kan  warmte  onttrokken  worden.  Een 
+vuistregel; elke kilometer naar beneden, neemt de temperatuur met circa 30°C toe. 
+Dus hoe dieper je boort, hoe hoger de temperatuur. Of je op een bepaalde diepte 
+in  Nederland  deze  warmte  ook  daadwerkelijk  uit  de  aarde  kan  winnen,  is  sterk 
+afhankelijk van de lokale eigenschappen van de aardlagen.  
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+Bron 
+
+Diepte 
+
+Temperatuur 
+
+Bodemlussen of WKO  Tot 250 meter 
+Ondiepe geothermie 
+Diepe geothermie 
+
+250-1000 meter 
+1-4 kilometer 
+
+10 - 15 °C 
+20 - 40 °C 
+40 - 100 °C 
+
+Ultradiepe geothermie 
+
+4-6 kilometer 
+
+100 - 180 °C 
+
+Tabel A1 Bodemenergie en aardwarmte 
+
+Retournet diepe geothermie 
+ 
+Uit een geothermieput van circa 2,5 kilometer diepte kunnen temperaturen van 
+70°C of hoger omhoog worden gepompt. Als hiermee bestaande woningen en 
+gebouwen verwarmd worden, is de retourtemperatuur tussen de 40 en 50 °C. 
+Het  zou  zonde  zijn  om  deze  warmte  onbenut  weer  terug  te  pompen  in  de 
+injectieput,  waar  het  afgekoelde  water  weer  wordt  teruggepompt  naar  2,5 
+kilometer  diepte.  In  combinatie  met  een  warmtenet  kunnen  gebouwen  direct 
+worden verwarmd met deze restwarmte. Ook kan met een wijkwarmtepomp de 
+temperatuur verhoogd worden naar 70 °C, zodat het ook een oplossing is voor 
+de bestaande woningbouw. Hierdoor wordt er meer warmte benut en wordt er 
+maar 20 en 30 °C teruggepompt in de injectieput.  
+
+ 
+
+2.7.  Aquathermie 
+
+Met alle thermische energie uit water (aquathermie) kan in potentie een groot deel 
+van de gebouwde omgeving in Oegstgeest worden voorzien. Dat kan de energie 
+zijn uit oppervlakte-, afval- en drinkwater (TEO, TEA en TED). Om deze bronnen 
+te kunnen benutten zullen er wel warmtenetten ontwikkeld moeten worden in wijken 
+met  een  aanvoertemperatuur  van  maximaal  70°C.  Voordeel  is  dat  het  op  een 
+kleinere  schaal  kan  worden  toegepast  dan  bij  andere  potentiële  bronnen  voor 
+warmtenetten,  zoals  bij  restwarmte  en  geothermie  vaak  het  geval  zal  zijn.  Door 
+energie  uit  oppervlaktewater  te  onttrekken  verbetert  de  waterkwaliteit  en  het 
+verminderd ook hittestress. Voorbeelden van energie uit afvalwater zijn warmte uit 
+het  riool  (riothermie)  en  uit  het  gezuiverde  afvalwater  (effluentwater)  bij  een 
+rioolwaterzuiveringsinstallatie. 
+zoals 
+aquathermie is het van belang om te vermelden dat er elektrische warmtepompen 
+nodig  zijn  om  de  warmte  op  het  vereiste  temperatuurniveau  te  krijgen  voor  het 
+verwarmen van de woningen en deze te voorzien van warm tapwater. Er is bij de 
+
+laagwaardige  warmtebronnen, 
+
+Bij 
+
+35 
+ 
+
+ 
+
+inzet  van  warmtepompen  dus  ook  op  termijn  voldoende  duurzame  elektriciteit 
+nodig. 
+
+ 
+
+Verwarmen met oppervlaktewater 
+ 
+Oppervlaktewater  wordt  in  de  zomer  sterk  opgewarmd.  Deze  warmte  kan 
+onttrokken worden en tijdelijk worden opgeslagen in WKO. In het stookseizoen 
+kan  deze  warmte  van  circa  20°C  gebruikt  worden  als  bron  voor  een 
+warmtepomp.  De  warmtepomp  verhoogd  de  temperatuur  naar  het  gewenste 
+temperatuurniveau. Vanuit het WKO-systeem kunnen gebouwen ook gekoeld 
+worden,  maar  dit  is  voor  de  werking  van  het  systeem  niet  noodzakelijk.  Een 
+warmtepomp kan ook direct warmte onttrekken uit het oppervlaktewater zonder 
+gebruik te maken van een WKO. Dit is minder efficiënt en hierdoor kan er ook 
+minder warmte benut worden. 
+
+ 
+
+ 
+
+2.8.  Zonthermie 
+
+ 
+
+Tot nu toe heeft zonthermie nauwelijks een rol gespeelt in de warmtetransitie. Enkel 
+voor de opwek van een deel van het warm tapwater (zonneboilers) is deze techniek 
+kleinschalig  in  Nederland  toegepast.  Voor  ruimteverwarming  was  simpelweg  de 
+overbrugging  tussen  zomer  en  winter  te  lang. Maar  ook  dit  gaat veranderen.  De 
+nieuwe  generatie  thermische  zonnepanelen  kunnen  gedurende  een  langere  tijd 
+warmte uit de omgeving halen, niet alleen uit zon, maar ook uit licht en buitenlucht. 
+Dit is voldoende om zonder opslag een bron te kunnen zijn voor een warmtepomp 
+in een woning, gebouw of in de wijk. Ook kunnen er collectoren gemaakt worden 
+van  asfaltwegen.  Door  de  ontwikkeling  van  warmteopslag  kan  (op  termijn) 
+zonthermie ook ingezet worden om een groot deel van het jaar een gebouw direct 
+te verwarmen. Afhankelijk van het seizoen kunnen er temperaturen van tussen de 
+40  en  80°C  worden  gehaald  in  een  warmtebuffer.  Met  beperkte  inzet  van  een 
+warmtepomp  kan  het  gehele  jaar  door  warmte  voor  ruimteverwarming  en  warm 
+tapwater geleverd worden.  
+
+ 
+3. Energieopslag 
+Warmteopslag wordt meestal geassocieerd met warmte- koudeopslag in de bodem 
+(WKO).  Echter  worden  er  in  WKO-systemen,  op  circa  50-250  meter  diepte, 
+temperaturen  van  maar  10-25ºC  opgeslagen.  Er  is  dus  aanvullend  een 
+warmtepomp  nodig  om  gebouwen  en  woningen  met  deze  brontemperatuur  te 
+
+ 
+
+ 
+
+kunnen  verwarmen.  Warmteopslag,  waarmee  direct  kan  worden  verwarmd  met 
+temperaturen  tussen  de  30ºC  en  90ºC,  wordt  echter  nog  weinig  toegepast.  De 
+verwachting  is  dat  dit  zal  sterk  gaan  veranderen,  omdat  de  capaciteit  van  het 
+elektriciteitsnet in Nederland haar beperkingen kent. 
+
+ 
+
+3.1.  De noodzaak van warmteopslag 
+
+De  vraag  naar  warmte  voor  het  verwarmen  van  gebouwen  en  woningen  is  zeer 
+seizoensgebonden. De vraag naar warm tapwater is het gehele jaar vrij stabiel en 
+heeft  pieken  in  ochtend-  en  avonduren.  Ruimteverwarming  heeft  echter  een 
+enorme  dip  in  de  zomer  en  een  zeer  hoge  piekvraag  op  koude  dagen. 
+Warmteopslag  maakt  het  mogelijk  om  het  benodigde  piekvermogen  van  een 
+warmteopwekker, zoals een warmtepomp, te verkleinen. Een traditionele CV-ketel 
+is  een  goedkope  technologie  waarbij  het  gebruikelijk  is  om  het  benodigde 
+ketelvermogen te dimensioneren op de piek warmtevraag voor ruimteverwarming 
+en/of  het  warm  tapwater.  Het  huidige  aardgasnet  heeft  hiervoor  voldoende 
+capaciteit. Het huidige elektriciteitsnet heeft deze capaciteit echter bij lange na niet. 
+In het geval van de overstap van CV-ketels naar warmtepompen moet het huidige 
+net  dus  verzwaard  worden.  Als  dit  beperkt,  of  zelfs  voorkomen  kan  worden, 
+bespaart dat de maatschappij veel geld.  
+ 
+Daarnaast werkt een warmtepomp het meest optimaal wanneer deze continue kan 
+draaien en is de technologie minder geschikt om in een korte tijdspanne een grote 
+hoeveelheid  water  te  verwarmen.  Daarom  worden  warmtepompen  die  nu  al 
+toegepast worden in woningen bijvoorbeeld al gecombineerd met een boilervat van 
+circa  150  liter  om  warm  tapwater  voor  één  dag  op  te  kunnen  slaan.  Door  een 
+warmtepomp  te  combineren  met  warmteopslag  voor  niet  alleen  warm  tapwater 
+maar ook ruimteverwarming kan de warmtepomp (nog) kleiner uitgevoerd worden, 
+kan deze meer draaiuren maken en hoeft het elektriciteitsnet dus minder verzwaard 
+te worden. De investering in een warmtepomp is nog relatief hoog, dus hoe kleiner 
+de warmtepomp, hoe beter de businesscase. 
+  
+Een  ander  belangrijk  aspect,  dat  meegenomen  moet  worden,  is  dat  ook  aan  de 
+bronzijde veel gaat veranderen. Nu is elektriciteit altijd beschikbaar, omdat kolen- 
+en gascentrales het gehele jaar door kunnen leveren op basis van de vraag. Maar 
+in  de  toekomst  is  het  aanbod  van  zonne-energie  en  windenergie  veel  minder 
+constant en  ook deels seizoen afhankelijk. Het voordeel dat een warmtepomp in 
+combinatie met warmteopslag biedt, is de mogelijkheid voor vraagsturing. Wanneer 
+
+36 
+ 
+
+ 
+
+de  elektriciteitsprijs  laag  is  of  er  overschotten  zijn  van  (zelf)  opgewekte 
+hernieuwbare  elektriciteit,  kan  de  warmteopslag  gevuld  worden  voor  gebruik  op 
+een later moment. Op momenten dat er een piek is in de elektriciteitsvraag wordt 
+(ook) warmte vanuit de warmteopslag geleverd. Opslag is dus noodzakelijk om de 
+elektriciteit, die een warmtepomp gebruikt, CO2-neutraal op te kunnen wekken.  
+ 
+
+3.2.  Het toepassen van warmteopslag 
+
+De  ontwikkelingen  op  het  gebied  van  warmteopslag  staan  niet  stil.  Om 
+warmteopslag  in  woningen  in  combinatie  met  warmtepompen  toe  te  kunnen 
+passen,  moet  echter  nog  wel  een  grote  sprong  gemaakt  worden.  Voor  een 
+waterbuffer  is  er  simpelweg  geen  ruimte  en  compacte  technieken,  die  breed 
+toepasbaar zijn in woningen, zijn nog niet marktrijp.  
+ 
+Bij een collectieve oplossing voor een gebouw of bij een warmtenet in combinatie 
+met  een  warmtepomp  kan  met  de  huidige  stand  van  de  techniek  wel  al  warmte 
+opgeslagen  worden.  Grote  buffervaten  boven  of  ondergronds  kunnen  als 
+warmtebatterij  dienen.  Bij  warmtenetten  wordt  deze  techniek  al  toegepast.  Er 
+worden  ook  nieuwe  compactere  warmtedragers  uitgetest  en  ontwikkeld,  zoals 
+phase change materials (PCM’s) en thermochemische warmtebatterijen. 
+
+ 
+
+ 
+
+Bijlage B 
+Warmte 
+Transitie 
+Model 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+1. Het Warmtetransitiemodel in vogelvlucht 
+
+ 
+Het  Warmtetransitiemodel  (WTM)  van  Over  Morgen  geeft  beleidsmakers, 
+adviseurs, energiebedrijven en netwerkbedrijven inzicht in de opties en kosten voor 
+een aardgasvrije gebouwde omgeving. Het model geeft inzicht in twee aspecten: 
+
+1.  De  laagste  maatschappelijke  transitiekosten  per  buurt  of  wijk  voor 
+
+verschillende warmteopties  
+
+2.  Gebieden  die  kansrijk  zijn  voor  het  starten  van  een  collectieve 
+warmtevoorziening  in  een  gebied  (potentie-eilanden)  op  basis  van 
+vastgoedkenmerken 
+
+ 
+Het model heeft vijf essentiële kenmerken: 
+ 
+
+ 
+
+ 
+
+Het WTM geeft inzicht in een aardgasvrije gebouwde omgeving. Het 
+model is bedoeld om processen in de warmtetransitie te ondersteunen, 
+te faciliteren  en  te  versnellen.  Het  model  kan  ingezet  worden  in  alle 
+fases van het proces: van notie en urgentie, tot kansen en inzicht, tot 
+gedragen visies en projecten, en uiteindelijk als ondersteunende tool 
+in de uitvoering. 
+ 
+Het WTM is een ruimtelijk model dat gebaseerd is op GIS. Het model 
+voert  analyses  uit  op  gebouwen  en  buurten  en  maakt  gebruik  van 
+openbare  geografische  data  uit  betrouwbare  bronnen.  Het  model 
+maakt inzichtelijk wat verschillen zijn tussen gebieden en hoe dat leidt 
+tot andere warmteopties en kansen, en houdt daarbij rekening met de 
+ruimtelijke samenhang van een gebied. 
+
+37 
+ 
+
+ 
+
+ 
+Het WTM maakt inzichtelijk wat de kosten zijn in een buurt als je nu 
+begint,  uitgaande  van  de  huidige  stand  van  de  techniek,  prijzen  en 
+marktomstandigheden.  Het  model  onderscheidt  twee  alternatieve 
+warmte-infrastructuren  voor  het  gasnet 
+(warmteopties):  een 
+warmtenet  en  een  verzwaard  elektriciteitsnet  (all-electric).  Het  is 
+gebaseerd op integrale maatschappelijke kosten van de energieketen, 
+dus  zowel  bron,  infrastructuur,  levering  en  aanpassingen  aan  het 
+vastgoed.  Daarbij  worden  niet  alleen  de  investeringen,  maar  ook 
+onderhoud  en  operationele  kosten  meegenomen, 
+inclusief  de 
+energierekening van de eindgebruiker, gedurende een periode van 30 
+jaar.  Deze  kosten  worden  uitgedrukt 
+in  bandbreedtes.  De 
+bandbreedtes  houden  rekening  met  zaken  als  onzekerheid  in  het 
+prijspeil,  het  benutten  van  natuurlijke  momenten  en  technische 
+varianten binnen de warmteopties. 
+
+ 
+Het WTM analyseert op gebouwniveau wat kansrijke gebieden zijn om 
+te beginnen met een collectieve warmtevoorziening op gebiedsniveau. 
+Deze  analyse  kijkt  naast  maatschappelijke  kosten  ook  naar  andere 
+informatie,  zoals  eigendomssituatie,  en  houdt  geen  rekening  met 
+buurtgrenzen waardoor buurtoverstijgende kansen zichtbaar worden. 
+Deze analyse leent zich bij uitstek om te combineren met  informatie 
+over  investeringsplanningen,  zoals  riolering,  gasnet,  renovatie  en 
+sloop-nieuwbouw. 
+ 
+De  resultaten  van  het  WTM  worden  gevisualiseerd  in  interactieve, 
+online  GIS-applicaties  die  betrokken  partijen  inzicht  geven  in  de 
+materie en concreet handelingsperspectief bieden. Het WTM van Over 
+Morgen  wordt  door  meer  dan  100  gemeenten,  provincies, 
+woningcorporaties  en  netbeheerders  gebruikt  om  de  gebouwde 
+omgeving te verduurzamen. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+2. Modelontwerp, brondata en kengetallen 
+
+Het WTM maakt zoveel mogelijk gebruik van openbare brondata uit betrouwbare 
+bron.  Daarnaast  maakt  het  model  gebruik  van  verschillende  kengetallen  om 
+warmteopties te berekenen. Brondata en kengetallen komen samen in het model 
+dat  volgens  logische  regels  is  ontworpen.  Dit  hoofdstuk  gaat  dieper  in  op  de 
+brondata, kengetallen, en het modelontwerp. 
+ 
+
+2.1  Modelontwerp 
+
+Het WTM is een op GIS gebaseerd model dat geschreven is in Python 3. Het model 
+maakt voornamelijk gebruik van de ArcPy library en maakt daarnaast gebruik van 
+enkele  PostGIS-libraries.  De  basis  voor  het  modelontwerp  is  een  database  van 
+gebouwen.  Deze  database  is  gebaseerd  op  de  Basisregistratie  Adressen  en 
+Gebouwen  (BAG)  van  het  Kadaster14.  Deze  gebouwendatabase  is  verrijkt  met 
+gegevens  uit  verschillende  bronnen.  Ook  is  informatie  toegevoegd  op  basis  van 
+kengetallen.  De  gebouwendatabase  bevat  zodoende  van  ieder  gebouw  in 
+Nederland informatie over onder andere: 
+
+▪  Bouwjaar en gebouwtype  
+▪  Buurtkenmerken, zoals dichtheid en eigendomssituatie 
+▪  Gemodelleerd  energieverbruik  en  energieprestatie,  gevalideerd  met 
+
+ 
+
+ 
+
+2.  Daarnaast  voert  het  WTM  een  analyse  uit  die  de  gebouwendatabase 
+doorzoekt  op  de  meest  kansrijke  gebouwen  om  de  slag  te  voor  de 
+ontwikkeling van een warmtenet in een gemeente op basis van een vooraf 
+ingesteld  filter.  Deze  analyse  leidt  tot  de  Kansenkaart.  Samen  met 
+stakeholders kan het filter indien nodig aangepast worden 
+
+Kengetallen en 
+uitgangspunten 
+
+Openbare 
+
+databronnen 
+
+Database van gebouwde 
+
+omgeving 
+
+Filter 
+
+Rekenregels 
+
+Kansrijke gebouwen en 
+gebieden om aan de slag 
+
+te gaan met een warmtenet 
+
+Laagst maatschappelijke 
+transitiekosten per wijk of 
+
+buurt 
+
+ 
+
+▪ 
+
+werkelijke verbruiksgegevens 
+Investeringsbandbreedtes 
+energetische maatregelen 
+
+voor 
+
+verschillende 
+
+bouwkundige 
+
+en 
+
+Figuur B1: Overzicht van brondata 
+
+ 
+
+▪  Bandbreedtes van de potentiele besparing en de onderhoudskosten 
+
+ 
+De  gebouwendatabase  wordt  regelmatig  geactualiseerd  op  basis  van  nieuwe 
+databronnen  of  nieuwe  inzichten.  Op  basis  van  de  gebouwendatabase  worden 
+twee typen analyses uitgevoerd:  
+
+1.  Een analyse, die de laagste maatschappelijke transitiekosten per buurt of 
+wijk berekent voor verschillende warmteopties. Dit doet het WTM op basis 
+van  financiële  en  technische  rekenregels.  Deze  analyse  leidt  tot  de 
+Warmtekaart 
+
+ 
+ 
+
+14 Meer informatie: https://www.geobasisregistraties.nl/basisregistraties/adressen-en-gebouwen 
+
+ 
+
+38 
+ 
+
+ 
+
+2.2  Brondata 
+
+Het  WTM  maakt  vrijwel  geheel  gebruik  van  open  data  uit  betrouwbare  bronnen. 
+Daarnaast  kan  het  model  worden  aangevuld  met  eigendomsgegevens  en 
+aanvullende  vastgoeddata  van  bijvoorbeeld  woningcorporaties,  gemeenten  en 
+grootverbruikers.  De  resultaten  kunnen  in  de  kaart  gecombineerd  worden  met 
+kaarten  van  stakeholders,  zoals  planningen 
+in  de  openbare  ruimte  of 
+investeringsmomenten van vastgoed. 
+ 
+
+ 
+
+ 
+
+Bronhouder(s) Bron 
+
+Wat halen we eruit 
+
+CBS 
+
+Wijk- en Buurtkaart 
+
+Buurtgeometrie 
+
+Kadaster 
+
+ 
+
+ 
+
+ACM 
+
+Basisregistratie  Adressen 
+en Gebouwen 
+
+Basisregistratie  Topografie 
+(TOP10NL) 
+Basisregistratie  Kadaster 
+(eigendomsgegevens) 
+Besluit 
+levering warmte 2019 
+
+maximumprijs 
+
+Essent/ Eneco/ 
+ 
+Nuon 
+Regionale 
+netbeheerders 
+
+Open  Data  Netbeheerders 
+(kleinverbruiksdata) 
+
+Pandgeometrie 
+Oppervlaktes 
+Gebouwfuncties 
+Bouwjaar 
+Terreingeometrie  (voor  berekening 
+bebouwingsdichtheid) 
+Eigendomsgegevens 
+
+Prijsinformatie gas en warmte 
+Bestaande 
+warmteleveringsgebieden 
+Prijsinformatie elektriciteit 
+
+Gasverbruiken  op  postcodeniveau 
+ter  validatie  van  gemodelleerde 
+energieverbruiken 
+Marktkennis  investeringskosten  en 
+operationele  kosten  op  basis  van 
+kosten 
+getoetst  aan 
+gerealiseerde projecten.    
+
+kentallen 
+
+Over Morgen 
+
+ 
+
+Tabel B2: Overzicht van brondata 
+
+ 
+
+ 
+
+2.3  Kengetallen 
+
+De gebouwendatabase wordt verrijkt met kengetallen over investeringskosten en 
+operationele kosten  en  opbrengsten en  een realistische  besparingspotentie.  Met 
+deze  kengetallen  wordt  de  Warmtekaart  berekend.  Kengetallen  worden  bij 
+woningbouw toegekend aan gebouwen op basis van een woningtype en -bouwjaar 
+combinatie. Dit wordt een sleuteltype genoemd (tabel 2 en 3).  
+ 
+Bij  utiliteitbouw  gebeurt  dit  op  basis  van  energielabel  en  functie.  Als  er  geen 
+energielabel  aanwezig  is  dan  wordt  dit  bepaald  op  basis  van  het  bijhorende 
+bouwjaar.  Daarnaast  maken  we  nog  onderscheidt  tussen  voor-  en  naoorlogs 
+vastgoed.  Bij  utiliteitsbouw  worden  alleen  investeringskosten  berekend.  Het 
+
+39 
+ 
+
+ 
+
+berekenen van de onrendabele top is bij  utiliteit niet mogelijk, omdat het huidige 
+verbruik niet bekend is en omdat de kosten, die gebruikers van utiliteit betalen voor 
+energie  sterk  verschillen.  De  belangrijkste 
+is  dat  de 
+energiebelasting, die betaald moet worden, sterk afhankelijk is van het gebruik. 
+ 
+De  kengetallen  van  het  WTM  zijn  gebaseerd  op  technische  en  marktkennis  van 
+Over  Morgen,  aangevuld  met  kengetallen  van  commercieel  beschikbare 
+bouwkostendatabases. 
+
+reden  hiervoor 
+
+Bouwjaarklassen 
+
+<1920 
+1920-1950 
+1950-1975 
+1975-1990 
+1990-2005 
+≥2005 
+
+Gebouwtype 
+ 
+Rijwoning 
+Twee-onder-een-kapwoning 
+Vrijstaande woning 
+Meergezinswoning 
+Utiliteitsbouw 
+ 
+
+Tabel  B2:  Combinaties  van  bouwjaarklassen  en  woningtypen  vormen  sleuteltypen  in  het  WTM  bij 
+
+woningen. 
+
+ 
+
+ 
+ 
+ 
+
+Bouwjaarklassen 
+
+Energielabel 
+
+< 1945 
+1946-1973 
+1974-1981 
+1982-1992 
+1993-1999 
+2000-2003 
+2004-2005 
+> 2005 
+
+G 
+G 
+F 
+E 
+D 
+C 
+B 
+A 
+
+Functie 
+ 
+Kantoren 
+Winkels 
+Gezondheidszorg 
+Onderwijs 
+Logies 
+Sport 
+Bijeenkomst 
+ 
+
+Tabel  B3:  Sleuteltypen  voor  utiliteitsbouw  worden  bepaald  door  combinaties  van  afgemelde 
+
+energielabels en gebruiksfuncties. Indien labels niet bekend zijn, worden bouwjaarklassen gebruikt om 
+
+een label te berekenen. 
+
+ 
+
+ 
+
+ 
+
+Bijlage C 
+Warmte-
+kaart 
+
+ 
+
+ 
+
+ 
+
+ 
+
+De Warmtekaart: technisch-financiële 
+
+analyse van warmteopties per buurt 
+
+Het  WTM  berekent  per  wijk  of  buurt  (CBS-wijk/buurt  of  postcodebuurt15)  wat  de 
+totale  maatschappelijke  kosten  zijn  van  warmteopties  voor  woningen.  De 
+verschillende kosten van de opties worden naast elkaar gelegd en vergeleken. De 
+resultaten  van  deze  analyse  worden  gevisualiseerd  in  de  Warmtekaart.  Aan  het 
+WTM  ligt  een  afwegingskader  ten  grondslag.  Dat  betekent  dat  er  al  afwegingen 
+hebben  plaatsgevonden  over  de  geschiktheid  van  warmteopties  voordat  deze 
+worden  berekend  door  het  WTM.  Dit  hoofdstuk  gaat  eerst  in  op  verschillende 
+bouwkundige  en  installatietechnische  aanpassingen  op  gebouwniveau,  die 
+randvoorwaarde  zijn  voor  de  warmtetransitie.  Daarna  worden  de  warmteopties 
+besproken, en daarna wordt de afweging van warmteopties besproken. 
+ 
+
+1. Woningaanpassingen 
+
+1.1.  Woningaanpassingen afhankelijk van het temperatuurniveau 
+
+Het is in principe altijd nodig om de warmtevraag van gebouwen en woningen te 
+te  maken  voor  duurzamere 
+beperken.  Enerzijds  om  woningen  geschikt 
+warmtebronnen  die  doorgaans  een 
+leveren  dan 
+aardgasverwarming  en  anderzijds  om  schaarse  warmtebronnen  efficiënter  te 
+benutten (meer woningen per bron).  
+ 
+
+temperatuur 
+
+lagere 
+
+15 Een postcodebuurt is een gebied met dezelfde postcode. Indien CBS-buurten te grofmazig zijn worden 
+
+postcodebuurten als schaalniveau gekozen. 
+
+ 
+
+40 
+ 
+
+ 
+
+De  warmtevraag  voor  ruimteverwarming  van  een  woning,  hierna  uitgedrukt  in 
+kilowattuur per vierkante meter  gebruiksoppervlak (kWh/m2), wordt bepaald door 
+de mate van isolatie, kierdichting en het ventilatiesysteem. De temperatuur die een 
+woning nodig heeft om op de koudste dag van het jaar comfortabel warm te krijgen 
+hangt hier voor een groot deel mee samen. Hoe beter de isolatie, kierdichting en 
+hoe  efficiënter  het  ventilatiesysteem,  hoe  geschikter  de  woning  is  om  met  een 
+lagere  temperatuur  te  kunnen  verwarmen.  In  bestaande  woningen  moeten 
+daarnaast in een aantal gevallen radiatoren worden vervangen, om verwarming op 
+een lagere temperatuur mogelijk te maken. Dit is niet op voorhand op woningniveau 
+met zekerheid vast te stellen. 
+ 
+De gemiddelde huidige warmtevraag per jaar voor ruimteverwarming in Nederland 
+is circa 80 kWh/m2 voor woningen. De warmtevraag voor ruimteverwarming is sterk 
+afhankelijk  van  het  bouwjaar.  In  tabel  4  staat  de  gemiddelde  warmtevraag  voor 
+eengezinswoningen  en  meergezinswoningen.  Deze  tabel  is  gebaseerd  op  data 
+over  het  werkelijke  gasgebruik  op  postcodeniveau  (Open  Data  Netbeheerders). 
+Voor  warmtapwater  is  de  warmtevraag  ca.  15-20  kWh/m2.  Met  name  bij  de 
+woningvoorraad gebouwd voor 1990 is er nog een grote besparingspotentie. 
+
+ 
+ 
+
+Eengezinswoningen 
+< 1920 
+≥ 1920 - 1950 
+≥ 1950 - 1975 
+≥ 1975 - 1990 
+≥ 1990 - 2005 
+≥ 2005 
+Nieuwbouw 
+ 
+Meergezinswoningen 
+< 1920 
+≥ 1920 - 1950 
+
+Gemiddeld 
+oppervlak 
+m2 
+ 
+170 
+135 
+125 
+130 
+145 
+155 
+120 
+ 
+ 
+85 
+80 
+
+Gemiddeld 
+gasverbruik 
+m3 
+ 
+1920 
+1800 
+1630 
+1390 
+1180 
+990 
+- 
+ 
+ 
+1240 
+1180 
+
+Gemiddelde  
+warmtevraag ruimte-
+verwarming kWh/m2 
+ 
+90 
+105 
+95 
+75 
+60 
+45 
+30 
+ 
+ 
+95 
+95 
+
+ 
+
+ 
+
+≥ 1950 - 1975 
+≥ 1975 - 1990 
+≥ 1990 - 2005 
+≥ 2005 
+Nieuwbouw 
+Nederlands gemiddelde  115 
+
+75 
+70 
+90 
+90 
+70 
+
+1120 
+840 
+790 
+670 
+- 
+1470 
+
+90 
+70 
+50 
+40 
+25 
+80 
+
+Tabel  C1:  Gemiddelde  warmtevraag  ruimteverwarming  van  woningen  in  Nederland  gerelateerd  aan 
+
+bouwjaar. 
+ 
+ 
+Onder  eengezinswoningen  wordt  verstaan 
+twee-onder-een-
+kapwoningen  en  vrijstaande  woningen.  Meergezinswoningen  zijn  bijvoorbeeld 
+galerijflats, portiekflats en portiekwoningen. 
+
+rijwoningen, 
+
+ 
+De bestaande woningenvoorraad kunnen we grofweg opdelen in vier niveaus van 
+isolatie: 
+
+ 
+
+41 
+ 
+
+1.  Woningen met slechte of onvoldoende isolatie (80 kWh/m2 of hoger). Er is 
+een hoge temperatuur van ca. 90°C nodig om op de koudste dagen deze 
+woningen comfortabel warm te stoken.  
+
+2.  Woningen die een minimumisolatieniveau hebben bereikt (65-80 kWh/m2). 
+Bij  het  minimumniveau  kunnen  woningen  comfortabel  verwarmd  worden 
+met  een  maximumtemperatuur  van  70°C  (midden  temperatuur).  Het  kan 
+wel  voorkomen  dat  er  een  aantal  radiatoren  vervangen  moet  worden 
+voordat deze woningen daadwerkelijk met 70°C kunnen worden verwarmd. 
+
+3.  Woningen die een basisisolatieniveau hebben bereikt (50-65 kWh/m2). Bij 
+een basisniveau kan de woning zowel comfortabel worden verwarmd met 
+een maximumtemperatuur van 70°C als met 40°C (laagtemperatuur) mits 
+er een aantal beperkte, aanvullende maatregelen is genomen. De woning 
+is  daarmee  toekomstbestendig  en  geschikt  voor  meerdere  alternatieve 
+verwarmingstechnieken.  Woningen  die  reeds  op  dit  niveau  zitten  zijn 
+woningen gebouwd tussen 1990 en 2005. 
+
+4.  Woningen met een hoog isolatieniveau en voorzien van een energiezuinig 
+ventilatiesysteem  (20-50  kWh/m2).  Deze  woningen  zijn  daarmee  zeer 
+geschikt om comfortabel te verwarmen met een maximumtemperatuur van 
+40°C. Dit zijn recent gebouwde woningen na 2005 en woningen die nog 
+
+ 
+
+gebouwd  gaan  worden  de  komende  jaren.  Bij  aanpassing  van  de 
+bestaande  bouw  tot  dit  niveau  moeten  vaak  de  radiatoren  worden 
+vervangen. 
+
+Naast  isolatie  zijn  er  aanvullende  gebouwgebonden  maatregelen  nodig  om  de 
+woning te verduurzamen en geschikt te maken voor duurzame verwarming: 
+
+▪  Elektrisch koken, zoals inductiekoken 
+▪  Kierdichting 
+▪  Voldoende (mechanische) ventilatie 
+
+ 
+Voor warm tapwater geldt dat voor het veilig kunnen gebruiken van warm tapwater 
+er  met  de  huidige  stand  van  de  techniek  en  regelgeving  een  temperatuur  van 
+minimaal  55°C  bij  het  tappunt  nodig  is.  Om  deze  temperatuur  te  kunnen 
+garanderen  moet  het  opweksysteem  in  praktijk  een  temperatuur  van  60-70°C 
+kunnen leveren. Als de aanvoertemperatuur onvoldoende hoog is, moet er dus een 
+aanvullende voorziening komen  in  de  woning  voor  het opwekken  of het boosten 
+van de warmte voor warm tapwater. 
+
+ 
+Samenvattend  kan  het  volgende  gesteld  worden  over  de  isolatieniveaus  van 
+woningen: 
+
+▪  Om een woning met 90°C (hoge temperatuur) te kunnen verwarmen zijn 
+
+geen aanpassingen nodig. 
+
+▪  Om  een  woning  comfortabel  met  70°C  (midden  temperatuur)  te  kunnen 
+verwarmen, moet dus het minimum- of basisolatieniveau bereikt zijn (50-
+80 kWh/m2) 
+
+▪  Om  een  woning  comfortabel  met  40°C  (laagtemperatuur)  te  kunnen 
+verwarmen,  moet  een  basis-  of  hoog  isolatieniveau  bereikt  zijn  (20-65 
+kWh/m2) 
+
+ 
+
+1.2.  Minimumisolatieniveau  
+
+Tabel 5 geeft ter indicatie per bouwjaar de maatregelen die genomen moeten zijn 
+voor een minimumisolatieniveau (65-80 kWh/m2). Bij alle isolatiemaatregelen geldt 
+dat  maximaal  technisch  geïsoleerd  moet  worden  zonder  dat  onderdelen  van  de 
+woning geheel vervangen hoeven te worden. De isolatiewaarde die behaald kan 
+worden  is  dus  sterk  situatieafhankelijk,  omdat  alle  woningen anders  zijn.  Op  het 
+gebied van isolatie zitten alle woningen gebouwd na 1990 en een deel gebouwd 
+tussen 1975 en 1990 al vanaf het jaar dat ze gebouwd zijn op dit minimumniveau.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Vloer 
+
+Gevel 
+
+Kozijnen en glas Dak 
+
+Eengezinswoningen 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Geen spouw 
+
+Minimaal  HR++ 
+glas 
+
+Dak isoleren 
+
+Kruipruimte  isoleren 
+indien aanwezig 
+
+Spouw 
+Isoleren 
+
+Minimaal  dubbel 
+glas 
+
+Voldoet 
+
+1.4.  Hoog isolatieniveau  
+
+< 1920 
+
+≥ 1920 – 1950 
+ 
+ 
+
+≥ 1950 - 1975 
+
+≥ 1975 – 1990 
+
+≥ 1990 - 2005 
+
+≥ 2005 
+
+Voldoet 
+
+Voldoet 
+
+Voldoet 
+
+Meergezinswoningen 
+
+ 
+
+ 
+
+ 
+
+ 
+
+< 1920 
+
+≥ 1920 – 1950 
+
+≥ 1950 - 1975 
+
+≥ 1975 – 1990 
+
+≥ 1990 – 2005 
+
+≥ 2005 
+
+Geen spouw 
+
+Minimaal  HR++ 
+glas 
+
+Kruipruimte  isoleren 
+indien aanwezig 
+
+Spouw 
+isoleren 
+
+Dak isoleren 
+
+Minimaal  dubbel 
+glas 
+
+Voldoet 
+
+Voldoet 
+
+Voldoet 
+
+Voldoet 
+
+Tabel C2: Indicatie minimumniveau maatregelen per bouwjaar en woningtype. 
+
+ 
+
+ 
+
+1.3.  Basisisolatieniveau  
+
+Tabel  6  geeft  ter  indicatie  de  maatregelen  die  genomen  moeten  zijn  voor  een 
+basisisolatieniveau  (50-65  kWh/m2).  Bij  alle  isolatiemaatregelen  geldt  dat 
+maximaal technisch geïsoleerd moet worden zonder dat onderdelen van de woning 
+geheel vervangen hoeven te worden. het gebied van isolatie zitten alle woningen 
+gebouwd na 1990 op dit niveau.  
+
+ 
+ 
+
+Vloer 
+
+Gevel 
+
+Kozijnen en glas Dak 
+
+Alle woningtypes 
+
+ 
+
+ 
+
+ 
+
+ 
+
+< 1920 
+
+≥ 1920 – 1950 
+
+Kruipruimte 
+isoleren 
+aanwezig 
+
+als 
+
+Isolatie 
+binnenzijde 
+
+Minimaal HR glas 
+
+Dak 
+(na)isoleren 
+
+42 
+ 
+
+ 
+
+≥ 1950 – 1975 
+≥ 1975 – 1990 
+
+≥ 1990 - 2005 
+
+≥ 2005 
+
+Spouw 
+(na)isoleren 
+
+Minimaal HR glas 
+
+Voldoet 
+
+Voldoet 
+
+Voldoet 
+
+Voldoet 
+
+Tabel C3: Indicatie basisniveau maatregelen per bouwjaar. 
+
+ 
+ 
+
+In 2050 zal ook een deel van de voorraad op een hoog isolatieniveau hebben. Het 
+grootste deel daarvan moet nog gebouwd worden de komende 30 jaar. Alle huidige 
+en  toekomstige  nieuwbouw  voldoet  namelijk  aan  dit  niveau.  Het  is  de  landelijke 
+ambitie om jaarlijks 75.000 nieuwe woningen in Nederland bij te bouwen. Van de 
+bestaande bouw zal maar  een beperkt deel op dit niveau worden gebracht is de 
+verwachting. Om dit niveau te kunnen halen moeten er namelijk grote en kostbare 
+ingrepen  gedaan  worden  aan  de  schil.  Dit  is  voor  veel  huizenbezitters  niet 
+betaalbaar,  technisch  niet  altijd  mogelijk  en  ook  niet  altijd  efficiënt  vanuit  het 
+oogpunt van circulariteit. In gevallen dat er veel achterstallig onderhoud is en de 
+kozijnen en het dak volledig vervangen moeten worden, kan het wel raadzaam zijn 
+om deze optie te onderzoeken. 
+
+ 
+
+2. Welke warmteopties zijn afgewogen? 
+
+In het model worden twee warmteopties afgewogen, die op basis van de huidige 
+stand van de techniek realistisch zijn voor het aardgasvrij maken van een buurt: 
+
+▪  Een collectieve warmteoplossing, met een midden temperatuur warmtenet 
+
+in de wijk  
+
+▪  Een all-electric oplossing met een warmtepomp per gebouw of woning 
+▪  Het bestaande aardgasnet blijft (voorlopig nog) liggen 
+
+ 
+
+2.1  Midden temperatuur warmtenet  
+
+Een midden temperatuur warmtenet levert warmte van circa 70°C aan woningen 
+en gebouwen. Alle woningen, die worden aangesloten moeten dus het minimum- 
+of basisolatieniveau hebben bereikt (50-80 kWh/m2). Het warmtenet kan dus naast 
+warmte voor ruimteverwarming ook direct warmte voor warm tapwater leveren.  
+ 
+
+ 
+
+ 
+
+De  bron  en  bijhorende  opwekinstallatie  waarmee  dit  net  wordt  gevoed  is  sterk 
+afhankelijk  van  de  locatie  en  de  schaalgrote  van  het  afzetgebied.  Het  WTM 
+analyseert niet de beschikbaarheid van bronnen in een buurt, maar veronderstelt 
+dat er altijd voldoende bronnen zijn. De potentiële bronnenmix in een gebied moet 
+dus  apart  gevalideerd  worden.  Het  verdient  hier  de  opmerking  dat  een  70˚C-
+warmtenet  wel  degelijk  kan  starten  als  een  warmtenet  dat  tijdelijk  gevoed  wordt 
+door bronnen van 90˚C, bijvoorbeeld door een tijdelijke gasketel in de wijk, met een 
+biomassacentrale  of  als  er  hoge  temperatuur  restwarmte  beschikbaar  is. 
+Vastgoedeigenaren  hebben  dan  de  tijd  om  hun  gebouwen  te  isoleren  en  het 
+warmtenet kan dan dus sneller groeien. 
+ 
+De kosten voor de infrastructuur van een warmtenet bestaan uit de aanleg van de 
+hoofdleiding naar de wijk, de wijkinfrastructuur en onderstations en het aansluiten 
+van de woning inclusief het plaatsen van een afleverset. Deze kosten kunnen sterk 
+per buurt verschillen en zijn voor een groot deel afhankelijk van het type bebouwing 
+en  de  dichtheid  van  de  bebouwing.  Deze  worden  deels  terugverdiend  door  een 
+positieve  exploitatie  van  de  verkoop  van  warmte  aan  de  consument,  gedurende 
+een  lange  looptijd.  Wat  overblijft  is  de  Bijdrage  Aansluit  Kosten  (BAK)  die  de 
+vastgoedeigenaar  betaalt  op  het  moment  van  aansluiten.  In  het  WTM  wordt 
+gerekend met deze aansluitkosten. Daarbij wordt rekening gehouden met schaal 
+en  dichtheid:  hoe  groter  de  lokale  toepassingsschaal  en  hoe  stedelijker  de 
+omgeving, hoe lager de kosten per woning. 
+ 
+
+2.2  All-electric  
+
+ All-electric  betekent  dat  er  alleen  een  elektriciteitsnet  in  de  buurt  is.  Als  dat  het 
+geval is, dan is er een warmteopwekinstallatie in de woning of het gebouw nodig 
+die  alleen  elektriciteit  gebruikt.  Dit  is  dus  een  individueel  systeem  waar 
+gebouweigenaren over besluiten. In het model is uitgegaan van een lucht-water-
+warmtepomp,  omdat  dit  in  praktijk  de  meest  toegepaste  oplossing  is.  Naast  de 
+investeringskosten  in  de  warmtepomp  zijn  ook  de  kosten  meegenomen  voor 
+elektriciteitsnetverzwaring.  Deze  kosten  zijn  gebaseerd  op  een  aantal 
+praktijkcases, maar zullen per wijk uiteraard sterk kunnen verschillen. 
+ 
+
+2.3  Bestaande gasnet (voorlopig) laten liggen 
+
+De  derde  warmteoptie  is  die  van  het  bestaande  gasnet.  Deze  warmteoptie  is 
+belangrijk  omdat  er  buurten  overblijven  waar  zowel  all-electric  als  een  midden 
+temperatuur warmtenet zeer kostbare en daarom onrealistische warmteopties zijn 
+met  de  huidige  stand  van  de  techniek.  Het  gaat  dan  met  name  om  landelijke 
+
+43 
+ 
+
+ 
+
+buurten  en  om  oude  binnensteden.  Aangezien  het  WTM  een  model  is  dat  een 
+uitspraak  doet  over  welke  warmteoptie  logisch  is  om  mee  te  starten  in  een  wijk 
+vanuit het oogpunt van kosten, is het ook logisch om buurten aan te wijzen waar je 
+voorlopig nog niet start en het gasnet voorlopig nog blijft liggen. 
+ 
+
+3. Modelleren van het afwegingskader 
+
+Het afwegingskader is geïmplementeerd in het WTM door middel van rekenregels. 
+Op  basis  van  de  kengetallen  per  sleuteltype  is  per  woning  berekend  wat  de 
+investeringen  en  besparingen  zijn  van  de  warmteopties.  Deze  investeringen  en 
+besparingen worden opgeteld per buurt. Utiliteitsgebouwen doen dus niet mee in 
+deze  berekening.  Bij  warmtenetten  wordt  rekening  gehouden  met  schaal  en 
+dichtheid: hoe groter de toepassingsschaal en hoe hoger de dichtheid, hoe lager 
+de  kosten  per  woning.  Op  basis  van  de  investeringskosten  en  de  operationele 
+kosten en opbrengsten wordt een onrendabele top berekend over een periode van 
+30 jaar met een financiering met 1,5% rente. De onrendabele top is het deel van 
+de investering dat niet kan worden terugverdiend met de inkomsten en besparingen 
+van de investering. Vrijwel altijd zullen duurzame warmteopties nog leiden tot een 
+onrendabele  top  op  buurtniveau.  Als  de  financieringsperiode  wordt  verkort  naar 
+bijvoorbeeld 15 jaar dan zal de onrendabele top dus verder stijgen. De omvang van 
+de onrendabele top verschilt doorgaans sterk per buurt. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+Bij de berekeningen worden de volgende kengetallen gebruikt: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Tarieven 2019 
+Kosten aardgas per m3 
+Kosten elektriciteit per kWh 
+Kosten warmte per GJ 
+Vastrecht gas energieleverancier 
+Vastrecht gas en meetkosten netbeheerder  €       181,- 
+Exploitatieduur 
+Financieringsrente 
+
+30 
+1,5% 
+
+ 
+
+ €         0,81  
+ €         0,23  
+ €       28,47  
+ €       57,69  
+
+3.2  Allocatie van warmteopties 
+
+Het optellen van alle kosten en besparingen per woning per buurt leidt tot een som, 
+waarbij de sommen van warmtenet en all-electric worden vergeleken om de optie 
+te vinden met de laagste maatschappelijke kosten.  
+
+Maatregelen woningniveau 
+
+Maatregelen aardgasvrij 
+
+Bandbreedte 
+
+Bandbreedte 
+
+ 
+
+Tabel C4: Geselecteerde financiële kengetallen 
+
+ 
+
+ 
+
+3.1  Bandbreedtes in investeringskosten en besparingen 
+
+Alle  investeringskosten  en  de  onrendabele  top  worden  uitgedrukt  in  een 
+gemiddelde  bandbreedte  met  een  onder-  en  bovengrens.  Deze  bandbreedte  is 
+nodig omdat er een bandbreedte wordt genomen in de te nemen maatregelen op 
+woningniveau  en  in  hoeverre  maatregelen  (kunnen)  worden  gecombineerd  met 
+natuurlijke  momenten.  Ook  zijn  er  sterke  verschillen  in  de  investeringen  in  de 
+aansluiting  op  een  warmtenet,  vanwege  lokale  omstandigheden,  zoals  het  type 
+bron  en  de  te  realiseren  schaal.  De  bandbreedtes  zijn  zodanig  breed  dat  zij 
+rekening houden met de volgende aspecten: 
+
+▪  Technische  variaties  binnen  warmteopties,  afhankelijk  van  warmtebron, 
+
+opslag, opwekker en infrastructuur 
+
+▪  Bestaande prijsverschillen op de markt 
+▪  Marktontwikkelingen  zoals  schaarste  en  inzetbaarheid  van  personeel, 
+
+materiaal, etc. 
+
+▪  Het  al  dan  niet  benutten  van  natuurlijke  momenten  voor  investeringen 
+
+(woningrenovatie, aanpakken van de riolering, etc.) 
+
+▪  Reeds getroffen maatregelen in de woning  
+▪  Afwijking van de kengetallen als gevolg van sterk afwijkende woningen 
+
+ 
+De  omvang  van  de  bandbreedte  verschilt  per  maatregeltype,  warmteoptie, 
+woningtype  en  bouwjaarklasse,  afhankelijk  van  de  karakteristieken  van  die 
+specifieke combinatie. 
+ 
+ 
+
+44 
+ 
+
+ 
+
+Ondergrens 
+
+Bovengrens 
+
+Ondergrens 
+
+Bovengrens 
+
+Totale investering warmtetransitie  
+ 
+ 
+
+Bandbreedte 
+
+Figuur C1: Schematische weergave van kostenbandbreedtes voor de warmtetransitie  
+
+Ondergrens 
+
+Bovengrens 
+
+ 
+Buurten waar een warmtenet lagere kosten heeft dan de all-electric variant, maar 
+waarbij  niet  wordt  voldaan  aan  een  van  de  twee  onderstaande  voorwaarden, 
+komen uit op de warmteoptie “Voorlopig nog gasnet”: 
+
+▪ 
+
+▪ 
+
+Indien  de  bebouwingsdichtheid  lager  is  dan  30  woningequivalenten  per 
+hectare, waarbij een woningequivalent gelijkstaat aan één woning en 100 
+m2 utiliteitsbouw 
+Indien het gemiddelde bouwjaar ouder is dan 1920 
+
+ 
+
+ 
+
+ 
+
+3.3  De visualisatie van de Warmtekaart 
+
+De  resultaten  van  de  kostentechnische  analyse  worden  gevisualiseerd  in  de 
+Warmtekaart.  De  Warmtekaart  toont  de  voorkeursoptie  op  basis  van  de  laagste 
+maatschappelijke  kosten,  en  toont  ook  de  orde  grootte  van  het  verschil  met  het 
+alternatief.  Wanneer  de  kosten  zeer  dichtbij  elkaar  liggen,  wordt  dit  ook 
+weergegeven.  Wanneer  de  gebruiker  op  een  buurt  klikt,  zijn  alle  kosten  en 
+besparingen in detail te zien (met in achtneming van de bandbreedtes). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+Figuur C2: Laagste maatschappelijke kosten per warmteoptie per buurt 
+ 
+ 
+
+ 
+
+45 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Bijlage D 
+Kansen-
+kaart 
+
+ 
+
+ 
+
+ 
+
+ 
+
+De  Kansenkaart: 
+handelingsperspectief 
+
+inzicht 
+
+in  concreet 
+
+Waar de Warmtekaart gericht is op het schetsen van een mogelijk eindbeeld per 
+buurt op basis van de huidige stand van kennis en techniek, is er ook behoefte aan 
+concreet  handelingsperspectief  voor  de  korte  termijn.  De  Kansenkaart  geeft 
+daaraan invulling. 
+ 
+De  Kansenkaart  heeft  een  nauwkeuriger  schaalniveau  dan  de  Warmtekaart.  De 
+Kansenkaart visualiseert kansrijke gebouwen en kijkt naar de clustering van deze 
+gebouwen  om 
+tot  concrete  kansgebieden  voor  de  realisatie 
+warmtenetten. Voor de realisatie van warmtenetten is namelijk voldoende schaal 
+nodig.  Voor  all-electric  is  dit  veel  minder  relevant,  omdat  dit  een  individuele 
+warmteoptie is. Het model maakt eerst een selectie van kansrijke gebouwen met 
+behulp  van  een  filter,  en  vervolgens  een  clusteranalyse  om  te  komen  tot 
+kansgebieden, die ook wel potentie-eilanden heten. 
+ 
+
+te  komen 
+
+1. Selectie van kansrijke gebouwen 
+
+Kansrijke  gebouwen  voor  een  warmtenet  zijn  de  dragers  van  een  nieuw  te 
+ontwikkelen  of  uit  te  breiden  warmtenet.  Het  zijn  gebouwen  met  een  grote 
+warmtevraag  die  relatief  eenvoudig  aan  te  sluiten  zijn,  bij  voorkeur  in  collectief 
+eigendom  (corporatiebezit).  De  analyse  kijkt  bijvoorbeeld  naar  de  aanwezigheid 
+van blokverwarming en de bouwperiode als criteria. 
+ 
+ 
+ 
+
+46 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Warmtenet 
+
+Pandtype 
+
+Meergezinswoningen en Utiliteitsbouw 
+
+Bouwjaar 
+
+≥ 1950-2000 (meergezinswoningen) 
+Geen bouwjaarcriterium (utiliteitsbouw) 
+
+Eigendom 
+
+Corporatie- of particulier bezit 
+
+Blokverwarming  Met of zonder (bij meergezinswoningen) 
+
+Grootte 
+
+≥ 5 woningen (meergezinswoningen) 
+≥ 1.000 m2 GBO (utiliteitsbouw) 
+
+Tabel D1: Criteria voor de selectie van kansrijke gebouwen per categorie. Deze criteria zijn 
+ 
+niet gefixeerd: zij kunnen aangepast worden in afstemming met betrokken partijen. 
+ 
+
+2. Clustering tot potentie-eilanden 
+
+Wanneer  kansrijke  gebouwen  zijn  geselecteerd  op  grond  van  de  selectiecriteria 
+kunnen in deze selectie ruimtelijke clusters worden gevonden. Deze clusters, ofwel 
+potentie-eilanden, zijn om verschillende redenen relevant: 
+
+▪  Een  potentie-eiland  van  kansrijke  gebouwen  is  voor  stakeholders 
+
+herkenbaar als project- of kansgebied 
+ 
+
+▪  Een potentie-eiland van kansrijke gebouwen kan buurtoverstijgend zijn: zo 
+wordt het grensoverschrijdende karakter van de warmtetransitie zichtbaar 
+en worden de “harde” grenzen van de Warmtekaart genuanceerd 
+
+ 
+
+ 
+
+ 
+ 
+
+▪  De  transitiekosten  en  onrendabele  top  kunnen  ook  per  warmte-eiland 
+worden gerapporteerd, zodoende wordt gelijk een indicatie gegeven van 
+de  kosten  van  een  bepaald  projectgebied.  De  clustering  van  kansrijke 
+gebouwen  tot  potentie-eilanden  wordt  berekend  volgens  het  DBSCAN 
+algoritme.  Voor  de  vorming  van  een  potentie-eiland  worden  criteria 
+gebruikt voor afstand en minimale omvang. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+47 
+ 
+
+ 
+
+ 
+
+

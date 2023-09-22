@@ -1,13 +1,12 @@
-
+from begrippenlijst import begrippenlijst
 from text_miner import Text_Miner
-import interface
-import pandas as pd
-import cProfile
+import os
+from read_variables_from_instructions import read_instructions
 
 #TODO: sometimes server is overloaded, then flings your request. Would be great to segment this
 
 if __name__ == "__main__":
-    def main(root):
+    def main(root, project_name, output_folder, prompt):
         # interface.MyProgramInterface.start()
 
         # categories = "Plaats elke maatregel in een van de volgende categorieen: Mobiliteit (verkeer), Mobiele werktuigen, Industrie, Houtstook van particuliere huishoudens, Binnenvaart en havens, Landbouw, Participatie van burgers en bedrijven, Monitoring, Hoogblootgestelde locaties en gevoelige groepen, Internationaal luchtbeleid of Geen van allen"
@@ -29,16 +28,24 @@ if __name__ == "__main__":
         # particuliere huishoudens, Binnenvaart en havens, Landbouw, Participatie van burgers en bedrijven, Monitoring,
         # Hoogblootgestelde locaties en gevoelige groepen, Internationaal luchtbeleid of Geen van allen."
 
-        mode = str("Geef een samenvatting van deze tekst voor iemand die geinteresserd is in luchtkwaliteit. "
-                   "Noem alle relevante maatregelen die in de tekst staan zijn en waarom deze te "
-                   "maken hebben met luchtkwaliteit. Gebruik duidelijke en taal, specifieke termen en beleidsprogramma's"
-                   "Geef voldoende context en zorg dat er zo min mogelijk informatie verloren gaat."
-                   " Geef het antwoord in het Nederlands. "
-                   )
-                   # "Categoriseer elk citaat in een "
-                   # "van de volgende categorieën: Mobiliteit (verkeer), Mobiele machines, Industrie, Houtverbranding in particuliere "
-                   # "huishoudens, Binnenvaart en havens, Landbouw, Participatie van burgers en bedrijven, Monitoring, "
-                   # "Locaties met hoge blootstelling en kwetsbare groepen, Internationaal luchtbeleid, of Geen.\n")
+        # prompt = str("Geef een samenvatting van deze tekst voor iemand die geinteresserd is in luchtkwaliteit. "
+        #            "Noem alle relevante maatregelen die in de tekst staan zijn en waarom deze te "
+        #            "maken hebben met luchtkwaliteit. Gebruik duidelijke en taal, specifieke termen en beleidsprogramma's"
+        #            "Geef voldoende context en zorg dat er zo min mogelijk informatie verloren gaat."
+        #            " Geef het antwoord in het Nederlands. ")
+        #
+        # prompt = str("Je bent onderzoeker die een analyse moet maken van stukken tekst."
+        #            "Zoek in het volgende stuk tekst de zinnen die direct te maken hebben met doeltreffendheid en doelmatigheid van genoemde maatregelen. "
+        #            "Het kan voorkomen dat de woorden doeltreffendhed en doelmatigheid uitwisselbaar worden gebruikt met effectiviteit en efficientie. "
+        #            "Wij willen weten of er in het document iets staat over doeltreffendheid en doelmatigheid, maar ook "
+        #            "op welke maatregelen dat van toepassing is. Het moet mogelijk zijn om dit terug te leiden naar de bron."
+        #            "Plaats genoemde maatregelen tussen [] haakjes."
+        #            )
+
+       # "Categoriseer elk citaat in een "
+       # "van de volgende categorieën: Mobiliteit (verkeer), Mobiele machines, Industrie, Houtverbranding in particuliere "
+       # "huishoudens, Binnenvaart en havens, Landbouw, Participatie van burgers en bedrijven, Monitoring, "
+       # "Locaties met hoge blootstelling en kwetsbare groepen, Internationaal luchtbeleid, of Geen.\n")
 
         # mode =str("Citeer of quote alle acties die relevant zijn voor de luchtkwaliteit in de tekst na deze prompt. "
         # "Geef een duidelijke uitleg voor alle maatregelen waarom deze te maken heeft met luchtkwaliteit. Gebruik "
@@ -53,8 +60,10 @@ if __name__ == "__main__":
         # root = r'C:\Users\d.los\Berenschot\Provincie Noord-Brabant - 69559 - Provinciale SLA samenwerking - EvRe\2. Documenten en data\Analysedocumenten\Zundert'
         # root = r'C:\Users\d.los\Berenschot\Provincie Noord-Brabant - 69559 - Provinciale SLA samenwerking - EvRe\2. Documenten en data\Analysedocumenten\Bergen op Zoom'
 
-
-        x = Text_Miner(root = root ,mode = mode)
+        x = Text_Miner(root = root ,
+                       mode = prompt,
+                       output_folder = output_folder,
+                       project_name = project_name)
         # x.get_languages()
         print('Structuur opzetten')
         x.get_structure()
@@ -64,48 +73,77 @@ if __name__ == "__main__":
         x.estimate_costs()
         # x.agree()
         x.accord = True
-        x = x
+
         if x.accord == True:
             x.AI_interact()
-            x.write_to_file(x.outputdict)
-            summarized_output = x.AI.summarize(x.outputdict)
 
-            # newdict = {}
-            # for key, item in x.outputdict.items():
-            #     summ_output = x.AI.generate_text_with_prompt(mode= 'vat deze tekst samen', prompt=item)
-            #     newdict.setdefault(key, [])
-            #     newdict[key].append(summ_output)
-            # x.outputdict = newdict
+            x.write_to_file(x.outputdict, formatting = False)
+            return x
+        #     summarized_output = x.AI.bulletize(x.outputdict)
+        #     x.write_to_file(summarized_output, extra='_samengevoegd')
 
-            x.write_to_file(summarized_output, extra='_samengevoegd')
-            # f = pd.read_json('[' + str(x.AI.categorized) + ']')
-            # f.to_excel('output/' + x.name + '_categorized.xlsx')
-            print('\nDone')
-        # x.agree()
-        # if x.accord == True:
-        #     x.AI_interact()
-        # x.write_to_file()
+if __name__ == "__main__":
+    #TODO: clean up all the code
 
-    # p = cProfile.run(main())
-    import os
-    rootroot = r'C:\Users\d.los\Berenschot\Provincie Noord-Brabant - 69559 - Provinciale SLA samenwerking - EvRe\2. Documenten en data\Analysedocumenten'
+    # instruction_file = r"C:\Users\d.los\OneDrive - Berenschot\Bureaublad\instructie_voorjaarsnota.txt"
+    instruction_file = r"C:\Users\d.los\PycharmProjects\documentsearch\instruction_voorjaarsnota.txt"
+    variables = read_instructions(instruction_file)
+    project_root = variables['root']
+    prompt = variables['prompt']
+    project_name = variables['project_name']
+    output_folder = variables['output_folder']
 
-    folder = r'C:\Users\d.los\Berenschot\Provincie Noord-Brabant - 69559 - Provinciale SLA samenwerking - EvRe\2. Documenten en data\Analysedocumenten'
-    sub_folders = [name for name in os.listdir(folder) if os.path.isdir(os.path.join(folder, name))]
-    to_do = ['Waalre', 'Woensdrecht', 'Loon op Zand', 'Drimmelen', 'Asten', 'Gilze-Rijen', 'Geldrop-Mierlo', 'Zundert']
-    maps_and_files = [i for i in os.walk(folder)]
-    # for name in sub_folders:
-    #     if name in to_do:
-    #
-    #         print(f'Processing: {name}')
-    #         try:
-    #
-    #             main(root = str(fr"{rootroot}\{name}"))
-    #         except Exception as e:
-    #             print(f'An error occured with {name}')
-    #             print(e)
-    #             continue
-    #
-    # print('done')
+    sub_folders = [name for name in os.listdir(project_root) if os.path.isdir(os.path.join(project_root, name))]
+
+    to_do = False# ['Voorschoten'] #['Leiden'] # Can also be a list if you want less
+    # to_do = ['Laarbeek']
+    print(f'Loading: {sub_folders if not to_do else to_do}')
+    maps_and_files = [i for i in os.walk(project_root)]
+
+    ## This code can be used to find a list of used documents
+    # print(sub_folders.index(to_do))
+    # print(maps_and_files[sub_folders.index(to_do)+1])
+
+    # terms = begrippenlijst()
+    # terms = ["Aanbod",]
+    for name in sub_folders:
+    # This code iterates through all documents in the root
+        if to_do:
+            if name in to_do:
+                print(f'Processing: {name}')
+                try:
+                    # for term in terms:
+                    # print(f'Doing {terms} now')
+                    x = main(
+                        root=str(fr"{project_root}\{name}"),
+                        project_name = project_name,
+                        output_folder = output_folder,
+                        # prompt = f"Benoem uit dit stuk tekst de volgende termen, of afgeleiden van de term: '{terms}'." + prompt
+                        prompt = prompt
+                    )
+
+                except Exception as e:
+                    print(f'An error occurred with {name}')
+                    print(e)
+                    continue
+        else:
+            try:
+                # for term in terms:
+                # print(f'Doing {terms} now')
+                x = main(
+                    root=str(fr"{project_root}\{name}"),
+                    project_name=project_name,
+                    output_folder=output_folder,
+                    # prompt = f"Benoem uit dit stuk tekst de volgende termen, of afgeleiden van de term: '{terms}'." + prompt
+                    prompt=prompt
+                )
+
+            except Exception as e:
+                print(f'An error occurred with {name}')
+                print(e)
+                continue
+
+    print('done')
+
 
 

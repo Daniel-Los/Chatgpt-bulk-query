@@ -18,6 +18,7 @@ from api_import import api_import
 from uniquename import uniquename
 
 import io
+import re
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
 from pdfminer.converter import TextConverter
 from pdfminer.layout import LAParams
@@ -39,7 +40,7 @@ import pdf2image
 
 
 class Text_Miner():
-    def __init__(self, root, mode):
+    def __init__(self, root, mode, project_name, output_folder):
 
         self.key = api_import()
 
@@ -54,6 +55,9 @@ class Text_Miner():
         self.target_language = 'nld'
         self.langs = {'nld': 'dutch', 'eng': 'english'}
         self.prompt = str() # the actual prompt that will be sent to the ai
+        self.project_name = project_name
+        self.output_folder = output_folder
+
         # self.mode = str('Noem alle maatregelen uit de volgende tekst die te maken hebben met verbeteren van de luchtkwaliteit op commagescheiden manier' +
         #             # 'en een schatting per maatregel of deze in de fase: "voornemen", "beginfase", "uitvoering" of "geimplementeerd" is' +
         #                 " als er geen maatregelen zijn genoemd, antwoord dan - . " +
@@ -92,6 +96,7 @@ class Text_Miner():
         self.accord = False
         self.AI = OpenAIGPT()
 
+        self.table_data = []
     def get_languages(self, **kwargs):
         # this function checks if the target language is possible to work with.
 
@@ -130,7 +135,8 @@ class Text_Miner():
                 # self.stringlist[name] = []
 
     def scrubstring(self, text):
-        text = bytes(text, 'utf-8').decode('utf-8', "replace")
+        text = text.replace("\x00", "")  # Remove NULL characters
+        text = re.sub(r'[^\x00-\x7F]+', '', text)  # Remove non-UTF-8 characters
         text = text.replace("\n", " ")
         text = text.replace("\t", " ")
         text = ' '.join(text.split())
@@ -171,8 +177,10 @@ class Text_Miner():
                     text = f.read()
                     print("Using pre-processed file.")
                     return text
-            except:
+            except FileNotFoundError:
                 print("No pre-processed file found.")
+            except Exception as e:
+                print(f"Error while reading pre-processed file: {e}")
 
             resource_manager = PDFResourceManager()
             out_file = io.StringIO()
@@ -193,7 +201,21 @@ class Text_Miner():
             device.close()
             text = out_file.getvalue()
             out_file.close()
-
+            
+            #create a folder for the txt document
+            folder = processed_file.split('\\')
+            folder = folder[:-1]
+            folder = "\\".join(folder)
+            if not os.path.exists(folder):
+                try:
+                    os.makedirs(folder)
+                    print(f"Folder '{folder}' created successfully.")
+                except OSError as e:
+                    print(f"Error creating folder '{folder}': {e}")
+            else:
+                print(f"Folder '{folder}' already exists.")
+            
+            #write the pre-process to a txt
             with open(processed_file, 'w', encoding="utf-8") as f:
                 f.write(text)
 
@@ -207,6 +229,7 @@ class Text_Miner():
                 for item in self.doclist[extension]:
                     name = item.split('\\', -1)[-1] # os.path.base(item) optional
                     text = convert_pdf_to_txt(item)
+                    text = self.scrubstring(text)
                     self.stringdict.setdefault(name, [])
                     self.stringdict[name].append(text)
 
@@ -225,7 +248,19 @@ class Text_Miner():
                     self.stringdict.setdefault(name, [])
                     self.stringdict[name].append(text)
 
-            if extension == 'xlsx':
+            if extension == '.txt':
+                #todo: test
+                for item in self.doclist[extension]:
+
+                    name = item.split('\\', -1)[-1]  # os.path.base(item) optional
+                    with open(item) as doc:
+                        text = doc.read(errors='ignore')
+
+                    text = self.scrubstring(text)
+                    self.stringdict.setdefault(name, [])
+                    self.stringdict[name].append(text)
+
+            if extension == '.xlsx':
                 print('xlsx files are not (yet) supported')
 
             else:
@@ -334,7 +369,7 @@ class Text_Miner():
             # generate_text_with_prompt splits the prompt into multiple sections if too long
             # then it gets new data from the chatGPT
 
-            output = self.AI.generate_text_with_prompt(prompt=text, mode=str(self.mode))
+            output = self.AI.generate_text_with_prompt(prompt=text, mode=str(self.mode), extra = f"Documentnaam: {docname}")
 
             self.outputdict.setdefault(docname, [])
             self.outputdict[docname].append(output)
@@ -342,8 +377,10 @@ class Text_Miner():
             print('\n')
 
 
-    def write_to_file(self, dictionary, extra = ''):
-        ''' This writes the queries that were done by openai to a document '''
+    def write_to_file(self, dictionary, extra = '', formatting = True):
+        #TODO: add a processor for the filename so it appears better (at least filter _ .pdf and ')
+
+        ''' This writes the output to a formatted document '''
 
         # if 'bulletpoints' in self.mode or 'bullet points' in self.mode:
         #     # This loop splits the sections of the text for bulletpoints
@@ -356,21 +393,36 @@ class Text_Miner():
 
 
         doc = docx.Document()
+        name = uniquename(self.output_folder + '/' + self.name + extra + '_gpt.docx')
+        if formatting:
+            # This section defines the layout of the document
+            doc.add_heading(str(self.name+extra),0) # adds the name of the document as title
+            doc.add_heading([i + ' ' for i in dictionary.keys()], 5) # adds the list of used documents
 
-        for document_name, string in dictionary.items():
+            for document_name, string in dictionary.items(): # iterate throught the dictonary: {doc name: GPT output}
+                header, extension = os.path.splitext(document_name)
+                doc.add_heading(header, 1) # start with the header of the document name
+                lines = string[0].split('\n')
+                # doc.add_paragraph(f'Chunk: [{index + 1}/{len(lines)}]')
+                for index, line in enumerate(lines): # Break each \n into a new line
+                    doc.add_paragraph(line) # this adds a '[1/10]' section per paragraph
+                    # doc.add_break(WD_BREAK.LINE)
+                doc.add_paragraph('')
+        else:
+            for document_name, string in dictionary.items():
+                lines = string[0].split('\n')
+                for index, line in enumerate(lines): # Break each \n into a new line
+                    doc.add_paragraph(line) # this adds a '[1/10]' section per paragraph
 
-            doc.add_paragraph(document_name) # start with the header of a document name
-            lines = string[0].split('\n')
-            for line in lines: # Break each \n into a new line
-                doc.add_paragraph(line)
-                # doc.add_break(WD_BREAK.LINE)
-            doc.add_paragraph('')
-        name = uniquename('output/'+ self.name + extra + '_gpt.docx')
+
+
         doc.save(name)
         print(f'Saved as {name}')
 
 
     def write_to_xl(self, string):
+        ''' This potentially summarizes the findings in an Excel. It splits by bullets with the - marker. '''
+
         # Create a dataframe from the list of lists with column names
 
         bullets = self.AI.to_bullets(string)
@@ -378,10 +430,31 @@ class Text_Miner():
 
         self.df = pd.DataFrame(rows, columns=['Document Name', 'Element'])
 
-        name = uniquename('output/'+ self.name + '_gpt.xlsx')
+        name = uniquename(self.output_folder + '/' + self.name + '_gpt.xlsx')
         self.df.to_excel(name)
         # View the dataframe
         print(self.df)
+
+    def table_to_csv(self, tabletext):
+        # Remove leading/trailing whitespace and split the table into rows
+        rows = [row.strip().split('|') for row in tabletext.strip().split('\n')]
+
+        # Extract header and data rows
+        header = [cell.strip() for cell in rows[0] if cell.strip()]
+        data = [[cell.strip() for cell in row if cell.strip()] for row in rows[1:]]
+
+        # Create a DataFrame using pandas
+        df = pd.DataFrame(data, columns=header)
+
+        # Convert DataFrame to CSV
+        csv_data = df.to_csv(index=False)
+        self.table_data.append(csv_data)
+        # Print or save the CSV data
+        print(csv_data)
+        # You can save it to a file by writing to it:
+        # with open('output.csv', 'w') as f:
+        #     f.write(csv_data)
+        # return csv_data
 
     def open_file(self):
         ''' Open Json files '''

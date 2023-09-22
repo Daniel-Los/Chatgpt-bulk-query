@@ -1,0 +1,2349 @@
+Leiden  
+Duurzaam 
+Bereikbaar
+Mobiliteitsnota Leiden 2020-2030
+
+Versie voor ter inzage legging december 2019
+
+1
+
+Inhoudsopgave
+
+De weg naar de toekomst in Leiden ..........................................4
+
+1. Samenvatting ...........................................................................5
+
+2. Inleiding ...................................................................................6
+2.1 Aanleiding.................................................................................................. 6
+ 
+ 
+2.2 Leeswijzer .................................................................................................. 7
+
+3. Hoofdlijnen van beleid ............................................................8
+3.1 Uitvoeringsprogramma Leiden Duurzaam Bereikbaar .................................. 9
+ 
+3.2 Bovenlokale (mobiliteits)plannen .............................................................. 10
+ 
+ 
+3.3 Ambities Leiden ....................................................................................... 11
+3.4 Belangrijke aandachtspunten  .................................................................. 14
+ 
+3.5 De balans tussen leefbaarheid, duurzaamheid en bereikbaarheid  ............ 16
+ 
+ 
+3.6 Doorkijk naar mobiliteit 2040 ................................................................... 17
+
+4. Ruimtelijk concept .................................................................20
+
+5. Duurzame mobiliteit en leefbaarheid ..................................25
+5.1 Duurzame mobiliteit en leefbaarheid ........................................................ 25
+ 
+5.2 Verkeersveiligheid .................................................................................... 28
+ 
+ 
+5.2.1 Locatie specifieke verkeersveiligheidsprojecten ................................ 28
+ 
+5.2.2 Generieke verkeersveiligheidsinspanningen ..................................... 30
+5.3 Autoluwe binnenstad ............................................................................... 30
+ 
+ 
+5.4 Wijkgerichte aanpak van kleinschalige maatregelen .................................. 31
+
+6. Voetgangers en fiets .............................................................32
+6.1 Voetgangers ............................................................................................ 32
+ 
+ 
+6.2 Fiets......................................................................................................... 33
+6.2.1 Uitgangspunten nieuw fietsbeleid ................................................... 33
+ 
+6.2.2 Fietsnetwerken ............................................................................... 35
+ 
+ 
+6.2.3 Fietsparkeren .................................................................................. 36
+
+7. Openbaar vervoer ..................................................................38
+7.1 Uitgangspunten van het OV beleid ........................................................... 39
+ 
+ 
+7.2 Oplossingsrichtingen ................................................................................ 42
+
+8. De wegenstructuur van Leiden ............................................44
+8.1 Hoofdontsluitingsstructuur  ......................................................................44
+ 
+ 
+8.2 De principes van wegencategorisering .....................................................44
+8.3 Aandachtspunten in het wegennet  .........................................................46
+ 
+
+2
+
+9. Parkeren en ketenmobiliteit .................................................49
+9.1 Parkeerbeleid ........................................................................................... 49
+ 
+ 
+9.2 Ketenmobiliteit ........................................................................................ 51
+
+10. Verkeersmanagement .........................................................53
+10.1 Soorten maatregelen verkeersmanagement  ........................................... 53
+ 
+ 
+10.2 Inzet verkeersmanagementmaatregelen  ................................................54
+
+Bijlage 1: Kijk op Mobiliteit ......................................................58
+
+3
+
+De weg naar de toekomst in Leiden
+
+Leiden  is  een  gastvrije  stad,  al  eeuwenlang.  De  vormen  van  vervoer  veranderen  maar  de  
+mensen blijven komen en gaan. Als wethouder Mobiliteit, Duurzaamheid en Beheer Openbare 
+Ruimte hecht ik veel waarde aan een Leiden waarin iedereen zich veilig en gezond kan bewegen. 
+En waar de ruimte om je heen prettig voelt; als je hier woont, werkt of gewoon graag op 
+bezoek komt. 
+
+Met alle uitdagingen die Leiden aangaat is het belangrijk dat we hier alert op zijn. Onze stad 
+blijft groeien en biedt plek aan meer inwoners, ondernemers en bezoekers. Hoe zorgen we 
+ervoor  dat  iedereen  zich  prettig  in  en  door  Leiden  beweegt?  Duurzame  Mobiliteit  is  het  
+sleutelwoord. 
+
+In deze geactualiseerde mobiliteitsnota leest u hoe we omgaan met de vele fietsers die onze 
+stad  rijk  is  en  hoe  we  omgaan  met  de  40%  extra  fietsers  die  ons  nog  te  wachten  staat.  
+We geven het openbaar vervoer ruim baan en ook de voetganger heeft een prominente rol. 
+De historische binnenstad willen we autoluw en het liefst autovrij maken. 
+
+Het realiseren van deze plannen kost ruimte, ruimte die in Leiden vrij schaars is. U leest in de 
+nota over de keuzes die we maken om de ruimte in Leiden optimaal te benutten op een zo 
+duurzaam  mogelijke  manier.  Natuurlijk  blijven  we  doorwerken  aan  de  bereikbaarheid  van 
+Leiden want auto’s zijn er nu en de komende jaren. Daarom ben ik blij met de vele plannen 
+voor de fietser, voetganger en de gebruiker van openbaar vervoer. Én met de doorstroming die 
+we willen garanderen op de Leidse Ring. 
+
+Tot slot wil ik mijn dank uiten aan alle inwoners, ondernemers en andere betrokken Leidenaren 
+voor hun input, suggesties en ongezouten mening over verkeer in Leiden. U heeft een grote 
+bijdrage  geleverd  bij  het  actualiseren  van  deze  nota.  Samen  houden  we  de  weg  naar  de  
+toekomst duurzaam, leefbaar en bereikbaar. 
+
+Ashley North
+Wethouder Duurzaamheid, Mobiliteit & Beheer Openbare Ruimte
+
+4
+
+1. Samenvatting
+
+Deze  mobiliteitsnota  beschrijft  hoe  Leiden  werkt  aan  een  duurzaam  mobiliteitssysteem.  
+Een belangrijke bijdrage aan een duurzaam, leefbaar en bereikbaar Leiden is het nastreven van 
+een hoger aandeel in het gebruik van lopen, fietsen en openbaar vervoer. Dit noemen we 
+modal shift. Autogebruik krijgt in Leiden met name een plek op de hoofdontsluitingsstructuur. 
+
+Dit mobiliteitsbeleid is onderdeel van het integrale beleid dat wordt opgesteld voor de fysieke 
+ruimte. Dit integrale beleid staat in de omschreven in de Omgevingsvisie. Vooruitlopend op de 
+Omgevingsvisie is de noodzaak om het huidige mobiliteitsbeleid te actualiseren. We staan aan 
+de vooravond van transities zoals die voor energie, klimaat en daarmee ook voor mobiliteit. 
+Deze mobiliteitsnota omschrijft de hoofdlijnen van het mobiliteitsbeleid in Leiden. Gelijktijdig 
+is  het  Uitvoeringsprogramma  Leiden  Duurzaam  Bereikbaar  opgesteld.  Het  uitvoerings-
+programma concretiseert de geformuleerde beleidsdoelen in uitvoerbare projecten. Deze pro-
+grammatische  aanpak  valt  uiteen  in  drie  onderdelen:  ten  eerste  het  inpassen  van  lopende 
+projecten, ten tweede het realiseren van quick wins (korte termijn) en tot slot het uitwerken in 
+projecten (lange termijn).
+Voor het bereiken van de eerder genoemde modal shift wordt ingezet op verschillende deel-
+ambities, die bijdragen aan een verschuiving van vervoerswijzen door te faciliteren, stimuleren 
+en verleiden. Hierbij gaat veel aandacht uit naar de duurzame mobiliteitsvormen lopen, fietsen 
+en openbaar vervoer. En, hoewel het tegenstrijdig lijkt, is het noodzakelijk om de komende 
+jaren te investeren in autobereikbaarheid. Niet alleen speelt de auto nog geruime tijd een rol 
+bij verplaatsen van Leidenaren en bezoekers aan Leiden, maar door autoverkeer af te wikkelen 
+op  geschikte  routes  ontstaat  ruimte  voor  voetgangers,  fietsers  en  het  openbaar  vervoer.  
+Er liggen aandachtspunten op de hoofdroutes want in de huidige situatie is het druk op het 
+wegennetwerk in de ochtend- en avondspits. . Door zowel autonome groei als toename van 
+bevolking en werkgelegenheid neemt de druk op het wegennet toe.
+
+Het  beleid  is  gericht  op  de  beleidslijnen  die  horen  bij  infrastructuren  voor  de  verschillende 
+modaliteiten, maar er is ook aandacht voor verkeersveiligheid. Ook omschrijft deze nota hoe 
+we omgaan met gemotoriseerd verkeer in combinatie met leefbaarheid. 
+De doelstellingen voor de voetganger, fietser en het openbaar vervoer zijn duidelijk. Door het 
+realiseren van structuren (een hoogfrequente dienstregeling op spoor en met de bus) en voor-
+zieningen (zoals fietspaden en loopruimte creëren we alternatieven. Soms is het nodig om een 
+verdere verdieping te maken zoals voor voetgangers en fietsers. Zo ontstaat een beter inzicht 
+in de mogelijkheden die een bijdrage leveren aan de doelstelling om tot een hoger gebruik van 
+deze duurzame vervoersmiddelen te komen.
+
+De doorstroming op het wegennet is gebaat bij een goede verkeersregie en -management. 
+Hierbij  is  de  insteek  dat  gebruikers  zo  goed  mogelijk  geïnformeerd  moeten  zijn  om  een  
+vervoermiddel, moment van reizen en route te kiezen, zodat een zo efficiënt mogelijke reis 
+mogelijk is. Het gaat daarbij om zaken als innovatieve verkeersregelingen, beschikbaar stellen 
+van data en systemen die die data omzetten in informatie. 
+
+5
+
+2. Inleiding
+
+2.1 Aanleiding
+Leiden is een prachtige, compacte stad, met een levendige historische binnenstad, omringd 
+door  afwisselende  woonwijken,  een  op  het  station  georiënteerd  ‘Leiden  Bio  Science  Park,  
+de oudste universiteit van Nederland en een keur aan kennisinstellingen, een bloeiend bedrijfs-
+leven en een groot aantal (nationale) musea. En Leiden groeit. In aantal inwoners, bezoekers, 
+studenten en werknemers. Er worden tot 2030 8.500 woningen en 2.700 studentenkamers bij 
+gebouwd. We verwachten een verdere groei van de werkgelegenheid met 6.000 banen alleen 
+al op het Bio Science Park. Ook op andere plekken verwachten we werkgelegenheidsgroei.  
+Er zijn opgaven om klimaatdoelen te halen, een groenere stad te worden en een inclusieve 
+stad te zijn. Veel van deze aspecten hebben ook hun effect op de mobiliteit van onze inwoners 
+en bezoekers. 
+
+Het college heeft de ambitie dat het mobiliteitssysteem schoner wordt. We willen een hoger 
+gebruik  van  de  duurzame  mobiliteitsvormen  lopen,  fiets  en  openbaar  vervoer.  Dit  heet  in  
+vaktermen een modal shift. Die verschuiving naar duurzame modaliteiten gaat niet vanzelf en 
+kan ook niet ineens. De condities daarvoor moeten worden gemaakt. Daarvoor is mobiliteits-
+beleid nodig.
+
+De vorige mobiliteitsnota komt uit 2015 en is op sommige delen niet meer actueel door de 
+ambities van het college en door ontwikkelingen zoals het klimaatakkoord. Een actualisatie is 
+dus nodig. De opzet van de vorige nota is hiervoor als leidraad genomen. Daar waar verande-
+ringen zijn of nieuwe ambities liggen is dit opgenomen in deze actualisatie. Maatregelen die 
+in het verleden al zijn bepaald, en nog steeds passen bij de ambities zijn behouden. De keuze 
+voor de parkeergarages onder de Lammermarkt en Garenmarkt en de herinrichting van de 
+Hooigracht  en  Langegracht  in  relatie  tot  hoogwaardig  openbaar  vervoer  (HOV)  zijn  hier  
+actuele  voorbeelden  van,  net  als  de  Leidse  Ring  Noord.  Deze  nota  geeft  inhoud  aan  het  
+gehele beleidsveld van verkeer en vervoer en geeft een overzicht van de doelen die Leiden 
+nastreeft en welke plannen daaraan bijdragen.
+
+De maatregelen die in deze nota zijn opgenomen, leiden tot een totaalbeeld van het Leidse 
+verkeers  en  vervoersnetwerk.  Onderdelen  hiervan  zijn  een  goed  fietsroutenetwerk  en  de  
+bijbehorende stallingen, een effectief voetgangersbeleid, een netwerk voor openbaar vervoer 
+(OV) bestaande uit spoor, HOV-lijnen, een stads- en streeknet en een autonetwerk. Alle maat-
+regelen zijn gericht op het bereiken van een hoger aandeel lopen, fietsen en openbaar vervoer 
+gebruik in het totaal aan verplaatsingen. Deze modal shift levert een bijdrage aan een leefbaar, 
+duurzaam en gezond Leiden. Alle maatregelen samen vormen een gebalanceerd pakket waar-
+in verschillende belangen en aspecten, van bereikbaarheid tot leefbaarheid, aan bod komen. 
+
+6
+
+Voor  het  opstellen  van  deze  geactualiseerde 
+nota  is  gebruik  gemaakt  van  de  mening  en  
+ervaring van inwoners, ondernemers en andere 
+belanghebbenden.  Deze  zijn  gedeeld  tijdens 
+bijvoorbeeld  bijeenkomsten  in  de  stad,  maar 
+ook via het invullen van enquêtes. Hoe zij aan-
+kijken tegen mobiliteit in Leiden is opgenomen 
+in het boekje “Kijk op mobiliteit”. Dit boekje is 
+een  bijlage  bij  deze  nota  en  geeft  gedetail-
+leerde informatie over de input die opgehaald 
+is. Duidelijk naar voren is gekomen dat door inwoners en bedrijven aan-
+dacht wordt gevraagd voor de duurzame vervoersmiddelen lopen, fiets en openbaar vervoer.
+
+2.2 Leeswijzer
+De  mobiliteitsnota  gaat  na  de  inleiding  in  op  de  hoofdlijnen  van  het  mobiliteitsbeleid.  
+Die hoofdlijnen sluiten aan op de koers die in het beleidsakkoord 2018-2022 is geformuleerd. 
+In hoofdstuk 3 worden de belangrijkste aandachtspunten benoemd. In hoofdstuk 4 wordt de 
+relatie tussen de gebouwde omgeving en het mobiliteitssysteem beschreven. De verbanden 
+tussen duurzaamheid, leefbaarheid en bereikbaarheid en de verdere uitwerking voor verkeers-
+veiligheid, de autoluwe binnenstad en de wijkgerichte aanpak staan beschreven in hoofdstuk 
+5. De afzonderlijke modaliteiten komen in hoofdstuk 6 tot en met 9 aan de orde. Met de 
+betekenis van verkeersmanagement wordt afgesloten in hoofdstuk 10.
+
+7
+
+3. Hoofdlijnen van beleid
+
+Dit hoofdstuk beschrijft het beleid voor mobiliteit. Voordat gewerkt kan worden aan bijvoor-
+beeld  oplossingen  of  aan  publiekscampagnes,  moet  duidelijk  zijn  waarom  er  aan  gewerkt 
+moet worden.
+
+Voor de fysieke leefomgeving van Leiden is het beleid omschreven in de Omgevingsvisie Leiden 
+2040. De Omgevingsvisie is een nieuw instrument om beleid over de fysieke leefomgeving te 
+bundelen. De precieze vorm van dit document wordt de komende jaren duidelijk. In de huidige 
+Omgevingsvisie zijn met name waarden gedefinieerd die Leidenaren belangrijk vinden in de 
+verdere ontwikkeling van de stad. Onderwerpen die in de Omgevingsvisie een plek hebben 
+zijn:  bevolkingsgroei,  energietransitie,  klimaatverandering,  circulaire  economie,  duurzame 
+mobiliteit, gezondheid, inclusiviteit en werken in de stad. Mobiliteit is dus een van die onder-
+werpen. Het zal de komende jaren in de actualisaties van de Omgevingsvisie steeds concreter 
+worden wat de richting is waar de stad naartoe werkt. 
+
+Het  college  heeft  op  het  gebied  van  mobiliteit  ambities  gedefinieerd  die  weliswaar  in  de 
+Omgevingsvisie zullen landen, maar die op dit moment ook vragen om een actualisatie van de 
+mobiliteitsnota. De mobiliteitsnota geeft inzicht in het beleid dat wordt gevoerd op mobili-
+teitsgebied in Leiden. Het is tevens het vertrekpunt voor verdere uitwerkingen van specifieke 
+modaliteiten, zoals bijvoorbeeld een nog op te stellen beleidsplan Fiets en de bijbehorende 
+uitwerkingen in programma’s. Vanuit de Planwet Verkeer en Vervoer, die tot aan de inwerking-
+treding van de Omgevingswet van kracht is, geldt dat Leiden een zichtbaar, samenhangend en 
+uitvoeringsgericht verkeers- en vervoersbeleid heeft. Delen van deze nota vormen de input 
+voor een volgende versie van de Omgevingsvisie. De mobiliteitsnota lijkt een sectoraal beleids-
+document, maar is dat niet. Het vertrekpunt is juist dat de maatschappij vanwege de transitie 
+naar een schoon mobiliteitssysteem oplossingsrichtingen vraagt voor de verschillende modali-
+teiten.  Bij  de  ambities  en  de  daarmee  samenhangende  doelen  van  deze  nota  zijn  duidelijk 
+bovenliggende en een overkoepelend doel te onderscheiden, namelijk dat het verkeers systeem 
+ook  duurzamer  en  evenwichtiger  moet  worden.  Hierbij  is  de  bereikbaarheid  nog  steeds 
+belangrijk voor het economisch functioneren van de stad en daarmee voor het welzijn van 
+inwoners,  maar  het  verkeerssysteem  draagt  ook  bij  aan  het  realiseren  van  de  leefbaarheid  
+van  de  stad  en  de  gezondheid  van  haar  inwoners  en  bezoekers.  Met  het  werken  aan  die  
+modal shift zorgen we ervoor dat de bereikbaarheid van de duurzame modaliteiten verbetert, 
+maar ook de bereikbaarheid voor automobilisten. Het plan heeft een kader dat verder reikt 
+dan alleen mobiliteitsdoelstellingen. 
+
+Gelijktijdig aan de beleidskaders is een uitvoeringsprogramma opgesteld. Dit programma is 
+vanzelfsprekend verbonden met deze nota, maar kent wel zijn eigen document. In de volgen-
+de paragraaf wordt verder ingegaan op het uitvoeringsprogramma Leiden Duurzaam Bereikbaar.
+
+8
+
+3.1 Uitvoeringsprogramma Leiden Duurzaam Bereikbaar
+In voorliggende nota staan de hoofdlijnen van het beleid. Beleid dat vertaald moet worden 
+naar acties en maatregelen. Naast deze mobiliteitsnota is er het Uitvoeringsprogramma Leiden 
+Duurzaam Bereikbaar. Dit heeft als doel de geformuleerde beleidsdoelen van deze mobiliteit-
+snota te concretiseren in een uitvoerbare agenda. Deze programmatische aanpak valt uiteen 
+in drie onderdelen:
+• 
+•  realiseren van quick wins (korte termijn);
+•  uitwerken in projecten (lange termijn).
+
+inpassen van lopende projecten;
+
+Waar in de mobiliteitsnota het beleid is opgedeeld naar vervoersmodaliteiten (auto, fiets, etc), 
+is voor het uitvoeringsprogramma aansluiting gezocht met de thema’s uit het beleidsakkoord. 
+In dat verband zijn er vijf thema’s die de basis vormen van het uitvoeringsprogramma:
+
+1.  Fietsstad. 
+2.  Centrum. 
+3.  Duurzame mobiliteit
+4.  De Ring 
+5.  Bereikbaarheidsprojecten.
+
+In het programma zijn bereikbaarheidsprojecten als de Leidse Ring Noord, de Centrumroute en 
+de RijnlandRoute opgenomen. Daarnaast zijn diverse fiets(parkeer) projecten vastgesteld ter 
+stimulering van het fietsverkeer, heeft de autoluwe binnenstad een plek gekregen en zijn er 
+diverse projecten in het kader van duurzame mobiliteit, zoals milieuzonering, stadsdistributie 
+en elektrificeren van vervoer, opgenomen. Het programma is meer dan een lijst met projecten. 
+Het  is  een  agenda.  Het  is  de  plek  waar  de  opgaven  samenkomen  en  worden  benoemd.  
+De  uitwerking  daarvan  kan  ook  in  onderzoeken  en  uitwerkingen  zitten  die  in  bestaande  
+projecten  worden  opgepakt.  Gedacht  kan  worden  aan  uitwerkingen  zoals  onderhouds-
+projecten en bij concretisering van gebiedsontwikkelingen.
+
+Figuur 1: relatie tussen de Mobiliteitsnota, de Omgevingsvisie en het Programma Leiden 
+Duurzaam Bereikbaar
+
+9
+
+De samenhang tussen de mobiliteitsnota, de Omgevingsvisie en het uitvoeringsprogramma is 
+weergegeven in figuur 1.
+
+Er  zijn  middelen  nodig  om  de  doelstellingen  van  het  uitvoeringsprogramma  te  bereiken.  
+Een  groot  deel  van  die  middelen  zit  in  al  lopende  projecten  zoals  de  Leidse  Ring  en  de 
+Centrumroute.  Voor  deze  lopende  projecten  is  dekking  georganiseerd  via  het  voormalige  
+programma Bereikbaarheid. Een ander deel van de middelen is nodig voor nieuwe projecten, 
+het gaat dan vooral om fietsprojecten en projecten t.b.v. de autoluwe binnenstad. Daarvoor is 
+‘nieuw geld’ nodig dat voor deel gevonden is in de Reserve Duurzame Stad.
+
+3.2 Bovenlokale (mobiliteits)plannen
+Mobiliteit van mens en goederen is bij uitstek een beleidsterrein dat speelt op alle overheids-
+niveaus. Het lokale tot landelijke beleid is van invloed op de weggebruiker. In deze paragraaf 
+wordt  ingegaan  op  de  beleidskaders  van  de  collega-overheden  voor  zover  deze  invloed  
+hebben op Leiden en de Leidse regio. 
+
+Leiden werkt met veel partijen samen op allerlei gebieden en met diverse thema’s. Voor mobi-
+liteit is met name de regionale verstedelijkingsopgave, de economische agenda en de kwaliteit 
+van de leefomgeving een belangrijke rode draad die in de visies en nota’s van onze partners 
+ook expliciet naar voren komt. Onze nota sluit dus aan op visies zoals die van Hart van Holland, 
+de provinciale Omgevingsvisie, de nationale Omgevingsvisie (NOVI), de regionale mobiliteits-
+agenda van Holland Rijnland en bij het (internationale) klimaatakkoord.
+
+Figuur 2: metropolitane regio’s en Leidse regio (bron: Hart van Holland)
+
+In Hart van Holland werken we met onze buren samen in een regionale samenwerkingsagen-
+da. De belangrijkste punten in die agenda zijn onder andere gezonde lucht, verstedelijking 
+rondom  de  Oude  Rijn,  behoud  en  versterking  van  open,  robuuste  en  onderling  verbonden 
+landschappen en voortreffelijke bereikbaarheid zonder dat de leefomgeving daaronder lijdt. 
+De aandacht voor bereikbaarheid in de context van leefbaarheid en duurzaamheid is iets wat 
+ons verbindt met onze buren.
+
+Met  die  buren  zijn  we  in  Holland  Rijnlandverband  (13  gemeenten  in  het  noordelijke  en 
+noodoostelijke deel van Zuid-Holland) aan het nadenken hoe we onze regionale mobiliteits-
+agenda kunnen vormgegeven vanuit de gedachte dat een groter aandeel in gebruik nodig is 
+van de duurzame mobiliteitsvormen. Het gaat daarbij dus met name om het versterken van de 
+
+10
+
+positie van lopen, fiets en openbaar vervoer in het mobiliteitssysteem en daarnaast om het 
+stimuleren van schoon en duurzaam vervoer van goederen en mensen. 
+
+Ook  de  landelijke  visie  op  de  fysieke  leefomgeving  vraagt  aandacht  voor  een  duurzaam  
+economisch groeipotentieel voor Nederland (o.a. circulaire economie), ruimte voor de klimaat-
+verandering, energietransitie en sterke, leefbare en klimaatbestendige steden en regio’s met 
+voldoende ruimte om te wonen, werken en bewegen. Dit zijn dezelfde opgaven die we als 
+stad hebben. 
+
+Figuur 3: Oude Lijn als drager van ontwikkeling
+We weten ook dat het klimaat verandert en dat dit bedreigingen voor de planeet en haar 
+bewoners inhoudt. Menselijk handelen heeft hier een belangrijk aandeel in. In het klimaat-
+akkoord van Parijs zijn daarom afspraken gemaakt om de opwarming van de aarde te keren. 
+Het kabinet werkt aan de uitwerking hiervan via klimaattafels. Een van de klimaattafels betreft 
+‘Mobiliteit’. Een van de maatregelen die bijdraagt aan het terugdringen van de opwarming van 
+de aarde, is de reductie van uitstoot van CO2. De landelijke afspraken kennen 3 pijlers. Dit zijn 
+elektrificatie van automobiliteit, inzet op duurzame biobrandstoffen en verandering van mobi-
+liteitsgedrag
+
+Het werken aan het terugdringen van gassen die de aarde opwarmen is niet alleen iets wat op 
+mondiale, Europese en landelijke schaal moet plaatsvinden. Ook op lokale schaal zijn maat-
+regelen nodig en Leiden wil hier haar bijdrage aan leveren.
+
+Vooral de Omgevingsvisies van de hogere overheden zijn van recente datum. De uitwerking 
+van  de  maatregelen  vanuit  het  klimaatakkoord  moeten  nog  handen  en  voeten  krijgen.  
+De  komende  jaren  wordt  duidelijk  hoe  we  onze  gezamenlijke  ambities  het  beste  kunnen 
+omzetten in concrete programma’s. 
+
+3.3 Ambities Leiden
+Mobiliteit is voor de meeste weggebruikers geen doel op zich, maar een middel om te komen 
+waar  je  naar  toe  wil,  zoals  naar  het  werk,  hobby’s,  winkels,  scholing  en  voorzieningen. 
+Mobiliteit  draagt  daarom  bij  aan  de  grotere  ambitie  die  Leiden  heeft  voor  de  stad.  In  het 
+beleidsakkoord is deze als volgt verwoord:
+
+We maken de stad klimaatneutraal, we zetten ons ervoor in dat iedereen meedoet en we blij-
+ven investeren in Leiden als aantrekkelijke stad.
+
+Bereikbaarheid  is  belangrijk  voor  een  aantrekkelijke  stad  voor  zowel  bewoners,  bedrijven, 
+onderwijsinstellingen  en  andere  voorzieningen.  Het  Leidse  wegennet  is  in  de  ochtend-  en 
+avondspits  nu  al  druk  en  met  zowel  de  groei  van  inwoners  en  arbeidsplaatsen  neemt  het  
+aantal verplaatsingen naar alle waarschijnlijkheid toe. Met een zo goed als volle infrastructuur 
+is een verschuiving in het gebruik van vervoermiddelen noodzakelijk om Leiden in beweging te 
+houden.  Die  verschuiving  is  een  verschuiving  naar  de  meer  duurzame  vervoerswijzen  zoals 
+lopen, fietsen en openbaar vervoer. Een dergelijke modal shift heeft niet alleen een positief 
+effect op de luchtkwaliteit en de leefbaarheid van de stad, maar vergroot ook de bereikbaar-
+heid van Leiden.
+
+11
+
+Voor  het  bereiken  van  een  modal  shift  wordt  ingezet  op  verschillende  deelambities,  
+die allemaal bijdragen aan een verschuiving van vervoerswijzen door te faciliteren, te stimule-
+ren en te verleiden. En hoewel het tegenstrijdig lijkt, is het noodzakelijk om ook te investeren 
+in autobereikbaarheid. Immers, de auto speelt (waarbij we de overgang naar schone brand-
+stoffen  stimuleren)  nog  geruime  tijd  een  grote  rol  bij  het  verplaatsen.  Als  autoverkeer  op 
+hoofdwegen vlot en met betrouwbare reistijden rijdt ontstaat op andere plekken in de stad 
+ruimte voor voetgangers, fietsers en het openbaar vervoer (bijvoorbeeld in de binnenstad).
+
+De  transitie  naar  schone,  duurzame  mobiliteit  is  dus  nodig  om  de  toenemende  vraag  naar 
+mobiliteit  (mede  door  de  verstedelijkingsopgave)  te  faciliteren  en  om  de  klimaatdoelen  te  
+realiseren. De ambities die het college heeft geformuleerd zijn hieronder verder uitgewerkt. 
+Hierbij moet bedacht worden dat een verandering niet binnen een enkele jaren te realiseren is. 
+Verandering vraagt om draagvlak onder de gebruikers, werkende alternatieven, flexibel inspelen 
+op innovaties en de nodige middelen. De transitie is nodig en zal op korte termijn al om de 
+eerste maatregelen vragen. Daarna zullen we echter nog vele jaren werken aan het realiseren 
+van die verandering
+
+Voor het bereiken van een modal shift zijn de volgende deelambities opgenomen: 
+
+Ambitie 1: Leiden als Fietsstad 
+Het  verbeteren  van  zowel  fietsroutes  als  fietsparkeerplaatsen  is  belangrijk  om  fietsen  te  
+faciliteren en gebruikers te stimuleren (nog) meer gebruik te maken van de fiets. Fietsen heeft 
+ten opzichte van de auto een kleinere ‘voetafdruk’ en is, zoals uit de stadsenquête blijkt, al een 
+grote vervoersmodaliteit in de stad. Dit heeft te maken met de compactheid van Leiden en de 
+regio en de samenstelling van de bevolking. Reizigers gebruiken de fiets in stedelijk gebied 
+omdat het concurrerend is ten opzichte van de auto. Zeker als de fiets gebruikt wordt in een 
+ketenverplaatsing (zoals in combinatie met de trein). We zetten daarom nog intensiever in op 
+het faciliteren van zowel de bestaande als de nieuwe fietser door hen kwalitatief goede routes 
+en stallingen te geven. Zo vergroten we voor binnen stedelijk en regionaal vervoer nog meer de 
+aantrekkelijkheid van de fiets boven de auto. In hoofdstuk 6 gaan we hier dieper op in.
+
+Ambitie 2: Lopen krijgt meer ruimte
+De  aandacht  voor  de  voetganger  groeit.  Ook  in  Leiden.  Aandacht  voor  de  voetganger  is  
+bijvoorbeeld  tijdens  participatiebijeenkomst  over  de  mobiliteitsvisie  veelvuldig  gevraagd.  
+Ook landelijk zijn diverse studies verricht naar de relatie tussen (meer) lopen en een prettig en 
+leefbaar woonklimaat. Momenteel komen voetgangersvraagstukken in Leidse plannen vooral 
+naar voren in de uitwerking van (ruimtelijke) plannen. Concrete eigen beleidsmatige plannen 
+voor voetgangers is nieuw. We willen de voetganger een stevige basis geven. Deze basis krijgt 
+vorm door een beleidsprogramma voetganger dat we in 2020 opstellen. Hierin krijgt onder 
+meer de relatie met de gebouwde omgeving, gezonde levensstijl en verstevigen van voetgan-
+gersnetwerken de aandacht. In hoofdstuk 6 wordt dit onderdeel verder uitgewerkt.
+
+12
+
+Ambitie 3: Stimuleren Openbaar Vervoer
+Voor het stimuleren van het gebruik van het openbaar vervoer is een frequent en betrouwbaar 
+openbaar vervoernetwerk, die qua reistijden kan concurreren met de auto noodzakelijk.
+Leiden heeft een uitgebreid stadsnet en Leiden CS heeft een regiofunctie. Maar verbeteringen 
+zijn mogelijk en gewenst. Samenwerken met de provincie als concessiehouder voor het bus-
+vervoer en het Rijk voor het treinvervoer is noodzakelijk. In hoofdstuk 7 wordt onze ambitie 
+beschreven.
+In het beleidsakkoord is het streven opgenomen om aan te sluiten op Randstadrail (via bestaand 
+spoor). Daarnaast willen we een verhoging van de frequentie van de dienstregeling op het 
+spoortraject Leiden Centraal – Utrecht Centraal. In de komende OV-concessie van de provincie 
+(2022) voor busvervoer in onze regio streven we naar emissieloos rijden, met kleinere bussen 
+in de binnenstad, een goede, hoogfrequente ontsluiting van de wijken richting centrum en 
+richting Leiden Centraal. Ook is het belangrijk om de routes en de dienstregeling jaarlijks te 
+kunnen optimaliseren op basis van reizigersaanbod.
+
+Ambitie 4: Versterken van de hoofdontsluitingsstructuur
+Een sterkere en snellere hoofdstructuur is belangrijk vanuit verschillende oogpunten:
+•  Meer verkeer bundelen op de hoofdstructuur leidt tot minder verkeersdruk op andere 
+
+delen van het wegennet. Dit leidt daar tot voordelen op het gebied van leefbaarheid en 
+ruimte voor de modaliteiten fiets, lopen en openbaar vervoer, evenals tot kansen voor een 
+betere ruimtelijke kwaliteit. Op de hoofdstructuur vinden investeringen plaats om ook 
+daar te zorgen voor een goede ruimtelijke kwaliteit en het beperken van de gevolgen 
+voor milieuhinder.
+
+•  Bundeling van verkeer op de hoofdstructuur biedt ook voordelen voor de verkeers-
+
+veiligheid. We scheiden autoverkeer en langzaam verkeer en er zijn goede (geregelde) 
+kruisingen mogelijk.
+
+•  Een betere hoofdstructuur levert een belangrijke bijdrage aan de bereikbaarheid van 
+
+Leiden. Deze hoofdstructuur moet zodanig gelegen zijn dat de (economisch) belangrijkste 
+bestemmingen vlot en betrouwbaar bereikt worden.
+
+Voor  de  hoofdontsluiting  vinden  we  doorstromingskwaliteit  en  betrouwbaarheid  van  het  
+verkeer erg belangrijk. Reizigers moeten erop kunnen vertrouwen dat wanneer ze deze route 
+kiezen het verkeer goed doorrijdt. Die betrouwbaarheid kunnen we waarmaken door ruim 
+voldoende capaciteit op die route te bieden, zodat ook afwijkende omstandigheden opgevan-
+gen kunnen worden.
+
+Ambitie 5: Autoluwe binnenstad met meer autovrije straten
+We  maken  de  binnenstad  autoluw  en  we  maken  meer  straten  autovrij.  Hiermee  kunnen  
+we  onze  binnenstad  nog  veel  meer  benutten  als  een  prachtige  plek  voor  ontmoeting  en  
+ontspanning  van  Leidenaren  en  bezoekers.  Het  verbetert  luchtkwaliteit,  leefbaarheid  en  
+(verkeers)veiligheid. Bovendien wordt hierdoor de binnenstad beter bereikbaar voor schonere 
+vormen van vervoer. We werken momenteel aan een verkenning van dit principe. Hierbij gaan 
+we geleidelijk te werk en monitoren of de effecten inderdaad bijdragen aan het bereiken van 
+de ambitie. Meer in hoofdstuk 5.
+
+13
+
+Ambitie 6: Een aantrekkelijke binnenstad maken door de aanwezigheid van 
+een emissieloos stadsdistributiesysteem
+We willen zwaar vrachtverkeer in en om het centrum verminderen en vervangen door een 
+schoon en efficiënt stadsdistributiesysteem. Leiden heeft daarom met diverse belanghebben-
+den het convenant Zero Emissie Stadsdistributie getekend om te werken aan een emissieloos 
+stadsdistributiesysteem in 2025. Dit draagt bij aan een schone en leefbare leefomgeving.
+
+Ambitie 7: De juiste parkeerder op de juiste plek
+Een belangrijk stimuleringsmiddel voor een verandering in vervoerswijze is het parkeerbeleid. 
+Het  faciliteren  van  de  auto  (ook  de  elektrische)  kent  zijn  grenzen.  Dat  geldt  ook  voor  het  
+parkeren  van  die  auto.  Leiden  kent  een  betaald  parkeerregime  in  en  om  de  binnenstad.  
+Buiten die gebieden kan zonder te betalen worden geparkeerd. Voor parkeren kiezen we voor 
+het concept ‘de juiste parkeerder op de juiste plek’. Parkeren vergt kostbare ruimte en daar 
+willen we meer op gaan sturen. Bij nieuwbouw geldt dat parkeren een van de toetsingscriteria 
+is. We passen daarom de beleidskaders, de parkeernormen en de tarifering van het betaald 
+parkeren aan. Hiervoor werken we momenteel aan een parkeervisie, inclusief de beleidsregels 
+en de normering. Hierin passen ook initiatieven die het gebruik van de deelauto versterken. 
+Hoofdstuk 9 gaat hier dieper op in.
+
+Ambitie 8: Ondersteunen deelconcepten
+Steeds meer jongeren hebben voor hun dagelijkse verplaatsingen voldoende aan de fiets en 
+het  OV.  Het  wordt  steeds  minder  vanzelfsprekend  om  een  eigen  auto  aan  te  schaffen. 
+Autodelen en andere mobiliteitsconcepten sluiten aan op deze behoefte. Leiden ondersteunt 
+initiatieven voor (elektrische) deelauto’s actief, zowel van bedrijven als van groepen Leidenaren 
+die  dit  coöperatief  willen  regelen.  Dit  is  een  van  de  onderdelen  in  het  verduurzamen  van  
+de mobiliteit.
+
+Ambitie 9: Gebruik maken van nieuwe technologie
+De  ontwikkelingen  op  het  gebied  van  innovatie  en  technologie  gaan  snel  en  dat  geldt  
+ook  voor  mobiliteitstoepassingen.  Leiden  volgt  deze  ontwikkelingen.  Wanneer  nieuwe  
+technologieën onze doeltreffendheid aantoonbaar vergroten, doen we voorstellen om deze 
+toe te passen.
+
+3.4 Belangrijke aandachtspunten 
+Willen we Leiden bereikbaar houden, dan is een verschuiving in vervoersmodaliteiten noodza-
+kelijk. Zoals eerder aangegeven is het Leids wegennet met name in de ochtend- en avondspits 
+vol belast en daarnaast groeit het aantal woningen en arbeidsplaatsen. Dit blijkt ook uit een 
+globale analyse van het huidige verkeerssysteem. Hieronder gaan we in op de belangrijkste 
+aandachtspunten voor modaliteiten. Ze zijn sterk verweven met elkaar. Aandachtspunten voor 
+de fiets hebben ook gevolgen voor bus en auto en vice versa, omdat een groot deel van de 
+aandachtspunten zich voor doen op kruisingen. Daar waar de modaliteiten elkaar tegenkomen. 
+
+Leiden is gelegen zijn aan de snelwegen A4 en A44 en de regionale wegen N206 en N11.  
+Deze  wegen  hebben  de  nodige  aandachtspunten.  Aan  de  doorstroming  op  de  A4  wordt 
+momenteel  door  Rijkswaterstaat  gewerkt.  Er  loopt  een  verkenning  A4  (Burgerveen  –  N14) 
+waarbij wordt onderzocht hoe extra rijstroken kunnen worden ingepast om een betere door-
+stroming te bereiken.
+
+14
+
+Het hoofdwegennet in Leiden is niet overal toereikend. De doorstroming van de verbindingen 
+tussen  de  wijken  en  de  snelwegen  kan  beter.  Leiden  is  een  dichtbebouwde  stad  met  een  
+grotendeels  historisch  bepaalde  wegenstructuur.  Er  is  beperkte  (verkeers)ruimte  om  het  
+verkeer in af te wikkelen. Tegelijk is Leiden een bloeiende stad. De werkgelegenheid neemt 
+nog steeds toe evenals het aantal inwoners. Het wegennet is hierdoor zwaar belast en tijdens 
+de spitsen bereiken delen hun capaciteit. Voor een stedelijk wegennet is het kenmerkend dat 
+deze overbelasting optreedt bij kruispunten, met niet alleen nadelen voor het personenauto-
+verkeer maar juist voor alle verkeersmodaliteiten. Dus ook forse wachttijden voor voetganger, 
+fietser, openbaar vervoer en voetgangers. We hebben in het verleden geïnvesteerd in bus-
+stroken, zodat daar waar het mogelijk is het busverkeer wachtrijen van auto’s kan passeren. 
+Deze busstroken vergen ruimte en zijn daarom ruimtelijk niet overal mogelijk of inpasbaar.
+
+Leiden staat voor uitdagingen in haar wegensysteem. Op dit moment zijn hoofdwegen te druk 
+zeker bij bijzondere omstandigheden zoals slecht weer, een drukkere spits of een brugopening. 
+Beschikbare alternatieve routes zijn zelf ook overbelast, of zo ver om, dat ze nog altijd lang zamer 
+zijn  dan  de  overbelaste  weg.  De  RijnlandRoute  en  de  Leidse  Ring  Noord  brengt  daar  deels  
+verandering in, maar aanvullende maatregelen en een modal shift zijn eveneens noodzakelijk.
+
+Betrouwbare reistijden zijn ook voor het openbaar vervoer (OV) noodzakelijk. Het is namelijk 
+belangrijk dat een reiziger vertrouwen heeft dat zijn voorspelde reistijd ook zijn daadwerkelijke 
+reistijd  wordt.  Het  wegensysteem  waarvan  het  OV  grotendeels  gezamenlijk  met  personen-
+verkeer gebruik maakt, bepaalt mede de dienstregeling. Daarom wordt in het bouwen van een 
+vervoerplan voor de busdienstregeling uitgegaan van relatief pessimistische reistijden. Dit is 
+slecht voor de concurrentiepositie van het OV, en verhoogt de exploitatiekosten.
+
+Verkeer dat goed kan doorrijden bevordert de verkeersveiligheid en is beter voor de lucht-
+kwaliteit. Verkeersdeelnemers neigen er namelijk naar grotere risico’s te nemen op locaties 
+waar zij lang moeten wachten. Dit leidt zowel voor auto’s als voor langzaam verkeer tot het 
+meer negeren van rood licht. Ook hulpdiensten hebben hinder van de overbelasting, want het 
+is lastig of onmogelijk wachtrijen te passeren. Daarnaast leiden drukke wegen tot sluiproutes 
+door straten die hier niet voor zijn ingericht. In hoofdstuk 8 wordt verder ingezoomd op de 
+wegenstructuur en de bijbehorende wegencategorisering.
+
+Maatregelen  die  zich  richten  op  het  verbeteren  van  de  bereikbaarheid  van  Leiden  hebben 
+betrekking op het verbeteren van de afwikkeling in de spitsen. Daarnaast is het belangrijk om 
+aantrekkelijke  alternatieven  te  bieden  voor  de  automobilist  in  de  vorm  van  fiets  en  OV.  
+Naast de aandachtspunten op het hoofdwegennet zijn er ook aandachtspunten voor de fiets-
+structuur.  Hierbij  gaat  het  met  name  om  ontbrekende  schakels  in  het  fietsnetwerk,  vooral 
+tussen Leiden en omliggende gemeenten. In hoofdstuk 6 wordt hier verder op ingegaan
+
+Voor fietsers is naast veilige en comfortabele routes het kunnen stallen van de fiets een belang-
+rijk onderdeel van de reis. Vooral in onze stationsomgevingen (maar ook op meer plekken in 
+de stad) is het stallen van de fiets een uitdaging. Er was al de nodige aandacht voor het oplos-
+sen van deze problematiek in de vorige mobiliteitsnota, maar gelet op de bijdrage van de fiets 
+in  een  duurzaam  mobiliteitssysteem  neemt  de  urgentie  alleen  maar  toe.  Er  zijn  al  stappen 
+genomen  om  het  tekort  aan  fietsparkeerplekken  op  te  lossen,  maar  blijvende  aandacht  is 
+
+15
+
+nodig zeker gelet op de voorspelde groei van het aantal fietsers en daarmee de behoefte aan 
+stallingsplekken.
+
+3.5 De balans tussen leefbaarheid, duurzaamheid en bereikbaarheid 
+Bereikbaar zijn is een belangrijk gegeven voor het (economisch) functioneren van Leiden en 
+haar inwoners en bezoekers. Dit moet afgezet worden tegen andere kwaliteiten die net zo 
+belangrijk  zijn  voor  de  stad,  zoals  leefbaarheid  en  duurzaamheid.  In  een  dichtbevolkte  en 
+dichtbebouwde stad als Leiden kan verbetering van de bereikbaarheid gemakkelijk conflicte-
+ren  met  een  andere  doelstelling:  verbeteren  van  de  leefbaarheid  en  het  verblijfsklimaat.  
+Er moet een balans gevonden worden tussen het faciliteren van verkeer en het behouden van 
+de leefbaarheid van de stad. Onze ambitie om een verschuiving te weeg te brengen tussen 
+enerzijds  fiets,  lopen  en  openbaar  vervoer  en  anderzijds  gemotoriseerd  verkeer  is  daarin  
+helder. De balans wordt niet meer gevonden in het ongelimiteerd uitbreiden van de capaciteit 
+voor het gemotoriseerd verkeer, maar in een evenwichtigere verdeling van het gebruik van de 
+ruimte (afhankelijk van het type gebied) voor alle modaliteiten.
+
+Een  belangrijke  categorie  van  ongewenste  neveneffecten  van  het  verkeer  is  milieuoverlast. 
+Daaronder valt geluidsoverlast, luchtvervuiling, en trillingshinder. Voor de eerste twee geldt 
+landelijke wetgeving, voor de derde niet. Spoorvervoer kan geluids- en trillinghinder opleve-
+ren, maar geen luchtvervuiling. Voor alle drie geldt dat de hoeveelheid verkeer, het aandeel 
+vrachtverkeer,  en  de  afstand  tussen  weg  en  bebouwing  sterk  bepalende  factoren  zijn.  
+In Leiden zijn er verschillende wegen (zoals de Hoge Rijndijk en Hooigracht) met een aanzien-
+lijke verkeersfunctie en korte afstand tussen weg en bebouwing, met navenante risico’s op 
+milieuhinder. 
+
+Verkeer  heeft  ook  een  belangrijke  invloed  op  de  beleving  van  de  openbare  ruimte.  Leiden 
+heeft  de  wens  om  de  leefbaarheid  en  de  kwaliteit  van  de  openbare  ruimte  te  verbeteren.  
+In sommige delen van de stad (zoals de binnenstad) is dit ook een economische noodzaak;  
+het verbetert de concurrentiepositie en daarmee het economisch functioneren van middel-, 
+groot-  en  kleinbedrijf.  Maar  ook  andere  delen  van  de  stad,  die  we  als  aantrekkelijk  woon-
+gebied  of  kenniscampus  willen  profileren,  zijn  gebaat  bij  een  aantrekkelijk  verblijfsklimaat. 
+Behalve de beleving van de omgeving is hierbij ook het aspect van barrièrewerking van belang. 
+Bij wegen met een stroomfunctie steek je minder makkelijk over en dat kan de kwaliteit en de 
+ontwikkelingsmogelijkheden van een gebied negatief beïnvloeden.
+
+De effecten op de kwaliteit van de ruimte zijn moeilijk te kwantificeren, en ze hebben een 
+deels  subjectief  karakter.  Ze  zijn  ook  erg  afhankelijk  van  de  locatie  of  het  type  gebied:  
+een bepaalde verkeersdrukte kan op de ene locatie ervaren worden als problematisch voor de 
+ruimtelijke  kwaliteit,  terwijl  elders  even  veel  of  meer  verkeer  niet  als  een  probleem  hoeft  
+te  gelden.  Vaak  hangt  dit  samen  met  de  beschikbare  ruimte  en  hoe  die  verdeeld  is.  
+Daarbij moeten we niet alleen denken aan ruimte die in beslag wordt genomen door rijwegen, 
+maar ook aan ruimte die wordt gebruikt door parkeerplaatsen en fietspaden. 
+
+Een  aantal  locaties  vraagt  om  specifieke  aandacht  voor  verkeer  in  relatie  tot  de  ruimtelijke 
+kwaliteit. De uitwerking van deze vraagstukken is vaak een ontwerpopgave die een plek heeft 
+en krijgt in gebiedsuitwerkingen.: 
+
+16
+
+•  de historische binnenstad, inclusief de singelroute. De wens is hier om zoveel mogelijk het 
+
+(doorgaande) verkeer door de binnenstad (inclusief singels) tegen te gaan. Het grootste 
+deel van dit gebied heeft met weinig verkeer te maken, maar een ander deel (zoals de 
+Hooigracht, Zijlsingel) heeft met veel verkeer te maken en haalt niet de kwaliteit die in 
+potentie aanwezig is. Niet alleen de hoeveelheid verkeer heeft hiermee te maken, maar 
+ook de verhouding tot de capaciteit. Er treedt aanzienlijke overbelasting op, waardoor er 
+gedurende de spitsperioden langdurig wachtrijen zijn. De aanwezigheid van deze wacht-
+rijen heeft een extra negatief effect op de kwaliteit en leefbaarheid. De kwaliteit komt 
+echter niet alleen voort uit de omvang van de intensiteit van het verkeer. Ook de huidige 
+vormgeving van de weg speelt een rol. Voor de Hooigracht speelt nog als extra complica-
+tie dat hier ook HOV gaat rijden.
+
+•  verschillende historische verbindingen richting het centrum (Morsweg, Hoge Rijndijk, 
+
+Rijnsburgerweg) hebben te maken met veel verkeer en (zeer) beperkte ruimte; op delen 
+speelt overbelasting. Ook hier levert de ruimtelijke kwaliteit in. Tegelijk spelen die verbin-
+dingen voor de bereikbaarheid wel een behoorlijke rol in het verkeerssysteem,
+
+•  een voorbeeld van een andere orde is het stationsgebied en de verbinding met de  
+binnenstad en het Bio Science Park. Hier is de hoeveelheid autoverkeer al beperkt,  
+maar er rijden veel bussen. Dit beperkt de ruimte voor het langzaam verkeer, de fietsers 
+rijden gemengd met de bussen en bussen verliezen tijd omdat ze vaak de langzaam  
+verkeersstromen moeten kruisen, wat soms ook leidt tot verkeersonveilige situaties,
+
+•  een laatste situatie is de N206 (Churchilllaan en Doctor Lelylaan). Deze weg heeft nu nog 
+een profiel om veel verkeer te verwerken, en de meeste bebouwing bevindt zich op een 
+redelijke afstand. De omvang van de weg zorgt voor een behoorlijke barrièrewerking.  
+Dit draagt er o.a. aan bij dat de wijken Hoge Mors en Lage Mors op dit moment maar 
+een beperkte relatie met elkaar hebben. De aanleg van de RijnlandRoute biedt kansen  
+om de barrièrewerking te verminderen. 
+
+Tenslotte is in de balans tussen bereikbaarheid en duurzaamheid met name verkeersveiligheid 
+van  groot  belang.  In  essentie  dienen  gebruik  en  vorm  van  de  infrastructuur  met  elkaar  in 
+balans te zijn om een veilige situatie te verkrijgen. In heel Nederland volgen we hiertoe de 
+verkeersveiligheidsvisie  Duurzaam  Veilig  die  door  het  Rijk  in  combinatie  met  de  Stichting 
+Wetenschappelijk Onderzoek Verkeersveiligheid (SWOV) is geformuleerd. Wezenlijk onderdeel 
+hiervan is de functie per weg te benoemen en de inrichting hierop aan te passen. Leiden kent 
+verschillende  wegen  waar  functie  en  inrichting  niet  goed  met  elkaar  in  verhouding  zijn.  
+Een voorbeeld is de Morsweg, waar het fietsverkeer gemengd rijdt met veel autoverkeer op 
+een  zeer  smalle  rijbaan.  Zeker  voor  kwetsbare  doelgroepen  is  dit  bijzonder  niet  gewenst.  
+Het  consequent  aanpassen  van  wegen  conform  de  Duurzaam  Veilig-principes  leidt  tot  een 
+veiliger verkeerssysteem.
+
+3.6 Doorkijk naar mobiliteit 2040
+De  Omgevingsvisie  Leiden  schets  de  hoofdlijnen  voor  de  fysieke  leefomgeving  voor  2040.  
+Een onderdeel van die leefomgeving is mobiliteit. In deze mobiliteitsnota staan we voorname-
+lijk stil bij de korte en middellange termijn. De ambities uit het beleidsakkoord hebben echter 
+ook  een  reikwijdte  voor  de  lange  termijn.  Om  aan  te  sluiten  bij  de  lange  termijn  van  de 
+Omgevingsvisie is hieronder de visie op mobiliteit opgenomen die in een volgende actualisatie 
+van de Omgevingsvisie de input zal vormen voor mobiliteit.
+
+17
+
+Het gebruik van een specifiek vervoermiddel zal niet meer afhangen van het gegeven of je het 
+bezit of niet (deeleconomie). Mobiliteit zal zijn vormgegeven rond servicediensten die een reis 
+aanbieden.  Afhankelijk  van  de  bestemming  en  de  herkomst  worden  de  meest  geschikte  
+vervoermiddelen aangeboden. Een verschuiving dus van bezit naar gebruik. Dit zal op termijn 
+het  ruimtegebruik  van  de  openbare  ruimte  in  Leiden  flexibelere  en  evenwichtiger  kunnen 
+maken.
+
+Onze Randstad is in 2040 een bundeling van woon- en werkkracht die verbonden is door een 
+hoogwaardig treinsysteem dat steden onderling via een hoogfrequente en snelle dienstrege-
+ling  met  elkaar  verbind  (zoals  benoemd  in  Toekomstbeeld  OV  2040).  Leiden  is  één  van  de 
+toegangspoorten tot dit hoogwaardige systeem. Daarnaast zijn wij voor de regio het schakel-
+punt  van  het  regionale  openbaar  vervoer  naar  dat  hoogwaardige  intercity  netwerk.  
+Onze stadsdienst is een flexibel en duurzaam systeem dat zowel zelfstandig functioneert als 
+ook  onderdeel  is  van  mobiliteitsdiensten  (ook  wel  Mobility  as  a  Service  (MaaS)  genoemd). 
+Hierin fungeert het als een van de schakels in de totale verplaatsing.
+
+Mobility as a Service, wat is dat? Er zijn verschillende definities. Wij sluiten aan bij datgene dat 
+door het Kennisinstituut Mobiliteit is gedefinieerd, namelijk een mobiliteitsaanbod waarbij de 
+belangrijkste vervoersbehoeften van een klant worden vervuld via één interface en worden 
+aangeboden door één serviceprovider.
+
+De fiets is in 2040 nog meer aanwezig dan in 2020. Hoe de precieze verschijningsvorm van die 
+fiets er uit ziet weten we nog niet. In onze stedelijke ontwikkeling hebben we uitstekende 
+voorzieningen om die fiets te stallen. Zowel bij de woning als bij voorzieningen, winkels en het 
+werk.  Ook  alle  tussenvormen  tussen  traditioneel  lopen  en  fietsen  (zoals  momenteel 
+monowheels, elektrische steppen, skateboards e.d.) zullen toenemen. Afhankelijk van het feit 
+of de landelijke overheid deze nieuwe middelen toestaat, verwelkomen we ze in de stad omdat 
+ze geen of geringe impact hebben op de leefbaarheid van de stad. Hierbij geldt natuurlijk wel 
+dat ze veilig moeten zijn.
+
+Het geen of beperkt beschikking hebben over mobiliteit heet vervoersarmoede. Een gebrek 
+aan  vervoersmogelijkheden  is  een  probleem  met  ingrijpende  sociale  gevolgen.  Mensen  die 
+vervoersarm zijn, hebben minder mogelijkheden om deel te nemen aan bijvoorbeeld werk, 
+opleiding of sociale netwerken. We zien het als onze taak om te bewaken dat de toegang tot 
+mobiliteit in 2040 niet exclusief is geworden. We zien in MaaS een kans dat mobiliteit betaal-
+baar en daarmee toegankelijk blijft voor een ieder.
+
+We zien dat we als gemeentelijke overheid in 2040 vooral regisseur zijn rond (infrastructurele) 
+netwerken en de data die hier op en rond wordt verzameld. We zorgen er voor dat de data 
+beschikbaar is voor een ieder. Aanbieders van mobiliteitsconcepten kunnen met deze data hun 
+producten afstemmen op de behoefte van onze samenleving. Ook ontwikkelingen die op dit 
+moment nog in de kinderschoenen staan, zoals vervoer door de lucht en hergebruik van het 
+water als netwerk voor goederen en mensen, ondersteunen we als deze een bijdrage leveren 
+aan de gezonde en leefbare stad. Als overheid waken wij voor de bescherming van privacy bij 
+gebruik van data. 
+
+18
+
+In 2040 zullen personen- en bestelauto’s voor het grootste deel elektrisch zijn. Wat de toe-
+komstige brandstofvormen ook mogen zijn, wij werken mee om die brandstoffen toegankelijk 
+te maken. Gelet op onze ambities ten aanzien van gezondheid, leefbaarheid en duurzaamheid, 
+zien wij het individuele transport op een gepaste manier in de stad. Hiermee bedoelen we  
+een zo gering mogelijke impact op ruimtegebruik en leefomgeving. We kijken meer dan de  
+afgelopen decennia naar hoeveel ruimte nodig is voor de auto.
+
+19
+
+4. Ruimtelijk concept
+
+De integrale visie voor de fysieke leefomgeving, waarbij mobiliteit een van de onderdelen is,  
+is vastgelegd in de Omgevingsvisie Leiden 2040. In de Omgevingsvisie Leiden 2040 beschrijven 
+we  wat  we  belangrijk  vinden  bij  de  groei  en  ontwikkeling  van  Leiden.  De  Omgevingsvisie 
+Leiden  2040  sluit  aan  op  de  Regionale  agenda  voor  de  Omgevingsvisie  2040  “Hart  van 
+Holland” en bij de stadsvisie “Leiden, Stad van Ontdekkingen”. De Omgevingsvisie omvat zes 
+verhaallijnen waarin al deze zaken samenkomen, met verbeeldingen daarvan, in de vorm van 
+collages en inspiratiekaarten.
+In  deze  verhaallijnen  speelt  mobiliteit  op  verschillende  manieren  een  rol  om  ambities  op  
+het gebied van wonen, werken, economie, kennis en cultuur, historische waarden en voor-
+zieningen te kunnen behalen. De verhaallijnen sluiten aan bij de ambities op het gebied van 
+mobiliteit die in het vorige hoofdstuk zijn verwoord. 
+
+Figuur 3: Oude Lijn als drager van ontwikkeling
+
+20
+
+Vanuit de omgevingswet is het belangrijk om gebiedsspecifiek te werken. Ook voor mobiliteit 
+werken wij vanuit de specifieke vervoerskenmerken per gebied en bepalen we aan de hand 
+daarvan  de  prioritering  tussen  de  modaliteiten.  In  het  vervolg  van  dit  hoofdstuk  wordt  
+ingegaan op de vervoerskenmerken van de verschillende deelgebieden. Voordat hierop wordt 
+ingezoomd  is  het  nuttig  om  eerst  te  benoemen  dat  nieuwe  ruimtelijke  ontwikkelingen  en 
+mobiliteit hand in hand gaan. Dit is niet alleen een opgave voor Leiden en de Leidse regio maar 
+een die vooral in de gehele randstad wordt gevoeld. In de zuidelijke randstad heeft dit geleid 
+tot  een  verstedelijkingsalliantie  en  een  bijbehorende  adaptieve  ontwikkelingsstrategie. 
+Hierin  worden  de  opgaven  van  woningbouw,  verbetering  van  de  agglomeratiekracht,  
+meer hoogwaardig openbaar vervoer en een betere verkeersdoorstroming bij elkaar gebracht. 
+Belangrijk onderdeel van de strategie is de bundeling van ontwikkeling van woningbouw nabij 
+OV-knooppunten op de Oude Lijn (spoorverbinding Dordrecht- Leiden). Figuur 3 komt uit de 
+adaptieve ontwikkelingsstrategie en laat de Oude Lijn zien en de verstedelijkingslocaties. 
+Het belangrijkste knooppunt voor Leiden is hier Leiden Centraal. In het hoofdstuk over open-
+baar vervoer (Hoofdstuk 7) komt de adaptieve ontwikkelingsstrategie nog kort terug. 
+
+Binnenstad
+De  zone  Bio  Science  Park  –  Stationsgebied  –  binnenstad  noemen  we  ‘de  centrale  zone’. 
+Karakteristiek voor deze zone is een hoog aandeel voetgangers en fietsers in de verplaatsin-
+gen. Voor een deel zijn dit trein- en busreizigers die in en uitstappen op Leiden Centraal. Zowel 
+de historische binnenstad als het Bio Science Park zijn gebaat bij een aantrekkelijk verblijfs-
+klimaat en een goede omgeving die het langzaam verkeer faciliteert. Met name kennissteden 
+profiteren van een publiek domein dat ontmoeting en uitwisseling stimuleert. 
+
+Gezien de compacte schaal van Leiden is het mogelijk om binnen dit centrale gebied sterk in 
+te zetten op de aantrekkelijkheid van de publieke ruimte, waarbij verplaatsingen vooral te voet, 
+met de fiets en/of eventueel met het OV plaatsvinden. Dit sluit aan bij de gedachte van de al 
+genoemde adaptieve ontwikkelingsstrategie.
+
+Een belangrijke plek in dit gebied waar 
+alle ambities samenkomen is het Stations-
+gebied.  In  het  Stationsgebied  zijn  veel 
+ruimtelijke  ontwikkelingen  gelegen  en 
+ook  de  inrichting  van  de  buitenruimte 
+van het stationsgebied zelf is daarbij een 
+belangrijk thema. De ontwikkelingen in 
+dit gebied sluiten aan bij transit orientated 
+development (TOD). TOD is de algemene 
+benaming  voor  ontwikkelingen  in  de 
+directe  nabijheid  van  OV-knooppunten 
+(zie  ook  het  kader).  Voor  Leiden  geldt 
+dat die gedachte aansluit bij de gebun-
+delde  inzet  van  de  zuidelijke  randstad 
+om de agglomeratiekracht te versterken 
+en daarbij gelijk te werken aan het oplos-
+sen  van  mobiliteitsknelpunten.  Door  het  verbeteren  van  duurzame  mobiliteit  (OV  en  fiets/
+lopen)  van  de  regio  Leiden-Den  Haag-Rotterdam-Dordrecht  vergroten  we  de  leefbaarheid 
+
+Figuur 4: Huidige situatie stationsomgeving
+
+21
+
+(gezondheid en optimaal gebruik van de schaarse openbare ruimte in de steden) en werken we 
+aan de toekomstbestendigheid van het gebied.
+
+Bij TOD worden nieuwe woningen en voorzieningen ontwikkeld in de nabijheid van (hoog-
+waardig) openbaar vervoer. De nieuwe ontwikkelingen kennen in hun stedelijke vormgeving 
+het  kenmerk  dat  ze  op  loop-  en  fietsafstand  van  een  OV-knooppunt  zijn  vormgegeven.  
+Lopen en fietsen zijn de snelste manier van transport. Autogebruik op die plekken is onaan-
+trekkelijk omdat het in kosten en tijd niet kan concurreren met de duurzame modaliteiten. 
+
+Er wordt gewerkt aan een toekomstvaste OV-terminal als onderdeel van de gehele stations-
+omgeving.  Daarbij  onderzoeken  we  samen  met  andere  stakeholders  in  het  gebied  de  
+ontsluitingsstructuren  voor  het  busverkeer.  Doel  daarbij  is  om  enerzijds  een  betrouwbare  
+busdienstregeling  te  kunnen  garanderen  en  anderzijds  de  conflicten  tussen  busverkeer  en 
+voetgangers- en fietsstromen tot een minimum te beperken en hiermee veiligheid en verblijfs-
+kwaliteit te verhogen.
+
+Menggebieden
+Staat in het stationsgebied vooral de voetganger voorop, daarbuiten is de fietser de belangrijk-
+ste verkeersdeelnemer. Voor een deel betreft dit fietsers die zich binnen de stad (of de regio) 
+uitsluitend per fiets verplaatsen, voor een deel betreft het ook treinforensen, die van of naar 
+het station fietsen (een zogenoemde ketenverplaatsing). Door de compactheid van Leiden is 
+alles op fietsafstand, waardoor het fietsaandeel groot is. Dit aandeel willen we nog vergroten 
+door de voorzieningen voor de fiets te verbeteren. Dit doen we door in menggebieden de fiets 
+op 1 te zetten.
+
+Perifere woongebieden en bedrijventerreinen
+Buiten  de  centrale  zone  In  Leiden  is  er  naast  een  groot  aantal  woongebieden,  een  aantal 
+bedrijventerreinen gelegen. Voor het economisch functioneren is het op de korte en middel-
+lange termijn van belang dat de verbinding van en naar het hoofdwegennet goed is en berijd-
+baar voor (vracht)verkeer. Op innovatief vlak zijn er ontwikkelingen die ook het vrachtverkeer 
+schoner maken. Voor maatvoering van vrachtverkeer moet op de korte en middellange termijn 
+nog  altijd  rekening  gehouden  worden  met  de  huidige  dimensionering  van  voertuigen.  
+In regionaal verband wordt nagedacht hoe er plek blijft bestaan voor alle milieucategorieën 
+van  bedrijvigheid.  In  samenwerking  met  het  bedrijfsleven  wordt  een  toekomstperspectief 
+opgesteld met een planhorizon 2030. We werken aan de verbetering van de bereikbaarheid 
+van die terreinen met de fiets en het openbaar vervoer, naast de bereikbaarheid met de auto.
+
+De buurten van Leiden waar overwegend gewoond wordt, worden door de lijnvoering van de 
+stadsdienst goed ontsloten. Er blijven wensen over de frequentie. Ook het fietsnetwerk is al 
+behoorlijk op peil. Hier hebben we nog wel wensen ten aanzien van missende schakels en de 
+kwaliteit van bepaalde routes. De woningbouwopgave tot circa 2030 is voor het grootste deel 
+vertaald naar specifieke locaties/zoekgebieden in de stad. De achtergrond hiervan is naast de 
+Omgevingsvisie ook te vinden in de verstedelijkingnotitie Leiden. Voor die gebieden geldt dat 
+het een gegeven is dat de woningbehoefte groot is. De invulling daarvan moet op een zoda-
+nige wijze plaatsvinden dat gelijktijdig ook andere opgaven worden bediend. Meer dan ooit 
+hangen opgaven met elkaar samen en is een integrale aanpak voor de fysieke leefomgeving 
+noodzakelijk. Er is ook weinig fysieke ruimte, dus we moeten koppelen door middel van duur-
+
+22
+
+zame verstedelijking. Duurzame verstedelijking houdt in dat woningbouw daar plaatsvindt, 
+waar  zij  bijdraagt  aan  een  verbetering  van  de  leefbaarheid  en  duurzaamheid  van  de  stad. 
+Bijvoorbeeld doordat zij een ruimtelijke kwaliteitsimpuls geeft aan de buurt, of het draagvlak 
+voor missende voorzieningen vergroot. Duurzame verstedelijking kan de aanleg van collectieve 
+warmtesystemen  ondersteunen,  waar  ook  omliggende  oudbouw  op  aan  kan  koppelen.  
+En bij duurzame verstedelijking worden ontwikkelingen zo vormgegeven dat de omgeving ook 
+klimaatbestendiger en groener wordt, en de biodiversiteit er op vooruit gaat. Er is een zestal 
+locaties aangewezen waar de verstedelijkingsopgave zich concentreert. Voor deze locaties zal 
+bij de verdere uitwerking per locatie de mobiliteitsopgaven worden onderzocht. In figuur 5 zijn 
+de potentiegebieden terug te vinden. In figuur 5 zijn ook de kleinere bouwlocaties opgenomen.
+
+Figuur 5: Potentiegebieden verstedelijkingsopgave (links), overzicht bouwlocaties
+
+23
+
+De balans en de prioriteit tussen de modaliteiten bepalen we per gebiedstype en per type weg. 
+Voor een woonstraat in de binnenstad is dit anders dan voor bijvoorbeeld een woonstraat  
+in de Fortuijnwijk. Als vertrekpunt in het bepalen aan welke modaliteit welke ruimte wordt 
+gegeven hanteren we de volgende volgorde.
+
+Binnen­
+stad 
+
+Meng­
+gebieden
+
+Perifere 
+woongbieden  
+en bedrijven­
+terreinen
+
+Regio
+
+24
+
+5. Duurzame mobiliteit en leefbaarheid
+
+Een  goed  werkend  mobiliteitssysteem  is  belangrijk  voor  Leiden  en  de  regio.  Verkeer  heeft 
+echter ook ongewenste neveneffecten en dat geldt hoofdzakelijk voor gemotoriseerd verkeer. 
+Die neveneffecten hebben betrekking op de luchtkwaliteit, verkeerslawaai, trillingen, leefbaar-
+heid en veiligheid. 
+
+Er worden maatregelen genomen die duurzame mobiliteit en daarbij leefbaarheid en veiligheid 
+als primair doel hebben. Deze maatregelen dragen ook bij aan de bereikbaarheid. Dit hoofd-
+stuk benoemt deze maatregelen.
+
+5.1 Duurzame mobiliteit en leefbaarheid
+In de Omgevingsvisie is aangegeven dat duurzame mobiliteit bijdraagt aan een leefbare stad. 
+Duurzaam heeft daarbij een betekenis in brede zin: van economisch tot milieutechnisch. Er is 
+een  verband  tussen  duurzaamheid  en  leefbaarheid.  Immers,  bij  duurzaamheid  binnen  het  
+terrein van verkeer en vervoer hoort hoofdzakelijk het beperken van milieuhinder door het 
+verkeer. En dit is in het algemeen goed voor de leefbaarheid in de stad. Op lokaal niveau hoeft 
+dit overigens niet altijd zo te zijn. Bijvoorbeeld, een maatregel vanuit duurzaamheid of duur-
+zame mobiliteit is het bevorderen van het gebruik van het OV. Dit kan bijvoorbeeld met de 
+inzet van HOV. Lokaal levert dit echter wel meer passages van bussen op en dit kan lokaal 
+ervaren worden als negatief voor de leefbaarheid. Maar voor de stad als geheel kan de maat-
+regel wel als positief te beoordelen zijn vanuit leefbaarheid en duurzaamheid. In ieder geval 
+bekijken we de twee thema’s hier samen.
+
+Bij duurzaamheid gaat het er om dat we met ons huidig handelen er ook voor zorgen dat 
+toekomstige generaties in hun behoeften kunnen voorzien. Maatregelen die we nu nemen 
+aan het verkeerssysteem van Leiden, moeten ook goed zijn op de lange termijn. We werken 
+daarom aan de structuur van het wegennet met de Leidse Ring die voor de lange termijn dé 
+dragende functie heeft voor het wegennet. Daarbij is het overigens niet het uitgangspunt het 
+autoverkeer zo veel mogelijk te faciliteren, maar wel een solide basis te bieden voor de auto-
+bereikbaarheid. Ook helpt deze maatregel om overbelasting op andere delen van het wegen-
+net te beperken, en zo de milieubelasting over het geheel genomen te doen afnemen. Andere 
+vervoerwijzen  dan  autoverkeer  zijn  overigens  zeker  niet  minder  van  belang,  maar  (ook)  de 
+bereikbaarheid met de auto is noodzakelijk om Leiden aantrekkelijk te houden als stad om in 
+te werken en te wonen.
+
+Onze huidige manier van verplaatsen, met veel gebruik van de auto, is over het geheel gezien 
+niet duurzaam. Mobiliteit is één van de belangrijkste veroorzakers van de CO2 uitstoot (naast 
+andere emissies zoals NOx en fijnstof), en draagt zo bij aan de klimaatverandering. Het Rijk 
+werkt  momenteel  als  uitwerking  van  het  Klimaatakkoord  via  de  Mobiliteitstafel  aan  maat-
+regelen die de CO2-uitstoot als gevolg van mobiliteit moet verminderen. De maatregelen zijn 
+op  lokaal  niveau  nog  niet  bekend,  maar  zullen  naar  alle  waarschijnlijk  gericht  zijn  op  het  
+verduurzamen van de voertuigvloot (efficiënter en gebruik alternatieve brandstoffen) en een 
+verschuiving van het gebruik naar duurzame modaliteiten zoals fietsen, lopen en openbaar 
+vervoer. Leiden heeft dezelfde doelstellingen. Het is inmiddels duidelijk dat de maatregelen 
+zullen  worden  uitgewerkt  op  regionale  schaal.  In  Holland  Rijnland  verband  werken  we  al 
+samen  aan  klimaatdoelstellingen.  In  het  regionale  mobiliteitsplan  dat  in  2019/2020  door 
+
+25
+
+Holland Rijnland opgesteld wordt nadrukkelijk aandacht besteedt aan de regionale en lokale 
+uitwerking van de klimaatmaatregelen in relatie tot het mobiliteitsbeleid.
+
+In Leiden investeren we in de hieronder volgende maatregelen. 
+
+•  Meer fietsverkeer door fietsbeleid: meer fietsgebruik in plaats van gebruik van de 
+auto is duurzaam en verbetert de leefbaarheid. De meest bepalende factor hierin is dat 
+voor de fietser snelle, directe en comfortabele routes zijn. Ook mogelijkheden voor goede 
+stallingen, stimuleren van de elektrische fiets (om de fietser op langere afstanden te laten 
+concurreren met de auto), en inzet van communicatie zijn maatregelen die het fiets-
+gebruik bevorderen. In hoofdstuk 6 staan de maatregelen die Leiden neemt.
+
+•  Meer OV-gebruik door het stimuleren van OV gebruik: ook het bevorderen van  
+het gebruik van het OV draagt bij aan duurzaamheid. Leiden beschikt over meerdere 
+trein stations, waarvan Leiden Centraal veel reizigers (lokaal en regionaal) bedient. Ook 
+beschikt Leiden over een uitgebreid busnetwerk. Inmiddels is het HOV geïntroduceerd en 
+wordt gewerkt aan de verdere invulling hiervan. De gemeente Leiden gaat niet zelf over 
+het OV, maar kan met haar beleid wel bijdragen aan de concurrentiepositie van het OV. 
+We doen dit door te overleggen met de overheden die gaan over trein en busvervoer  
+(het Rijk, respectievelijk de provincie). We doen dit momenteel vooral in het kader van de 
+naderende OV-concessie Zuid-Holland Noord waar wij deel van uitmaken. Voor het spoor 
+gaat het om het faciliteren van comfortabel en vlot voor- en natransport naar de stations 
+(inclusief fietsparkeren), en voor het busvervoer kan de gemeente maatregelen nemen in 
+de fysieke infrastructuur die positief uitwerkt voor de verplaatsingssnelheid van de bus. 
+Ook maakt Leiden de haltes voor iedereen toegankelijk. Zie hoofdstuk 7 voor de maat-
+regelen die we nemen voor het OV.
+
+•  Meer duurzame mobiliteit door verdichting van woon- en werkfuncties bij OV 
+knopen: dit doen we bijvoorbeeld door verdichting bij Leiden Centraal en het faciliteren 
+van werkgelegenheid in het Bio Science Park. Dit valt overigens met name onder beleid 
+van ruimtelijke ordening en economie, maar het vraagt ook verkeersmaatregelen. Immers, 
+verdichting bij het OV leidt over het geheel gezien wel tot minder autoverplaatsingen, 
+maar heeft lokaal wel tot gevolg dat er extra verkeer gegenereerd wordt. We hebben  
+het in hoofdstuk 4 gehad over de relatie van ruimtelijke concepten en verplaatsingen.
+
+•  Efficiëntere verplaatsingen door schonere en zuinigere voertuigen, gebruik alternatie-
+ve brandstoffen/elektriciteit: hiertoe verschonen we ons eigen voertuigenpark bij vervan-
+ging, bevorderen we het gebruik van elektrische voertuigen door het plaatsen van 
+publieke laadpalen in de openbare ruimte en in de gemeentelijke parkeergarages.  
+We werken aan het verkorten van doorlooptijden van procedures rond laadinfrastructuur 
+en ook de voorgenomen intensivering van de milieuzone draagt hieraan bij.
+
+•  Bottom-up initiëren van duurzame innovatieve initiatieven vanuit de samenleving:  
+we moedigen initiatieven van derden aan. Dit wordt in Leiden vormgegeven door de  
+inzet van een Duurzaamheidsfonds. 
+
+•  Stedelijke distributie: een belangrijk instrument voor het verminderen en verschonen 
+van het goederenvervoer is stedelijke distributie. Leiden onderzoekt momenteel samen 
+met een aantal ondernemers waar en op welke manier de stedelijke distributie kan  
+worden verduurzaamd. Hieraan wordt ook de werking en de reikwijdte van de milieu-
+zone gekoppeld.
+
+26
+
+•  Efficiëntere verplaatsingen door eisen duurzaamheid in concessieverlening: ook op dit 
+
+punt is de gemeente niet bepalend, maar hebben we wel invloed op de concessieverlener 
+(de provincie). Landelijk is er een bestuursakkoord “Zero Emissie regionaal openbaar  
+vervoer per bus”. Hierin zijn duurzaamheidsdoelen voor 2025 en 2030 gesteld.  
+De ambities die wij hebben brengen we in in het proces van de concessie. Wij zijn nog 
+steeds verheugd dat de provincie samen met ons ambitie heeft getoond in het ver-
+vroegen van de introductie van Zero Emissie bussen voor de stadsdienst van Leiden. 
+
+•  Meer autodeelritten door bevorderen autodelen: we stimuleren het autodelen door 
+hier parkeerplaatsen voor te reserveren, ontheffingen te verlenen van een parkeervergun-
+ning en, vooral, door inwoners van Leiden bewust te maken van de mogelijkheden van 
+autodelen (communicatie).
+
+•  Verkeersmanagement en mobiliteitsmanagement: goed ingezet verkeers- en  
+
+mobiliteitsmanagement leidt tot minder gebruik van energie en tot minder uitstoot als  
+op de hoofdwegen. Het aantal keren dat een voertuig moet stoppen wordt beperkt.  
+Het ‘intelligenter’ maken van verkeersregelinstallaties is daarbij een maatregel.  
+Zie hoofdstuk 9.
+
+Bovenstaande duurzaamheidsmaatregelen zijn van belang voor de leefbaarheid van de stad. 
+Het beperken van het autoverkeer of de effecten ervan helpen immers ook het lokaal beper-
+ken van de milieubelasting (luchtkwaliteit en geluidsbelasting). Er zijn wettelijke eisen voor het 
+toegelaten niveau van geluidsbelasting en ten aanzien van emissiewaarden. In Leiden toetsen 
+we hier bijvoorbeeld aan in het kader van bestemmingsplanprocedures.
+
+De Leidse agglomeratie houdt zich aan de regeling omgevingslawaai (Stcrt. 2004, 134). Op 
+grond daarvan is Leiden verplicht om elke vijf jaar, te beginnen in 2007, een geluidsbelasting-
+kaart vast te stellen. Deze kaart geeft inzicht in de blootstelling aan geluid door wegverkeer, 
+railverkeer, luchtvaart en industrie, in het jaar voorafgaande aan de totstandkoming van de 
+kaart.  Als  verdere  verplichte  stap  moet  Leiden  een  actieplan  opstellen.  Dit  actieplan  is  een 
+evaluatie  van  het  gevoerde  beleid  in  de  afgelopen  vijf  jaar.  Ook  wordt  in  dit  actieplan  
+vast gelegd welke concrete acties Leiden van plan is te doen om geluid te beperken daar, waar 
+het naar het oordeel van de gemeente beperkt moet worden. Ook staat omschreven hoede 
+geluidskwaliteit beschermd wordt op plaatsen waar de kwaliteit nu goed is. Het actieplan doet 
+waar nodig een aanzet voor nieuw beleid. Een belangrijke vraag voor het actieplan is welke 
+geluidsbelasting als onwenselijk wordt gezien.
+
+27
+
+5.2 Verkeersveiligheid
+In Nederland (zie figuur 6) gaat het minder goed met de verkeersveiligheid. Het aantal ernstig 
+verkeersgewonden neemt al ruim tien jaar toe, en er is opnieuw een stijging van het aantal 
+verkeersdoden. Ook in Leiden zien we min of meer deze trend. Om het tij te keren hebben 
+overheden  en  maatschappelijke  partners  zichzelf  als  doel  gesteld  dat  elk  slachtoffer  in  het 
+verkeer  moet  worden  voorkomen.  Deze  ambitie  is  vastgelegd  in  het  Strategisch  Plan 
+Verkeersveiligheid 2030 van het Rijk.
+
+Het  wordt  met  name  in  steden  steeds  drukker  op  de  fietspaden.  Er  zijn  nieuwe  (stillere)  
+voertuigen, zoals de elektrische fiets. Er zit steeds meer techniek in de auto, waar we mee 
+moeten leren omgaan. Er is meer afleiding door social media, en mensen blijven op oudere 
+leeftijd  deelnemen  aan  het  verkeer.  De  veranderende  omstandigheden  vragen  om  nieuwe 
+maatregelen. Hier zijn inspanningen voor nodig, ook in Leiden. 
+
+Figuur 6: Ontwikkeling van het aantal verkeersdoden en ernstig verkeersgewonden in de 
+periode 2008-2017; de figuren zijn overgenomen uit: Strategisch Plan Verkeersveiligheid 
+2030, bron CBS statline.
+
+5.2.1 Locatie specifieke verkeersveiligheidsprojecten
+Er bestaat geen absolute maat om te bepalen of de verkeersveiligheid op een locatie voldoen-
+de is. Eén manier om te kijken of er locaties zijn waar verkeersonveiligheid speelt, is door te 
+kijken naar de ongevallen van de afgelopen jaren. Zo zijn verkeersonveilige locaties, ook wel 
+black  spots  genoemd, 
+identificeren.  De  Stichting  Wetenschappelijk  Onderzoek 
+Verkeersveiligheid (SWOV) noemt als een van de manieren om te beoordelen of een locatie 
+een black spot is, dat op die locatie zes of meer ongevallen met letsel moeten plaatsvinden in 
+drie jaar. Vanwege het gegeven dat de registratiegraad de afgelopen jaren gering was, moet 
+opgepast worden met termen als black spots. In figuur 7 zijn de 10 locaties te zien waar zich 
+tussen januari 2014 en november 2019 de meeste letselongevallen hebben plaatsgevonden. 
+
+te 
+
+Op deze locaties vinden we de verkeersveiligheid niet voldoende. Het is overigens mogelijk dat 
+het niet alleen gaat om een verkeersveiligheidskwestie. Er kan ook een optelsom van redenen 
+zijn om een project uit te voeren, waarbij verkeersveiligheid een van de belangrijke argumen-
+ten is. Naast maatregelen op specifieke kruispunten, nemen we ook maatregelen in wijken in 
+het kader van gebiedsgerichte aanpak. Dit zijn met name de wijken Houtkwartier, Merenwijk 
+en De Mors. 
+
+28
+
+Figuur 7: Locaties met hoge verkeersonveiligheid
+
+Maatregelen  die  vanuit  het  oogpunt  van  verkeersveiligheid  worden  genomen  hebben  ook 
+invloed  op  bijvoorbeeld  doorstroming  of  leefbaarheid.  Maatregelen  die  elders  worden  
+verwoord in deze Nota hebben dus veelal effect op verkeersveiligheid en andersom op het 
+gebruik van modaliteiten. 
+
+We werken al jaren aan de verkeersveiligheid bij schoolomgevingen. In 2021 zullen alle scholen 
+een verkeersveilige schoolomgeving hebben.
+
+29
+
+5.2.2 Generieke verkeersveiligheidsinspanningen
+De  meeste  generieke  verkeersmaatregelen  grijpen  in  op  het  gedrag  van  de  verkeersdeel-
+nemers. Dit is mogelijk via publiekscampagnes, educatieprojecten en handhaving. Over hand-
+having gaat niet de gemeente, maar de politie. We overleggen hier over met de politie.
+
+Verkeerseducatie en publiekscampagnes op het gebied van veiligheid gebeuren op de schaal 
+van de regio. Hiervoor geldt vanuit Holland Rijnland het Actieprogramma Verkeersveiligheid 
+2020-2021. Onderdelen van dit programma zijn: voorlichting, verkeerseducatie, afstemming 
+met politie over handhaving, monitoring, en het organiseren van overleg tussen gemeenten en 
+andere belanghebbenden op het gebied van verkeersveiligheid. 
+
+Essentieel voor verkeersveiligheid is het goed ontwerpen van de infrastructuur. Zo moeten het 
+gebruik  en  de  inrichting  van  de  infrastructuur  goed  op  elkaar  afgestemd  zijn.  Wij  werken  
+hieraan aan door wegencategorisering. Een belangrijk uitgangspunt daarbij is het bundelen 
+van grote autostromen op een beperkt aantal wegen, die daar voor ingericht zijn. Bundeling 
+van meer verkeer op de Leidse Ring speelt daarbij een belangrijke rol, zodat op de wegen met 
+een verblijfsfunctie de verkeersomvang past bij de vormgeving. Dit is gunstig voor de verkeers-
+veiligheid. Het is bij het maken van wegontwerpen verder belangrijk expliciet oog te hebben 
+voor kwetsbare doelgroepen. Het vermijden van conflicten en het scheiden van vervoerwijzen 
+met sterk verschillende massa’s en richtingen levert hier een bijdrage aan. 
+
+5.3 Autoluwe binnenstad
+Daar  waar  de  historische  binnenstad  en  autoverkeer  elkaar  ontmoeten  ontstaat  druk  op  
+leefbaarheid en duurzaamheid. De historische potentie en kwaliteiten van veel straten in de 
+binnenstad  worden  niet  of  onvoldoende  beleefd  of  benut  door  bewoners  en  bezoekers.  
+De afgelopen decennia lag de focus op infrastructuur en doorstroming voor de auto: kijkend 
+naar de toekomst willen we meer aandacht voor het leven in de stad en het verblijven in de 
+openbare  ruimte.  De  personenauto  en  de  onevenwichtige  vraag  naar  ruimte  vanuit  dit  
+vervoersmiddel is een hindernis geworden. Dit geldt ook als in de toekomst de personenauto 
+steeds meer elektrisch wordt aangedreven.
+
+De onevenwichtigheid betreft zowel de problematiek van de geparkeerde auto, die veel open-
+bare ruimte inneemt, als de omvang van de stroom doorgaand verkeer door de binnenstad die 
+naast  het  ruimtebeslag  overlast  en  onveiligheid  veroorzaakt.  Om  de  binnenstad  gezonder, 
+prettiger en leefbaarder te maken, is de ambitie uitgesproken de Leidse binnenstad autoluw te 
+maken (zie ook paragraaf 3.3). 
+
+Aan de hand van een ambitiedocument wordt verder invulling gegeven aan doelen, acties en 
+ambities. We werken parallel aan deze mobiliteitsnota aan het ambitiedocument. Hierin wordt 
+ingegaan op de mogelijkheden van het autoluwer maken van de binnenstad zowel op korte 
+als op langere termijn. Het doel daarbij is om toe te werken naar een gezondere, groenere en 
+leefbaardere binnenstad en de koers die daarbij hoort te definiëren. 
+
+In het ambitiedocument wordt ingezoomd op welke straten op korte termijn autoluw of auto-
+vrij  gemaakt  kunnen  worden,  zonder  nog  wezenlijke  gevolgen  voor  het  grotere  verkeers-
+netwerk in Leiden. Het gaat daarbij om de straten direct rondom de Pieterskerk, de Hooglandse 
+kerk, aan de Aalmarkt en delen van de Oude Rijn en de Nieuwe Rijn. De precieze uitwerking 
+
+30
+
+van  de  maatregelen  worden  in  samenspraak  met  bewoners  en  andere  belanghebbenden 
+bepaald. 
+
+Voor de langere termijn willen we het aantal parkeerplaatsen op straat in de komende 10 jaar 
+verlagen. Voor verschillende doelgroepen (bewoners, bezoekers, bevoorrading) worden tijdig 
+goede alternatieven onderzocht. Vervolgens spreken we de ambitie uit om uiteindelijk geen 
+doorgaand autoverkeer meer door de binnenstad toe te staan, door verschillende straten op 
+strategische  plekken  af  te  sluiten.  Dergelijke  afsluitingen  hebben  gevolgen  voor  het  gehele 
+autonetwerk en moeten dus zorgvuldig worden uitgewerkt. Die verdere uitwerking is onder-
+deel van het ambitiedocument dat in 2020 wordt opgeleverd.
+
+Duidelijk is dat afsluitingen of andere aanpassingen in de circulatie van personenautoverkeer 
+in  de  binnenstad  ervoor  zorgt  dat  autoverkeer  op  andere  wegen  gaat  rijden.  Die  effecten  
+werken  door  in  bijna  de  hele  Leidse  regio.  In  de  verdere  uitwerking  worden  alle  aspecten 
+gedefinieerd  en  onderzocht  (zoals  de  relatie  met  de  verstedelijkingsopgave),  omdat  op  dit 
+niveau duidelijker wordt wat de effecten zijn.
+
+5.4 Wijkgerichte aanpak van kleinschalige maatregelen
+Nu er duidelijkheid is over de hoofdstructuur van het verkeerssysteem kan ook op wijkniveau 
+worden gekeken naar de consequenties en kansen die daar ontstaan. Denk aan herinrichtin-
+gen die de leefbaarheid en veiligheid verbeteren. Juist deze kleinschalige maatregelen bieden 
+bij uitstek een kans om samen met de inwoners en ondernemers in de wijk plannen te maken. 
+In  het  investeringsprogramma  worden  middelen  gereserveerd  voor  deze  wijkcirculatie  en  
+veiligheidsplannen waarvan het karakter per wijk sterk afhangt van de lokale problematiek en 
+wensen. De uitvoering zal veelal plaatsvinden in combinatie met onderhoudswerkzaamheden.
+
+31
+
+6. Voetgangers en fiets
+
+In het beleidsakkoord is aangegeven dat meer gebruik van fiets en voetgangers nodig is om 
+de  doelstellingen  die  we  als  stad  hebben  om  groener  en  duurzamer  te  zijn  te  bereiken.  
+Voor veel verplaatsingen in de stad is lopen en fietsen de snelste optie. Fietsgebruik is goed 
+voor de bereikbaarheid, duurzaamheid, leefbaarheid en gezondheid. Het is daarom belangrijk 
+het gebruik van de fiets te stimuleren en de fiets nog concurrerender te maken voor verplaat-
+singen op de korte en middellange afstand. Lopen is belangrijk in de binnenstad en op routes 
+naar  buurtwinkelcentra,  sportvoorzieningen  en  onderwijslocaties,  naast  de  wens  om  in  de 
+woonomgeving kwalitatief goede ommetjes te hebben.
+
+Daarnaast zijn bijna alle verkeersdeelnemers voor een deel van hun verplaatsing voetganger,  
+of het nu is voordat op de fiets wordt gestapt of nadat iemand uit de auto stapt. Bovendien 
+zijn er delen van Leiden waar de voetganger het verkeer overheerst. Een goede plek van de 
+voetganger in de openbare ruimte is dan ook belangrijk.
+
+6.1 Voetgangers
+In Leiden is er een aantal locaties met zeer grote stromen voetgangers. Rond het station zijn 
+deze stromen groot, zowel naar het centrumzijde als naar de zeezijde. Aan de zeezijde trekken 
+vooral onderwijsinstellingen en het Bio Science Park deze grote stromen voetgangers. Aan de 
+centrumzijde ligt het busstation wat een grote voetgangersstroom veroorzaakt. Daar bovenop 
+is de binnenstad zelf ook een grote trekker van voetgangersstromen vanuit het station. In de 
+binnenstad zelf zijn veel voetgangers. De Haarlemmerstraat is tijdens de openingstijden van de 
+winkels alleen voor voetgangers gereserveerd. Bovenstaande opsomming is echter niet volle-
+dig:  er  zijn  meer  plekken  in  Leiden  met  grote  stromen  voetgangers,  zoals  bij  station 
+Lammenschans en bij winkelcentrum De Luifelbaan.
+
+Naast de hierboven genoemde gebieden met grote voetgangersstromen is op andere plekken 
+in de stad de voetganger vaak minder zichtbaar in het straatbeeld, maar daarom niet minder 
+belangrijk. Juist bij voetgangers moet extra rekening worden gehouden met kwetsbaarheid. 
+Zeker voor doelgroepen zoals ouderen, kinderen en mindervaliden. Voor zowel leefbaarheid, 
+veiligheid, als kwaliteit van de openbare ruimte is het belangrijk dat het wegennet een goede 
+ruimte biedt aan de voetgangers. Lopen is niet alleen goed voor de omgeving, maar ook voor 
+de verkeersdeelnemer zelf: lopen is gezond.
+
+In  onze  gesprekken  met  de  stad  de  afgelopen  jaren  is  aangegeven  dat  de  voetganger  zijn 
+eigen beleid verdient. We gaan dan ook als logisch vervolg van deze nota een ‘voetgangers-
+plan’ opstellen. Belangrijke onderdelen zijn onder andere:
+•  Een fijnmazig netwerk en continuïteit in routes.
+•  Passende maatvoering daar waar grote stromen voetgangers zijn.
+• 
+•  Beleving en kwaliteit van routes.
+•  Voetganger in de ketenverplaatsing.
+
+Inclusiviteit en lopen.
+
+Voor het stationsgebied en de aansluiting richting het centrum en richting het Bio Science Park 
+wordt de positie van de voetganger verder uitgewerkt in projecten. Goede looproutes van het 
+
+32
+
+station en vanaf de HOV-haltes verleiden de bezoeker van de stad om de auto thuis te laten. 
+Dit draagt bij aan het verbeteren van de leefbaarheid in de stad.
+
+Voor de binnenstad is het belangrijk te werken aan goede loopverbindingen van de parkeer-
+garages Lammermarkt en Garenmarkt naar het kernwinkelgebied. Deze routes bevorderen het 
+gebruik  van  de  parkeergarages  en  voorkomen  zogenaamd  ‘zoekverkeer’  dat  alsnog  in  de  
+binnenstad zoekt naar een parkeerplaats.
+
+De voetganger verdient een belangrijke plek bij het ontwerpen van een weg. Ook op locaties 
+waar geen grote stromen voetgangers zijn. Dat wil zeggen dat de gebruikelijke handleidingen 
+op het gebied van wegontwerp gevolgd moeten worden. Bovendien is het belangrijk om aan-
+dacht te hebben voor detailleringen in het ontwerp. Hierbij is specifieke aandacht nodig voor 
+kwetsbare doelgroepen zoals senioren of mensen met een beperking. Aandachtspunten zijn:
+•  het vermijden van obstakels. Dit is zeker van belang met het ouder worden van de bevol-
+
+king en het toenemend aantal mensen dat met een rollator loopt,
+
+•  zorgen voor goede geleidelijnen,
+•  zorgen voor goede oversteekplaatsen (zebra’s, rateltikkers bij verkeerslichten). Welke vorm 
+
+voor een oversteek geschikt is voor een locatie, hangt af van een variatie aan factoren,
+•  hoe routes lopen nabij zorgcentra en winkelcentra. Of een bankje, dat als rustplek kan 
+
+dienen, op een tactische plaats staat bij een looproute, kan voor ouderen van groot 
+belang zijn,
+
+•  hoe om te gaan met open ruimtes (pleinen) in het ontwerp waar meerdere soorten  
+
+verkeer zich kunnen mengen. Voor oudere voetgangers, zeker met een visuele beperking, 
+kunnen dergelijke ruimtes een obstakel zijn. In het ontwerp moet hier rekening mee  
+worden gehouden. 
+
+6.2 Fiets
+Leiden zet de Fiets op 1 omdat de fiets het ideale vervoermiddel is in een compacte stad. 
+Fietsen is goedkoop, duurzaam, snel en gezond. Van de Leidenaren heeft 92% een fiets en 
+fietst 67% dagelijks. Van de Stevenshof of de Merenwijk fiets je in ongeveer 10 minuten naar 
+het centrum van Leiden, wat sneller is dan met de auto. Lopend is deze afstand in ongeveer 
+45 minuten te overbruggen, wat voor veel Leidenaren een reden is om voor de fiets te (blijven) 
+kiezen.
+
+Door de Fiets op 1 te zetten, wordt het belang van het fietsen en de fietser in Leiden bena-
+drukt. Natuurlijk zijn er delen van de stad, zoals de winkelgebieden, waar de voetganger de 
+belangrijkste verkeersdeelnemer is. Daar worden deze gebieden op ingericht. In de praktijk zijn 
+dit vaak fietsers die hun fiets geparkeerd hebben en te voet naar hun bestemming(en) lopen.
+
+6.2.1 Uitgangspunten nieuw fietsbeleid
+Het huidige beleid van de fiets is in 2013 vastgesteld in de Nota Herijking Fietsroutes Leiden 
+2013-2020.  Ook  is  op  regionaal  niveau  een  kaartbeeld  vastgesteld  voor  snelfietsroutes.  
+Het huidige beleid ten aanzien van de fiets moet worden geactualiseerd voor de periode 2020 
+- 2030. De ambities die in het beleidsakkoord zijn benoemd maken dat nieuw beleid voor de 
+fiets nodig is. De uitgangspunten die vanuit deze Mobiliteitsnota worden meegegeven zijn:
+
+33
+
+1.  In 2030 is het fietsgebruik met 40% toegenomen  
+
+Naast de ambitie van Leiden om het fietsgebruik toe te laten nemen en het autogebruik 
+te verminderen, wordt ook meer gefietst door autonome ontwikkelingen. De verstedelijk-
+ings opgave in Leiden zorgt voor duizenden fietsers extra per dag. Deze aantallen worden 
+aangevuld met meer werknemers, meer studenten en meer bezoekers. De elektrische 
+fiets wordt steeds beter en daardoor vaker een alternatief voor autoritten tot 15 km.  
+Een autoluwe binnenstad zorgt voor meer fietsers. Het is noodzakelijk dat de fietsinfra-
+structuur in Leiden (routes en stallingen) voorbereid wordt op deze grote aantallen extra 
+fietsers. Onze verwachting is dat de groei van het aantal fietsers tot 2030 40% is.
+
+2.  Fietsen in Leiden is veilig 
+
+Fietsen in Leiden moet verkeersveilig en sociaal veilig zijn. Ongelukken moeten voor-
+komen worden en fietsers moeten zich prettig voelen op de fiets en in de stallingen. 
+Fietsroutes zijn breed genoeg voor de (grote) aantallen fietsers met vaak verschillende 
+snelheden zodat conflicten worden voorkomen. Onveilige kruisingen met autoverkeer 
+worden aangepakt. 
+
+3.  Kinderen kunnen zelfstandig deelnemen aan het verkeer 
+
+Fietsen zit in onze genen. Kinderen leren het fietsen op jonge leeftijd. Eerst alleen in de 
+woonstraat en onder begeleiding. We willen dat kinderen zo snel mogelijk zelfstandig 
+kunnen deelnemen aan het verkeer. Dat moet veilig zijn. De meest kindvriendelijke 
+schoolomgevingen zijn schoolomgevingen zonder auto’s.
+
+4.  Iedereen heeft de mogelijkheid om te fietsen 
+
+Het is belangrijk dat iedereen de mogelijkheid heeft om te fietsen. Fietsen is een sociale 
+activiteit en is gezond. Het bevordert de sociale samenhang in buurten en als veel men-
+sen fietsen, verbetert het ook het gevoel van sociale veiligheid op straat. Mensen die nog 
+niet kunnen fietsen stimuleren we om dat te gaan doen. We willen dat alle kinderen in 
+Leiden een fiets hebben en dat ouderen ook op latere leeftijd kunnen- en blijven fietsen. 
+
+5.  We spelen in op het gedrag van de fietser 
+
+We spelen in op het gedrag van de fietser en beïnvloeden dat gedrag waar dat nodig is 
+met fietsprojecten. We willen dat mensen vaker gaan fietsen, veiliger gaan fietsen en dat 
+fietsen gemakkelijker wordt. Door te begrijpen waarom fietsers bepaalde keuzes maken, 
+kan daarop ingespeeld worden. Een herkenbare weginrichting maakt dat voor wegge-
+bruikers duidelijk is welk gedrag er van hen wordt verwacht. Het is daarbij van belang  
+dat er onderscheid is tussen de verschillende wegcategorieën en dat er uniformiteit is 
+binnen de categorieën. Daarom worden de wegen ingericht volgens de principes van 
+Duurzaam Veilig
+
+6.  Fietsroutes zijn direct, herkenbaar, comfortabel en aantrekkelijk 
+
+Uitgangspunt is dat de fietsinfrastructuur op orde is. Daarom zijn een zorgvuldige  
+planning van het fietsnetwerk en een goed ontwerp van de voorzieningen essentieel. 
+Fietsers moeten zonder grote omwegen hun bestemming bereiken. Fietsroutes zijn  
+herkenbaar zodat fietsers eenvoudig hun weg vinden. Het fietsen over goed ingerichte 
+fietspaden heeft de voorkeur. Dat kan en hoeft niet overal. Op fietsstraten zijn auto’s  
+te gast.
+
+34
+
+7.  Fietsenstallingen zijn er voldoende en van hoge kwaliteit 
+
+Bij de voorzieningen zoals stations, winkelcentra, de binnenstad en in woonwijken 
+ moeten voldoende stallingsplaatsen voor de fiets zijn. Deze stallingsplaatsen hebben  
+een hoge kwaliteit, zijn makkelijk toegankelijk en liggen dicht bij de bestemming.  
+Hierbij volgen we de normen van Stichting Fietsparkeur. We stimuleren het gebruik en  
+in mindere mate het bezit. Door meer deelfietsen zijn minder stallingen nodig.
+
+8.  De fiets staat centraal in het beleid en bij projecten en gebiedsontwikkelingen in Leiden 
+
+Het belang van de fietser en voetganger gaat in Leiden voor de auto. Bij de uitwerking in 
+projecten krijgt de fiets een prominente plek. Bij nieuwbouw van woningen en voor-
+zieningen wordt gezorgd voor een goede en veilige fietsbereikbaarheid en voor voldoen-
+de en eenvoudig te gebruiken fietsenstallingen voor zowel bewoners, gebruikers als 
+bezoekers. In Leiden moet een fietscultuur ontstaan zonder daarbij andere belangen  
+uit het oog te verliezen. Niet altijd kan de fiets op 1 staan. Er zijn gebieden waar de voet-
+ganger prioriteit heeft. Maatwerk is soms nodig.
+
+9.  Leiden investeert in het fietsen en in de fietser 
+
+Om ervoor te zorgen dat Leiden voorbereid is op 40% meer fietsers, investeert Leiden  
+de komende jaren in het fietsen en in de fietser. In het beleidsprogramma Fiets worden 
+beleidskeuzes gemaakt en worden concrete projecten benoemd. Dit zijn niet alleen  
+infrastructuur projecten maar ook gedragsbeïnvloeding, promotie en educatie.
+
+6.2.2 Fietsnetwerken
+In Leiden onderscheiden we 5 typen fiets-
+routes: 
+• 
+• 
+• 
+
+ Snelfietsroutes
+ Hoofdfietsroutes
+  Hoofdfietsroutes Binnenstad en  
+Leiden CS
+ Wijkfietsroutes
+ Recreatieve fietsroutes
+
+• 
+• 
+
+Figuur 8: gewenste fietsstructuur Leiden
+
+Snelfietsroutes
+De Snelfietsroutes zijn routes die verschillen-
+de  omliggende  kernen  met  Leiden  verbin-
+den. Deze routes worden samen met onze 
+regiogemeenten en met de provincie Zuid-
+Holland verder ontwikkeld en verbeterd.
+
+35
+
+In  Holland  Rijnland-verband  is  een  beoogd  snelfietsroutenetwerk  in  onze  regio  opgesteld.  
+Dit snelfietsroutenetwerk valt samen met de 7 regionale corridors van en naar Leiden: 
+
+1.  Den Haag Oost  
+(via Voorschoten, Leidschendam, Voorburg) 
+2.  Den Haag West 
+(via Wassenaar) 
+3.  Katwijk  
+(via Valkenburg, Rijnsburg) 
+4.  Noordwijk / Schiphol  (via Oegstgeest, Teylingen) 
+5.  Kaag en Braassem  
+6.  Alphen aan den Rijn   (via Zoeterwoude Rijndijk) 
+7.  Zoetermeer  
+
+(via Zoeterwoude Dorp) 
+
+(via Leiderdorp) 
+
+15 km
+15 km
+8 km
+12 km
+11 km
+12 km
+11 km
+
+In  de  deeluitwerking  fiets  wordt  verder  richting  gegeven  aan  alle  typen  fietsroutes  en  de  
+bijbehorende ontwerprichtlijnen.
+
+Hoofdfietsroutes
+De hoofdfietsroutes zijn de belangrijkste routes door de stad. Deze fietsroutes zijn minstens  
+zo belangrijk als de snelfietsroutes omdat deze op veel plaatsen zelfs drukker zijn dan de snel-
+fietsroutes. Door barrières zoals water (Oude- en Nieuwe Rijn, Singels), spoor en de inrichting 
+van de stad is de ligging van deze hoofdfietsroutes veelal decennia onveranderd en functione-
+ren  prima.  Het  verbeteren  van  veiligheid,  comfort  en  herkenbaarheid  is  vaak  wel  gewenst, 
+helemaal bij een toename van het aantal fietsers met 40% en grotere snelheidsverschillen op 
+de fietspaden.
+
+Wijkfietsroutes
+Wijkfietsroutes hebben een belangrijke functie voor de wijk en hebben in mindere mate een 
+doorgaande functie. Wijkfietsroutes zijn niet altijd vrijliggende fietspaden en kunnen ook over 
+30 km/uur wegen door de wijk lopen. 
+
+Recreatief fietsnetwerk
+Recreatieve  fietsroutes  kennen  vaak  een  overlap  met  de  regionale  en  stedelijke  fietsroutes, 
+aangevuld met routes door de buitengebieden en parken. Hiervoor is landelijk het fietsknoop-
+puntennetwerk ontwikkeld.
+
+6.2.3 Fietsparkeren
+Fietsparkeren is een onderdeel van de Parkeervisie. Er zijn 8 visiepunten die een leidende rol 
+hebben bij de verdere uitwerking van het fietsparkeren.
+1.  Leiden besteedt extra aandacht aan gebieden waar fietsparkeren nu een probleem is en 
+
+waar grote kansen liggen om het fietsen te stimuleren. 
+
+2.  Leiden organiseert het fietsparkeren op een intuïtieve manier (bijvoorbeeld aansluitend  
+
+op fietsroutes), zodat de juiste fiets(er) op de juiste plek terechtkomt.
+
+3.  Met fietsparkeren versterkt Leiden de relatie tussen de fiets, de auto en het openbaar 
+
+vervoer.
+
+4.  Leidse fietsenstallingen worden zo efficiënt mogelijk benut, bijvoorbeeld door bewoners 
+
+toegang te geven tot bezoekers-, school- en bedrijfsstallingen.
+
+5.  Op locaties waar extra behoefte is aan fietsparkeerplaatsen is, investeert Leiden in nieuwe 
+hoogwaardige voorzieningen. Ook onderzoekt de Leiden de mogelijkheden van flexibele 
+fietsparkeer oplossingen.
+
+36
+
+6.  Leiden gebruikt reguleringsmaatregelen om het fietsparkeren in de stad te beheersen. 
+7.  In Leiden is de fiets het uitgangspunt in het ontwerp van nieuwe gebouwen. Dit geldt 
+
+ook voor gebouwen die een andere functie krijgen.
+
+8.  Leiden zoekt aansluiting bij nieuwbouw- en andere projecten om extra fietsparkeer-
+
+voorzieningen te creëren of om de kwaliteit van het fietsparkeren te verbeteren.
+
+Bij de genoemde visiepunten is het nodig om onderscheid te maken in maatregelen die in 
+Leiden breed nodig zijn en naar focusgebieden, zoals de stationsomgeving. In de Parkeervisie 
+wordt dit verder uitgewerkt. 
+
+37
+
+7. Openbaar vervoer
+
+Het collectieve openbaar vervoer (OV) draagt bij aan de bereikbaarheid van de stad en aan 
+verduurzaming van de samenleving. Treinen worden aangedreven door groene elektriciteit en 
+de  komende  jaren  zal  naar  alle  waarschijnlijkheid  de  busvloot  worden  omgezet  naar  zero  
+emissie bussen. Het OV draagt bij aan het zorgen voor minder impact op de omgeving doordat 
+vergelijkbare reizigersstromen vervoerd door openbaar vervoer minder ruimte vergen dan per 
+auto. De duurzaamheid is dus met name aanwezig in energieverbruik en efficiënt benutten 
+van schaarse ruimte.
+
+Leiden werkt met andere partners zoals provincie en MRDH samen in de verstedelijkings-
+alliantie (zoals benoemd in hoofdstuk 4). Onderdeel van de versterking van de agglomeratie-
+kracht is dat nieuwe ruimtelijke ordening onlosmakelijk samenhangt met een goed OV-systeem. 
+Bouwen in de buurt van kwalitatief goede OV-knopen is de manier om de bouwopgave in te 
+kunnen  vullen.  Centraal  onderdeel  in  de  adaptieve  ontwikkelingsstrategie  is  de  Oude  Lijn  
+(de spoorlijn tussen Leiden en Dordrecht). Uitgangspunten voor de adaptieve werkwijze zijn:
+•  Gezamenlijk toewerken naar het eindbeeld zoals geschetst in deze adaptieve ontwikkel-
+
+strategie.
+
+•  Werken vanuit wederkerigheid tussen verstedelijking en mobiliteit.
+• 
+
+Inrichten van monitoring gericht op het verkrijgen van goede en relevantie informatie,  
+op basis waarvan (bij)gestuurd kan worden.
+
+Figuur 9: Lijnvoering Arriva
+
+38
+
+Leiden  streeft  daarom  naar  een  hoogwaardig  en  gelaagd  OV  systeem  en  naar  een  hoger  
+aandeel  OV-gebruik.  Het  huidige  gelaagde  systeem  bestaat  op  het  hoogste  niveau  uit  de 
+spoorlijnen in zuidelijke randstad en de verbindingen naar Haarlem en Schiphol. Daaronder 
+zitten de HOV/R-net lijnen en daaronder de reguliere stads- en streeklijnen. Op het laagste 
+niveau is er de Regiotaxi en buurtbussen. Dit systeem zorgt voor zowel een goede OV bereik-
+baarheid van grote bestemmingen, goede verbindingen binnen de Leidse regio en ook voor 
+goed OV op wijkniveau. Wij werken hier samen aan met concessiehouders en –verleners van 
+het OV en andere belanghebbenden. De afgelopen jaren is zichtbaar geworden dat investeren 
+in hoogwaardig openbaar voervoer (HOV) loont. Na de introductie van HOV bussen is op deze 
+relaties het aantal gebruikers aanzienlijk toegenomen. De R-netlijn 400 is hiervan het belang-
+rijkste voorbeeld.
+
+7.1 Uitgangspunten van het OV beleid
+De uitgangspunten of doelen die Leiden op hoofdlijnen heeft voor het OV zijn als volgt: 
+•  sterker diversifiëren van het OV naar de verschillende reizigersbehoeftes: in beschikbaar-
+heid (frequentie, afstand, informatie), snelheid, comfort, bestemmingen en flexibiliteit. 
+Hierdoor wordt het OV een concurrerend alternatief ten opzichte van de auto.
+
+•  OV ondersteunt het realiseren van de verstedelijkingsopgave.
+•  sterker diversifiëren van het OV voor verschillende gebieden: bundeling (reductie overlast/ 
+vergroting effectiviteit), snelheid, flexibiliteit in bediening en materieel. Dit mede in relatie 
+met de ambities voor een leefbaardere en autoluwere binnenstad.
+
+•  stimuleren van innovatie in de busconcessie 2022-2030: meer aandacht voor de boven-
+
+genoemde punten, in het stadsbeeld passende bussen, meer vraagafhankelijk vervoer en 
+meer flexibiliteit tijdens de concessieperiode voor innovatie. 
+
+•  Hoger gebruik van het OV draagt bij aan de CO2 reductie en andere klimaatdoelstellingen.
+
+Het OV in Leiden is onderdeel van een netwerk. Dat netwerk kent verschillende schaalniveaus 
+(zie  figuur  10).  Daarboven  ligt  nog  het  nationale  en  het  internationale  niveau.  Hierboven  
+hebben  we  benoemd  wat  we  vanuit  Leiden  belangrijk  vinden  voor  het  OV.  In  regionaal  
+verband (Holland-Rijnland) werken we aan een nieuwe OV-visie. Naar verwachting zal deze in 
+2020  gereed  zijn.  In  dat  proces  brengen  we  onze  wensen  in.  Daarnaast  vragen  we  in  de  
+diverse bestaande overlegstructuren aandacht voor een goede koppeling tussen de visie van 
+de zuidelijke en de noordelijke randstad aangezien we als Leiden hier het schakelpunt vormen 
+van  beide  gebieden.  De  vraag  voor  de  lange  termijn  is  of  de  huidige  gelaagdheid  van  het  
+systeem blijft voldoen of dat een nieuw niveau in de vorm van lightrail nodig is om de vervoer-
+vraag te kunnen faciliteren. Dit is dan vooral een systeem dat functioneert op de schaal ‘regio’ 
+en wellicht op de schaal Randstad.
+
+39
+
+De uitgangspunten vertalen we in de volgende onderliggende doelen per categorie OV.
+
+Figuur 10: schaalniveaus OV
+
+Spoorvervoer
+Het netwerk voor het spoor voor de komende jaren wordt momenteel vormgegeven in het 
+landelijke traject Toekomstbeeld OV 2040. Dit vindt plaats door zowel landelijke als regionale 
+verkenningen. Leiden is gelegen in de zogenaamde zuidwestelijke Randstad. De (tussentijdse) 
+uitkomsten  vormen  de  input  voor  de  BO  MIRT-overleggen.  De  insteek  is  dat  Leiden  en  de 
+Leidse regio wordt bediend met hoogfrequent ontsluitend treinverkeer (minimaal 4 keer en bij 
+voorkeur 6x per uur een Sprinter in elke richting) en snel treinverkeer van en naar de grote 
+bestemmingen in de Randstad. De voorspellingen laten zien dat vooral op deze interstedelijke 
+verbindingen de komende jaren de reizigersgroei zit. Het hebben van goede dergelijke verbin-
+dingen is belangrijk voor zowel onze positie als kennisstad als ook voor een goed woon- en 
+economisch vestigingsklimaat. 
+
+Naast verbeteringen in de Oude Lijn (Amsterdam-Leiden-Den Haag-Rotterdam-Dordrecht) is 
+er de wens om richting Utrecht een frequentie van minimaal vier keer per uur en een reistijd 
+dicht bij een half uur aan te bieden. Op de korte termijn (ambitie is dienstregeling 2022) wordt 
+dit gerealiseerd in de spitsen. Er wordt samen met de ‘spoorpartners’ gestudeerd op de moge-
+lijkheden om gedurende de gehele dag 4x per uur te rijden.
+
+Busvervoer
+snelle busroutes/HOV
+We werken samen met de provincie (opdrachtgever voor het busvervoer, inclusief R-net) aan 
+de realisatie van snelle, comfortabele, hoogfrequente verbindingen op drukke hoofdcorridors. 
+Vooral tussen regionale grote kernen in en buiten de Leidse regio en Leiden Centraal. De cor-
+ridor naar Katwijk is de eerst volgende waar een R-netlijn gaat rijden. Dergelijke lijnen zorgen 
+
+40
+
+voor een forse versterking van het OV op relaties waar sprake is van een grote vervoervraag, 
+in combinatie met het ontbreken van een vorm van OV die gericht is op volume; frequentie en 
+snelheid. We werken met diverse overheden en andere belanghebbenden aan de doorontwik-
+keling van het HOV op de lange termijn. Dit kan in vele vormen waaronder een sprong van het 
+bussysteem naar een systeem op spoor, bijvoorbeeld light rail.
+
+Het  succes  van  de  R-net  lijn  naar  Zoetermeer  maakt  dat  er  een  capaciteitstekort  ontstaat.  
+Sinds  de  invoering  is  sprake  van  flinke  groei.  We  verwachten  dat  deze  groei  doorzet.  
+Samen met Zoetermeer onderzoeken we hoe we het OV op deze relatie kunnen verbeteren. 
+Het  realiseren  van  de  Centrumroute  is  één  onderdeel  om  de  betrouwbaarheid  van  snelle  
+busroutes te vergroten
+
+ontsluitende busroutes
+Voor deze, meer onderliggende busroutes, met lagere intensiteiten dan het HOV, streven we 
+een  evenwichtig  systeem  van  buslijnen  na,  waarin  we  inzetten  op  een  hoge  frequente  
+stadsdienst  met  een  betrouwbare  en  herkenbare  dienstregeling.  Bij  deze  routes  is  het  ook 
+belangrijk per dienstregelingsjaar af te wegen of het nuttig en haalbaar is kleiner materieel te 
+gebruiken. Dit onderzoeken we momenteel. De uitkomsten worden ingebracht bij de voor-
+bereidingen op de busconcessie en in het traject van de regionale OV-Visie. Wij willen werken 
+aan versterking van drukke buslijnen en streven daarom naar verbetering van de kwaliteit en 
+de  verhoging  van  de  frequenties  op  de  drukke  vervoerrelaties  met  een  korte  afstand.  
+Het OV-netwerk in de stad wordt hiermee betrouwbaar en meer solide, zodat de modal shift 
+makkelijker gemaakt wordt door de Leidenaren. Het Leiden Bio Science Park is een essentiële 
+en cruciale toplocatie, die goed bereikbaar dient te zijn. Andere gebieden waar de ontsluiting 
+door middel van het openbaar vervoer zeer belangrijk is, zijn de gebiedsontwikkeling van de 
+Humanities  Campus,  economische  ontwikkelingslocaties  in  het  kader  van  de  bedrijven-
+terreinenstrategie en het programma Binnenstad.
+
+aanvullend OV op minder drukke trajecten
+Binnen het OV zetten wij ons verder in op het volgende:
+•  daar waar mogelijkheden zijn om flexibele, vraagafhankelijke, kleinschalige vervoercon-
+cepten in te zetten, pakken we als gemeente onze rol hier op als bemiddelaar tussen  
+aanbieder en OV-autoriteit.
+
+•  doelgroepenvervoer: het ondersteunen en uitvoeren van het systeem zoals het er nu is 
+
+(bijvoorbeeld regiotaxi, WMO- en scholierenvervoer).
+
+Zero-emission (ZE) vervoer
+Sinds maart 2019 rijden stadsbussen in Leiden elektrisch. Leiden zet in op volledig elektrische 
+busdienst in het gehele concessiegebied vanaf 2025. Dat sluit ook aan bij het convenant zero 
+emissie stadslogistiek (ZES), dat voorziet in een emissieloze zone in 2025 en de ambitie voor de 
+duurzaamste kilometer langs de Schipholweg. Wij brengen deze wens in bij de aanbesteding, 
+zodat er alleen ZE-bussen in de concessie instromen en dat vanaf 2025 een volledig emissie-
+vrije vloot rijdt op Leiden Centraal.
+
+In de uitgangspunten is het belang van de relatie tussen het OV en ruimtelijke ambities van 
+Leiden opgenomen. Ook wordt bij herinrichtingen en ruimtelijke projecten gekeken hoe de 
+fysieke plek van zowel het ontsluitende als het verbindende busvervoer wordt vormgegeven. 
+
+41
+
+Figuur 11: R-net routes in de regio
+
+Hierbij  moet  een  evenwicht  worden  gevonden  tussen  de  ruimteclaim  van  bussen  en  de  
+ruimtelijke kwaliteit en reductie van overlast in kwetsbare gebieden.
+
+7.2 Oplossingsrichtingen
+Leiden werkt met verschillende maatregelen aan de doelen zoals in de vorige paragraaf zijn 
+geformuleerd:
+•  versterken en realiseren ontbrekende HOV corridors 
+
+Er wordt gewerkt aan de realisatie van de HOV-corridor Leiden-Katwijk. Zoals hierboven 
+al gemeld kijken we onder andere met de gemeente Zoetermeer naar korte en lange  
+termijn maatregelen om de kwaliteit van de HOV Leiden-Zoetermeer te versterken.  
+In de regio wordt hard gewerkt aan de realisatie van de HOV-corridor Noordwijk-
+Schiphol. De realisatie hiervan zal de druk op Leiden Centraal naar verwachting iets  
+verminderen.
+
+De realisatie van de corridors leidt ook tot volledige herinrichtingen van wegen, of tot 
+maatregelen aan wegen. Op dit moment wordt gewerkt aan de planvorming van het traject 
+
+42
+
+Hooigracht-Langegracht, evenals aan mogelijke aanpassingen aan de Plesmanlaan. In de uit-
+werking van de plannen voor de Leidse Ring Noord is ook aandacht aan de plek van de bus.
+
+•  realiseren nieuwe OV-terminal 
+
+We zijn bezig met een nieuwe busterminal waarbij het busstation en het Centraal Station 
+beter aan elkaar worden verknoopt en tevens een sterkere relatie met de omgeving van 
+zowel de zeezijde als de centrumzijde wordt bereikt. We willen een busterminal realiseren 
+met een hogere verblijfskwaliteit dan het huidige busstation, wat goed is voor de  
+beleving van de OV reiziger.
+
+•  Spoor Leiden-Utrecht  
+
+We werken samen met de partners die over het spoor gaan (ProRail, NS, Rijk en provincie 
+aan het verbeteren van de kwaliteit van de verbinding Leiden – Utrecht. Voor de korte 
+termijn werken we aan een snellere intercity in de spitsen en voor de lange termijn aan 
+een goede verbinding waarbij minimaal 4 x per uur een goede reismogelijkheid richting 
+Utrecht ontstaat.
+
+•  Busconcessie 2022 
+
+De voorbereidingen voor een nieuwe concessie Zuid-Holland Noord lopen. We brengen 
+de wensen van Leiden in bij deze voorbereidingen. Het is de vervoersautoriteit (de provin-
+cie Zuid-Holland) die het busvervoer aanbesteed. In de voorbereidingen onderstrepen  
+we het belang van kwalitatief hoogstaand openbaar vervoer voor zowel de bestaande 
+reiziger als ook in het kader van de verstedelijkingsopgave die er in Leiden is.
+
+43
+
+8. De wegenstructuur van Leiden
+
+Zoals in hoofdstuk 2 is vermeld zijn er veel locaties waar een hoge verkeersbelasting is. Dit leidt 
+tot overlast voor zowel de omgeving als voor de weggebruiker. De hoofdstructuur vormt één 
+geheel netwerk. Het is een kenmerk van een netwerk dat het beïnvloeden van een schakel of 
+knooppunt gevolgen heeft voor het gehele netwerk. Die onderlinge relatie is vertaald in de 
+categorisering van het Leidse wegennet. De categorisering is van belang voor de verkeersvei-
+ligheid van alle verkeersdeelnemer en heeft dus niet alleen invloed op autoverkeer. Investeren 
+in de hoofdwegenstructuur is dus niet alleen investeren in de autostructuur maar ook in de 
+overige modaliteiten.
+
+8.1 Hoofdontsluitingsstructuur 
+In  de  verkenning  Leidse  Agglomeratie 
+Bereikbaar! (LAB071) is onderzoek gedaan 
+naar oplossingen om de bereikbaarheid te 
+verbeteren.  LAB071  beschouwde  de 
+bereik baarheid op de schaal van de agglo-
+meratie  van  de  Leidse  regio.  Uitkomst  is 
+dat een ringstructuur nodig is voor zowel 
+bereikbaarheid als leefbaarheid. De ring 
+vormt daarom een essentieel onderdeel 
+van de categorisering.
+
+De wegenstructuur van zowel de ring als 
+de  wegen  die  naast  de  ring  een  duide-
+lijke  verkeersfunctie  hebben  zijn  niet  
+allemaal ooit bedacht als ‘verkeersweg’. 
+Er is op veel punten sprake van een historisch gegroeide situatie. Mede hierdoor bestaat er 
+spanning tussen de manier waarop op dit moment het wegennet functioneert en bijvoorbeeld 
+de leefkwaliteit. 
+Wegen moeten meer verkeer verwerken dan wenselijk is. Dit heeft gevolgen voor de kwaliteit 
+van de omgeving, zorgt voor overbelasting op kruispunten en heeft nadelige gevolgen voor 
+bereikbaarheid. Ook treedt hierdoor vertraging op voor het OV en is er beperkte ruimte voor 
+langzaam verkeer.
+
+8.2 De principes van wegencategorisering
+De discussie over de wegenstructuur kan in het kort samengevat worden met de volgende 
+vraag: wat is de (hoofd-)functie van een weg? Voor elke weg noteren we het antwoord op 
+deze vraag in een wegencategoriseringskaart. Zo bieden we helderheid over de structuur van 
+ons wegennet.
+
+Afhankelijk van de functie van een weg hoort hier een vormgeving bij, waarbij veiligheid een 
+centrale rol speelt. Een belangrijke variabele wat betreft de functie van de weg is in hoeverre 
+de weg bedoeld is om (veel) autoverkeer af te wikkelen, of dat er juist sprake is van een heel 
+beperkte verkeersfunctie, en vooral de verblijfsfunctie belangrijk is. In extreme voorbeelden: 
+op  autosnelwegen  is  er  alleen  maar  een  verkeersfunctie  en  helemaal  geen  verblijfsfunctie,  
+in de Haarlemmerstraat is er nagenoeg alleen maar sprake van een verblijfsfunctie.
+
+44
+
+De basis voor de categorisering van wegen komt voort uit het programma Duurzaam Veilig, 
+waaraan  vrijwel  alle  wegbeheerders  in  Nederland  zich  hebben  verbonden,  zo  ook  Leiden. 
+Duurzaam veilig onderscheidt drie soorten wegen:
+
+•  Stroomwegen:  
+
+Stroomwegen zijn volledig gericht op stromen van autoverkeer. Rijbanen zijn gescheiden, 
+kruisingen ongelijkvloers, snelheden hoog.
+
+•  Gebiedsontsluitingswegen:  
+
+Gebiedsontsluitingswegen hebben een belangrijke stroomfunctie op de wegvakken,  
+maar op kruisingen is ‘uitwisseling’ mogelijk (gelijkvloerse kruisingen). Fietsers hebben 
+een eigen ruimte (bij voorkeur een gescheiden fietspad), OV heeft haltekommen.  
+De snelheidslimiet is binnen de bebouwde kom 50 km/h. Parkeren langs de weg en laden 
+en lossen zijn minder gewenst, maar zijn niet altijd te vermijden. Gebiedsontsluitingswegen 
+verbinden stroomwegen met (woon )gebieden.
+
+•  Erftoegangswegen:  
+
+Op erftoegangswegen is de stroomfunctie heel beperkt, uitwisseling en verblijf is  
+veel belangrijker. Op dit type wegen rijdt weinig autoverkeer. Dan is uitwisseling veilig 
+mogelijk en zijn er geen problemen wat betreft de afwikkeling van het verkeer. Fietsers 
+en auto’s zijn gewoonlijk gemengd, voetgangers hebben normaal gesproken wel een 
+eigen plaats. Profielen kunnen smal zijn, parkeren vindt vaak plaats op de rijbaan,  
+zodat een snelheidslimiet van 30 km/h haalbaar en geloofwaardig is. Kruispunten  
+zijn gelijkwaardig (geen voorrangsborden). 
+ 
+Door het realiseren van de Leidse Ring is het mogelijk om meer of grotere 30 km/uur- 
+gebieden te realiseren, meteen passend wegbeeld. Dit is namelijk nog niet het geval in 
+diverse straten en op alle wegen in het Leidse netwerk. Met een robuust netwerk van 
+gebiedsontsluitingswegen is het mogelijk om te werken aan een verbetering van leef-
+baarheid in de vorm van meer ruimte voor voetgangers en fietsers, maar ook voor groen 
+en water.  
+ 
+De driedeling van wegtypen is geschikt voor nieuwe stedelijke ontwikkelingen, maar niet 
+altijd toepasbaar op een wegenstructuur die in de loop van de eeuwen is ontstaan.  
+In Leiden kennen we wegen die zowel een verblijfsfunctie als een verkeersfunctie  
+hebben. We nemen hiervoor een eigen categorie op namelijk wijkontsluitingswegen. 
+Deze wegen zijn niet uniek. Op meerdere plekken in het land bestaan maatwerkoplossin-
+gen. Wel moet uitermate bedachtzaam worden omgegaan met het toekennen van de 
+categorie wijkontsluitingswegen. 
+
+•  Wijkontsluitingswegen:  
+
+Wijkontsluitingswegen beogen een hoog verblijfskwaliteit, maar moeten ook een behoor-
+lijke hoeveelheid autoverkeer verwerken. De ruimte voor het autoverkeer wordt verant-
+woord toegepast maar is beperkt ten opzichte van gebiedsontsluitingswegen. Dit komt 
+ten goede aan de verblijfskwaliteit én laat aan de automobilist zien dat deze te gast is.
+
+45
+
+In figuur 12 is de categorisering van het Leidse wegennet opgenomen. Hierin is de hoofdstruc-
+tuur in Leiden gevisualiseerd. De zwarte lijn is de Leidse Ring Noord. De ring is buiten onze 
+gemeentegrenzen aangeduid met een roodpaarse kleur. De overige wegen met een verkeers-
+functie hebben een rode kleur. De groene wegen horen in de categorie wijkontsluitingsweg.
+
+De  categorisering  is  in  essentie  dezelfde  als  in  de  vorige  mobiliteitsnota.  Er  zijn  een  paar  
+wijzigingen die het gevolg zijn van ontwikkelingen in de afgelopen jaren. Deze zitten hoofd-
+zakelijk op het Bio Science Park, waar het type wijkontsluitingsweg is omgezet naar gebieds-
+ontsluitingsweg. 
+
+Figuur 12: Wegencategorisering Leiden
+
+8.3 Aandachtspunten in het wegennet 
+Aandachtspunten  in  het  wegennet  hebben  in  betrekking  op  autonome  ontwikkelingen 
+(bestaande aandachtspunten die door de natuurlijke groei van het verkeersaanbod toenemen). 
+Aandachtspunten kunnen ook ontstaan door het toevoegen van nog nieuwe bestemmingen 
+(woningbouw,  bedrijvigheid,  voorzieningen).  De  aandachtspunten  volgen  onder  meer  uit  
+verkeersmodelberekeningen. De berekeningen geven weliswaar een indicatie over de locatie 
+van de aandachtspunten, maar vergen een verdiepingsslag om de aandachtspunten nader te 
+kunnen  duiden.  Die  verdiepingslagen  vinden  plaats  in  het  kader  van  bestemmingsplan-
+procedures  of  omgevingsvergunningstrajecten,  omdat  dan  ook  bekend  is  wat  de  precieze 
+invulling  van  de  ontwikkeling  is  en  hoe  ontsluitingsstructuren  op  de  bestaande  omgeving 
+worden aangetakt. Bij dergelijke onderzoeken wordt ingezoomd op het directe onderzoeks-
+gebied in en om de ontwikkeling.
+
+Daarnaast zijn er aandachtspunten vanuit de verschijningsvorm van een weg die niet aansluit 
+bij de wegencategorisering. Deze aandachtspunten zijn er zowel op de hoofdstructuur als in 
+de  verblijfsgebieden.  In  verblijfsgebieden  worden  deze  aangepakt  als  er  in  een  wijk  grote 
+
+46
+
+beheerwerkzaamheden worden uitgevoerd, waardoor de verschijningsvorm gelijk kan worden 
+aangepakt. 
+
+Wat resteert zijn aandachtspunten in de hoofdontsluitingsstructuur. De Leidse Ring Noord en 
+de  Centrumroute  hebben  hun  besluitvorming  gehad.  Aandachtspunten  in  relatie  tot  die  
+projecten zijn verder niet opgenomen in deze mobiliteitsnota, omdat ze in die projecten wor-
+den opgelost. De wegen waar de meeste aandachtspunten aanwezig zijn, zijn de Dr. Lelylaan, 
+de Haagse Schouwweg, de Churchilllaan, Vijf Meilaan, Rooseveltstraat, Lammenschansweg. 
+Deze opsomming is niet uitputtend. Voor alle punten op de hoofdstructuur van het wegennet 
+geldt dat oplossingsrichtingen verder moeten worden uitgezocht. Voor een drietal punten in 
+de hoofdstructuur is in het verleden bepaald dat een ingreep nodig is. Deze ingrepen sluiten 
+aan  op  onze  ambities,  namelijk  het  bereiken  van  een  hoger  aandeel  lopen,  fietsen  en  
+openbaar vervoer. De aandachtspunten zijn:
+ 
+Aanpak overlast Morsweg: Rijnzichtbrug éénrichting
+De situatie op de Morsweg is problematisch. De fysieke ruimte is beperkt. Er rijdt zowel veel 
+autoverkeer  als  fietsverkeer  en  voor  fietsers  is  het  niet  mogelijk  een  fietsstrook  te  maken,  
+terwijl gezien de situatie een fietspad vereist zou zijn. Bij tegenliggers rijden auto’s met zeer 
+weinig  tussenafstand  fietsers  voorbij.  Zeker  voor  kwetsbare  doelgroepen  (kinderen  en  
+ouderen) is dit een groot risico. De fietsstrook op de Rijnzichtbrug wordt geregeld geblokkeerd 
+door stilstaand autoverkeer: de brug is zodanig smal dat veel auto’s op de fietsstrook gaan 
+staan, om autoverkeer uit de andere richting ruimte te geven.
+
+Er zijn veel varianten onderzocht om de situatie te verbeteren. De introductie van éénrichting 
+voor autoverkeer lijkt de best passende oplossing. Deze maatregel zorgt er wel voor dat het 
+grootste deel van de omrijdbeweging loopt via de Plesmanlaan en Doctor Lelylaan.
+
+Spanjaardsbrug 
+De Spanjaardsbrug verbindt de Lage Rijndijk in Leiden met de Zijldijk in Leiderdorp. De route 
+via deze brug is voor een deel van het verkeer tussen Leiden en Leiderdorp (en vice versa)  
+aantrekkelijk als sluiproute. Dit is problematisch vanwege verschillende redenen. Ten eerste is 
+op en rond de brug de ruimte beperkt. Het langzaam verkeer komt hierdoor in de verdrukking. 
+Ook  is  de  route  aantrekkelijk  voor  vrachtverkeer  (met  bedrijvigheid  nabij,  onder  andere  op 
+bedrijventerrein De Waard), terwijl deze daar niet erg geschikt voor is. Verder leidt sluipverkeer 
+via de brug tot meer (en gebiedsvreemd) verkeer op de Sumatrastraat en de Lage Rijndijk).  
+De brug blijft wel open voor OV en voor langzaam verkeer. De gemeente Leiderdorp heeft 
+dezelfde  opvatting  over  het  afwaarderen  van  de  brug  en  dit  een  plek  gegeven  in  haar  
+mobiliteitsvisie. We werken deze afwaardering samen met Leiderdorp verder uit.
+
+Door deze maatregel neemt de totale intensiteit af op de Sumatrastraat en de Lage Rijndijk  
+(en ook op een aantal wegen in Leiderdorp). Vrachtverkeer dat voorheen gebruik maakte van 
+de Spanjaardsbrug, zal nu via de Sumatrastraat moeten rijden. Dit is bijzonder goed voor de 
+verkeersveiligheid, want dit beperkt het conflict tussen afslaand vrachtverkeer en fietsverkeer 
+dat rechtdoor gaat. En we pakken het kruispunt Lage Rijndijk – Sumatrastraat aan. Een ont-
+werpproces moet duidelijk maken hoe het kruispunt er precies uit gaat zien. Mogelijk is het 
+een optie het kruispunt ongeregeld (geen verkeerslichten meer) te maken. Er zal immers alleen 
+
+47
+
+nog autoverkeer rijden op de relatie Sumatrastraat – De Waard en een zeer beperkte hoeveel-
+heid vanaf de Lage Rijndijk.
+
+Hoge Rijndijk­Kettingstraat­Meerburgerkade en Hoge Rijndijk­Hogendijkstraat
+Tot slot is er een aandachtspunt rond de Hoge Rijndijk. Ter hoogte van de aansluitingen op het 
+Waardeiland en Meerburg. De Hoge Rijndijk is op dit deel fors belast, en de ruimte tussen de 
+woningen wordt hier sterk overheerst door infrastructuur. Daarnaast is de capaciteit van de 
+weg ten opzichte van de hoeveelheid verkeer beperkt, en is de wachttijd vanuit de zijwegen 
+aanzienlijk. Ook met de realisatie van de Leidse Ring blijft de hoeveelheid verkeer hier groot. 
+Toch zijn er, ook bij een gelijkblijvende hoeveelheid verkeer, mogelijkheden hier verbeteringen 
+aan te brengen, door aanpassingen te plegen aan de manier waarop de wijken aansluiten op 
+de Hoge Rijndijk.
+
+48
+
+9. Parkeren en ketenmobiliteit
+
+Parkeren speelt bij zo’n driekwart van alle verplaatsingen een essentiële rol. Het kan gaan om 
+parkeren van een auto, maar ook het parkeren van een fiets, brommer of scooter. Het is voor 
+de stad belangrijk dat het parkeren goed is georganiseerd. Het betaalde deel van parkeren is 
+een instrument dat we als gemeente in kunnen zetten voor de verschuiving in de modal shift.
+
+Parkeren is ook één van de structurerende elementen binnen de ketenmobiliteit; het combine-
+ren van verschillende vervoermiddelen in één verplaatsing. Onze aandacht gaat hierbij (gelet 
+op  de  ambities  die  er  zijn)  uit  naar  het  bevorderen  van  ketenmobiliteit  waarbij  OV  wordt 
+gebruikt, in plaats van de verplaatsing geheel per auto te maken. Het overstappen van de ene 
+vervoerwijze  op  de  andere,  zorgt  voor  een  weerstand  die  een  verplaatsing  per  OV  minder 
+aantrekkelijk maakt. Het zorgen voor goede (parkeer)voorzieningen bij een overstappunt is 
+noodzakelijk om ketenmobiliteit te bevorderen.
+
+Dit hoofdstuk gaat eerst in paragraaf 9.1 in op het parkeerbeleid. Hierna komt in paragraaf 9.2 
+ketenmobiliteit aan de orde, waar parkeren een belangrijk onderdeel van is.
+
+9.1 Parkeerbeleid
+Op het gebied van parkeren zijn de afgelopen jaren, mede aan de hand van de vorige nota, 
+forse inspanningen gepleegd. Zo is het reguleringsgebied uitgebreid, is er een nieuwe parkeer-
+garage gerealiseerd onder de Lammermarkt en wordt er een parkeergarage gebouwd onder 
+de Garenmarkt. De ambitie van Leiden die direct van invloed is op het parkeerbeleid is dat het 
+mobiliteitssysteem en dus ook parkeren bijdraagt aan een gezonde en klimaatneutrale stad. 
+Voor parkeren kiest Leiden voor de juiste parkeerder op de juiste plek. Door duidelijkheid te 
+gaan verschaffen op de vraag of, en zo ja wie, waar, voor hoelang en tegen welk tarief, kan 
+parkeren, doet Leiden aan verwachtingsmanagement. Een sturend element waar de gemeen-
+te zelf regie op kan voeren bij het parkeren is onder meer de hoogte van het parkeertarief voor 
+de parkeerplaatsen waar betaald parkeren van kracht is.
+
+De sturingselementen die van belang zijn bij het gemeentelijke parkeerbeleid zijn hieronder 
+verwoord. Ze vormen het vertrekpunt voor de parkeervisie die gelijktijdig aan deze geactuali-
+seerde Mobiliteitsnota is opgesteld. In die visie wordt zowel aandacht besteed aan autoparke-
+ren als aan fietsparkeren. Het fietsparkeren is in hoofdstuk 6 al aan de orde geweest en is 
+belangrijk in het totale beleid om te werken aan de modal shift. De 6 sturingspunten zijn:
+
+1.  Leiden staat voor een duurzame verstedelijkingsopgave. Met een nieuw en flexibel  
+
+parkeernormenbeleid anticipeert Leiden op de veranderende mobiliteitsbehoefte van  
+toekomstige gebruikersgroepen.
+
+2.  Leiden zorgt voor parkeeroplossingen die aansluiten bij de eigenschappen en ambities  
+
+van wijken en buurten. Hiervoor hanteert Leiden een gebiedsgerichte aanpak.
+
+3.  Leiden zet in op een verbetering van de kwaliteit van de openbare ruimte. De kwaliteit 
+
+van de openbare ruimte is in Leiden te belangrijk om zonder meer auto’s in te laten  
+parkeren.
+
+4.  Leiden zorgt met sturend parkeerbeleid, in de vorm van parkeerregulering, dat de juiste 
+
+doelgroep op de juiste (parkeer)plaats parkeert.
+
+49
+
+5.  Leiden hanteert bij parkeren de volgende standaard benadering: beïnvloeden, benutten, 
+
+beprijzen en bouwen.
+
+6.  In Leiden voegen we geen parkeerplaatsen in de openbare ruimte toe om parkeer-
+
+knelpunten op te lossen.
+
+Verhoging parkeertarief
+Als uitwerking van uitgangspunt 4 en 5 is het nodig om de parkeertarieven voor de betaald 
+parkeerplekken  op  straat  en  in  de  openbare  garages  te  verhogen.  We  onderzoeken,  zoals 
+afgesproken in het beleidsakkoord, om het tarief van de tweede en derde  parkeervergunning 
+van een huishouden aan te passen. Het eerste tarief van de eerste parkeervergunning blijft, 
+afgezien van de jaarlijkse indexatie, gelijk. Het is dus geen doel op zich om parkeren duurder 
+te maken. Het is in de eerste plaats een instrument dat bezoekers van de binnenstad stimuleert 
+om gebruik te maken van schonere vervoersvormen die bovendien minder ruimte in beslag 
+nemen. Het is een maatregel die er juist voor zorgt dat de juiste parkeerder op de juiste plek 
+terecht komt. In een compacte stad, die steeds drukker wordt, zijn de fiets en het openbaar 
+vervoer logische opties voor bewoners en bezoekers. Als er nog woningen bijkomen, het aan-
+tal  banen  blijft  groeien  en  de  bezoekersstroom  blijft  toenemen,  dan  kunnen  die  mensen 
+onmogelijk allemaal met de auto komen. Alleen met meer fiets- en OV-gebruik houden we 
+onze stad leefbaar en bereikbaar en de luchtkwaliteit op het gewenste niveau.
+
+We kiezen nadrukkelijk voor een duurzame en leefbare stad en dat doen we door te kiezen 
+voor  schone  mobiliteit  .  Deze  overgang  van  auto  naar  fiets/voetganger/OV  (Modal  shift)  
+bereiken we met onderstaande inzet:
+
+Uitvoeringsprogramma Leiden Duurzaam Bereikbaar
+•  Uitvoeren duurzame mobiliteitsprojecten, zoals inzet op schone stedelijke distributie,  
+
+voldoende laadinfrastructuur en stimuleren deelauto’s
+
+•  Uitvoeren Fiets op 1. Verbeteren fiets(snel)routes en uitbreiden fietsparkeerplekken.
+•  Verbetering doorstroming/ bereikbaarheid voor openbaar vervoer (aanleg Centrumroute 
+
+en ringstructuur)
+
+•  Verbetering doorstroming/ bereikbaarheid auto (aanleg ringstructuur)
+•  Mogelijkheden verkennen van overstappunten of hubs om van modaliteit te kunnen  
+wisselen (al of niet in combinatie met deelgebruik van vervoermiddelen en logistieke  
+uitwisseling van goederen).
+
+Autoluwe binnenstad
+•  Vergroten autoluwe en autovrije gebied
+•  Doorgaand verkeer verminderen o.a. door aanleg ringstructuur
+•  Deze maatregelen dragen bij aan een verbetering van de luchtkwaliteit en leefbaarheid. 
+En bieden mogelijkheden voor meer ruimte voor de fiets, groen en een prominente plek 
+voor de voetganger. Tevens dragen deze maatregelen bij aan een aantrekkelijker binnen-
+stad, ook voor bezoekers en stijgende bestedingen.
+
+Parkeervisie
+•  Parkeerder op de juiste plek, middels regulering, tarieven en vergunningen beleid
+•  Meer ruimte voor vergroenen en fiets
+
+50
+
+•  Hogere kwaliteit van fietsparkeervoorzieningen en uitbreiden van de fietsparkeer-
+
+voorzieningen
+
+•  Meer aandacht voor fietsparkeernormen en kwaliteitsambities/kwaliteitseisen bij  
+
+nieuwe ontwikkelingen 
+
+Om de model shift en de doelen voor duurzame mobiliteit te bereiken, verhogen we zowel in 
+2021 als in 2022 de parkeertarieven met € 0,30. Dit is inclusief inflatiecorrectie. Via het finan cieel 
+perspectief Duurzame Stad investeren we de extra inkomsten terug in duurzame mobiliteit. 
+
+Met  deze  centrale  punten  loopt  het  parkeerbeleid  als  onderdeel  van  het  totale  mobiliteits-
+beleid synchroon met onze ambities uit hoofdstuk 2. Het is belangrijk dat we steeds meer 
+rekening gaan houden met de elektrificatie van het wagenpark. Hier wordt in de parkeervisie 
+dan ook rekening mee gehouden.
+
+In  de  zes  sturingselementen  is  sturend  parkeerbeleid  een  wezenlijk  onderdeel.  Naast  het  
+bieden van alternatieven en het onderzoeken van de mogelijkheden van hubs, is ook de beïn-
+vloeding  door  een  prijsprikkel  voor  autoparkeren  een  van  de  maatregelen  die  kan  worden 
+ingezet om de transitie naar schone mobiliteit te helpen. 
+
+Naast de parkeervisie is ook een parkeernormennota opgesteld (Beleidsregels en Parkeernormen 
+Leiden 2020). Parkeernormen worden toegepast om de parkeervraag/behoefte te bepalen bij 
+nieuwbouw  of  functiewijziging  van  een  gebouw/perceel.  De  beleidsmatige  keuzes  die  
+verwoord zijn in de parkeervisie hebben invloed op de hoogte van de parkeernormen en de 
+wijze waarop deze in de verschillende gebieden worden toegepast. De parkeernormen per 
+functie  en  de  beleidsregels  (wijze  van  toepassing  en  afwijkingsmogelijkheden)  worden  
+verwoord in de parkeernormennota. De gemeente heeft in deze een controlerende of toetsen-
+de rol. De belangrijkste aspecten die de gemeente controleert of toetst zijn:
+•  of nieuwbouw of andere bouwprojecten niet leiden tot extra (ongewenste) parkeervraag 
+
+in de openbare ruimte;
+
+•  of de initiatiefnemer de parkeereis op een duurzame en toekomstbestendige wijze oplost;
+•  of de bedachte oplossing van de parkeereis ook in praktijk zal functioneren (de gemeente 
+
+besteedt expliciet aandacht aan de manier waarop de initiatiefnemer het bezoekersaan-
+deel van de parkeereis oplost).
+
+Vanwege het tegelijk opstellen van zowel de mobiliteitsnota als de parkeervisie hebben de 
+opmerkingen die door onder meer ondernemers en bewoners zijn gemaakt in het parkeerpanel 
+ook in de nota een plek gekregen. In het parkeerpanel konden zij aangeven wat goed gaat,  
+wat beter kan en welke kansen of bedreigingen zij zien. De medewerking van deze belangheb-
+benden was van grote waarde voor de parkeervisie en dus ook voor deze mobiliteitsnota.
+
+9.2 Ketenmobiliteit
+Bij  verplaatsingen  met  het  OV  is  er  sprake  van  ketenmobiliteit.  Immers,  vooraf  aan  de  OV  
+verplaatsing vindt er voor en natransport plaats, veelal te voet of met de fiets. Het beleid op 
+het gebied van ketenmobiliteit is er op gericht die keten van verplaatsingen soepeler te laten 
+verlopen, en zo het OV aantrekkelijker te maken. De gemeente is hier overigens niet alleen 
+verantwoordelijk voor, maar werkt hieraan samen ProRail (als eigenaar van de treinstations) en 
+we brengen het in bij de provincie als aandachtspunt bij de nieuwe concessie.
+
+51
+
+Een deel van de OV reizigers komt of gaat te voet. Voor Leiden speelt daarbij dat er een groot 
+aantal onderwijsinstellingen aanwezig is, en dit leidt alleen al tot aanzienlijke stromen voetgan-
+gers vanaf het station, vooral op Leiden Centraal, en dit zowel naar de zeezijde als naar de 
+centrumzijde. Dit vraagt om goede voorzieningen voor de voetganger. In het kader van de 
+ontwikkeling van het stationsgebied en de OV-terminal wordt dit aspect meegenomen.
+
+Ook zijn er reizigers die in de keten overstappen van bus op trein, en van bus op bus. Een erg 
+belangrijke  factor  die  bepaalt  of  een  dergelijke  ketenverplaatsing  concurrerend  kan  zijn,  
+is de kwaliteit van de aansluiting in termen van zekerheid op een aansluiting en de wachttijd. 
+De dienstregelingen van het OV bepalen dit. Leiden Centraal heeft wat dit betreft een hoge 
+potentie omdat voor veel treinverbindingen de frequentie behoorlijk hoog is. De gemeente 
+bepaalt niet de exploitatie van het OV; dit doen de OV bedrijven. De gemeente draagt wel 
+direct bij aan de uitvoering van de dienstregeling door het bieden van infrastructuur waar het 
+busverkeer zich vlot en betrouwbaar kan verplaatsen. Hoofdstuk 7 geeft het OV beleid van 
+Leiden weer.
+
+De  fiets  speelt  een  erg  belangrijke  rol  in  de  ketenmobiliteit.  Voor  de  fiets  is  het  belangrijk  
+directe en snelle routes te hebben naar het station. Bij het onderwerp ketenmobiliteit is verder 
+met name het fietsparkeren bepalend. Hier zijn we in hoofdstuk 6 op ingegaan. 
+
+Het concept ketenmobiliteit staat vanwege de ontwikkeling van datatechnologie en de ontslui-
+ting  daarvan  direct  naar  consumenten  momenteel  volop  in  de  belangstelling  onder  de  al  
+eerder  genoemde  term  MaaS.  In  dit  systeem  zijn  deelfietsen  en  deelauto’s  een  wezenlijk 
+onderdeel  van  het  mobiliteitsproduct.  Leiden  onderzoekt  hoe  overstappunten  of  hubs  hier 
+ook een schakel in vormen. We onderzoeken welke soorten hubs bij Leiden passen, waar die 
+aangelegd  kunnen  worden  en  wat  er  nodig  is  om  ze  te  realiseren.  Bij  hubs  kan  gedacht  
+worden aan hubs met een regionale functie (bijvoorbeeld bij de overgang van de snelweg naar 
+het regionale wegennet inclusief toegang tot het OV, zoals bij de A4) tot aan kleinschalige 
+buurthubs (waar deelfietsen en een deelauto staat). We doen dit samen met ondernemers en 
+kijken waar we de markt een rol kan vervullen. We zien immers ook private initiatieven op dit 
+punt ontstaan.
+
+Als gemeente gaan we geen mobiliteitsproducten aanbieden. Wat we wel kunnen doen is het 
+samenwerken met partijen die dergelijke producten In Leiden en de Leidse regio willen aan-
+bieden. Daarnaast kunnen we meewerken als we zaken in onze rol als wegbeheerder mogelijk 
+moeten maken om ketenmobiliteit mogelijk te maken. Deze vorm van ketenmobiliteit sluit aan 
+bij de ambities die we hebben.
+
+52
+
+10. Verkeersmanagement
+
+Dit hoofdstuk gaat in op verkeersmanagement. Hiertoe volgt er eerst een korte beschouwing 
+van het soort maatregelen die onder verkeersmanagement vallen en wat de we de afgelopen 
+jaren hebben bereikt. Daarna komt aan de orde welke keuzes Leiden maakt op het gebied van 
+verkeersmanagement.
+
+10.1 Soorten maatregelen verkeersmanagement 
+Verkeersmanagement (ook wel (Beter) Benutten genoemd) heeft tot doel te zorgen voor een 
+beter  gebruik  van  de  bestaande  infrastructuur,  dus  zonder  fysieke  uitbreiding  van  de  weg.  
+De verwachtingen kunnen verschillen over wat te verstaan onder ‘beter’ gebruik. Vaak bestaat 
+de verwachting dat verkeersmanagement leidt tot meer capaciteit, maar dit is te eenvoudig 
+gedacht. Vaak gaat het vooral om de vraag hoe de beschikbare capaciteit te verdelen.
+
+Er zijn twee manieren waarop verkeersmanagement functioneert: 
+1.  door in te grijpen bij (potentiële) verkeersdeelnemers om zo bijvoorbeeld mensen te laten 
+
+kiezen voor ander een reismoment of een andere route.
+
+2.  door in te grijpen op het functioneren van de infrastructuur zelf.
+Kenmerkend hierbij is dat het gaat om regels die de verkeersdeelnemers moeten volgen tijdens 
+hun  verplaatsing.  Met  deze  regels  is  het  mogelijk  het  verkeer  te  sturen,  zodat  het  gebruik  
+van de infrastructuur verandert. Dit kan overigens ook weer effecten hebben die ingrijpen op 
+keuzes  die  verkeersdeelnemers  maken:  een  doseerinstallatie  kan  bijvoorbeeld  ergens  een 
+zodanige vertraging veroorzaken dat verkeersdeelnemers kiezen voor een andere route.
+Er  zijn  verschillende  soorten  maatregelen  binnen  het  verkeersmanagement,  die  op  één  of  
+beide van bovenstaande manieren functioneren. Bijvoorbeeld, een maatregel die ingrijpt op 
+keuzes van verkeersdeelnemers is het beprijzen van mobiliteit. Een voorbeeld van een maatre-
+gel die primair ingrijpt op het functioneren van de infrastructuur is een (toerit ) doseerinstallatie.
+
+Voor een stedelijk gebied van het formaat Leiden zijn de volgende maatregelen op het gebied 
+van verkeersmanagement bruikbaar:
+
+1.  Verkeersregelingen 
+
+Verkeerslichten spelen een centrale rol in het functioneren van stedelijke wegen. Dat ze 
+efficiënt functioneren is een basisvoorwaarde voor een goed werkend stedelijk wegennet. 
+Leiden beschikt over up to date zijnde verkeersafhankelijke regelingen, maar moderne 
+regeltechnieken bieden perspectieven om meer mogelijk te maken. Daarbij is het uit-
+gangspunt kruispunten niet afzonderlijk te beschouwen, maar het functioneren van het 
+gehele netwerk mee te nemen. Dit stelt ook eisen aan de monitoring van het verkeer.
+
+2.  Het bieden van reistijdinformatie 
+
+De reistijd is een bijzonder belangrijke invloedsfactor. De reistijd bepaalt namelijk voor  
+een aanzienlijk deel welke keuzen verkeersdeelnemers maken, zowel wat betreft de keuze 
+van een vervoermiddel als de te volgen route. De snelste optie wordt door de meesten 
+gekozen. Het bieden van informatie over reistijden kan daarom effect hebben op de  
+keuzen van de verkeersdeelnemers, afhankelijk van de aanwezigheid van alternatieven. 
+Het aanbieden van reistijdinformatie is op verschillende manieren mogelijk: via panelen 
+langs de weg (DRIP’s), websites/apps, navigatiesystemen (‘in car’). Het kan gaan om een 
+
+53
+
+routeadvies, reistijden per vervoerwijze, informatie over een calamiteit (afsluiting).  
+Een deel van deze informatie moet al aangeboden worden op de snelwegen.
+
+3.  Parkeerinformatiesystemen 
+
+Parkeerinformatiesystemen geven gewoonlijk weer hoeveel parkeerplaatsen er vrij zijn  
+op de grotere parkeerlocaties, en welke route gevolgd moet worden naar die parkeer-
+plaatsen. Dit kan met autonoom systeem gebeuren, of geïntegreerd in het algemene 
+bewegwijzeringssysteem. Op dit moment beschikt Leiden over een apart systeem voor 
+parkeerinformatie. Er is geen groot effect te verwachten op de verkeerssituatie, maar het 
+systeem is met name nuttig als dienst naar bezoekers.
+
+4.  Mobiliteitsmanagement 
+
+Bij mobiliteitsmanagement gaat het om maatregelen die bewust keuzegedrag van  
+werknemers stimuleren; de slogan ‘Slim reizen, slim werken’ is in deze zin veel gebruikt. 
+Maatregelen zijn bijvoorbeeld het stimuleren van flexwerkmogelijkheden (telewerken, 
+flexibele werktijden), invoeren van een persoonlijk mobiliteitsbudget, en het bevorderen 
+van het gebruik van e-bikes. Uiteindelijk gaat het er om dat de mobiliteitsmaatregelen 
+bijdragen dat medewerkers zo productief mogelijk kunnen werken en daarbij meer  
+plezier in het werkproces ervaren. De overheid kan faciliteren in dit proces, maar er is 
+alleen een blijvende toepassing mogelijk als de deelnemende bedrijven en hun mede-
+werkers er zelf de voordelen van ervaren.
+
+5.  Bewegwijzering
+Ook  de  traditionele  vorm  van  bewegwijzering  valt  onder  verkeersmanagement.  Deze  biedt  
+wel geen reistijdinformatie, maar is (nog altijd) een medebepalende factor voor de routes die 
+(in een stad onbekende) verkeersdeelnemers volgen. Het belang van bewegwijzering neemt 
+wel af met de komst van navigatiesystemen, maar blijft een basisvoorziening.
+
+6.  Verkeersregie
+Bij  werkzaamheden  aan  het  wegennet  is  er  extra  aandacht  nodig  voor  het  managen  van  
+het verkeer. De capaciteit van het wegennet kan lager liggen en bovendien behoorlijk variëren. 
+Bij gefaseerde werkzaamheden is het mogelijk dat geregeld verandert welke routes beschik-
+baar zijn. Het zou hierbij mogelijk zijn verbindingen open te stellen die gewoonlijk niet beschik-
+baar zijn, of alleen voor het OV. Naast de inzet van technische verkeersmanagement maatregelen, 
+vraagt dit ook om overheidsmedewerkers die de vaste rol hebben regie te houden over de 
+gevolgen van werkzaamheden op het verkeer. 
+
+De volgende paragraaf beschrijft hoe Leiden verkeersmanagement gaat inzetten.
+
+10.2 Inzet verkeersmanagementmaatregelen 
+Leiden voert de volgende inspanningen op het gebied van verkeersmanagement uit:
+
+•  Mobiliteitsmanagement 
+
+Sinds december 2012 is er in Leiden een mobiliteitsmakelaar actief. De mobiliteitsmake-
+laar heeft kennis van maatregelen uit het pakket van mobiliteitsmanagement en helpt 
+bedrijven bij de inzet hiervan. Zowel in de verkenningsfase naar mogelijke maatregelen, 
+
+54
+
+als bij de implementatie ervan. Hij assisteert ook bij de uitwisseling van ervaringen tussen 
+bedrijven.
+
+We vinden het blijvend van belang dat verkeersdeelnemers bewuste keuzen maken over hun 
+reisgedrag en zien ook het belang van mobiliteitsmanagement voor het goed functioneren van 
+bedrijven. Aangezien bedrijven zelf voordeel ervaren van goed mobiliteitsmanagement, ligt bij 
+het  bedrijfsleven  de  voornaamste  rol  om  mobiliteitsmanagement  verder  te  brengen.  
+Gezien het maatschappelijke belang wil Leiden dat een ‘aanjagersrol’ vervuld blijft worden.  
+De ervaringen met de inzet van een mobiliteitsmakelaar zijn goed, en we vinden voortzetting 
+van zijn rol daarom belangrijk.
+
+•  Uitbouwen van de Leidse centrale voor verkeersregelingen en monitoring 
+
+De gemeente beschikt over een ‘verkeerscentrale’: een centrale computer waaraan alle 
+verkeersregelingen, inclusief verkeersdetectiesystemen, zijn gekoppeld. Zo zijn op afstand 
+instellingen van de regelingen aan te passen, en komt er centraal informatie binnen van 
+de standen van de verkeerslichten en de detectiesystemen die de verkeersregelingen 
+gebruiken.
+
+Gebruik van deze centrale heeft al voor afzonderlijke kruispunten geleid tot veel verbeterin-
+gen.  Met  periodieke  evaluaties  zijn  veel  regelingen  getoetst  aan  beleidsdoelstellingen  en  
+veiligheidseisen, en het systeem is erg nuttig gebleken bij het verifiëren van klachten en het 
+optimaliseren  van  afstellingen.  De  afgelopen  jaren  zijn  onze  buurgemeenten  Leiderdorp  en 
+Oegstgeest ook aangesloten op dit systeem.
+
+Deze verkeerscentrale is ingericht om op zichzelf staande verkeerslichten technisch en functio-
+neel te beheren, maar niet om op netwerkniveau het verkeer te monitoren en te managen.  
+De gemeente zal de komende jaren een aantal samenhangende DVM projecten uitvoeren die 
+gericht  zijn  op  monitoren  en  regelen  op  netwerkniveau,  zowel  voor  de  zeer  korte  termijn 
+(informeren  en  optimaal  regelen),  de  korte  termijn  (scenariomanagement),  de  middellange 
+termijn (monitoren terugkerende knelpunten) en de lange termijn (verkeersgroei per vervoer-
+wijze per jaar). Bij de projecten gaat het om het volgende:
+
+1.  het realiseren van een geavanceerd verkeersmonitoringssysteem 
+
+Leiden bevindt zich in een achterstandspositie voor wat betreft verkeersmonitoring.  
+De gemeente Leiden heeft een sterke behoefte aan meer gedegen cijfermateriaal  
+waarmee het gemeentelijk verkeersbeleid helder in beeld wordt gebracht. Er is behoefte 
+aan een structurele, doorlopende waarneming van het gebruik van de infrastructuur.  
+De huidige verkeerscentrale beschikt al over reistijdgegevens van de doorgaande trajec-
+ten. Het aantal trajecten dat wordt gemonitord willen we gaan uitbreiden. 
+ 
+Er is ook behoefte aan meer detail in de monitoring. Welk deel van het verkeer betreft 
+doorgaand verkeer, hoeveel vrachtverkeer rijdt er, hoeveel fietsverkeer, hoe zit het met 
+betrouwbaarheid? Nu zijn er voor een deel van deze vragen wel incidentele onderzoeken, 
+maar dit geeft een te beperkt beeld. Een goed monitoringssysteem brengt op basis van 
+aggregatie helder in beeld hoe het verkeer zich trendmatig ontwikkelt en hiermee kan 
+veel effectiever gekeken worden welke maatregelen nodig zijn. Ook wordt duidelijk  
+hoe bereikbaar Leiden daadwerkelijk is, ook tijdens afwijkende verkeerssituaties zoals  
+evenementen en aanrijdingen. 
+ 
+
+55
+
+Verkeersmonitoringsgegevens zijn ook belangrijk om real time routeadvies te kunnen 
+geven aan weggebruikers. Het belang van in car systemen neemt daarbij toe; overheden 
+investeren steeds minder in wegkantsystemen (borden langs de weg met reistijdinfor-
+matie). Leiden richt zich er daarom op het zo toegankelijk mogelijk maken van de  
+ingewonnen monitoringsgegevens voor aanbieders van real time verkeersinformatie, 
+daarbij moet vooral worden gedacht aan het vrij geven van onze data aan de NDW.
+
+2.  het uitbreiden van de mogelijkheden voor gecoördineerde regelingen/netwerkmanagement 
+Door coördinatie tussen verkeerslichten zijn er verbeteringen door te voeren op basis van 
+moderne technieken. Deze technieken zijn geschikt voor drukke verkeersaders en komen 
+er op neer dat de verkeersregeling niet op basis van kloktijden is voorgeprogrammeerd, 
+maar dat op basis van de actuele verkeerssituatie een vorm van afstemming tussen  
+kruispunten wordt gekozen met de laagste wachttijden. Coördinatie draagt ook bij aan 
+een beter milieu omdat auto’s minder vaak hoeven te stoppen en weer op te trekken. 
+Onderzoek naar de N206 toonde eerder aan dat een echte groene golf niet mogelijk is, 
+maar dat coördinatie de totale wachttijd wel kan verminderen. Coördinatie is overigens 
+niet afdoende om een congestieprobleem helemaal weg te nemen. Een andere route 
+waar een netwerkregeling wordt onderzocht is de centrumroute.
+
+3.  het koppelen van de Leidse verkeerscentrale aan de regionale verkeerscentrale 
+
+De Leidse verkeerscentrale is reeds gekoppeld aan die van omliggende wegbeheerders, 
+zoals de provincie Zuid Holland en Rijkswaterstraat. Er wordt gewerkt aan het beschik-
+baar maken van enkele scenario’s bij hun centrales. Voor Leiden krijgt scenariomanage-
+ment hiermee een enorme meerwaarde. Er kan dan optimaal worden ingespeeld op de 
+actuele verkeerssituatie doordat scenario’s zowel semi automatisch als handmatig vanuit 
+een centrale kunnen worden aangestuurd in de vorm van 7x 24 uur dienstverlening. 
+Scenariomanagement opent hiermee de weg naar regionale samenwerking. Wel moet 
+bewaakt moet worden dat de Leidse belangen niet door de regionale verkeersproblemen 
+worden geschaad.
+
+4.  calamiteitenroutes 
+
+Wanneer Leiden beschikt over goede real time verkeersmonitoring, is het ook mogelijk te 
+detecteren of er in het verkeerssysteem calamiteiten optreden, dat wil zeggen, situaties 
+waarbij plots veel meer verkeer dan normaal van delen van het wegennet gebruik wil 
+maken. Dit kan komen door een (langdurige) blokkade van een ontsluitende weg,  
+of zelfs door een evacuatie. Leiden beschikt over bruggen die alleen gebruikt worden 
+door bussen. Deze zouden bij calamiteiten ook voor ander verkeer open gesteld kunnen 
+worden. Verkeer zou daar dan ook naar toe verwezen moeten worden. We gaan onder-
+zoeken onderzoek doen naar mogelijke realisatie van dergelijke faciliteiten om calami-
+teiten op te vangen.
+
+•  Doorzetten verkeersregie 
+
+Leiden zet al in op verkeersregie. Daartoe beschikt leiden over een verkeersregisseur  
+die zorgt voor het in overleg met projectleiding op peil houden van de bereikbaarheid, 
+het beperken van hinder als gevolg van werkzaamheden, de afstemming tussen gemeen-
+telijke en regionale projecten en de communicatie richting ketenpartners zoals hulp- en 
+busdiensten. De komende jaren neemt het aantal (grote) wegwerkzaamheden in Leiden 
+toe. Blijvende aandacht voor verkeersregie is daarom noodzakelijk. 
+ 
+
+56
+
+De realisatie van een modern monitoringssysteem is overigens ook nuttig voor verkeers-
+regie. Zeker bij grootschalige werkzaamheden kunnen we dan namelijk aan de verkeers-
+deelnemer actief verkeersinformatie aanbieden. Dit is met name belangrijk uit het 
+oogpunt van communicatie en het beperken van de ervaren verkeershinder.
+
+57
+
+Bijlage 1: Kijk op Mobiliteit
+
+Kijk op Mobiliteit is een separate uitgave die onderdeel is van deze nota.
+
+58
+
+59
+
+Gemeente Leiden
+Postbus 9100
+2300 PC LEIDEN
+
+60
+
+
