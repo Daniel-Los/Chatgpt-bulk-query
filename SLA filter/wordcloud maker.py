@@ -41,17 +41,41 @@ def make_vector(text):
     # model1 = Word2Vec(text, min_count=3,
     #                   size=100, window=3, workers=8)
 
-with open(r'SLA Beschrijving van de maatregel lijst.txt', 'r', encoding = 'cp437') as f:
-    text = f.read()
+import docx
+def gettext(filename):
+    # gets text from a docx file
+    doc = docx.Document(filename)
+    fullText = []
+    for para in doc.paragraphs:
+        fullText.append(para.text)
+    return '\n'.join(fullText)
+import os
+text = str()
+pathlist = [path for path in os.walk(r'C:\Users\d.los\PycharmProjects\documentsearch\processed\Deurne - Deelnemer')]
+for path in pathlist[0][2][0:3]:
+    string = rf'C:\Users\d.los\PycharmProjects\documentsearch\processed\Deurne - Deelnemer\{path}'
+    try:
+        with open(string, 'r', encoding = 'utf8') as f:
+            text += f.read()
+    except:
+        pass
+
+print(len(text))
+
+# text = gettext(r'C:\Users\d.los\PycharmProjects\documentsearch\output\Deurne - Deelnemer_samengevoegd_gpt.docx')
+
+# with open(r'SLA Beschrijving van de maatregel lijst.txt', 'r', encoding = 'cp437') as f:
+#     text = f.read()
 
 common_nouns = get_common_nouns(text)
-print(common_nouns)
+# print(common_nouns)
 
 wordcloud = WordCloud()
-wordcloud = WordCloud(width=800, height=400, background_color='white', colormap='tab20')
+wordcloud = WordCloud(width=800, height=400, background_color='white', colormap='Blues')
 wordcloud.generate_from_frequencies(common_nouns)
 
 plt.imshow(wordcloud, interpolation='bilinear')
 plt.axis('off')
 
-# plt.show()
+plt.savefig('wordcloud.png')
+print('done')

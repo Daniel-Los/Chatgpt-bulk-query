@@ -15,6 +15,7 @@ def api_import():
         raise ValueError('Unrecognized computer: {}'.format(hostname))
 
     # read the API key from the appropriate file
+
     with open(api_key_file, 'r') as f:
         api_key = f.read().strip()
 
