@@ -249,7 +249,7 @@ class Folder():
 
 """Do the actual analysis and create the exce file from instance data"""
 # when a new category is added, add it to zoektermen.xlsx and koppeling.xlsx
-data = Folder('20220717 - AlleWoorden.xlsx', 'koppeling.xlsx', '.docx')
+data = Folder('20220717 - AlleWoorden.xlsx', 'koppeling.xlsx', 'doc100.docx')
 data.loop_folder()
 data.create_excel(title='20220717 - analyse coalitieakkoorden')  # automatisch datum eraan
 
