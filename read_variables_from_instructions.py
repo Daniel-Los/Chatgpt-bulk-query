@@ -36,3 +36,21 @@ def read_instructions(file_path):
     # Print the 'variables' dictionary
     print(variables)
     return variables
+
+
+def load_instructons(instruction_file):
+
+    variables = read_instructions(instruction_file)
+    project_root = variables['root']
+    prompt = variables['prompt']
+    project_name = variables['project_name']
+    output_folder = variables['output_folder']
+
+    return project_root, prompt, project_name, output_folder
+
+if __name__ == "__main__":
+    instruction_file = r"C:\Users\d.los\OneDrive - Berenschot\Bureaublad\instructie_voorjaarsnota.txt"
+    instruction_file = r"C:\Users\d.los\PycharmProjects\documentsearch\instruction_voorjaarsnota.txt"
+    instructions = load_instructons(instruction_file)
+
+    print(instructions)

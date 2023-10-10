@@ -1,20 +1,13 @@
 import os
 
 from OpenAIGPT import OpenAIGPT
-from NLTK_tokenizer import NLTK_Tokenizer
 import tiktoken
 
 import pandas as pd
 
-from tika import parser  # for reading pdf
-import docx
-import openai
-import time
-import logging
-import json
-import re
 # Use your own API key
 from api_import import api_import
+
 from uniquename import uniquename
 
 import io
@@ -25,51 +18,21 @@ from pdfminer.layout import LAParams
 from pdfminer.pdfpage import PDFPage
 
 import docx
-from docx.enum.text import WD_BREAK
-
-from tkinter import *
-from tkinter import ttk
-import requests, math
-from requests.structures import CaseInsensitiveDict
-
-
-# use this to read unreadable pdfs
-from PIL import Image
-import pytesseract
-import pdf2image
-
 
 class Text_Miner():
-    def __init__(self, root, mode, project_name, output_folder):
+    def __init__(self, root, mode, project_name, output_folder, word_formatting):
 
         self.key = api_import()
-
-        # self.root = r"C:\Users\d.los\OneDrive - Berenschot\Documenten\testdocs"
-        # self.root = r"C:\Users\d.los\OneDrive - Berenschot\Bureaublad\test ai"
-        # self.root = "test documenten"
+        # the base of the folder that you want to siff through as input
         self.root = root
 
-        # the base of the folder that you want to siff through
-
-        self.supported_languages = ['nld', 'eng']#pytesseract.get_languages()
-        self.target_language = 'nld'
-        self.langs = {'nld': 'dutch', 'eng': 'english'}
         self.prompt = str() # the actual prompt that will be sent to the ai
         self.project_name = project_name
         self.output_folder = output_folder
+        self.word_formatting = word_formatting
 
-        # self.mode = str('Noem alle maatregelen uit de volgende tekst die te maken hebben met verbeteren van de luchtkwaliteit op commagescheiden manier' +
-        #             # 'en een schatting per maatregel of deze in de fase: "voornemen", "beginfase", "uitvoering" of "geimplementeerd" is' +
-        #                 " als er geen maatregelen zijn genoemd, antwoord dan - . " +
-        #                 " scheid de volgende twee aanvullingen met een |, ze moeten later naar een kolom worden verwerkt "
-        #                 " Maak per bullet zelf een inschatting met welk overkoepelend thema het te maken heeft en "
-        #                 "als er iets vermeld staat over voortgang meld dat dan ook " +
-        #
-        #                 ""
-        #                 )
+        self.mode = mode # can be used to add additional stuff to the prompt
 
-        self.mode = mode
-        # self.name = input('set a name for the doc')
         self.name = str(os.path.basename(root))
 
         # TODO: specify modes that this thing can operate with
@@ -92,22 +55,11 @@ class Text_Miner():
 
         self.output = {}
         self.estimated_tokencount = False
-        self.estim_costs = {'GPT3.5 Turbo' : False, }#'davinci': False, 'ada': False, 'GPT4-8k' : False} # values are false for now, updated later
+        self.estim_costs = {}
         self.accord = False
-        self.AI = OpenAIGPT()
+        self.AI = OpenAIGPT(self.prompt)
 
         self.table_data = []
-    def get_languages(self, **kwargs):
-        # this function checks if the target language is possible to work with.
-
-        return
-
-        print("languages that we can work with: ", (self.supported_languages))
-        try:
-            if self.target_language in self.supported_languages:
-                print("The target language ", self.target_language, " is in the supported languages")
-        except:
-            print('Please use a string and check the shorthand version')
 
     def get_structure(self):
         # this fucntion reads in all the filenames, as well as order them per extension into a dict.
@@ -135,12 +87,26 @@ class Text_Miner():
                 # self.stringlist[name] = []
 
     def scrubstring(self, text):
-        text = text.replace("\x00", "")  # Remove NULL characters
-        text = re.sub(r'[^\x00-\x7F]+', '', text)  # Remove non-UTF-8 characters
+        text = text.replace("\x00", "")  # Verwijder NULL-karakters
+        text = re.sub(r'[^\x00-\x7F]+', '', text)  # Verwijder niet-UTF-8-karakters
         text = text.replace("\n", " ")
         text = text.replace("\t", " ")
-        text = ' '.join(text.split())
 
+        # Vervang opeenvolgende interpunctietekens en spaties door een enkel punt of spatie
+        text = re.sub(r'([.!?_ -])\1+', r'\1', text)
+
+        # Identificeer en verwijder reeksen van 10 of meer cijfers
+        pattern1 = r'\d{10,}'  # Dit patroon matcht reeksen van 10 of meer cijfers
+        pattern2 = r'\d+(\s|\.)+\d+'  # Dit patroon matcht cijferreeksen gescheiden door spaties of punten
+        combined_pattern = f'({pattern1}|{pattern2})'
+        text = re.sub(combined_pattern, '', text)
+
+        # Identificeer en verwijder opeenvolgende herhaalde voorkomens van tekens (bijvoorbeeld: - - - -)
+        text = re.sub(r'([- ._])\1+', r'\1', text)
+        patroon = r'(\s?-){2,}\s?'
+        text = re.sub(patroon, '', text)
+        text = ' '.join(text.split())
+        text = re.sub(r'([.!?_ -])\1+', r'\1', text)
         return text
 
     def add_ocr(self):
@@ -150,12 +116,10 @@ class Text_Miner():
         #       pdfpath,
         #       lang=self.target_language,
         #       config='--psm 6')
-        #       )                                                                 # TODO: this function is still broken
+        #       ) # TODO: this function is still broken
 
     def read_files(self):
         # this is supposed to read all files that have a sensible extension (currently: doc, (selectable) pdf)
-
-
         def gettext(filename):
             # gets text from a docx file
             doc = docx.Document(filename)
@@ -216,6 +180,7 @@ class Text_Miner():
                 print(f"Folder '{folder}' already exists.")
             
             #write the pre-process to a txt
+            text = self.scrubstring(text)
             with open(processed_file, 'w', encoding="utf-8") as f:
                 f.write(text)
 
@@ -237,7 +202,6 @@ class Text_Miner():
                 for item in self.doclist[extension]:
                     # counts how many files are processed
                     doccount += 1
-                    print(doccount)
                     # gets the name of the file
                     name = item.split('\\', -1)[-1]
                     # extracts data
@@ -310,7 +274,7 @@ class Text_Miner():
         for key, value in self.stringdict.items():
             length += len(value)
 
-        queries = length // self.AI.max_tokens
+        queries = length // self.AI.desired_output_length
 
         seconds = queries * self.process_speed / 60
         seconds = round(seconds, 2)
@@ -324,21 +288,23 @@ class Text_Miner():
             # print(string[0])
             prompt_to_inspect = string[0]
             doccount +=1
-            print(doccount)
+
             #tokencount += len(NLTK_Tokenizer(prompt_to_inspect, 1000))
             tokencount += len(encoding.encode(prompt_to_inspect))
 
         # update the user on costs and time
-        iterations = tokencount//self.AI.max_tokens
+        iterations = tokencount//self.AI.desired_output_length + 1
         estimated_time = iterations * self.AI.min_time_between_calls
         minutes, seconds = divmod(estimated_time, 60)
-        print(f'Iterations needed: {iterations} [Min estimated time (~1s/it): {int(minutes)}:{int(seconds)}')
+        print(f'Number of documents: {doccount} with {tokencount} tokens')
+        print(f'Estimated iterations needed are: {iterations}\n ')
+              # f'Depending on speed) Min estimated time (~1s/it): {int(minutes)}:{int(seconds)}\n')
 
         # self.estim_costs['GPT4-8k'] = str(round(tokencount * 0.06, 2)) + ' EUR'
         # self.estim_costs['davinci'] = str(round(tokencount * 0.02,2)) +  ' EUR'
         # self.estim_costs['ada'] = str(round(tokencount * 0.0004, 2)) + ' EUR'
-        self.estim_costs['GPT3.5 Turbo'] = str(round(tokencount * 0.002 / 1000, 2)) + ' EUR'
-        print(f'Estimated costs are {self.estim_costs}')
+        self.estim_costs['GPT3.5 Turbo'] = str(round(tokencount * 0.008 / 1000, 2)) + ' EUR'
+        print(f'Estimated costs are {self.estim_costs}\n')
 
         self.estimated_tokencount = tokencount
 
@@ -365,7 +331,7 @@ class Text_Miner():
         '''
         docprogress = 1
         for docname, text in self.stringdict.items():
-            print(f"'{docname}' \n[{docprogress} out of {len(self.stringdict)} documents]")
+            print(f"\n'{docname}' \n[{docprogress} out of {len(self.stringdict)} documents]")
             # generate_text_with_prompt splits the prompt into multiple sections if too long
             # then it gets new data from the chatGPT
 
@@ -413,27 +379,9 @@ class Text_Miner():
                 lines = string[0].split('\n')
                 for index, line in enumerate(lines): # Break each \n into a new line
                     doc.add_paragraph(line) # this adds a '[1/10]' section per paragraph
-
-
-
         doc.save(name)
         print(f'Saved as {name}')
 
-
-    def write_to_xl(self, string):
-        ''' This potentially summarizes the findings in an Excel. It splits by bullets with the - marker. '''
-
-        # Create a dataframe from the list of lists with column names
-
-        bullets = self.AI.to_bullets(string)
-        rows = bullets.split('\n- ')
-
-        self.df = pd.DataFrame(rows, columns=['Document Name', 'Element'])
-
-        name = uniquename(self.output_folder + '/' + self.name + '_gpt.xlsx')
-        self.df.to_excel(name)
-        # View the dataframe
-        print(self.df)
 
     def table_to_csv(self, tabletext):
         # Remove leading/trailing whitespace and split the table into rows
@@ -455,9 +403,3 @@ class Text_Miner():
         # with open('output.csv', 'w') as f:
         #     f.write(csv_data)
         # return csv_data
-
-    def open_file(self):
-        ''' Open Json files '''
-        with open(self.file_name) as json_file:
-            data = json.load(json_file)
-
