@@ -23,13 +23,15 @@ if __name__ == '__main__':
     running_process = None
     def start_program():
         global running_process  # Use the global running_process variable
-        project_name = project_name_var.get()
         folder_path = folder_path_var.get()
         test_run = str(test_run_var.get())
         prompt_input = prompt_input_entry.get("1.0", "end-1c")  # Get text from Text widget
         output_folder = output_folder_var.get()
+        project_name = project_name_var.get()
         word_formatting = str(word_formatting_var.get())
         api_key_path = os.getcwd() + '\\' + api_key_var.get()
+
+        print(project_name, output_folder)
 
         if not project_name or not folder_path or not output_folder:
             console.config(state=tk.NORMAL)
@@ -53,10 +55,9 @@ if __name__ == '__main__':
                 console.insert(tk.END, "The program is already running.\n", "error")
                 console.config(state=tk.DISABLED)
             else:
-                executable_path = './dist/main'
-                # main_loop.main(project_name, folder_path, str(test_run), prompt_input,
-                #            output_folder, str(word_formatting), api_key_path)
-                command = ['python', '-m', 'main_loop', project_name, folder_path, test_run, prompt_input, output_folder, word_formatting, api_key_path]
+                # executable_path = './dist/main'
+                # loop = main_loop.main(folder_path, prompt_input, output_folder, project_name, word_formatting, api_key_path, test_run)
+                command = ['python', 'main_loop.main', '-m', folder_path, prompt_input, output_folder, project_name, word_formatting, api_key_path, test_run]
 
                 running_process = subprocess.Popen(command, stdout=subprocess.PIPE, stderr=subprocess.STDOUT,
                                                    universal_newlines=True)
@@ -87,6 +88,7 @@ if __name__ == '__main__':
         global running_process
         if running_process:
             try:
+                console.insert(tk.END, "Process stopped by user.", "error")
                 running_process.terminate()  # Terminate the process
                 running_process.wait()  # Wait for the process to finish gracefully
             except Exception as e:
@@ -171,7 +173,7 @@ if __name__ == '__main__':
     scrollbar.pack(side=tk.RIGHT, fill=tk.Y)
 
     # Create the Text widget and associate it with the scrollbar
-    prompt_input_entry = tk.Text(input_frame, wrap=tk.WORD, yscrollcommand=scrollbar.set)
+    prompt_input_entry = tk.Text(input_frame, wrap=tk.WORD, yscrollcommand=scrollbar.set, height=10)
     prompt_input_entry.pack(fill=tk.BOTH, expand=True)  # Fill the entire window and expand with it
 
     # Configure the scrollbar to work with the Text widget

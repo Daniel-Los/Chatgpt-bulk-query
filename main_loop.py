@@ -9,15 +9,15 @@ import subprocess
 
 #TODO: sometimes server is overloaded, then flings your request. Would be great to segment this
 
-def main():
+def main(project_root, prompt_input, output_folder, project_name, word_formatting, api_key_path, test_run):
 
-    def main_loop(folder_path, prompt_input, mode, output_folder, project_name, word_formatting, api_key_path):
+    def main_loop(project_root, prompt_input, output_folder, project_name, word_formatting, api_key_path, mode = ''):
         '''' The main loop '''
         print('Starting')
+        mode = ''
 
-
-        x = Text_Miner(folder_path = folder_path,
-                       prompt_input = prompt,
+        x = Text_Miner(project_root = project_root,
+                       prompt_input = prompt_input,
                        mode = mode,
                        output_folder = output_folder,
                        project_name = project_name,
@@ -36,9 +36,9 @@ def main():
             x.write_to_file(x.outputdict, formatting = word_formatting)
             return x
 
-    project_name, folder_path, test_run, prompt_input, output_folder, word_formatting, api_key_path = sys.argv
+    # project_root, prompt_input, output_folder, project_name, word_formatting, api_key_path, test_run = sys.argv
 
-    folder_path = folder_path
+    project_root = project_root
     prompt_input = prompt_input
     test_run_bool = bool(test_run)
     prompt = prompt_input
@@ -102,7 +102,7 @@ def main():
 
                     x = main_loop(
                         mode = mode,
-                        folder_path=str(fr"{project_root}\{name}"),
+                        project_root=str(fr"{project_root}\{name}"),
                         project_name=project_name,
                         output_folder=output_folder,
                         prompt_input=prompt,
@@ -120,18 +120,60 @@ def main():
 
 if __name__ == "__main__":
 
-    project_name = 'name'
-    project_root = folder_path = r'C:\Users\d.los\PycharmProjects\documentsearch\test documenten'
-    prompt_input = 'prompt input'
-    test_run = 'True'
-    prompt = 'prompt_input'
-    output_folder = r'C:\Users\d.los\PycharmProjects\documentsearch\output'
-    word_formatting = 'True'
-    api_key_path = 'api_key.txt'
 
-    sys.argv = [project_name, folder_path, test_run, prompt_input, output_folder, word_formatting, api_key_path]
-    # print(sys.argv)
-    main()
+    # project_root = project_root = r'C:\Users\d.los\Downloads\coronaparagraven\analyse\coronaparagraven'
+    project_root = r'C:\Users\d.los\Downloads\coronaparagraven\output'
+    # prompt_input = 'Geef een samenvatting op hoofdlijnen op basis van de volgende tekst. Leg nadruk op de onderdelen die te maken hebben met het tegengaan van de nadelige gevolgen van covid 19.'
+    vragen = [
+        "Wat zijn de grootste uitdagingen voor studenten door corona",
+        "Wat zijn de grootste uitdagingen voor de organisatie, docenten of het programma",
+        "Wat is de voortgang op het thema Welzijn en sociale binding",
+        "Welke acties worden uitgevoerd in het kader van welzijn, sociale binding, psychologische ondersteuning, begeleiding van studenten of psychische problemen ",
+        "Wat is de voortgang op het thema Soepele in- en doorstroom",
+        "Welke acties worden uitgevoerd in het kader van studievoortgang, extra begeleiding, extra lessen, examinering, uitval, studentsucces, stoppen, switchen of instroom\n",
+        "Wat is de voortgang op het thema Ondersteuning en begeleiding op het gebied van stages\n",
+        "Welke acties worden uitgevoerd in het kader van loopbaanbegeleiding, stage, BPV, werk, arbeidsmarkt, werkgevers, bedrijven of LOB \n"
+        "Wat is de voortgang op het thema Lerarenopleidingen",
+        "Wat is de voortgang op het thema Ondersteuning en begeleiding op het gebied van coschappen medische opleidingen",
+        "Wat is de voortgang op het thema Aanpak jeugdwerkloosheid",
+        "Welke acties worden uitgevoerd in het kader van aanpak jeugdwerkloosheid, gemeenten, arbeidsmarkt, baan, naar werk, werkgevers en bedrijven of werkcoaches",
+        "Hoe zetten instellingen blended learning, hybride onderwijs, digitaal onderwijs, online examinering of digitale begeleiding in",
+        "Zijn er wijzigingen of reallocaties geweest ten opzichte van het bestedingsplan",
+        "Hoe is de medezeggenschap betrokken zoals de faculteitsraad, studentenraad, universiteitsraad, ondernemingsraad",
+        "In hoeverre sluiten de activiteiten aan bij de behoefte van studenten",
+        "Welke activiteiten worden genoemd die het best de doelgroepen hebben bereikt",
+        # "Worden activiteiten gericht op specifieke doelgroepen van studenten",
+        "Welke activiteiten hebben het meeste effect gehad volgens de tekst",
+        "Met welke activiteiten zijn onderwijsinstellingen gestopt door corona",
+        # "Bij welke activiteiten is het vaakst sprake van vertraging",
+        "Wat voor personeel is ingehuurd met de middelen uit de coronaenveloppe",
+        "Welke uitdagingen kwamen instellingen tegen bij het besteden van middelen uit de coronaenveloppe",
+        "Op welke manier wordt de voortgang gemonitord",
+        # "Redden de instellingen het om binnen de looptijd van het programma de middelen te besteden",
+        "Wat heeft goed gewerkt en noemen de instellingen als succesvol of goed voorbeeld",
+        "Welke verdere uitdagingen voor de toekomst worden in de tekst genoemd",
+    ]
+
+    for index, vraag in enumerate(vragen):
+        prompt_input = 'Geef op basis van de onderstaande samenvattingen uitgebreid en zo goed mogelijk antwoord op de volgende vragen. Noem bij ieder antwoord de teksten waar je het op baseert. ' \
+               'Het is belangrijk om te laten zien hoe je tot je antwoord bent gekomen. Baseer je alleen op de gegeven tekst. Geef aan uit welke stukken tekst je antwoord komt. \n' \
+               'Hier is de vraag: \n' \
+                f'{vraag}? \nHier volgt de tekst: \n'
+
+        # prompt_input = "Maak een uitgebreide samenvatting rond de 50% lengte van deze tekst. Wees uitgebreid en zorg ervoor dat geen details wegvallen." \
+        #                "Hier volgt de tekst: \n"
+        test_run = False
+        try:
+            project_name = f'{vraag} {index+1}'
+        except:
+            project_name = f'Antwoord op vraag {index + 1}'
+        output_folder = r'C:\Users\d.los\Downloads\coronaparagraven'
+        word_formatting = 'True'
+        api_key_path = 'api_key.txt'
+
+        # sys.argv = [project_name, project_root, test_run, prompt_input, output_folder, word_formatting, api_key_path]
+        # print(sys.argv)
+        main(project_root, prompt_input, output_folder, project_name, word_formatting, api_key_path, test_run)
 
 
 

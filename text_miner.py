@@ -22,12 +22,13 @@ import docx
 
 
 class Text_Miner():
-    def __init__(self, folder_path, prompt_input, mode, project_name, output_folder, word_formatting, api_key_path):
+    def __init__(self, project_root='', prompt_input='', mode='', project_name='', output_folder='',
+                 word_formatting='', api_key_path=''):
 
 
         self.key = api_import(api_key_path)
         # the base of the folder that you want to siff through as input
-        self.root = folder_path
+        self.root = project_root
 
         self.prompt = prompt_input  # the actual prompt that will be sent to the ai
         self.project_name = project_name

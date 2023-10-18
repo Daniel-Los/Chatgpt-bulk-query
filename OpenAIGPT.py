@@ -28,7 +28,7 @@ class OpenAIGPT:
         self.model_max = 16385 - 110 # 16385 for 16k, 4097 for 4k, 110 for margin
         self.length_prompt = self.count_tokens(prompt)
         print(f'prompt length = {self.length_prompt}')
-        self.desired_output_length = 1000
+        self.desired_output_length = 4000
         self.max_query_length =  self.model_max - self.length_prompt - self.desired_output_length
         if self.max_query_length < self.model_max/2:
             raise "Careful, query lenght is shorter than a 1000, which may lead to a lot of iterations. \nConsider" \
@@ -82,7 +82,7 @@ class OpenAIGPT:
                             # {"role": "user", "content": chunck + '.'}
                         ],
 
-                        temperature = 1,  # higher more random
+                        temperature = 0.2,  # higher more random
                         max_tokens = self.desired_output_length,  # The maximum number of tokens to generate in the completion.
                         # So 0.1 means only the tokens comprising the top 10% probability mass are considered.
                         frequency_penalty = 1,  # decreasing the model's likelihood to repeat the same line verbatim.
