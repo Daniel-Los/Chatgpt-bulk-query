@@ -1,6 +1,6 @@
 import os
 
-def api_import():
+def api_import(path_to_txt_file):
     #
     # # get the hostname of the computer
     # hostname = os.environ['COMPUTERNAME'] if os.name == 'nt' else os.uname().nodename
@@ -19,7 +19,10 @@ def api_import():
     # # read the API key from the appropriate file
     # with open(api_key_file, 'r') as f:
     #     api_key = f.read().strip()
-    api_key = os.environ['PERSONAL_OPENAI_API_KEY']
+    api_key = os.environ['OPENAI_API_KEY']
+
+    with open(path_to_txt_file, 'r') as f:
+        api_key = f.read().strip()
 
     # api_key = os.environ['OPENAI_API_KEY']
 

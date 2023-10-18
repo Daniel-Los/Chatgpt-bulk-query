@@ -60,7 +60,7 @@ class ProgramGUI:
         if self.cost_label:
             self.program.get_structure()
             self.program.read_files()
-            costs = self.program.estimate_costs()
+            costs = self.program.estimate_costs
             self.cost_label = tk.Label(self.master, text = costs)
             self.cost_label.config(text = costs)
             self.cost_label.pack()

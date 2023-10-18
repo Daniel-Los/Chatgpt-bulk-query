@@ -17,23 +17,27 @@ from pdfminer.converter import TextConverter
 from pdfminer.layout import LAParams
 from pdfminer.pdfpage import PDFPage
 
+import math
 import docx
 
+
 class Text_Miner():
-    def __init__(self, root, mode, project_name, output_folder, word_formatting):
+    def __init__(self, folder_path, prompt_input, mode, project_name, output_folder, word_formatting, api_key_path):
 
-        self.key = api_import()
+
+        self.key = api_import(api_key_path)
         # the base of the folder that you want to siff through as input
-        self.root = root
+        self.root = folder_path
 
-        self.prompt = str() # the actual prompt that will be sent to the ai
+        self.prompt = prompt_input  # the actual prompt that will be sent to the ai
         self.project_name = project_name
         self.output_folder = output_folder
         self.word_formatting = word_formatting
+        self.api_key_path = api_key_path
 
-        self.mode = mode # can be used to add additional stuff to the prompt
+        self.mode = mode  # can be used to add additional stuff to the prompt
 
-        self.name = str(os.path.basename(root))
+        self.name = str(self.project_name)
 
         # TODO: specify modes that this thing can operate with
 
@@ -57,8 +61,7 @@ class Text_Miner():
         self.estimated_tokencount = False
         self.estim_costs = {}
         self.accord = False
-        self.AI = OpenAIGPT(self.prompt)
-
+        self.AI = OpenAIGPT(self.prompt, self.api_key_path)
         self.table_data = []
 
     def get_structure(self):
@@ -68,8 +71,8 @@ class Text_Miner():
         for root, place, documents in os.walk(self.root):
             print(f'Documents found: {str(documents)}')
             for document in documents:
-                #if document != "Beleidsnota Ruimte voor Ruimte gemeente Zundert _ Lokale wet- en regelgeving.pdf":
-                    #continue
+                # if document != "Beleidsnota Ruimte voor Ruimte gemeente Zundert _ Lokale wet- en regelgeving.pdf":
+                # continue
 
                 # add extension name into dict
                 # name, extension = document.split(".", 1)
@@ -165,8 +168,8 @@ class Text_Miner():
             device.close()
             text = out_file.getvalue()
             out_file.close()
-            
-            #create a folder for the txt document
+
+            # create a folder for the txt document
             folder = processed_file.split('\\')
             folder = folder[:-1]
             folder = "\\".join(folder)
@@ -178,8 +181,8 @@ class Text_Miner():
                     print(f"Error creating folder '{folder}': {e}")
             else:
                 print(f"Folder '{folder}' already exists.")
-            
-            #write the pre-process to a txt
+
+            # write the pre-process to a txt
             text = self.scrubstring(text)
             with open(processed_file, 'w', encoding="utf-8") as f:
                 f.write(text)
@@ -190,15 +193,15 @@ class Text_Miner():
         charcount = 0
         for extension in self.doclist.keys():
 
-            if  extension == '.pdf':
+            if extension == '.pdf':
                 for item in self.doclist[extension]:
-                    name = item.split('\\', -1)[-1] # os.path.base(item) optional
+                    name = item.split('\\', -1)[-1]  # os.path.base(item) optional
                     text = convert_pdf_to_txt(item)
                     text = self.scrubstring(text)
                     self.stringdict.setdefault(name, [])
                     self.stringdict[name].append(text)
 
-            if  extension == '.docx':
+            if extension == '.docx':
                 for item in self.doclist[extension]:
                     # counts how many files are processed
                     doccount += 1
@@ -213,9 +216,8 @@ class Text_Miner():
                     self.stringdict[name].append(text)
 
             if extension == '.txt':
-                #todo: test
+                # todo: test
                 for item in self.doclist[extension]:
-
                     name = item.split('\\', -1)[-1]  # os.path.base(item) optional
                     with open(item) as doc:
                         text = doc.read(errors='ignore')
@@ -263,6 +265,7 @@ class Text_Miner():
         num_tokens += 3  # every reply is primed with <|start|>assistant<|message|>
         return num_tokens
 
+    @property
     def estimate_costs(self):
         '''
         This function creates an estimate of the costs by examining the text loaded in.
@@ -270,43 +273,47 @@ class Text_Miner():
         Then it multiplies this length with the costs per 1000 tokens as of 02-2023
         TODO: limitation is that gpt4 has different costs for the 32.000 token model and 8.000 token model
         '''
-        length = 0
+        lengths = {}
+
         for key, value in self.stringdict.items():
-            length += len(value)
+            tokens = self.AI.count_tokens(str(value))
+            iterations = math.ceil(tokens / (self.AI.model_max - self.AI.length_prompt - self.AI.desired_output_length))
+            # Tokens needed = iterations * prompt&output + the tokens of the text
+            tokens_needed = tokens + iterations *(self.AI.length_prompt + self.AI.desired_output_length)
 
-        queries = length // self.AI.desired_output_length
+            cost = round(tokens_needed * 0.008 / 1000, 2)
 
-        seconds = queries * self.process_speed / 60
-        seconds = round(seconds, 2)
+            lengths[key] = {'tokens_needed': tokens_needed,
+                            'iterations': iterations,
+                            'tokens': tokens,
+                            'costs': cost}
 
-        # print(f'Estimated time needed for free version is {seconds}')
+        # update user on tokens and costs
+        for key1,value1 in lengths.items():
+            print(key1)
+            for key2, value2 in lengths[key].items():
+                print(key2, value2, '\n')
 
-        tokencount = 0
-        doccount = 0
-        encoding = tiktoken.encoding_for_model("gpt-3.5-turbo-0301")
-        for string in self.stringdict.values():
-            # print(string[0])
-            prompt_to_inspect = string[0]
-            doccount +=1
+        total_tokens = 0
+        total_iterations = 0
+        total_costs = 0
+        for key in lengths:
+            total_tokens += lengths[key]['tokens_needed']
+            total_iterations += lengths[key]['iterations']
+            total_costs += lengths[key]['costs']
 
-            #tokencount += len(NLTK_Tokenizer(prompt_to_inspect, 1000))
-            tokencount += len(encoding.encode(prompt_to_inspect))
-
-        # update the user on costs and time
-        iterations = tokencount//self.AI.desired_output_length + 1
         estimated_time = iterations * self.AI.min_time_between_calls
-        minutes, seconds = divmod(estimated_time, 60)
-        print(f'Number of documents: {doccount} with {tokencount} tokens')
-        print(f'Estimated iterations needed are: {iterations}\n ')
-              # f'Depending on speed) Min estimated time (~1s/it): {int(minutes)}:{int(seconds)}\n')
 
-        # self.estim_costs['GPT4-8k'] = str(round(tokencount * 0.06, 2)) + ' EUR'
-        # self.estim_costs['davinci'] = str(round(tokencount * 0.02,2)) +  ' EUR'
-        # self.estim_costs['ada'] = str(round(tokencount * 0.0004, 2)) + ' EUR'
-        self.estim_costs['GPT3.5 Turbo'] = str(round(tokencount * 0.008 / 1000, 2)) + ' EUR'
+        minutes, seconds = divmod(estimated_time, 60)
+        # f'Depending on speed) Min estimated time (~1s/it): {int(minutes)}:{int(seconds)}\n')
+
+        print(f'Number of documents: {len(self.stringdict.keys())} with {total_tokens} tokens for input and reply')
+        print(f'Estimated iterations needed are: {total_iterations}\n ')
+
+        self.estim_costs['GPT3.5 Turbo'] = str(total_costs) + ' EUR'
         print(f'Estimated costs are {self.estim_costs}\n')
 
-        self.estimated_tokencount = tokencount
+        self.estimated_tokencount = tokens_needed
 
         return self.estim_costs
 
@@ -323,7 +330,6 @@ class Text_Miner():
         else:
             print("No cost estimate has been done, please run self.estimate_costs()")
 
-
     def AI_interact(self):
         '''
         This section actually loads the text into openai
@@ -335,16 +341,17 @@ class Text_Miner():
             # generate_text_with_prompt splits the prompt into multiple sections if too long
             # then it gets new data from the chatGPT
 
-            output = self.AI.generate_text_with_prompt(prompt=text, mode=str(self.mode), extra = f"Documentnaam: {docname}")
+            output = self.AI.generate_text_with_prompt(text=text, mode=str(self.mode),
+                                                       extra=f"Documentnaam: {docname}")
+            # prompt is loaded in when openAIGPT is loaded
 
             self.outputdict.setdefault(docname, [])
             self.outputdict[docname].append(output)
             docprogress += 1
             print('\n')
 
-
-    def write_to_file(self, dictionary, extra = '', formatting = True):
-        #TODO: add a processor for the filename so it appears better (at least filter _ .pdf and ')
+    def write_to_file(self, dictionary, extra='', formatting=True):
+        # TODO: add a processor for the filename so it appears better (at least filter _ .pdf and ')
 
         ''' This writes the output to a formatted document '''
 
@@ -357,31 +364,30 @@ class Text_Miner():
         #             row = [document_name, element]
         #             rows.append(row)
 
-
         doc = docx.Document()
-        name = uniquename(self.output_folder + '/' + self.name + extra + '_gpt.docx')
+        name = uniquename(self.output_folder + '\\' + self.name + extra + '_gpt.docx')
         if formatting:
             # This section defines the layout of the document
-            doc.add_heading(str(self.name+extra),0) # adds the name of the document as title
-            doc.add_heading([i + ' ' for i in dictionary.keys()], 5) # adds the list of used documents
+            doc.add_heading(str(self.name + extra), 0)  # adds the name of the document as title
+            doc.add_heading("Documenten gebruikt: {}".format([i for i in dictionary.keys()]), 5)  # adds the list of used documents
+            doc.add_heading(self.prompt, 9)
 
-            for document_name, string in dictionary.items(): # iterate throught the dictonary: {doc name: GPT output}
+            for document_name, string in dictionary.items():  # iterate throught the dictonary: {doc name: GPT output}
                 header, extension = os.path.splitext(document_name)
-                doc.add_heading(header, 1) # start with the header of the document name
+                doc.add_heading(header, 1)  # start with the header of the document name
                 lines = string[0].split('\n')
                 # doc.add_paragraph(f'Chunk: [{index + 1}/{len(lines)}]')
-                for index, line in enumerate(lines): # Break each \n into a new line
-                    doc.add_paragraph(line) # this adds a '[1/10]' section per paragraph
+                for index, line in enumerate(lines):  # Break each \n into a new line
+                    doc.add_paragraph(line)  # this adds a '[1/10]' section per paragraph
                     # doc.add_break(WD_BREAK.LINE)
                 doc.add_paragraph('')
         else:
             for document_name, string in dictionary.items():
                 lines = string[0].split('\n')
-                for index, line in enumerate(lines): # Break each \n into a new line
-                    doc.add_paragraph(line) # this adds a '[1/10]' section per paragraph
+                for index, line in enumerate(lines):  # Break each \n into a new line
+                    doc.add_paragraph(line)  # this adds a '[1/10]' section per paragraph
         doc.save(name)
         print(f'Saved as {name}')
-
 
     def table_to_csv(self, tabletext):
         # Remove leading/trailing whitespace and split the table into rows

@@ -12,4 +12,4 @@ def uniquename(filename):
     return new_filename
 
 if __name__ == '__main__':
-    print(uniquename('poopie.txt'))
+    print(uniquename('/output/poopie.txt'))
