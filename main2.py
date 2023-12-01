@@ -63,6 +63,10 @@ if __name__ == '__main__':
                 console.config(state=tk.DISABLED)
             else:
                 try:
+                    print('Starting Analysis')
+                    console.config(state=tk.NORMAL)
+                    console.insert(tk.END, "\nStarting Analysis...", "info")
+                    console.config(state=tk.DISABLED)
                     main(folder_path, prompt_input, output_folder, project_name, word_formatting, api_key_path,
                          test_run)
                 except Exception as e:
@@ -91,6 +95,20 @@ if __name__ == '__main__':
             console.insert(tk.END, "No running program to stop.\n", "error")
             console.config(state=tk.DISABLED)
 
+
+    class ConsoleRedirect:
+        def __init__(self, console_widget):
+            self.console_widget = console_widget
+
+        def write(self, message):
+            self.console_widget.config(state=tk.NORMAL)
+            self.console_widget.insert(tk.END, message)
+            self.console_widget.config(state=tk.DISABLED)
+            self.console_widget.see(tk.END)
+    def redirect_stdout_to_console(console_widget):
+        ConsoleRedirect(console_widget)
+
+
     root = tk.Tk()
     root.title("BT GPT Summarizer")
 
@@ -107,7 +125,7 @@ if __name__ == '__main__':
     current_time = time.localtime()
     # Format the current time as a string. For example, "20231004_123025" for "2023-10-04 12:30:25"
     timestamp = time.strftime("%Y-%m-%d_%H%M%S", current_time)
-    project_name_entry.insert(0, ' _'+ timestamp)
+    project_name_entry.insert(0, ''+ timestamp)
     project_name_entry.pack(fill='both')
 
     # Selector for a folder
@@ -128,10 +146,12 @@ if __name__ == '__main__':
     api_key_label.pack(fill='both')
     api_key_entry = tk.Entry(input_frame, textvariable=api_key_var)
     try:
-        open('api_key.txt')
-        api_key_path = 'api_key.txt'
+        open('openai_key.txt')
+        api_key_path = 'openai_key.txt'
     except:
-        api_key_path = 'Please enter a path to an API key txt file'
+        print('Error: Add the file "openai_key.txt" to the folder!')
+        api_key_path = 'openai_key.txt'
+
     api_key_entry.insert(0, api_key_path)
     api_key_entry.pack()
 
@@ -206,6 +226,8 @@ if __name__ == '__main__':
     # Create the console Text widget and associate it with the scrollbar
     console = tk.Text(console_frame, wrap=tk.WORD, state=tk.DISABLED, yscrollcommand=console_scrollbar.set)
     console.pack(expand=True, fill="both")
+
+    redirect_stdout_to_console(console)  # Omleiden van stdout naar de console-widget
 
     # Configure the scrollbar to work with the console Text widget
     console_scrollbar.config(command=console.yview)

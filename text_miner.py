@@ -371,7 +371,7 @@ class Text_Miner():
             # This section defines the layout of the document
             doc.add_heading(str(self.name + extra), 0)  # adds the name of the document as title
             doc.add_heading("Documenten gebruikt: {}".format([i for i in dictionary.keys()]), 5)  # adds the list of used documents
-            doc.add_heading(self.prompt, 9)
+            # doc.add_heading(self.prompt, 9)
 
             for document_name, string in dictionary.items():  # iterate throught the dictonary: {doc name: GPT output}
                 header, extension = os.path.splitext(document_name)

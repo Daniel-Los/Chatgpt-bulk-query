@@ -3,6 +3,7 @@ import openai
 import time
 from api_import import api_import
 import tiktoken
+import tiktoken_ext
 
 class OpenAIGPT:
     def __init__(self, prompt, api_key_path):
@@ -25,10 +26,10 @@ class OpenAIGPT:
         self.current_minute = time.time() // 60
         self.max_tokens_per_minute = 180000
 
-        self.model_max = 16385 - 110 # 16385 for 16k, 4097 for 4k, 110 for margin
+        self.model_max = 6000 - 110 # 16385 for 16k, 4097 for 4k, 110 for margin
         self.length_prompt = self.count_tokens(prompt)
         print(f'prompt length = {self.length_prompt}')
-        self.desired_output_length = 4000
+        self.desired_output_length = 2000
         self.max_query_length =  self.model_max - self.length_prompt - self.desired_output_length
         if self.max_query_length < self.model_max/2:
             raise "Careful, query lenght is shorter than a 1000, which may lead to a lot of iterations. \nConsider" \
@@ -76,13 +77,13 @@ class OpenAIGPT:
 
                         messages=[
                             {"role": "system", "content": "Je bent chatgpt, een persoonlijke assistent. "
-                                                          "Je helpt met het zoeken naar feiten in een tekst. "
+                                                          "Je maakt teksten overzichtelijk. "
                                                           "Lees de vraag goed en antwoord in het Nederlands. "},
                             {"role": "user", "content": query + '. '},
                             # {"role": "user", "content": chunck + '.'}
                         ],
 
-                        temperature = 0.2,  # higher more random
+                        temperature = 0.1,  # higher more random
                         max_tokens = self.desired_output_length,  # The maximum number of tokens to generate in the completion.
                         # So 0.1 means only the tokens comprising the top 10% probability mass are considered.
                         frequency_penalty = 1,  # decreasing the model's likelihood to repeat the same line verbatim.
@@ -95,7 +96,7 @@ class OpenAIGPT:
                     # print(response.choices[0])
                     # Get the generated text from the OpenAI API response
                     generated_text = response.choices[0].message.content
-
+                    print(generated_text)
                     # Print the progress counter
 
                     # self.progress_bar(progress, len(self.prompt_list))
