@@ -65,7 +65,7 @@ if __name__ == '__main__':
                 try:
                     print('Starting Analysis')
                     console.config(state=tk.NORMAL)
-                    console.insert(tk.END, "\nStarting Analysis...", "info")
+                    console.insert(tk.END, "\nStarting Analysis...\n Press ctrl+c in the console to stop.", "info")
                     console.config(state=tk.DISABLED)
                     main(folder_path, prompt_input, output_folder, project_name, word_formatting, api_key_path,
                          test_run)
